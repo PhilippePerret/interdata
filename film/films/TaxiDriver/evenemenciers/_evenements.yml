@@ -1,0 +1,1634 @@
+--- 
+:items: 
+- effet: 
+  temps: 0
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy entre dans sa chambre d'h\xC3\xB4tel et laisse passer Travis qui se pose dans le couloir."
+  decor_id: 
+- effet: 
+  temps: 8
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Andy prend ses deux valises.
+  decor_id: 
+- effet: 
+  temps: 12
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy, sourire aux l\xC3\xA8vres, rejoint la chambre suivi de Travis."
+  decor_id: 
+- effet: 
+  temps: 14
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Avant d'\xC3\xAAtre dans la chambre, Travis demande \xC3\xA0 Andy s'il a un .44 Magnum."
+  decor_id: 
+- effet: 
+  temps: 15
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy lui r\xC3\xA9pond que c'est une arme ch\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 17
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Travis dit qu'il s'en fiche, qu'il a l'argent.
+  decor_id: 
+- effet: 
+  temps: 19
+  scale: 9
+  duree: 
+  lieu: 
+  resume: En posant les deux grosses valises sur le lit, Andy insiste en disant que c'est un monstre.
+  decor_id: 
+- effet: 
+  temps: 21
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "En ouvrant les valises pleine d'armes, Andy pr\xC3\xA9cise que \xC3\xA7a arr\xC3\xAAte une voiture \xC3\xA0 100 m\xC3\xA8tres."
+  decor_id: 
+- effet: 
+  temps: 24
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "La cam\xC3\xA9ra glisse le long du .44 Magnum. Le temps s'arr\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 35
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy lui pr\xC3\xA9sente l'arme en lui disant que c'est du premier choix, de la premi\xC3\xA8re main."
+  decor_id: 
+- effet: 
+  temps: 41
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis observe l'arme entre les mains d'Andy, pas du tout impressionn\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 48
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy conclut en disant que c'est une arme de toute beaut\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 50
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis prend l'arme et l'ouvre. De toute \xC3\xA9vidence, il connait \xC3\xA7a tr\xC3\xA8s bien."
+  decor_id: 
+- effet: 
+  temps: 54
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy pr\xC3\xA9cise qu'il pourrait le vendre 100$ \xC3\xA0 un \xE2\x80\x9Cbougnoule\xE2\x80\x9D de Harlem."
+  decor_id: 
+- effet: 
+  temps: 58
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Tandis que Travis se met en joue en visant la fen\xC3\xAAtre, Andy poursuit en disant qu'il ne vend du haut de gamme qu'\xC3\xA0 des gens bien."
+  decor_id: 
+- effet: 
+  temps: 63
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis fait jouer la g\xC3\xA2chette, Andy lui demande ce qu'il en pense. Travis ne r\xC3\xA9pond rien."
+  decor_id: 
+- effet: 
+  temps: 65
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Alors que Travis vise devant lui, Andy lui explique que c'est une arme un peu grosse pour un usage courant.
+  decor_id: 
+- effet: 
+  temps: 68
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy recommande \xC3\xA0 Travis un\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 70
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "\xE2\x80\xA6 .38 Magnum \xC3\xA0 canon court, qu'il prend dans la valise. "
+  decor_id: 
+- effet: 
+  temps: 74
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy invite Travis \xC3\xA0 le regarder."
+  decor_id: 
+- effet: 
+  temps: 75
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Travis pose soigneusement le .44 Magnum dans le couvercle vide de la valise.
+  decor_id: 
+- effet: 
+  temps: 77
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Andy manipule le .38 entre ses mains en disant que c'est un vrai petit bijou.
+  decor_id: 
+- effet: 
+  temps: 79
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que Travis le prend, Andy lui pr\xC3\xA9cise qu'il est chrom\xC3\xA9, \xC3\xA0 canon court, mais qu'il est aussi efficace qu'une arme d'ordonnance."
+  decor_id: 
+- effet: 
+  temps: 84
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Il lui dit que \xC3\xA7a arr\xC3\xAAtera tout ce qui bouge."
+  decor_id: 
+- effet: 
+  temps: 85
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis remet en joue la fen\xC3\xAAtre avec le 38. Magnum."
+  decor_id: 
+- effet: 
+  temps: 87
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy ajoute en d\xC3\xA9signant le .44 qu'on ne l'utilise qu'en Afrique, contre les \xC3\xA9l\xC3\xA9phants."
+  decor_id: 
+- effet: 
+  temps: 91
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis se rapproche de la fen\xC3\xAAtre, l'arme toujours tendue."
+  decor_id: 
+- effet: 
+  temps: 92
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy poursuit en disant que le .38 est une arme amusante\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 93
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que l'on per\xC3\xA7oit des cris d'enfant qui joue, Travis entame un panoramique avec son arme tendue par la fen\xC3\xAAtre."
+  decor_id: 
+- effet: 
+  temps: 99
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Tandis que l'arme se d\xC3\xA9place toujours, Andy dit que certaines armes sont des jouets mais qu'on peut se servir de ce .38 comme d'un marteau."
+  decor_id: 
+- effet: 
+  temps: 105
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que Travis arr\xC3\xAAte son panoramique sur un couple de personnes qui discutent sur le trottoir, Andy poursuit en disant que l'arme mettra dans le mille \xC3\xA0 chaque fois."
+  decor_id: 
+- effet: 
+  temps: 107
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Travis tient toujours en joue le couple, tandis qu'Andy termine en disant que cette arme a une bonne tenue et un impact incroyable.
+  decor_id: 
+- effet: 
+  temps: 112
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que Travis pose l'arme dans le couvercle de la valise, \xC3\xA0 c\xC3\xB4t\xC3\xA9 du .44, Andy lui propose un automatique."
+  decor_id: 
+- effet: 
+  temps: 115
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Tandis que Travis regarde l'arme entre ses mains (off-screen), Andy lui explique que c'est un Colt .25 automatique, une tr\xC3\xA8s jolie arme."
+  decor_id: 
+- effet: 
+  temps: 119
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis nous met presque en joue et vise, un \xC5\x93il ferm\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 121
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que Travis fait jouer la g\xC3\xA2chette, Andy explique qu'il y a six balles dans le chargeur et une dans la culasse."
+  decor_id: 
+- effet: 
+  temps: 123
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis \xE2\x80\x9Crecharge\xE2\x80\x9D et nous revise alors qu'Andy ironise\xC2\xA0: \xE2\x80\x9CSi vous \xC3\xAAtes assez fou pour la charger\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 126
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Andy prend un Walther .380 dans la valise.
+  decor_id: 
+- effet: 
+  temps: 129
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Il le montre \xC3\xA0 Travis qui le regarde avec int\xC3\xA9r\xC3\xAAt."
+  decor_id: 
+- effet: 
+  temps: 132
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy pr\xC3\xA9cise\xC2\xA0: \xE2\x80\x9Cun chargeur de 8\xE2\x80\x9D. Cette arme a l'air de plaire particuli\xC3\xA8re \xC3\xA0 Travis qui jette un coup d'\xC5\x93il \xC3\xA0 Andy avant de s'en saisir."
+  decor_id: 
+- effet: 
+  temps: 137
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Alors que Travis admire l'arme, Andy lui dit que c'est une vraie petite merveille.
+  decor_id: 
+- effet: 
+  temps: 140
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Travis arme le .380 et nous vise.
+  decor_id: 
+- effet: 
+  temps: 142
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Tandis qu'il fait jouer la g\xC3\xA2chette, Andy pr\xC3\xA9cise que c'est cette arme qui a remplac\xC3\xA9 le P 38 pendant la Seconde Guerre Mondiale."
+  decor_id: 
+- effet: 
+  temps: 145
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis recharge et nous vise \xC3\xA0 nouveau, avec un plaisir int\xC3\xA9rieur tout \xC3\xA0 fait perceptible."
+  decor_id: 
+- effet: 
+  temps: 147
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Andy poursuit en disant qu'on le donnait aux officiers.
+  decor_id: 
+- effet: 
+  temps: 150
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "ELLIPSE. Travis tourne devant la glace. Andy \xE2\x80\x9Cl'admire\xE2\x80\x9D, comme deux femmes dans un magasin de fringues."
+  decor_id: 
+- effet: 
+  temps: 151
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis remet sa ceinture et sa chemise en place. On devine qu'il a gliss\xC3\xA9 l'arme dans son pantalon, dans son dos."
+  decor_id: 
+- effet: 
+  temps: 154
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy\xC2\xA0: \xE2\x80\x9CC'est pas une petite merveille\xC2\xA0?\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 155
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis se tourne des deux c\xC3\xB4t\xC3\xA9s vers le miroir, visiblement satisfait."
+  decor_id: 
+- effet: 
+  temps: 160
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis revient pr\xC3\xA8s du lit en retirant l'arme de son pantalon."
+  decor_id: 
+- effet: 
+  temps: 164
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Il tourne l'arme dans ses mains, et la d\xC3\xA9pose \xC3\xA0 c\xC3\xB4t\xC3\xA9 des trois autres."
+  decor_id: 
+- effet: 
+  temps: 165
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis demande combien \xC3\xA7a fera pour le tout. Andy s'\xC3\xA9tonne."
+  decor_id: 
+- effet: 
+  temps: 169
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy ajoute qu'il faudrait \xC3\xAAtre b\xC3\xAAte pour se promener dehors avec cette artillerie."
+  decor_id: 
+- effet: 
+  temps: 170
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy tire un joli sac en cuir de derri\xC3\xA8re le lit."
+  decor_id: 
+- effet: 
+  temps: 173
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy sort un holster du sac en disant que c'est un bel \xC3\xA9tui qu'il a fait fabriquer au Mexique. "
+  decor_id: 
+- effet: 
+  temps: 176
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy pose l'\xC3\xA9tui sur les armes en pr\xC3\xA9cisant qu'il co\xC3\xBBte 40 dollars."
+  decor_id: 
+- effet: 
+  temps: 178
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis a un petit regard de c\xC3\xB4t\xC3\xA9 vers le vendeur, pas dupe de son man\xC3\xA8ge."
+  decor_id: 
+- effet: 
+  temps: 180
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Andy fait le compte en annon\xC3\xA7ant le prix en touchant chaque arme du bout des doigts."
+  decor_id: 
+- effet: 
+  temps: 186
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors qu'il finit de remplir le sac de cuir avec le .44 Magnum, Andy dit \xC3\xA0 Travis de le prendre et de l'attendre, il descend avec lui."
+  decor_id: 
+- effet: 
+  temps: 188
+  scale: 9
+  duree: 
+  lieu: 
+  resume: Andy ferme le zip du sac.
+  decor_id: 
+- effet: 
+  temps: 190
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "En faisant le tour du lit, Andy, comme changeant de r\xC3\xB4le, plus speed\xC3\xA9, demande \xC3\xA0 Travis s'il a besoin de came, d'herbe, de hash, de coco."
+  decor_id: 
+- effet: 
+  temps: 192
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Il poursuit avec la mescaline, les s\xC3\xA9datifs, le Nembutal, les hydrates de chlore\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 197
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis le regarde un peu de travers. Andy poursuit en proposant des stimulants des amph\xC3\xA9tamines."
+  decor_id: 
+- effet: 
+  temps: 199
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Travis, en d\xC3\xA9niant de la t\xC3\xAAte, lui dit que \xC3\xA7a ne l'int\xC3\xA9resse pas, la came."
+  decor_id: 
+- effet: 
+  temps: 201
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "En refermant ses valises, Andy insiste, avec de la m\xC3\xA9tadone et du trimetoxi."
+  decor_id: 
+- effet: 
+  temps: 203
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "En soulevant ses valises, Andy lui propose une cadillac, toute neuve, avec la carte grise\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 206
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "Alors que Travis retourne \xC3\xA0 la porte, de toute \xC3\xA9vidence pas int\xC3\xA9ress\xC3\xA9, Andy ajoute qu'elle coute seulement 2000 dollars."
+  decor_id: 
+- effet: 
+  temps: 208
+  scale: 9
+  duree: 
+  lieu: 
+  resume: "(fin de la sc\xC3\xA8ne)"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy entre dans sa chambre d'h\xC3\xB4tel suivi de Travis et attrape deux grosses valises."
+  decor_id: 
+- effet: 
+  temps: 14
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Travis demande \xC3\xA0 Andy s'il a un .44 Magnum et dit qu'il a assez d'argent."
+  decor_id: 
+- effet: 
+  temps: 19
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "En ouvrant les deux grosses valises sur le lit, Andy pr\xC3\xA9cise que cette arme est un monstre qui arr\xC3\xAAte une voiture 100 m\xC3\xA8tres."
+  decor_id: 
+- effet: 
+  temps: 35
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy fait la pr\xC3\xA9sentation du .44 Magnum, une arme de premier choix et de premi\xC3\xA8re main qu'il ne vend qu'\xC3\xA0 des gens bien."
+  decor_id: 
+- effet: 
+  temps: 58
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Travis prend l'arme et met  en joue la fen\xC3\xAAtre. De toute \xC3\xA9vidence, il connait bien les armes."
+  decor_id: 
+- effet: 
+  temps: 68
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy, pour un usage plus courant, recommande \xC3\xA0 Travis un .38 Magnum \xC3\xA0 canon court. Il lui fait la pr\xC3\xA9sentation de l'arme."
+  decor_id: 
+- effet: 
+  temps: 79
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Travis prend l'arme et met en joue la fen\xC3\xAAtre tandis qu'Andy lui vante les m\xC3\xA9rites de cette arme par rapport au .44."
+  decor_id: 
+- effet: 
+  temps: 91
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Travis se rapproche de la fen\xC3\xAAtre et entame un panoramique avec l'arme, qui s'ach\xC3\xA8ve sur un couple en train de parler sur le trottoir."
+  decor_id: 
+- effet: 
+  temps: 112
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy pr\xC3\xA9sente ensuite \xC3\xA0 Travis un Colt .25 automatique. Travis l'essaie plusieurs fois \xC3\xA0 vide."
+  decor_id: 
+- effet: 
+  temps: 126
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy lui pr\xC3\xA9sente enfin un Walther .380 qui semble bien int\xC3\xA9resser Travis."
+  decor_id: 
+- effet: 
+  temps: 150
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "ELLIPSE. Travis v\xC3\xA9rifie devant un miroir qu'on ne voit pas l'arme s'il la glisse dans son pantalon dans son dos."
+  decor_id: 
+- effet: 
+  temps: 160
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Travis revient d\xC3\xA9poser l'arme \xC3\xA0 c\xC3\xB4t\xC3\xA9 des trois autres qu'il a pos\xC3\xA9 sur dans le couvercle de la valise et demande \xC3\xA0 Andy combien \xC3\xA7a fera pour le tout."
+  decor_id: 
+- effet: 
+  temps: 169
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Andy lui offre un sac en cuir et lui propose un holster pour le .44.
+  decor_id: 
+- effet: 
+  temps: 180
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Andy fait le compte des quatre armes et du holster.
+  decor_id: 
+- effet: 
+  temps: 186
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Andy met les armes dans le sac et demande \xC3\xA0 Travis de l'attendre, il descend avec lui."
+  decor_id: 
+- effet: 
+  temps: 190
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "En repliant ses valises, Andy propose alors tout un tas de came et de m\xC3\xA9dicaments \xC3\xA0 Travis, qui r\xC3\xA9pond qu'il ne s'int\xC3\xA9resse pas \xC3\xA0 \xC3\xA7a. Andy poursuit en proposant m\xC3\xAAme une Cadillac, mais de toute \xC3\xA9vidence, \xC3\xA7a n'int\xC3\xA9resse pas Travis."
+  decor_id: 
+- effet: 
+  temps: 208
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "(fin de la sc\xC3\xA8ne)"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "[0:52:05] Travis et Andy entre dans la chambre d'h\xC3\xB4tel"
+  decor_id: 
+- effet: 
+  temps: 20
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Andy commence sa vente.
+  decor_id: 
+- effet: 
+  temps: 165
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Travis retient 4 armes. Andy lui offre un holster et un sac pour porter les armes.
+  decor_id: 
+- effet: 
+  temps: 190
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Andy propose \xC3\xA0 Travis toutes autres types de choses, came, m\xC3\xA9dicament, limousine (ne manque plus que les filles\xE2\x80\xA6). Ils quittent l'h\xC3\xB4tel."
+  decor_id: 
+- effet: 
+  temps: 208
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "(fin de la sc\xC3\xA8ne)"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 1
+  duree: 
+  lieu: 
+  resume: "Travis victime. Il subit le monde, sa col\xC3\xA8re grandit. Il n'a pas de but dans la vie."
+  decor_id: 
+- effet: 
+  temps: 3080
+  scale: 1
+  duree: 
+  lieu: 
+  resume: "Travis annonce qu'une page vient d'\xC3\xAAtre tourn\xC3\xA9e (cl\xC3\xA9 de vo\xC3\xBBte)."
+  decor_id: 
+- effet: 
+  temps: 3125
+  scale: 1
+  duree: 
+  lieu: 
+  resume: Travis agit. Il s'entraine pour accomplir ce qu'il pense devoir accomplir. Jusqu'au massacre final.
+  decor_id: 
+- effet: 
+  temps: 6510
+  scale: 1
+  duree: 
+  lieu: 
+  resume: (Fin du film)
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Le quotidien de Travis, entre pornos, journal intime, son nouveau boulot de chauffeur et le sens qu'il voudrait donner \xC3\xA0 sa vie."
+  decor_id: 
+- effet: 
+  temps: 600
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "L'intrigue amoureuse impossible avec Betsy, qui s'occupe de la campagne du s\xC3\xA9nateur Palantine. \xC3\x89chec, ils sont trop diff\xC3\xA9rents. Rencontre incidemment Iris."
+  decor_id: 
+- effet: 
+  temps: 2225
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Travis de plus en plus mal. Il cherche une aide impossible, parle de sa solitude. Il se sent abandonn\xC3\xA9 de Dieu. S'ach\xC3\xA8ve avec l'id\xC3\xA9e d'une nouvelle page qui s'est tourn\xC3\xA9e (cl\xC3\xA9 de vo\xC3\xBBte)."
+  decor_id: 
+- effet: 
+  temps: 3100
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "L'entrainement. Travis se sent investi d'une mission et s'y pr\xC3\xA9pare. Achat d'armes, entrainement physique et mental, entrainement au tir, pr\xC3\xA9paration du mat\xC3\xA9riel."
+  decor_id: 
+- effet: 
+  temps: 3905
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Travis attend son heure. Il est au bout du rouleau. Il \xC3\xA9pie les meetings de Palantine. Menace diffuse mais lourde."
+  decor_id: 
+- effet: 
+  temps: 4345
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Intrigue Travis-Iris. Travis la retrouve, veut la sauver. Il d\xC3\xA9couvre son univers et la faune interlope qui le peuple."
+  decor_id: 
+- effet: 
+  temps: 5310
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Travis passe \xC3\xA0 l'action. Il manque l'attentat contre Palantine (si c'\xC3\xA9tait \xC3\xA7a son but) et se replie sur le massacre des gens malsains qui entourent Iris. S'ach\xC3\xA8ve dans un bain de sang."
+  decor_id: 
+- effet: 
+  temps: 6100
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "D\xC3\xA9nouement heureux. Travis est devenu un h\xC3\xA9ros. Il dort mieux, il a r\xC3\xA9ussi \xC3\xA0 se fondre dans la foule."
+  decor_id: 
+- effet: 
+  temps: 6510
+  scale: 3
+  duree: 
+  lieu: 
+  resume: (fin du film)
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Introduction de Travis. Il n'arrive pas \xC3\xA0 dormir, va voir des pornos."
+  decor_id: 
+- effet: 
+  temps: 125
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis se fait embaucher comme chauffeur de taxi
+  decor_id: 
+- effet: 
+  temps: 290
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Une nuit de taxi. Un client, politicard avec une poule.
+  decor_id: 
+- effet: 
+  temps: 470
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Une journ\xC3\xA9e. Travis retourne \xC3\xA0 la projection porno, drague la vendeuse."
+  decor_id: 
+- effet: 
+  temps: 585
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis r\xC3\xA9fl\xC3\xA9chit, il dit qu'il cherche \xC3\xA0 donner un sens \xC3\xA0 sa vie, \xC3\xA0 \xC3\xAAtre comme tout le monde."
+  decor_id: 
+- effet: 
+  temps: 600
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis d\xC3\xA9couvre Betsy. Elle travaille \xC3\xA0 la permanence du s\xC3\xA9nateur Palantine."
+  decor_id: 
+- effet: 
+  temps: 785
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Une nuit de taxi. Les coll\xC3\xA8gues de Travis."
+  decor_id: 
+- effet: 
+  temps: 1065
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis aborde Betsy et l'invite. Il vont prendre un caf\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1575
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis ach\xC3\xA8te l'album de Kritoffersen dont lui a parl\xC3\xA9 Betsy. Il regrette d'avoir oubli\xC3\xA9 de lui demander son nom."
+  decor_id: 
+- effet: 
+  temps: 1625
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Au cours d'une nuit, Travis fait deux rencontres d\xC3\xA9cisives : celle de Palantine d'abord, puis celle d'Iris."
+  decor_id: 
+- effet: 
+  temps: 1910
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis emm\xC3\xA8ne Betsy au cin\xC3\xA9ma (porno). Betsy s'enfuie, en lui disant qu'ils sont trop diff\xC3\xA9rents. Travis essaie de la rappeler, en vain."
+  decor_id: 
+- effet: 
+  temps: 2225
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis veut obtenir des explications de Betsy. Il se fait jeter de la permanence de Palantine.
+  decor_id: 
+- effet: 
+  temps: 2310
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Une nuit de taxi. Un client monte, lui explique qu'il va butter sa femme qui le trompe avec un noir.
+  decor_id: 
+- effet: 
+  temps: 2540
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis cherche en vain de l'aide aupr\xC3\xA8s de ses coll\xC3\xA8gues."
+  decor_id: 
+- effet: 
+  temps: 2865
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis \xC3\xA9coute Palantine \xC3\xA0 la t\xC3\xA9l\xC3\xA9. Le S\xC3\xA9nateur a l'air s\xC3\xBBr de lui."
+  decor_id: 
+- effet: 
+  temps: 2955
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Une nuit de taxi. Travis croise \xC3\xA0 nouveau Iris."
+  decor_id: 
+- effet: 
+  temps: 3060
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis parle de la solitude qu'il a toujours connue. Il se sent abandonn\xC3\xA9 de Dieu."
+  decor_id: 
+- effet: 
+  temps: 3080
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Une nouvelle page tourn\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 3100
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis ach\xC3\xA8te des armes."
+  decor_id: 
+- effet: 
+  temps: 3335
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis s'entraine, se reprend en main.
+  decor_id: 
+- effet: 
+  temps: 3380
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Au cin\xC3\xA9ma, Travis parle d'une id\xC3\xA9e qui a germ\xC3\xA9 en lui."
+  decor_id: 
+- effet: 
+  temps: 3400
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis continue de s'entrainer, et se fabrique un syst\xC3\xA8me pour d\xC3\xA9gainer de son bras."
+  decor_id: 
+- effet: 
+  temps: 3524
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis aborde un agent de s\xC3\xA9curit\xC3\xA9 \xC3\xA0 un meeting du s\xC3\xA9nateur Palantine."
+  decor_id: 
+- effet: 
+  temps: 3790
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis ach\xC3\xA8ve sa pr\xC3\xA9paration. Il termine sur un discours qui ressemble \xC3\xA0 un programme d'\xC3\xA9lections."
+  decor_id: 
+- effet: 
+  temps: 3905
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Une nuit de taxi. Premier meurtre, dans une sup\xC3\xA9rette o\xC3\xB9 il faisait quelques courses."
+  decor_id: 
+- effet: 
+  temps: 4020
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis regarde des noirs \xC3\xA0 la t\xC3\xA9l\xC3\xA9, son arme \xC3\xA0 la main."
+  decor_id: 
+- effet: 
+  temps: 4115
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Alors qu'il \xC3\xA9crit une carte d'anniversaire de mariage \xC3\xA0 ses parents, en se faisant passer pour un agent du gouvernement en mission secr\xC3\xA8te, Travis \xC3\xA9pie un meeting du s\xC3\xA9nateur."
+  decor_id: 
+- effet: 
+  temps: 4235
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis fait imploser sa t\xC3\xA9l\xC3\xA9. Il est au bout du rouleau."
+  decor_id: 
+- effet: 
+  temps: 4310
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis fait connaissance avec Iris et son univers. Sport, son mac, sa chambre, l'homme du couloir. Il voudrait la sauver. Elle accepte un rendez-vous avec lui, plus tard.
+  decor_id: 
+- effet: 
+  temps: 4880
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis et Iris prennent le petit d\xC3\xA9jeuner. Il essaie de trouver une solution pour la sortir de l\xC3\xA0."
+  decor_id: 
+- effet: 
+  temps: 5150
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis \xC3\xA9pie Iris et Sport en bas de chez Iris. Sport lui fait une le\xC3\xA7on de charme, parfait maquereau."
+  decor_id: 
+- effet: 
+  temps: 5310
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis se pr\xC3\xA9pare pour le d\xC3\xA9nouement final. Il laisse de l'argent pour Iris, dit qu'il sera mort quand elle le recevra."
+  decor_id: 
+- effet: 
+  temps: 5400
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis manque son attentat contre Palantine.
+  decor_id: 
+- effet: 
+  temps: 5590
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Chez lui, Travis avale ses m\xC3\xA9dicaments avec sa bi\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 5605
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Travis fait un carnage dans l'univers d'Iris. Il tue tous les hommes malsains qui l'entourent.
+  decor_id: 
+- effet: 
+  temps: 6100
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Lettre du p\xC3\xA8re d'Iris en voice-over. Travis est un h\xC3\xA9ros \xC3\xA0 leurs yeux. On comprend qu'il s'est remis."
+  decor_id: 
+- effet: 
+  temps: 6195
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis a repris son boulot de taxi. Il semble repos\xC3\xA9. Il prend son dernier client (du film)\xC2\xA0: Betsy en personne. Ils \xC3\xA9changent quelques banalit\xC3\xA9s et il la d\xC3\xA9pose."
+  decor_id: 
+- effet: 
+  temps: 6370
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Travis reprend la route. Il tourne le r\xC3\xA9troviseur, son visage disparait. \xC3\x80 sa place, les lumi\xC3\xA8res de la ville d\xC3\xA9filent."
+  decor_id: 
+- effet: 
+  temps: 6510
+  scale: 4
+  duree: 
+  lieu: 
+  resume: (Fin du film)
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Un taxi dans la brume
+  decor_id: 
+- effet: 
+  temps: 25
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis va s'installer dans la salle de projection minable. Il n'arrive pas \xC3\xA0 dormir."
+  decor_id: 
+- effet: 
+  temps: 70
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis en gros plan, \xC3\xA0 son volant, regarde la ville autour de lui autour de lui."
+  decor_id: 
+- effet: 
+  temps: 125
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis vient chercher du travail comme chauffeur de taxi.
+  decor_id: 
+- effet: 
+  temps: 250
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis repasse par le garage des taxis avant de partir.
+  decor_id: 
+- effet: 
+  temps: 270
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis dans la rue, boit.
+  decor_id: 
+- effet: 
+  temps: 290
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis, chez lui, \xC3\xA9crit, raconte sa vie, son travail a d\xC3\xA9j\xC3\xA0 commenc\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 330
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis, de nuit, dans son taxi. Il roule, contemple la faune de la nuit. Le vice et le fric. Il attend quelqu'un qui lavera la rue comme la pluie.
+  decor_id: 
+- effet: 
+  temps: 390
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il prend un client. Un homme politique avec une \xE2\x80\x9Cpoule\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 430
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis ram\xC3\xA8ne sa voiture, il a fini sa journ\xC3\xA9e, il est 6 heures du mat, il nettoie son si\xC3\xA8ge arri\xC3\xA8re et solde son compte ."
+  decor_id: 
+- effet: 
+  temps: 470
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis, dans la rue, prend une rasade d'alcool.
+  decor_id: 
+- effet: 
+  temps: 480
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis va voir un film porno. Il essaie de draguer la caissi\xC3\xA8re mais se fait rembarrer."
+  decor_id: 
+- effet: 
+  temps: 565
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis va s'installer dans la salle de projection minable. Il n'arrive toujours pas \xC3\xA0 dormir."
+  decor_id: 
+- effet: 
+  temps: 585
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis, allong\xC3\xA9 sur son lit, tout habill\xC3\xA9, r\xC3\xA9fl\xC3\xA9chit. Il dit qu'il cherche un sens \xC3\xA0 donner\xC3\xA0sa vie. Il dit qu'il veut \xC3\xAAtre quelqu'un comme tout les autres."
+  decor_id: 
+- effet: 
+  temps: 600
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis dans la rue, de jour. Il parle de la fille qu'il a rencontr\xC3\xA9, dans une robe blanche (BETSY). Blanche comme la puret\xC3\xA9. Travis dit qu'\xE2\x80\x9Cils\xE2\x80\x9D n'ont pas le droit de la toucher."
+  decor_id: 
+- effet: 
+  temps: 628
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis \xC3\xA9crit dans son journal intime ce qu'il raconte en voix-off."
+  decor_id: 
+- effet: 
+  temps: 630
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La permanence de PALANTINE, l'homme que soutient la femme \xC3\xA0 la robe blanche. Son coll\xC3\xA8gue Tom, au t\xC3\xA9l\xC3\xA9phone, r\xC3\xA2le pour un mauvais mot soulign\xC3\xA9 sur les macarons command\xC3\xA9s. Betsy l'appelle, on comprend qu'elle est son sup\xC3\xA9rieur hi\xC3\xA9rarchique. Elle s'occupe de la campagne de PALANTINE comme de la campagne pour un dentifrice, sans honte. (12,00) Betsy a remarqu\xC3\xA9 le taxi de Travis gar\xC3\xA9 devant la porte."
+  decor_id: 
+- effet: 
+  temps: 765
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Tom sort pour parler \xC3\xA0 Travis, mais Travis d\xC3\xA9marre en trombe et s'en va."
+  decor_id: 
+- effet: 
+  temps: 785
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La nuit sur la route. Une cliente monte. Le compteur tourne, les feux d\xC3\xA9filent. Travis remplit la boite o\xC3\xB9 il met son argent."
+  decor_id: 
+- effet: 
+  temps: 875
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis rejoint ses coll\xC3\xA8gues taxi au Belmore Cafe(teria). Ils parlent de maquillage (il y a SORCIER, SAUTE-AU-P\xC3\x88ZE, CHARLIE-T). Ils appellent Travis \xE2\x80\x9CTombeur\xE2\x80\x9D. Travis raconte un homme qui s'est fait taillader l'oreille dans la 122e. Puis il se fixe sur un black bien sap\xC3\xA9. Saute-au-p\xC3\xA8ze demande \xC3\xA0 Travis s'il n'aurait pas besoin d'un flingue, il connait quelqu'un. Travis se fixe sur son cachet en effervescence dans son verre. Saute-au-p\xC3\xA8ze veut lui vendre un carreau de la baignoire d'Erol Flynn."
+  decor_id: 
+- effet: 
+  temps: 1065
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Au QG de Palantine, Betsy et son coll\xC3\xA8gue blaguent (le faux verre d'eau, l'allumage de l'allumette avec trois doigts\xE2\x80\xA6)."
+  decor_id: 
+- effet: 
+  temps: 1165
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis quitte son taxi et fonce droit sur le QG de Palantine, d\xC3\xA9termin\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1170
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis vient trouver Betsy au QG de Palantine. Il r\xC3\xA9ussit \xC3\xA0 l'inviter \xC3\xA0 prendre un caf\xC3\xA9 avec lui."
+  decor_id: 
+- effet: 
+  temps: 1350
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis attend Betsy devant le QG de Palantine. Journal intime (VO)\xC2\xA0: il raconte ce qu'ils ont mang\xC3\xA9 et bu."
+  decor_id: 
+- effet: 
+  temps: 1375
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis et Betsy sont au caf\xC3\xA9. Il lui pose plein de questions, sur elle et son coll\xC3\xA8gue. Il parle de ce qu'il a senti entre eux. Il l'invite au cin\xC3\xA9ma, pour une autre fois. Elle lui parle du disque de Kris Kristofferson."
+  decor_id: 
+- effet: 
+  temps: 1575
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis ach\xC3\xA8te l'album de Kristofferson dans un magasin de disque et remonte dans son taxi."
+  decor_id: 
+- effet: 
+  temps: 1600
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Alors qu'il fait son service, Travis raconte qu'il a rappel\xC3\xA9 Betsy pour le cin\xC3\xA9ma. Il s'en veut aussi d'avoir oubli\xC3\xA9 de lui demander son nom."
+  decor_id: 
+- effet: 
+  temps: 1625
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis charge trois clients. Parmi eux, Palantine en personne. Quand Palantine lui demande ce qui le scandalise le plus, apr\xC3\xA8s une h\xC3\xA9sitation, Travis dit qu'il faudrait que le nouveau pr\xC3\xA9sident nettoie \xE2\x80\x9Ctoute cette merde\xE2\x80\x9D. Palantine lui r\xC3\xA9pond que \xC3\xA7a ne sera pas facile, qu'il faudrait des changements radicaux."
+  decor_id: 
+- effet: 
+  temps: 1775
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Alors qu'il d\xC3\xA9pose un client, Travis voit une jeune fille monter dans sa voiture et lui demander de partir tout de suite. C'est IRIS. Un mec vient la tirer violemment du taxi et l'emm\xC3\xA8ne apr\xC3\xA8s avoir laiss\xC3\xA9 un billet froiss\xC3\xA9 \xC3\xA0 Travis."
+  decor_id: 
+- effet: 
+  temps: 1835
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis roule, parcourt les rues. Il se fait jeter des projectiles en traversant Harlem (?).
+  decor_id: 
+- effet: 
+  temps: 1875
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Au petit matin, Travis ram\xC3\xA8ne son taxi."
+  decor_id: 
+- effet: 
+  temps: 1880
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il gare son taxi et observe le billet froiss\xC3\xA9 sur son si\xC3\xA8ge. Et il quitte son taxi."
+  decor_id: 
+- effet: 
+  temps: 1910
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis avance dans la rue, au milieu de la foule.
+  decor_id: 
+- effet: 
+  temps: 1935
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis vient r\xC3\xA9cup\xC3\xA9rer Betsy \xC3\xA0 la sortie du QG de Palantine et lui offre le disque de Kristofferson."
+  decor_id: 
+- effet: 
+  temps: 1945
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il fait nuit. Travis et Betsy passe devant un batteur qui fait son show dans la rue. Travis dit que son pick-up ne marche plus, mais qu'il aimerait bien \xC3\xA9couter le disque sur celui de Betsy."
+  decor_id: 
+- effet: 
+  temps: 1990
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis et Betsy entrent dans un cin\xC3\xA9ma porno. Betsy pense \xC3\xA0 une blague mais Travis, tr\xC3\xA8s s\xC3\xA9rieusement, lui dit que plein de couples viennent voir ces films. Betsy, sceptique, d\xC3\xA9cide de lui faire confiance."
+  decor_id: 
+- effet: 
+  temps: 2025
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans la salle de projection, \xC3\xA0 peine assis depuis quelques secondes, Betsy se rel\xC3\xA8ve et part."
+  decor_id: 
+- effet: 
+  temps: 2065
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Devant l'entr\xC3\xA9e du cin\xC3\xA9ma, Travis et Betsy se s\xC3\xA9parent. Elle lui dit qu'ils sont trop diff\xC3\xA9rents. Il essaie de la retenir, de fa\xC3\xA7on un peu muscl\xC3\xA9, mais elle part en taxi."
+  decor_id: 
+- effet: 
+  temps: 2130
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis, dans un couloir, est au t\xC3\xA9l\xC3\xA9phone avec Betsy. Elle refuse ses invitations. En VO, il dit qu'elle n'a plus pris ses appels apr\xC3\xA8s ce coup de fil et qu'elle a refus\xC3\xA9 les fleurs qu'il lui envoyait."
+  decor_id: 
+- effet: 
+  temps: 2225
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Le long des fleurs qui fanent dans sa piaule, Travis raconte qu'il a de plus en plus mal \xC3\xA0 la t\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 2250
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis fait irruption dans le QG de Palantine. Il fait presque un scandale, est \xC3\xA0 deux doigts de frapper le coll\xC3\xA8gue."
+  decor_id: 
+- effet: 
+  temps: 2290
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis se fait jeter dehors. Tandis que le coll\xC3\xA8gue appelle la police, Travis part tranquillement le long du trottoir. Il dit qu'elle (Betsy) est pareille que les autres, froide et distante."
+  decor_id: 
+- effet: 
+  temps: 2310
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis monte un client. Un gars qui semble nerveux, qui lui demande de laisser tourner son compteur. Le gars finit par lui expliquer qu'ils sont juste en bas de l'immeuble o\xC3\xB9 sa femme le trompe avec un noir. Il va la tuer. Il demande \xC3\xA0 Travis ce qu'il en pense, il ne r\xC3\xA9pond pas. Le gars raconte ce que \xC3\xA7a fait de tirer sa femme avec un magnum. Travis n'est pas rassur\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 2540
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Les coll\xC3\xA8gues de Travis sont \xC3\xA0 la caf\xC3\xA9t\xC3\xA9ria. Ils parlent (gentiment) des nains, puis parlent (gentiment) des p\xC3\xA9d\xC3\xA9s quand Travis arrive et va commander. En remboursant les 5 dollars qu'il devait \xC3\xA0 un coll\xC3\xA8gue, il retombe sur le billet froiss\xC3\xA9. Alors que Sorcier se l\xC3\xA8ve pour partir, Travis lui dit qu'il veut lui parler."
+  decor_id: 
+- effet: 
+  temps: 2655
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Ils sortent de la caf. Travis regarde d'un mauvais \xC5\x93il les blacks qui passent. Travis n'arrive pas \xC3\xA0 s'exprimer. Il dit qu'il veut vraiment faire quelque chose (de sa vie). L'autre ne comprend pas. Travis continue en disant qu'il a de mauvaises pens\xC3\xA9es. Sorcier lui fait un discours pseudo-philosophique compl\xC3\xA8tement \xC3\xA0 c\xC3\xB4t\xC3\xA9 de la plaque. Sorcier lui conseille de tirer un coup, de se saouler. De toute \xC3\xA9vidence, \xC3\xA7a n'est pas la r\xC3\xA9ponse qu'attendait Travis."
+  decor_id: 
+- effet: 
+  temps: 2865
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Palantine en campagne \xC3\xA0 la t\xC3\xA9l\xC3\xA9. Travis l'\xC3\xA9coute en se pr\xC3\xA9parant une mixture douteuse. Palantine parle du peuple, voit d\xC3\xA9j\xC3\xA0 sa victoire."
+  decor_id: 
+- effet: 
+  temps: 2930
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il fait jour, Travis est dans son taxi. Il passe devant le QG de Palantine, guette, aper\xC3\xA7oit quelques personnes, mais le bureau de Betsy est vide."
+  decor_id: 
+- effet: 
+  temps: 2955
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis d\xC3\xA9pose un client noir devant l'immeuble d'une petite rue."
+  decor_id: 
+- effet: 
+  temps: 2975
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Alors qu'il roule, il manque soudain d'\xC3\xA9craser Iris, qui traverse sans regarder. Elle semble le reconnaitre. Elle est avec une amie. Travis se met \xC3\xA0 les suivre le long du trottoir. Les deux filles branchent deux hommes, qui s'\xC3\xA9loignent avec elles. Travis a un geste d'humeur et red\xC3\xA9marre en trombe."
+  decor_id: 
+- effet: 
+  temps: 3060
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis roule dans son taxi. VO qui parle de la solitude qu'il a toujours connue, partout. Il se dit abandonn\xC3\xA9 de Dieu. "
+  decor_id: 
+- effet: 
+  temps: 3080
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis \xC3\xA9crit dans son journal qu'il vient de tourner une nouvelle page. Il parle des jours qui se ressemblent encore et encore."
+  decor_id: 
+- effet: 
+  temps: 3100
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis boit dans la rue. Un taxi se gare \xC3\xA0 ses c\xC3\xB4t\xC3\xA9, un coll\xC3\xA8gue qui lui am\xC3\xA8ne \xE2\x80\x9CEasy-Andy\xE2\x80\x9D (\xE2\x80\x9CAndy la coule\xE2\x80\x9D). Travis monte et le taxi red\xC3\xA9marre. "
+  decor_id: 
+- effet: 
+  temps: 3125
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans une chambre d'h\xC3\xB4tel, Andy pr\xC3\xA9sente des armes \xC3\xA0 Travis. Travis en ach\xC3\xA8te plusieurs."
+  decor_id: 
+- effet: 
+  temps: 3335
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis fait des pompes et des alt\xC3\xA8res, s'entraine \xC3\xA0 la douleur au-dessus du gaz. Il dit qu'il doit se  reprendre en main."
+  decor_id: 
+- effet: 
+  temps: 3365
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il s'entraine au tir dans un vieux stand d\xC3\xA9labr\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3380
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Au cin\xC3\xA9ma, il vise l'\xC3\xA9cran, s'amuse avec ses doigts. Il parle d'une id\xC3\xA9e qui a germ\xC3\xA9 en lui il y a quelque temps."
+  decor_id: 
+- effet: 
+  temps: 3400
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "De la pure force. Chez lui, il vise l'affiche de Palantine. Il s'entraine \xC3\xA0 d\xC3\xA9gainer."
+  decor_id: 
+- effet: 
+  temps: 3460
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il se fabrique un syst\xC3\xA8me pour avoir l'arme cach\xC3\xA9 le long de bras et pouvoir d\xC3\xA9gainer d'un geste. Il pr\xC3\xA9pare ses balles."
+  decor_id: 
+- effet: 
+  temps: 3524
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Un meeting de Palantine, tendu. Travis s'y prom\xC3\xA8ne. Il aborde un gars de la s\xC3\xA9curit\xC3\xA9, se fait passer pour quelqu'un qui voudrait rentrer dans les services secrets. Il fait croire qu'il voudrait rentrer dans les services secrets. Le mec lui fait croire qu'il est int\xC3\xA9ress\xC3\xA9 et en profite pour prendre son (faux) nom et sa (fausse) adresse."
+  decor_id: 
+- effet: 
+  temps: 3790
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Chez lui, Travis s'habille. Il mime des sc\xC3\xA8nes o\xC3\xB9 il doit d\xC3\xA9gainer. Travis \xC3\xA9crit, comme s'il faisait un discours de meeting."
+  decor_id: 
+- effet: 
+  temps: 3905
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La rue la nuit. Une pompe qui fuit. La rue inond\xC3\xA9e. Un taxi passe. Une voiture de police passe, girophare allum\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3925
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis se gare devant une sup\xC3\xA9rette et y rentre. Alors qu'il fait ses course, le proprio se fait braquer. Travis s'approche, l'appelle et le descend. Le proprio dit \xC3\xA0 Travis qu'il s'en occupe, il lui offre m\xC3\xAAme la course. Le proprio d\xC3\xA9molit le braqueur avec une canne. "
+  decor_id: 
+- effet: 
+  temps: 4020
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis, chez lui, vise un noir qui danse \xC3\xA0 la t\xC3\xA9l\xC3\xA9. Travis regarde, le magnum \xC3\xA0 la main, il semble explos\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4115
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Les immeubles dans la rue, un discours de Palantine dans les hauts-parleurs. Travis est dans son taxi. Il observe le meeting, plus loin dans la rue. En VO on l'entend \xC3\xA9crire \xC3\xA0 ses parents pour leur souhaiter de bonnes f\xC3\xAAtes. Il leur a fait croire qu'il \xC3\xA9tait en mission secr\xC3\xA8te pour le gouvernement. Un flic fait d\xC3\xA9gager Travis."
+  decor_id: 
+- effet: 
+  temps: 4215
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis relit la carte qu'il a \xC3\xA9crite \xC3\xA0 ses parents."
+  decor_id: 
+- effet: 
+  temps: 4235
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis est devant la t\xC3\xA9l\xC3\xA9 avec son arme. Puis il pousse le cageot sur lequel est pos\xC3\xA9e la t\xC3\xA9l\xC3\xA9. Il pousse, pousse, jusqu'\xC3\xA0 ce que la t\xC3\xA9l\xC3\xA9 bascule et implose sur le sol. Travis semble au bout du rouleau."
+  decor_id: 
+- effet: 
+  temps: 4310
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il fait jour. De son taxi, Travis voit un mec en tabasser un autre. Travis boit. Puis il aper\xC3\xA7oit Iris, qui passe devant son taxi."
+  decor_id: 
+- effet: 
+  temps: 4345
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis sort de son taxi et aborde Iris et sa copine. Elle le reconnait, lui indique son mac, Matthew. C'est l'homme qui a laiss\xC3\xA9 le billet froiss\xC3\xA9 \xC3\xA0 Travis. Matthew lui fait son show. Travis va payer pour voir Iris. Il la rejoint qui l'attend appuy\xC3\xA9e sur une voiture, et ils montent dans un immeuble sombre."
+  decor_id: 
+- effet: 
+  temps: 4535
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans le couloir sombre, ils rencontrent le t\xC3\xB4lier. Travis lui donne l'argent. 10 dollars pour la chambre."
+  decor_id: 
+- effet: 
+  temps: 4570
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis rentre dans la piaule d'Iris. Il l'interroge, lui demande son \xC3\xA2ge, son vrai nom. \xC3\x87a, il l'obtient, c'est Iris. mais ne la touche pas. Il essaie de lui rafraichir la m\xC3\xA9moire, elle ne se rappelle pas de leur premi\xC3\xA8re rencontre. Il veut la sauver. Il la pousse quand elle se fait plus entreprenante. Elle explique que Sport (Matthew) et  l'autre la prot\xC3\xA8ge d'elle-m\xC3\xAAme. Il lui propose de la revoir. Elle accepte et lui donne un rendez-vous."
+  decor_id: 
+- effet: 
+  temps: 4850
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Quand il quitte la porte, dans le couloir, il voit l'homme sortir de l'obscurit\xC3\xA9 et venir vers lui. Il le paie avec le billet froiss\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4880
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis et Iris rentre dans un bar.
+  decor_id: 
+- effet: 
+  temps: 4890
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis et Iris prennent leur petit d\xC3\xA9jeuner. Travis la paterne. Il lui fait la morale. Il essaie de lui faire comprendre que Sport est un homme mauvais qu'il faut arr\xC3\xAAter. Elle lui propose de venir dans une communaut\xC3\xA9 avec lui, dans le Vermont. \xC3\x87a le fait marrer, c'est pas pour lui. Il lui fait croire qu'il travaille pour le gouvernement."
+  decor_id: 
+- effet: 
+  temps: 5150
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis dans son taxi semble surveiller l'immeuble d'Iris.
+  decor_id: 
+- effet: 
+  temps: 5170
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans la chambre d'Iris, Sport lui fait un show de s\xC3\xA9duction qui r\xC3\xA9ussit parfaitement sur la jeune adolescente."
+  decor_id: 
+- effet: 
+  temps: 5310
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Travis s'entraine au tir.
+  decor_id: 
+- effet: 
+  temps: 5325
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis cire ses bottes avec soin. Il br\xC3\xBBle les fleurs fan\xC3\xA9s dans l'\xC3\xA9vier. Il aiguise son couteau et coupe la manche droite de sa chemise. Il fixe son couteau \xC3\xA0 sa botte. Il laisse de l'argent pour Iris, expliquant que lorsqu'elle l'aura, il sera mort."
+  decor_id: 
+- effet: 
+  temps: 5400
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Palantine, dans la rue, est accueilli par la foule. Il monte sur l'estrade et commence son discours. Travis sort de son taxi et va se mettre \xC3\xA0 l'\xC3\xA9cart pour l'\xC3\xA9couter. Il s'est ras\xC3\xA9 les cheveux, s'est fait une coupe Mohawk. Travis sourit, applaudit avec les autres. Alors que Palantine quitte l'estrade et traverse la foule sous bonne escorte, Travis s'approche, mena\xC3\xA7ant. Le garde du corps le rep\xC3\xA8re et d\xC3\xA9clenche l'alerte. Travis doit fuir."
+  decor_id: 
+- effet: 
+  temps: 5590
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Chez lui, Travis prend des m\xC3\xA9dicaments avec sa bi\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 5605
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Dans la rue, un homme en costard aborde Sport. Il lui demande l'argent. Sport lui donne et demande si Iris est dans sa chambre.
+  decor_id: 
+- effet: 
+  temps: 5635
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La nuit. Travis roule dans son taxi, un vrai junkie. Il ne s'arr\xC3\xAAte pas pour prendre un client."
+  decor_id: 
+- effet: 
+  temps: 5645
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Il se gare en catastrophe devant le porche de Sport. Il le branche, il le cherche. Travis sort son arme et lui tire dessus. Puis il s'\xC3\xA9loigne et s'assied sur les marches d'un immeuble."
+  decor_id: 
+- effet: 
+  temps: 5735
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis rentre dans l'immeuble d'Iris. Dans le couloir il rencontre le moustachu et lui dire dessus. Il lui arrache la main. Travis se prend une belle dans la nuque. C'est Sport, qui le tire \xC3\xA0 nouveau. La porte d'Iris s'ouvre, et l'homme au costard en sort, sort une arme et tire sur Travis. Travis tire l'arme de son bras et le descend. La tuerie se poursuit dans la chambre d'Iris. Travis va pour se tirer une balle, mais les armes sont vides. Les flics d\xC3\xA9barquent et mettent fin \xC3\xA0 la petite sauterie. L'\xC3\xA2me de Travis semble parcourir le chemin \xC3\xA0 l'envers, jusqu'au dehors."
+  decor_id: 
+- effet: 
+  temps: 6035
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dehors, devant l'immeuble, la foule s'est rassembl\xC3\xA9e, retenue par des  flics. Une autre voiture de police arrive. Deux infirmiers arrivent en courant."
+  decor_id: 
+- effet: 
+  temps: 6100
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "L'appartement de Travis. Des articles de journaux sur l'incident. Le p\xC3\xA8re d'Iris, en off, lit la lettre qu'il a \xC3\xA9crite \xC3\xA0 Travis pour le remercier. C'est un h\xC3\xA9ros. Iris a repris ses \xC3\xA9tudes. La lettre est accroch\xC3\xA9e au mur."
+  decor_id: 
+- effet: 
+  temps: 6195
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La nuit. Des taxis gar\xC3\xA9s devant le Saint-R\xC3\xA9gis ferm\xC3\xA9. On entend un homme raconter une histoire. Travis est dehors, avec ses coll\xC3\xA8gue. Sorcier lui dit qu'un client l'attend. Travis l'aper\xC3\xA7oit et dit \xE2\x80\x9Cmerde\xE2\x80\x9D. "
+  decor_id: 
+- effet: 
+  temps: 6225
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans son taxi, c'est Betsy, tout en blanc v\xC3\xAAtu, comme le premier jour. C'est elle qui entame la conversation. Il la regarde dans son r\xC3\xA9tro. Elle est toujours aussi belle. Il parle des derniers jours de la campagne qui s'ach\xC3\xA8ve."
+  decor_id: 
+- effet: 
+  temps: 6320
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Travis d\xC3\xA9pose Betsy devant chez elle."
+  decor_id: 
+- effet: 
+  temps: 6370
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans son taxi, Travis d\xC3\xA9tourne le r\xC3\xA9troviseur."
+  decor_id: 
+- effet: 
+  temps: 6385
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Les enseignes lumineuses d\xC3\xA9filent avec le g\xC3\xA9n\xC3\xA9rique. La musique du d\xC3\xA9but reprend. Les phares d\xC3\xA9filent dans la rue. Un taxi passe."
+  decor_id: 
+- effet: 
+  temps: 6510
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Noir et fin du g\xC3\xA9n\xC3\xA9rique."
+  decor_id: 
+:dim: TaxiDriver

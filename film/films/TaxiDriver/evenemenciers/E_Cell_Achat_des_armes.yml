@@ -1,0 +1,77 @@
+--- 
+:is_entier: true
+:duree: 208
+:scale: 8
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 14
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 19
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 35
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 58
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 68
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 79
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 91
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 112
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 126
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 150
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 160
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 169
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 180
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 186
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 190
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 208
+  :commentaire: 
+:titre: "Ev\xC3\xA8nemencier cellulaire de la sc\xC3\xA8ne d'achat des armes"
+:film_dim: TaxiDriver

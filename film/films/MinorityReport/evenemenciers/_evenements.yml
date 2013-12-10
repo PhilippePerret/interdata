@@ -1,0 +1,304 @@
+--- 
+:items: 
+- effet: 
+  temps: 0
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "LE PROGRAMME PR\xC3\x89CRIME"
+  decor_id: 
+- effet: 
+  temps: 60
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "1:00 Ouverture au noir sur la vision des pr\xC3\xA9cogs"
+  decor_id: 
+- effet: 
+  temps: 840
+  scale: 4
+  duree: 
+  lieu: 
+  resume: LA VIE DE JOHN ANDERTON
+  decor_id: 
+- effet: 
+  temps: 1215
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "PR\xC3\x89CRIME SUR LA SELLETTE"
+  decor_id: 
+- effet: 
+  temps: 1710
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "\xE2\x80\x93 Visite de la prison du futur (vision d'Agatha introuvable) \xE2\x80\x93 Visite de John \xC3\xA0 Lamar (dossier Agatha   surtout : avenir de pr\xC3\xA9crime)"
+  decor_id: 
+- effet: 
+  temps: 2078
+  scale: 4
+  duree: 
+  lieu: 
+  resume: LES ENNUIS DE JOHN ANDERTON
+  decor_id: 
+- effet: 
+  temps: 2400
+  scale: 4
+  duree: 
+  lieu: 
+  resume: JOHN S'ENFUIT
+  decor_id: 
+- effet: 
+  temps: 3190
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Doctoresse Hineman \xE2\x80\x94 Origine de Pr\xC3\xA9crime \xE2\x80\x94 Le rapport minoritaire"
+  decor_id: 
+- effet: 
+  temps: 3685
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Witwer et sa tactique\xC2\xA0: retrouver Anderton dans la Zone"
+  decor_id: 
+- effet: 
+  temps: 3750
+  scale: 4
+  duree: 
+  lieu: 
+  resume: JOHN ANDERTON CHANGE SES YEUX
+  decor_id: 
+- effet: 
+  temps: 4110
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Fin de l'op\xC3\xA9ration, d\xC3\xA9but de la convalescence"
+  decor_id: 
+- effet: 
+  temps: 4740
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "JOHN P\xC3\x89N\xC3\x88TRE DANS PR\xC3\x89CRIME POUR R\xC3\x89CUP\xC3\x89RER LE RAPPORT MINORITAIRE"
+  decor_id: 
+- effet: 
+  temps: 5060
+  scale: 4
+  duree: 
+  lieu: 
+  resume: FUITE DE JOHN AVEC AGATHA
+  decor_id: 
+- effet: 
+  temps: 5490
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "FUITE DE JOHN AVEC AGATHA (gr\xC3\xA2ce \xC3\xA0 Agatha)"
+  decor_id: 
+- effet: 
+  temps: 5670
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "LE MEURTRE \xE2\x80\x94 JOHN D\xC3\x89CIDE DE NE PAS TUER"
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 4
+  duree: 
+  lieu: 
+  resume: LE VRAI COUPABLE
+  decor_id: 
+- effet: 
+  temps: 6560
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "LA COMPR\xC3\x89HENSION"
+  decor_id: 
+- effet: 
+  temps: 6900
+  scale: 4
+  duree: 
+  lieu: 
+  resume: ARRESTATION DE JOHN
+  decor_id: 
+- effet: 
+  temps: 7020
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "LA V\xC3\x89RIT\xC3\x89 \xC3\x89CLATE AU GRAND JOUR"
+  decor_id: 
+- effet: 
+  temps: 7805
+  scale: 4
+  duree: 
+  lieu: 
+  resume: CONCLUSION
+  decor_id: 
+- effet: 
+  temps: 8015
+  scale: 4
+  duree: 
+  lieu: 
+  resume: _END
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "LE PROGRAMME PR\xC3\x89CRIME"
+  decor_id: 
+- effet: 
+  temps: 60
+  scale: 5
+  duree: 780
+  lieu: 
+  resume: "1:00 Ouverture au noir sur la vision des pr\xC3\xA9cogs"
+  decor_id: 
+- effet: 
+  temps: 840
+  scale: 5
+  duree: 375
+  lieu: 
+  resume: LA VIE DE JOHN ANDERTON
+  decor_id: 
+- effet: 
+  temps: 1215
+  scale: 5
+  duree: 495
+  lieu: 
+  resume: "PR\xC3\x89CRIME SUR LA SELLETTE"
+  decor_id: 
+- effet: 
+  temps: 1710
+  scale: 5
+  duree: 368
+  lieu: 
+  resume: "\xE2\x80\x93 Visite de la prison du futur (vision d'Agatha introuvable) \xE2\x80\x93 Visite de John \xC3\xA0 Lamar (dossier Agatha   surtout : avenir de pr\xC3\xA9crime)"
+  decor_id: 
+- effet: 
+  temps: 2078
+  scale: 5
+  duree: 322
+  lieu: 
+  resume: "Witwer d\xC3\xA9couvre la drogue chez John Anderton"
+  decor_id: 
+- effet: 
+  temps: 2295
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "John Anderton d\xC3\xA9couvre qu'il va tuer Leo Crow (qu'il ne connait pas)"
+  decor_id: 
+- effet: 
+  temps: 2400
+  scale: 5
+  duree: 790
+  lieu: 
+  resume: JOHN S'ENFUIT
+  decor_id: 
+- effet: 
+  temps: 3190
+  scale: 5
+  duree: 495
+  lieu: 
+  resume: "Doctoresse Hineman \xE2\x80\x94 Origine de Pr\xC3\xA9crime \xE2\x80\x94 Le rapport minoritaire"
+  decor_id: 
+- effet: 
+  temps: 4110
+  scale: 5
+  duree: 630
+  lieu: 
+  resume: "Fin de l'op\xC3\xA9ration, d\xC3\xA9but de la convalescence"
+  decor_id: 
+- effet: 
+  temps: 3685
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Witwer et sa tactique\xC2\xA0: retrouver Anderton dans la Zone"
+  decor_id: 
+- effet: 
+  temps: 3750
+  scale: 5
+  duree: 360
+  lieu: 
+  resume: JOHN ANDERTON CHANGE SES YEUX
+  decor_id: 
+- effet: 
+  temps: 4740
+  scale: 5
+  duree: 320
+  lieu: 
+  resume: "JOHN P\xC3\x89N\xC3\x88TRE DANS PR\xC3\x89CRIME POUR R\xC3\x89CUP\xC3\x89RER LE RAPPORT MINORITAIRE"
+  decor_id: 
+- effet: 
+  temps: 5060
+  scale: 5
+  duree: 430
+  lieu: 
+  resume: FUITE DE JOHN AVEC AGATHA
+  decor_id: 
+- effet: 
+  temps: 5490
+  scale: 5
+  duree: 180
+  lieu: 
+  resume: "FUITE DE JOHN AVEC AGATHA (gr\xC3\xA2ce \xC3\xA0 Agatha)"
+  decor_id: 
+- effet: 
+  temps: 5670
+  scale: 5
+  duree: 490
+  lieu: 
+  resume: "LE MEURTRE \xE2\x80\x94 JOHN D\xC3\x89CIDE DE NE PAS TUER"
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 5
+  duree: 400
+  lieu: 
+  resume: LE VRAI COUPABLE
+  decor_id: 
+- effet: 
+  temps: 6560
+  scale: 5
+  duree: 340
+  lieu: 
+  resume: "LA COMPR\xC3\x89HENSION"
+  decor_id: 
+- effet: 
+  temps: 6900
+  scale: 5
+  duree: 120
+  lieu: 
+  resume: ARRESTATION DE JOHN
+  decor_id: 
+- effet: 
+  temps: 7020
+  scale: 5
+  duree: 785
+  lieu: 
+  resume: "LA V\xC3\x89RIT\xC3\x89 \xC3\x89CLATE AU GRAND JOUR"
+  decor_id: 
+- effet: 
+  temps: 7805
+  scale: 5
+  duree: 210
+  lieu: 
+  resume: CONCLUSION
+  decor_id: 
+- effet: 
+  temps: 8015
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: _END
+  decor_id: 
+:dim: MinorityReport

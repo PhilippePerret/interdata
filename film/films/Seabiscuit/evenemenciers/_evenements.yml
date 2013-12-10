@@ -1,0 +1,1662 @@
+--- 
+:items: 
+- effet: 
+  temps: 5640
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Le stade de Pimlico d\xC3\xA9sert en ce matin du 1er novembre 1938 (intertitre). Mais la voix-off annonce qu'\xC3\xA0 10h il \xC3\xA9tait impossible de se garer \xC3\xA0 moins de 15 rues de l'hippodrome."
+  decor_id: 
+- effet: 
+  temps: 5650
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "S\xC3\xA9quences de micro-sc\xC3\xA8nes : la foule arrivant, les futs de bi\xC3\xA8re, une \xC3\xA9picerie qui ferme."
+  decor_id: 
+- effet: 
+  temps: 5675
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Charles r\xC3\xA9pond aux journalistes en se rendant sur le stade. Il r\xC3\xA9clame l'ouverture de la piste int\xC3\xA9rieure, r\xC3\xA9serv\xC3\xA9e aux \xE2\x80\x9Cgens normaux\xE2\x80\x9D que le dit Howard."
+  decor_id: 
+- effet: 
+  temps: 5685
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Le stade se remplit, la piste int\xC3\xA9rieure grouille de spectateur. La voix-off annonce que 40 millions d'Am\xC3\xA9ricains ont suivi la course."
+  decor_id: 
+- effet: 
+  temps: 5700
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Dans l'\xC3\xA9curie, Tom donne ses derni\xC3\xA8res recommandations \xC3\xA0 George. Mais alors qu'il va lui donner un dernier conseil, George lui r\xC3\xA9p\xC3\xA8te celui que Red lui a donn\xC3\xA9. Tom sourit\xE2\x80\xA6 George lui dit qu'il n'est pas le seul \xC3\xA0 connaitre le cheval."
+  decor_id: 
+- effet: 
+  temps: 5730
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: George monte sur le cheval. Sam le conduit. On croise Riddle et son jockey, qui a l'air aussi sympathique que lui.
+  decor_id: 
+- effet: 
+  temps: 5755
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Red \xC3\xA9coute la course dans sa chambre d'h\xC3\xB4pital."
+  decor_id: 
+- effet: 
+  temps: 5760
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "Retour \xC3\xA0 l'hippodrome. Seabiscuit est nerveux. Tout le monde s'installe, Charles, les chevaux, le starter. Marcela est morte d'inqui\xC3\xA9tude. (1:38:25) le d\xC3\xA9part est donn\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 5845
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "\xC3\x89tonnamment, au d\xC3\xA9part, un flash-blanc, puis plusieurs photos s'enchainent, tandis que la radio raconte la course. Des hommes autour d'une voiture, Une famille devant un poste, puis un groupe d'hommes, puis un groupe d'ouvrier, puis \xC3\xA0 nouveau une petite famille."
+  decor_id: 
+- effet: 
+  temps: 5870
+  scale: 5
+  duree: 155
+  lieu: 
+  resume: "Retour dans la r\xC3\xA9alit\xC3\xA9 de l'hippodrome. Seabiscuit tient la t\xC3\xAAte. On voit Tom demander \xC3\xA0 George de ralentir\xE2\x80\xA6 On voit Charles faire la m\xC3\xAAme chose dans les tribunes. Puis c'est au tour de Red dans sa chambre (insert). Enfin, on passe sur George, sur son cheval, demandant \xC3\xA0 Seabiscuit de ralentir. (1:38:50) Le regarde de Seabiscuit croise celui de War Admiral, la musique se fait sombre. (1:39:55)George dit au revoir \xC3\xA0 son \xE2\x80\x9Ccompagnon\xE2\x80\x9D et l\xC3\xA2che Seabiscuit qui s'\xC3\xA9lance vers la victoire. (1:40:15) Seabiscuit remporte la victoire."
+  decor_id: 
+- effet: 
+  temps: 6025
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Red hurle \xE2\x80\x9CYes, yes !\xE2\x80\x9D sur son lit d'h\xC3\xB4pital."
+  decor_id: 
+- effet: 
+  temps: 6030
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Retour \xC3\xA0 l'hippodrome. D\xC3\xA9faite de Riddle \xC3\xA0 la hauteur de la joie de Charles et Marcela."
+  decor_id: 
+- effet: 
+  temps: 6045
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "On se pr\xC3\xA9cipite pour saluer les vainqueurs. Tom Smith ramasse un trac par terre (?). George arrive sur le cheval. Standing ovation pour Charles et Marcela, Seabiscuit et George. Tom Smith reste anonyme dans la foule."
+  decor_id: 
+- effet: 
+  temps: 6185
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Nouvelle course sur un hippodrome.
+  decor_id: 
+- effet: 
+  temps: 6190
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Tick-Tock est \xC3\xA0 son micro, la bouteille de bourbon \xC3\xA0 la main. Qui se demande qui pourrait bien affronter Seabiscuit maintenant. P\xC3\xA9gase ?"
+  decor_id: 
+- effet: 
+  temps: 6205
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "L'hippodrome. George arrive sur Seabiscuit, acclam\xC3\xA9 par la foule."
+  decor_id: 
+- effet: 
+  temps: 6210
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: "Dans le ranch, Red, la jambe dans le pl\xC3\xA2tre, va s'assoir sous la v\xC3\xA9randa. S\xC3\xA9quence en parall\xC3\xA8le. (1:43:37) Seabiscuit entre dans le box de d\xC3\xA9part. Red s'installe. George se pr\xC3\xA9pare. La course d\xC3\xA9marre, au ralenti. La musique, en parfait d\xC3\xA9calage, tragique. (1:44:25) Red entend une domestique taper sur un tapis. Sur l'hippodrome, Seabiscuit se sent mal. Red le sent, il se l\xC3\xA8ve. (1:44:55) George a d\xC3\xBB s'arr\xC3\xAAter. "
+  decor_id: 
+- effet: 
+  temps: 6310
+  scale: 5
+  duree: 3
+  lieu: 
+  resume: "Marcela descend les marches en courant. C'est le soir, tout est cal dans les \xC3\xA9curies."
+  decor_id: 
+- effet: 
+  temps: 6313
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red au t\xC3\xA9l\xC3\xA9phone, il voudrait savoir quand ils sauront. \xC3\x80 l'autre bout, Marcela lui r\xC3\xA9pond que Charles est avec les v\xC3\xA9t\xC3\xA9rinaires. Elle lui dit qu'ils l'appelleront d\xC3\xA8s qu'ils en sauront plus."
+  decor_id: 
+- effet: 
+  temps: 6333
+  scale: 5
+  duree: 49
+  lieu: 
+  resume: "George, Sam, Marcela, Tom et Charles attendent devant le box de Seabiscuit. Le v\xC3\xA9t\xC3\xA9rinaire sort et dit qu'il n'y a plus rien \xC3\xA0 faire. Il ne pourra plus courir. Il est pr\xC3\xAAt \xC3\xA0 le tuer pour lui."
+  decor_id: 
+- effet: 
+  temps: 6382
+  scale: 5
+  duree: 1118
+  lieu: 
+  resume: "Red est en train de lire dehors quand on lui am\xC3\xA8ne Seabiscuit, qui boite. Il retrouve son cheval avec \xC3\xA9motion, quitte ses cannes anglaises pour se jeter dans ses bras."
+  decor_id: 
+- effet: 
+  temps: 6440
+  scale: 5
+  duree: 12
+  lieu: 
+  resume: "Red r\xC3\xA9fl\xC3\xA9chit sous la pluie. "
+  decor_id: 
+- effet: 
+  temps: 6452
+  scale: 5
+  duree: 28
+  lieu: 
+  resume: "Red soigne Seabiscuit. Il le masse, lui dit que sa jambe se remusclera. Il lui cite Adrien parlant de la construction de Rome\xC2\xA0: brique apr\xC3\xA8s brique."
+  decor_id: 
+- effet: 
+  temps: 6480
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Red prom\xC3\xA8ne Biscuit dans les bois, en lui racontant que les chevaux arabes pouvaient rester 5 \xC3\xA0 6 jours sans boire une goutte d'eau. Puis ils s'allongent dans l'herbe, l'un contre l'autre. Red Lit. Moment d'intimit\xC3\xA9 intense. Puis Red regarde son cheval se repa\xC3\xAEtre un peu plus loin. Soudain, alors que des branches s'agitent, il voit Seabiscuit esquisser quelques pas de trots."
+  decor_id: 
+- effet: 
+  temps: 7260
+  scale: 5
+  duree: 2
+  lieu: 
+  resume: "Marcela est rest\xC3\xA9e seule dans l'\xC3\xA9curie, elle donne \xC3\xA0 manger \xC3\xA0 un cheval. Elle se redresse en entendant au loin la clameur de la foule."
+  decor_id: 
+- effet: 
+  temps: 7262
+  scale: 5
+  duree: 16
+  lieu: 
+  resume: "Marcela n'en peut plus. Elle quitte les \xC3\xA9curies et se rue vers le stade. Elle arrive au parking quand la cloche de d\xC3\xA9part retentit. Elle grimpe sur une voiture."
+  decor_id: 
+- effet: 
+  temps: 7278
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: Les chevaux viennent se ranger dans les boxes. Red retrouve George qui, humblement, lui dit qu'il n'a aucune chance. Dans les tribunes, Charles guette aux jumelles.
+  decor_id: 
+- effet: 
+  temps: 7343
+  scale: 5
+  duree: 212
+  lieu: 
+  resume: "Les chevaux en pleine course. Red semble souffrir. Dans les gradins, Charles s'inqui\xC3\xA8te. Red recule, jusqu'\xC3\xA0 se laisser distancer. Mais Red le relance. Il remonte, sous le regard incr\xC3\xA9dule de Charles et Tom. Il remonte d\xC3\xA9j\xC3\xA0 George, discute un peu. Red lance Biscuit, qui remonte tous les chevaux, un par un. Charles exhulte. (2:04:25) Perch\xC3\xA9e sur une voiture, Marcela l'encourage. Seabiscuit passe la ligne d'arriv\xC3\xA9e, loin en t\xC3\xAAte, tandis que la voix-off raconte que ce n'est pas eux qui ont trouv\xC3\xA9 et gu\xC3\xA9ri ce cheval, c'est lui qui les a tous gu\xC3\xA9ri."
+  decor_id: 
+- effet: 
+  temps: 7555
+  scale: 5
+  duree: -55
+  lieu: 
+  resume: "Fondu au noir. G\xC3\xA9n\xC3\xA9rique."
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 148
+  lieu: 
+  resume: "G\xC3\xA9n\xC3\xA9rique sur des photos de la Ford Mod\xC3\xA8le T de Henri Ford, alors que le narrateur en parle. Apologie ironique (sans le dire) de la taylorisation."
+  decor_id: 
+- effet: 
+  temps: 88
+  scale: 5
+  duree: 32
+  lieu: 
+  resume: "New York. 1910. CHARLES travaille dans une usine de bicyclette. Il reste sans voix lorsqu'il fait remarquer \xC3\xA0 son contremaitre que les roues ne sont pas assez costaude, et qu'il lui demande ce qu'il ferait (comprendre : quel travail il aurait) si elle l'\xC3\xA9tait."
+  decor_id: 
+- effet: 
+  temps: 120
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "TOM SMITH se prom\xC3\xA8ne \xC3\xA0 cheval dans une nature superbe. C'est l'hiver, il chasse les chevaux."
+  decor_id: 
+- effet: 
+  temps: 190
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "C'est la nuit, Tom Smith regarde les \xC3\xA9toiles au bord du feu tandis que la voix-off commence le speech sur le r\xC3\xAAve am\xC3\xA9ricain."
+  decor_id: 
+- effet: 
+  temps: 205
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "S\xC3\xA9quence. Charles Howard a mont\xC3\xA9 son magasin de bicyclette, mais \xC3\xA7a ne marche pas fort\xE2\x80\xA6 Il finit par s'endormir. Il est r\xC3\xA9veill\xC3\xA9 par une voiture."
+  decor_id: 
+- effet: 
+  temps: 290
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Charles Howard d\xC3\xA9couvre l'automobile en d\xC3\xA9montant compl\xC3\xA8tement celle qu'il a promis de r\xC3\xA9parer."
+  decor_id: 
+- effet: 
+  temps: 325
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Charles fait l'\xC3\xA9loge de sa voiture \xC3\xA0 son propri\xC3\xA9taire. On sent qu'il est \xC3\xA9pat\xC3\xA9 par cette belle m\xC3\xA9canique."
+  decor_id: 
+- effet: 
+  temps: 350
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Charles a mont\xC3\xA9 son propre magasin d'automobile, \xC3\xA7a mache fort pour lui."
+  decor_id: 
+- effet: 
+  temps: 370
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Tom Smith rencontre un fil de barbel\xC3\xA9 qui lui coupe la route."
+  decor_id: 
+- effet: 
+  temps: 405
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Course automobile dans la nature. Charles Howard fait l'\xC3\xA9loge de la vitesse qu'il obtient devant des journalistes admiratifs."
+  decor_id: 
+- effet: 
+  temps: 425
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Madame Howard lit le journal, l'article sur son mari. Fiert\xC3\xA9. Charles demande \xC3\xA0 son fils de 1 an s'il est le futur."
+  decor_id: 
+- effet: 
+  temps: 435
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Tom Smith dresse un cheval (qui ressemble un peu \xC3\xA0 Seabiscuit, comme un pressentiment). Il sait lui parler."
+  decor_id: 
+- effet: 
+  temps: 460
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Charles Howard ach\xC3\xA8te un terrain immense."
+  decor_id: 
+- effet: 
+  temps: 475
+  scale: 5
+  duree: 90
+  lieu: 
+  resume: "On sort les chevaux de l'\xC3\xA9curie pour y faire rentrer les voitures de Charles\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 565
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Alberta, Canada. JOHNNY POLLARD monte. Il a 16 ans, il est dou\xC3\xA9. Son p\xC3\xA8re veut lui offrir un cheval, sa femme lui dit qu'il doit le m\xC3\xA9riter."
+  decor_id: 
+- effet: 
+  temps: 585
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Monsieur Pollard fait une le\xC3\xA7on de lecture \xC3\xA0 ses enfants. Excellent p\xC3\xA9dagogue, qui donne l'amour de la litt\xC3\xA9rature, qui se montre concilliant, qui partage sa passion."
+  decor_id: 
+- effet: 
+  temps: 660
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Les parents Pollard regarde leur fils \xC3\xA0 cheval. Son p\xC3\xA8re r\xC3\xA9p\xC3\xA8te que c'est \xC3\xA7a, la v\xC3\xA9ritable po\xC3\xA9sie."
+  decor_id: 
+- effet: 
+  temps: 675
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Charles Howard re\xC3\xA7oit. Il porte un toast \xC3\xA0 l'avenir, au r\xC3\xAAve am\xC3\xA9ricain. Le t\xC3\xA9l\xC3\xA9phone se met \xC3\xA0 sonner, on saura plus tard que c'est l'annonce de la crise de 1929."
+  decor_id: 
+- effet: 
+  temps: 730
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Le journal annonce le crash du 29 octobre 1929. S\xC3\xA9quence de photo sur la voix-off du narrateur. On part de l'abstraction de la bourse pour arriver \xC3\xA0 la r\xC3\xA9alit\xC3\xA9 des millions d'am\xC3\xA9ricains mis \xC3\xA0 la rue."
+  decor_id: 
+- effet: 
+  temps: 795
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "La voix-off s'ach\xC3\xA8ve sur la famille Pollard dans le d\xC3\xA9nouement le plus total. Le p\xC3\xA8re a perdu tout sourire. Red arrive, il a gagn\xC3\xA9 deux dollars."
+  decor_id: 
+- effet: 
+  temps: 845
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Au cours d'une course de chevaux, les parents Pollard rencontrent Blodget, \xC3\xA9tonn\xC3\xA9 par les connaissances de Johnny, qu'il baptise \xE2\x80\x9CRed\xE2\x80\x9D, en mati\xC3\xA8re de chevaux."
+  decor_id: 
+- effet: 
+  temps: 870
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: "Red quitte la maison. Alors que Red suit, admiratif, une course de chevaux, ses parents viennent lui annoncer qu'ilira vivre avec Blodget. La s\xC3\xA9paration estd'une rare intensit\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 985
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "6 ans plus tard. Red s'entraine. Il trouve quelqu'un pour l'embaucher comme jokey, malgr\xC3\xA9 sa grand taille."
+  decor_id: 
+- effet: 
+  temps: 1030
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "En plein dans une course. Comme on n'en a jamais vu. Deux cavaliers en t\xC3\xAAte se donne des coups. Red essaie de passer mais se fait d\xC3\xA9molir par le jockey hargneux."
+  decor_id: 
+- effet: 
+  temps: 1100
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red se fait remettre \xC3\xA0 sa place par son entraineur. Il doit nettoyer toutes les \xC3\xA9curies, comme un vulgaire gar\xC3\xA7on d'\xC3\xA9curie."
+  decor_id: 
+- effet: 
+  temps: 1120
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Charles reproche \xC3\xA0 son fils de trop lire, alors qu'il faut beau. Mais ils rient ensemble."
+  decor_id: 
+- effet: 
+  temps: 1175
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Charles et sa femme partent en voiture, \xC3\xA0 San Francisco, jusqu'\xC3\xA0 mercredi. Franck, leur fils, les regarde partir."
+  decor_id: 
+- effet: 
+  temps: 1200
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Franck pr\xC3\xA9pare son mat\xC3\xA9riel de p\xC3\xAAche et s'en va"
+  decor_id: 
+- effet: 
+  temps: 1220
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Franck roule, maladroitement, sur la route de la p\xC3\xA8che."
+  decor_id: 
+- effet: 
+  temps: 1245
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Coup de fil. Charles apprend (on le comprendra avec certitude plus tard) que son fils est mort. Plan sur le camion dans le foss\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1265
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Charles revient chez lui. Franck est mort.
+  decor_id: 
+- effet: 
+  temps: 1285
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Enterrement de Franck en toute intimit\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1295
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Charles, prostr\xC3\xA9 chez lui, joue \xC3\xA0 un jeu de billes. Il s'effondre en pleurs."
+  decor_id: 
+- effet: 
+  temps: 1325
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "On ferme l'\xC3\xA9curie de voitures."
+  decor_id: 
+- effet: 
+  temps: 1355
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Tom Smith est dans un train. O\xC3\xB9 va-t-il ? Que fait-il\xC2\xA0? On ne le sait pas."
+  decor_id: 
+- effet: 
+  temps: 1380
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Charles se dispute avec sa femme \xC3\xA0 propos d'une malheureuse t\xC3\xA2che."
+  decor_id: 
+- effet: 
+  temps: 1405
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "La femme de Charles le quitte, en toute discr\xC3\xA9tion. Charlesprend le livre de son fils, \xE2\x80\x9CFlash Gordon\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 1420
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Seabiscuit continue de s'exciter dans son box. Tom Smith ne sait pas quoi faire.
+  decor_id: 
+- effet: 
+  temps: 1440
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Red combat en boxe. Il se prend une racl\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 1485
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red lit sur les coups de gongs qui r\xC3\xA9sonnent encore, sur le banc d'une gare."
+  decor_id: 
+- effet: 
+  temps: 1505
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Tijuana, Mexique, 1933. Une f\xC3\xAAte mexicaine, la voix-off raconte la prohibition, les villes fronti\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 1555
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Charles assiste \xC3\xA0 une course de chevaux. Il n'a pas l'air tr\xC3\xA8s int\xC3\xA9ress\xC3\xA9. Introduction de George Woolf, le grand jockey et de Pamela, la future femme de Charles, qui le remarque."
+  decor_id: 
+- effet: 
+  temps: 1605
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: Red se fait vomir pour ne pas peser trop lourd.
+  decor_id: 
+- effet: 
+  temps: 1620
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Red passe \xC3\xA0 la balance."
+  decor_id: 
+- effet: 
+  temps: 1625
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Red raconte ses exploits aux autres jockey, accroch\xC3\xA9s \xC3\xA0 ses l\xC3\xA8vres. George entre et lui casse la barraque en poursuivant son r\xC3\xA9cit."
+  decor_id: 
+- effet: 
+  temps: 1670
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red et George se rendent au d\xC3\xA9part d'une course. Red reproche \xC3\xA0 George de lui casser ses histoires, George reproche \xC3\xA0 Red de tout inventer\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 1690
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "La course. George et Red discutent \xC3\xA0 l'arri\xC3\xA8re, George aime la conversation, mais il part quand m\xC3\xAAme pour la victoire."
+  decor_id: 
+- effet: 
+  temps: 1730
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "(lien avec, dans le m\xC3\xAAme hippodrome\xE2\x80\xA6) Tom Smith r\xC3\xA9cup\xC3\xA8re un cheval blanc qui doit \xC3\xAAtre abattu, sa jambe est cass\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 1790
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "F\xC3\xAAte apr\xC3\xA8s la course, les petits jockeys prennent du bon temps avec les grands prostitu\xC3\xA9es. Dans son coin, Red r\xC3\xA9fl\xC3\xA9chit et boit. Il repense \xC3\xA0 ce que lui disait George pendant la course."
+  decor_id: 
+- effet: 
+  temps: 1830
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "Course sur le dos de prostitu\xC3\xA9es. Dans sa chambre, Red raconte une histoire \xC3\xA0 une prostitu\xC3\xA9e au lieu de lui faire l'amour. Il la voit trouble. R\xC3\xA9miniscence de son combat de boxe et de George pendant la course."
+  decor_id: 
+- effet: 
+  temps: 1925
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Charles assiste sans passion \xC3\xA0 une corrida."
+  decor_id: 
+- effet: 
+  temps: 1945
+  scale: 5
+  duree: 110
+  lieu: 
+  resume: "\xC3\x80 l'ext\xC3\xA9rieur de la corrida, Charles se fait aborder par Marcela Zabala. Elle semontre spirituel, l'interpelleparson intelligence. Charles, de toute \xC3\xA9vidence, trouve un \xC3\xA9cho de sa d\xC3\xA9tresse dans le c\xC5\x93ur de Marcela."
+  decor_id: 
+- effet: 
+  temps: 2055
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Combat de boxe de Red. \xC3\x80 nouveau il perd."
+  decor_id: 
+- effet: 
+  temps: 2070
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Red est r\xC3\xA9veill\xC3\xA9 par George, qui le refait revenir \xC3\xA0 lui apr\xC3\xA8s le combat. Red repousse George."
+  decor_id: 
+- effet: 
+  temps: 2120
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Charles remonte \xC3\xA0 cheval avec Marcela. C'est la premi\xC3\xA8re fois depuis 20 ans. Elle le rassure."
+  decor_id: 
+- effet: 
+  temps: 2150
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Charles et Marcela se prom\xC3\xA8nent \xC3\xA0 cheval. Charles semble renaitre."
+  decor_id: 
+- effet: 
+  temps: 2165
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Charles et Marcela sont au restaurant, ils flirtent, ils s'entendent bien.
+  decor_id: 
+- effet: 
+  temps: 2185
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Charles et Marcela font \xC3\xA0 nouveau du cheval."
+  decor_id: 
+- effet: 
+  temps: 2190
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Charles et Marcela se marient.
+  decor_id: 
+- effet: 
+  temps: 2200
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Dans un march\xC3\xA9, Charles d\xC3\xA9cide d'acheter des chevaux, pour gagner des courses."
+  decor_id: 
+- effet: 
+  temps: 2215
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Une course, rapide.
+  decor_id: 
+- effet: 
+  temps: 2220
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Charles est \xE2\x80\x9Cen coulisse\xE2\x80\x9D, il cherche un entraineur. Son conseiller le conseille. (37:10) Il remarque Tom Smith, \xC3\xA0 l'\xC3\xA9cart, demande qui il est."
+  decor_id: 
+- effet: 
+  temps: 2255
+  scale: 5
+  duree: 135
+  lieu: 
+  resume: "Charles rejoint Tom Smith au bord de son feu. Les deux hommes boivent le caf\xC3\xA9, font connaissance. "
+  decor_id: 
+- effet: 
+  temps: 2390
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Saratoga, \xC3\xA9tat de New York, 3 mois plus tard. Sur un hippodrome, Tom Smith parle \xC3\xA0 Charles du cheval qu'il lui faut. Un cheval qui ait le c\xC5\x93ur \xC3\xA0 se battre."
+  decor_id: 
+- effet: 
+  temps: 2415
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Red se brade. Il ne peut que trouver un poste pour faire la longe aux chevaux.
+  decor_id: 
+- effet: 
+  temps: 2440
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Alors qu'il fait la longe en insultant le cheval qu'il traine, Red est remarqu\xC3\xA9 par Tom Smith."
+  decor_id: 
+- effet: 
+  temps: 2475
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: Tom Smith rencontre Seabiscuit, par 5h, un matin brumeux.
+  decor_id: 
+- effet: 
+  temps: 2535
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Enfance de Seabiscuit (voix-off)
+  decor_id: 
+- effet: 
+  temps: 2560
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Seabiscuit et son amour du repos et de la nourriture\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2590
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Ordre de le dresser, mais le cheval ne r\xC3\xA9agit pas plus."
+  decor_id: 
+- effet: 
+  temps: 2610
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "On le transforme en cheval d'entrainement, qui perd syst\xC3\xA9matiquement pour donner confiance \xC3\xA0 l'autre cheval."
+  decor_id: 
+- effet: 
+  temps: 2620
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Course de Seabiscuit sous la pluie, avec la voix-off qui raconte qu'il faisait \xC3\xA0 peine deux pauvres courses \xC3\xA0 r\xC3\xA9clamer la semaine."
+  decor_id: 
+- effet: 
+  temps: 2625
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "La voix-off raconte qu'il devint aussi hargneux que son p\xC3\xA8re. On le voit dans son box en train de s'en prendre aux gar\xC3\xA7ons d'\xC3\xA9curie. La voie raconte qu'on le vendit pour 200 dollars."
+  decor_id: 
+- effet: 
+  temps: 2640
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Seabiscuit passe devant les champions tandis que la voix-off raconte ce que fit le cheval pendant les courses : il fit ce qu'on lui apprit : il perdit."
+  decor_id: 
+- effet: 
+  temps: 2650
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Tom Smith a amen\xC3\xA9 Charles et Marcela au box de Seabiscuit. Marcela ironise sur le fait qu'il a du caract\xC3\xA8re. Effectivement, le cheval rue dans son box en pleine nuit. Charles demande si on pourra le monter. Tom r\xC3\xA9pond que bien s\xC3\xBBr\xE2\x80\xA6 mais avec le temps."
+  decor_id: 
+- effet: 
+  temps: 2675
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Tom Smith am\xC3\xA8ne un jockey pour monter Seabiscuit, qui rue. Le jockey se fait arracher sa chemise. Alors qu'il repart en partant tout seul, Tom voit Red, qui se bat avec d'autres gar\xC3\xA7ons d'\xC3\xA9curie. Il regarde le cheval fougueux derri\xC3\xA8re lui\xE2\x80\xA6 il regarde le jockey fougueux devant lui\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2740
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Tom am\xC3\xA8ne Red voir Seabiscuit\xE2\x80\xA6 Seabiscuit et Red font connaissance\xE2\x80\xA6 Red lui donne une demi-pomme. Seabiscuit se calme."
+  decor_id: 
+- effet: 
+  temps: 2810
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: Rencontre entre les trois hommes et le cheval.
+  decor_id: 
+- effet: 
+  temps: 2840
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Red fait un galop avec Biscuit, il court vite, mais dans tous les sens. Smith avoue qu'il est d\xC3\xA9concert\xC3\xA9, qu'il ne sait pas quoi penser du cheval. Il dit que celui-ci a oubli\xC3\xA9 pourquoi il existait\xE2\x80\xA6 Il dit qu'il faut lui r\xC3\xA9-apprendre \xC3\xA0 \xC3\xAAtre un cheval\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2885
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: "Tom Smith demande \xC3\xA0 Red de faire courir le cheval. S\xC3\xA9quence dans la nature, avec Red qui fait courir le cheval. Insert avec Marcela qui rassure Charles en lui disant qu'au moins, le cheval ne lui a pas co\xC3\xBBt\xC3\xA9 cher\xE2\x80\xA6 Mais en parall\xC3\xA8le, on entend Red, le surdou\xC3\xA9 de l'\xC3\xA9quitation, qui dit \xC3\xA0 Biscuit qu'il est incroyable\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3000
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Dans un train, ils rejoignent ? (New York). Red fume \xC3\xA0 l'ext\xC3\xA9rieur, au froid. Marcela vient lui dire de rentrer, mais il assure qu'il va bien."
+  decor_id: 
+- effet: 
+  temps: 3025
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Red et Smith d\xC3\xA9couvrent la demeure de Charles Howard, impressionn\xC3\xA9s."
+  decor_id: 
+- effet: 
+  temps: 3040
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "On am\xC3\xA8ne la soupe \xC3\xA0 Red, il ne la mange pas. Charles lui dit que \xE2\x80\x9Cc'est bon\xE2\x80\x9D. Red go\xC3\xBBte, du bout des l\xC3\xA8vres."
+  decor_id: 
+- effet: 
+  temps: 3105
+  scale: 5
+  duree: 4395
+  lieu: 
+  resume: "La voix-off enchaine sur la soupe populaire. Photo d'archive. Le NRA, WPA, le CCC\xE2\x80\xA6 La voix-off fait l'hymne de l'entraide. Pour la premi\xC3\xA8re fois depuis longtemps, on n'\xC3\xA9tait plus seul."
+  decor_id: 
+- effet: 
+  temps: 3130
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Charles entre dans la chambre de son fils Franck, avec \xC3\xA9motion et crainte"
+  decor_id: 
+- effet: 
+  temps: 3170
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Dans l'\xC3\xA9curie, Red lit."
+  decor_id: 
+- effet: 
+  temps: 3180
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Sous un arbre, Tom Smith se repose.
+  decor_id: 
+- effet: 
+  temps: 3190
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Le cadenas de l'\xC3\xA9curie est ouvert \xC3\xA0 nouveau. On sort les voitures et on fait rentrer \xC3\xA0 nouveau les chevaux."
+  decor_id: 
+- effet: 
+  temps: 3230
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Tom Smith arrive avec une ch\xC3\xA8vre. Quand Charles lui demande ce qu'il fait, Smith lui r\xC3\xA9pond que les chevaux intelligents d\xC3\xA9testent rester seuls."
+  decor_id: 
+- effet: 
+  temps: 3250
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Seabiscuit fait voler la ch\xC3\xA8vre hors de son box\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3260
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Smith am\xC3\xA8ne le cheval blanc qu'il a sauv\xC3\xA9 de la mort et le fait rentrer dans le box de Seabiscuit."
+  decor_id: 
+- effet: 
+  temps: 3275
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Marcela s'\xC3\xA9tonne du calme du box. Smith lui montre : Seabiscuit s'entend bien avec sa nouvelle compagne\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3300
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Les trois hommes, et Marcela, sont \xC3\xA0 l'\xC3\xA9glise, et chantent."
+  decor_id: 
+- effet: 
+  temps: 3315
+  scale: 5
+  duree: 110
+  lieu: 
+  resume: "Champ de course de Tanforan. Tom demande \xC3\xA0 Red de faire courir Seabiscuit. Au d\xC3\xA9but, il court \xE2\x80\x9Cendormi\xE2\x80\x9D, comme le dit Tom, puis (56:15) il se met \xC3\xA0 courir vraiment, jusqu'\xC3\xA0 battre le record de l'hippodrome."
+  decor_id: 
+- effet: 
+  temps: 3425
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Hippodrome de Santa Anita, Arcadia, Californie.
+  decor_id: 
+- effet: 
+  temps: 3435
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "L'animateur de Radio Tick-Tock McGlaughlin ironie sur Biscuit, qui part \xC3\xA0 70 contre un."
+  decor_id: 
+- effet: 
+  temps: 3455
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Marcela montre le maillot \xC3\xA0 Charles. Marcela lui demande s'il ne trouve pas le \xE2\x80\x9CH\xE2\x80\x9D trop grand. Charles lui demande s'il a vu la taille de leur jockey\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3470
+  scale: 5
+  duree: 170
+  lieu: 
+  resume: "Smith donne les consignes \xC3\xA0 Red pour se battre conte le gris. Mais lui-m\xC3\xAAme n'y croit pas trop. Pendant la course, Red se laisse emporter et oublie les consignes de Smith quand un cheval le double de fa\xC3\xA7on irr\xC3\xA9guli\xC3\xA8re. (1:01:40) Seabiscuit perd la course."
+  decor_id: 
+- effet: 
+  temps: 3510
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "D\xC3\xA9part de la course. Dans le stand de d\xC3\xA9part (59:10), Red croise George Woolf qui parie \xC3\xA0 nouveau avec lui. (59:15) Le d\xC3\xA9part est donn\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3640
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Au cin\xC3\xA9ma, Red, Charles et Marcela d\xC3\xA9couvrent qui est War Admiral, un magnifique pur-sang."
+  decor_id: 
+- effet: 
+  temps: 3650
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Red se fait r\xC3\xA9primander par Smith (et Howard). Red r\xC3\xA9torque qu'il y avait faute, mais on sait qu'il a eu tort. Charles finit par lui dire : \xE2\x80\x9CFiston, contre quoi tu es en col\xC3\xA8re\xC2\xA0?\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 3680
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Red veut se jeter d'un pont. R\xC3\xA9miniscence de son p\xC3\xA8re qui lui dit qu'il a un don. Red finit par renoncer et rentre chez lui."
+  decor_id: 
+- effet: 
+  temps: 3695
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "R\xC3\xA9miniscence : le p\xC3\xA8re, \xC3\xA0 table, passionne ses enfants."
+  decor_id: 
+- effet: 
+  temps: 3720
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Red emprunte de l'argent \xC3\xA0 Charles. Il lui demande 10 dollars, Charles lui donne 20 dollars, qui en paraissent20 000."
+  decor_id: 
+- effet: 
+  temps: 3780
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Red et Seabiscuit remporte leur premi\xC3\xA8re course."
+  decor_id: 
+- effet: 
+  temps: 3855
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Voix-off, elle parle, sur des photos, du courage qui \xC3\xA9tait revenu aux hommes."
+  decor_id: 
+- effet: 
+  temps: 3880
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Charles fait une conf\xC3\xA9rence de presse. Analogie entre son cheval et l'am\xC3\xA9ricain de ces ann\xC3\xA9es-l\xC3\xA0 : \xE2\x80\x9Cil ne sait pas qu'il est petit. Il se prend pour le plus grand.\xE2\x80\x9D Charles r\xC3\xA9p\xC3\xA8te : \xE2\x80\x9CLe futur, c'est \xC3\xA7a, la ligne d'arriv\xC3\xA9e\xE2\x80\x9D (ce qu'il disait pour son fils)"
+  decor_id: 
+- effet: 
+  temps: 3915
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: L'animateur radio fait ses excuses de ne pas avoir cru en Seabiscuit.
+  decor_id: 
+- effet: 
+  temps: 3930
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "L'animateur fait ses excuses en direct \xC3\xA0 Charles Howard au cours d'une soir\xC3\xA9e. Il lui apprend que toutes les places pas ch\xC3\xA8res ont \xC3\xA9t\xC3\xA9 vendues."
+  decor_id: 
+- effet: 
+  temps: 3950
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Nouvelle course. Red dit que c'est pour les \xE2\x80\x9Csans-le-sou\xE2\x80\x9D qu'il court. Red et Seabiscuit arrivent sur la piste, sous les acclamations. (1:06:30) On d\xC3\xA9couvre tout le peuple venir voir Seabiscuit concourir."
+  decor_id: 
+- effet: 
+  temps: 4010
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Seabiscuit remporte le handicap de San Onofree.
+  decor_id: 
+- effet: 
+  temps: 4020
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Seabiscuit remporte le handicap de San Miguel
+  decor_id: 
+- effet: 
+  temps: 4030
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Seabiscuit remporte le handicap de San Rafael
+  decor_id: 
+- effet: 
+  temps: 4040
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Actualit\xC3\xA9s sur les victoires de Seabiscuit dans une salle de cin\xC3\xA9ma. Charles, Marcela, Tom et Red sont l\xC3\xA0. Ils se marrent en entendant un spectateur pr\xC3\xA9tendre que le succ\xC3\xA8s de Seabiscuit repose sur les 2 pintes de bi\xC3\xA8re qu'on lui donne avant la course\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4070
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Red boit une bi\xC3\xA8re devant le box. Des caisses de bi\xC3\xA8re sont entass\xC3\xA9es devant le box de Seabiscuit. Quand Tom arrive, \xC3\xA9tonn\xC3\xA9, Red lui dit que ce sont les admirateurs qui les ont envoy\xC3\xA9es. Tom ne voit pas le cheval. Red lui dit qu'il est en train de signer des autographes\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4095
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Seabiscuit signe des autographes avec Charles Howard devant les journalistes. Charles explique qu'il suffit parfois d'une seconde chance aux gens pour se r\xC3\xA9v\xC3\xA9ler (les journalistes approuvent). Il termine en distribuant les fers \xC3\xA0 cheval (qu'on saura \xC3\xA0 Tom dans une sc\xC3\xA8ne suivante)"
+  decor_id: 
+- effet: 
+  temps: 4135
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Tom, \xC3\xA9nerv\xC3\xA9, en fouillant ses affaires, demande o\xC3\xB9 sont pass\xC3\xA9s ses fers \xC3\xA0 cheval."
+  decor_id: 
+- effet: 
+  temps: 4145
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Tom, dans un restaurant, vient dire \xC3\xA0 Charles qu'il ne peut pas travailler dans ces conditons. Il montre \xC3\xA0 Charles ce qu'est un grand cheval, dans un journal : War Admiral. 18 mains de taille, le cheval parfait, cr\xC3\xA9\xC3\xA9 par Monsieur Riddle."
+  decor_id: 
+- effet: 
+  temps: 4210
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Dans son lit, Charles Howard s'\xC3\xA9nerve : qu'est-ce que \xC3\xA7a veut dire,  \xE2\x80\x9Cparfait\xE2\x80\x9D\xC2\xA0? Montre-moi quelque chose de parfait et je lui trouverai tous les d\xC3\xA9fauts\xC2\xA0!"
+  decor_id: 
+- effet: 
+  temps: 4230
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Annonce \xC3\xA0 la radio de Pick-Pock, qui s'emm\xC3\xAAle les crayons."
+  decor_id: 
+- effet: 
+  temps: 4265
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Conf\xC3\xA9rence de Riddle, propri\xC3\xA9taire de War Admiral, qui ridiculise les courses \xC3\xA0 l'ouest des \xC3\x89tats-unis \xE2\x80\x94 pour le plus grand bonheur des journalistes."
+  decor_id: 
+- effet: 
+  temps: 4305
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Tom Smith coupe la radio. Red se rebiffe. Il  dit qu'il va exploser la caboche de ce cheval\xC2\xA0! Charles dit qu'il va motiver tout \xC3\xA7a avec de l'argent."
+  decor_id: 
+- effet: 
+  temps: 4320
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "100 000 dollars ? s'\xC3\xA9tonne le conseiller d'Howard. Charles parvient \xC3\xA0 vendre la course."
+  decor_id: 
+- effet: 
+  temps: 4370
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Radio. L'animateur-pronostiqueur annonce l'enjeu de 100 000 dollars tandis que son assistante, qui se pr\xC3\xA9lase dans le canap\xC3\xA9, reste joyeuse\xE2\x80\xA6 "
+  decor_id: 
+- effet: 
+  temps: 4400
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Les journalistes, en plein soir, viennent trouver Riddle, le propri\xC3\xA9taire de War Admiral. Celui-ci leur dit simplement : \xE2\x80\x9CNon merci\xE2\x80\xA6\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 4410
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Charles et Marcela sont au restaurant. Charles explique \xC3\xA0 Marcela que si les autres chevaux de prestige sont l\xC3\xA0, War Admiral sera contraint d'\xC3\xAAtre l\xC3\xA0 lui aussi. Marcela voudrait bien le croire."
+  decor_id: 
+- effet: 
+  temps: 4425
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Deux semaines plus tard, les chevaux arrivent, sous la pluie.
+  decor_id: 
+- effet: 
+  temps: 4435
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Dans une salle, Tom Smith explique la strat\xC3\xA9gie \xC3\xA0 Red."
+  decor_id: 
+- effet: 
+  temps: 4450
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Tandis qu'on voit les chevaux, Tom Smith poursuit en voix-off ses recommandations.
+  decor_id: 
+- effet: 
+  temps: 4460
+  scale: 5
+  duree: 22
+  lieu: 
+  resume: "Pr\xC3\xA9paration de la course, la piste, sur la voix-off de Tom qui s'ach\xC3\xA8ve sur le danger de la lice"
+  decor_id: 
+- effet: 
+  temps: 4482
+  scale: 5
+  duree: 138
+  lieu: 
+  resume: "La course (sur la voix-off de Tom qui r\xC3\xA9sonne encore)."
+  decor_id: 
+- effet: 
+  temps: 4620
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Alors qu'on pensait que Seabiscuit allait gagner, la photo du finish montre qu'il a \xC3\xA9t\xC3\xA9 doubl\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4625
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red dit que \xC3\xA7a n'est pas \xC3\xA7a faute, qu'il ne pouvait pas le voir\xE2\x80\xA6 Red doit avouer qu'il devient aveugle."
+  decor_id: 
+- effet: 
+  temps: 4645
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Tom annonce \xC3\xA0 Charles que Red a des probl\xC3\xA8mes de vue. \xE2\x80\x9CIt's fine\xE2\x80\x9D r\xC3\xA9pond simplement Charles. Et il lui rappelle qu'on ne bazarde pas quelqu'un juste parce qu'il est un peu ab\xC3\xAEm\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4705
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Riddle, interrog\xC3\xA9 par la presse, ridiculise le duel entre David et Goliat."
+  decor_id: 
+- effet: 
+  temps: 4725
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Charles lit le journal o\xC3\xB9 on \xC3\xA9crit que l'erreur du jockey a co\xC3\xBBt\xC3\xA9 la victoire au cheval."
+  decor_id: 
+- effet: 
+  temps: 4740
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Charles Howard fait une conf\xC3\xA9rence de presse o\xC3\xB9 il annonce qu'il fera toutes les courses jusqu'\xC3\xA0 affronter War Admiral. Et il conclut en faisant part de son amour pour Seabiscuit."
+  decor_id: 
+- effet: 
+  temps: 4770
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Charles prend le train.
+  decor_id: 
+- effet: 
+  temps: 4795
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Charles, en train, fait la promotion de Seabiscuit. Le cheval qui refuse de renoncer m\xC3\xAAme quand la vie le bat d'une longueur\xE2\x80\xA6 Charles fait monter la sauce et demande le combat entre War Admiral et Seabiscuit."
+  decor_id: 
+- effet: 
+  temps: 4855
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Annonce dans les journaux du duel demand\xC3\xA9. Poursuite de la campagne de Charles Howard dans tout le pays. Le jockey trop grand et l'entra\xC3\xAEneur trop vieux et me propri\xC3\xA9taire \xE2\x80\x94\xC2\xA0lui-m\xC3\xAAme\xC2\xA0\xE2\x80\x94 trop b\xC3\xAAte pour s'en rendre compte."
+  decor_id: 
+- effet: 
+  temps: 4875
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: Les journaux relatent l'affaire.
+  decor_id: 
+- effet: 
+  temps: 4890
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Tick-Tock dans son studio de radio. Lui et sa supportrice r\xC3\xA9clament le duel."
+  decor_id: 
+- effet: 
+  temps: 4915
+  scale: 5
+  duree: 2585
+  lieu: 
+  resume: "Campagne de Charles Hoaward pour obtenir un duel contre War Admiral. S\xC3\xA9quence de plusieurs sc\xC3\xA8nes. La presse relate l'affaire, qui enfle."
+  decor_id: 
+- effet: 
+  temps: 4930
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Riddle re\xC3\xA7oit Howard dans un riche restaurant. Il accepte le duel, mais \xC3\xA0 ses conditions."
+  decor_id: 
+- effet: 
+  temps: 4965
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "La presse annonce la course : \xE2\x80\x9CThe Race is on !\xE2\x80\x9D pour le 1er novembre \xC3\xA0 Pimlico."
+  decor_id: 
+- effet: 
+  temps: 4970
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Howard et Marcela, Tom et Red visitent les \xC3\xA9curies impeccables de Riddle. Ils n'ont jamais vu une telle propret\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4995
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Les journalistes, aux fen\xC3\xAAtres, essaient d'obtenir l'attention de Seabiscuit. Sa compagne blanche passe la t\xC3\xAAte par la porte du box\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 5005
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "\xC3\x89curies priv\xC3\xA9s de War Admiral (annonc\xC3\xA9 par l'intertitre). Embusqu\xC3\xA9s, les quatre lascars guettent War Admiral aux jumelles."
+  decor_id: 
+- effet: 
+  temps: 5040
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "En regardant War Admiral courir, Tom Smith prend la d\xC3\xA9cision d'une autre strat\xC3\xA9gie. Seabiscuit doit prendre la t\xC3\xAAte, bien qu'il ne l'ait jamais fait. Ils ont deux semaines\xE2\x80\xA6 "
+  decor_id: 
+- effet: 
+  temps: 5070
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Red et Tom ach\xC3\xA8tent la cloche d'un pompier en train de garer son camion."
+  decor_id: 
+- effet: 
+  temps: 5080
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Ils commencent \xC3\xA0 l'entrainer, de nuit, en secret. Tom veut l'habituer \xC3\xA0 partir \xC3\xA0 fond d\xC3\xA8s qu'il entendra la cloche."
+  decor_id: 
+- effet: 
+  temps: 5145
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Tom Smith assis devant le box de Seabiscuit. Les journalistes s'impatientent, veulent savoir quand il va entrainer son cheval.
+  decor_id: 
+- effet: 
+  temps: 5170
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Entrainement de nuit. Tom veut voir Seabiscuit faire un tour de piste sans personne devant. Petit moment magique de course de nuit\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 5210
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Red vient voir Seabiscuit \xC3\xA0 l'\xC3\xA9curie. Il rencontre un vieil entraineur qui avait refus\xC3\xA9 de lui donner sa chance. L'entraineur a besoin d'un coup de main."
+  decor_id: 
+- effet: 
+  temps: 5260
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Red Pollard fait la d\xC3\xA9monstration. Mais le cheval panique en entendant un engin m\xC3\xA9canique p\xC3\xA9tarader. Red tombe et se fait entrainer sur des centaines de m\xC3\xA8tres par le cheval fou\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 5335
+  scale: 5
+  duree: 2
+  lieu: 
+  resume: "Inconscient, Red est emmen\xC3\xA9 par une ambulance."
+  decor_id: 
+- effet: 
+  temps: 5337
+  scale: 5
+  duree: 13
+  lieu: 
+  resume: "\xC3\x80 l'h\xC3\xB4pital, Charles, Marcela, Tom et leur palefrenier attendent."
+  decor_id: 
+- effet: 
+  temps: 5350
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Le toubib explique \xC3\xA0 Charles que la jambe de Red a tout pris. Qu'elle est d\xC3\xA9molie."
+  decor_id: 
+- effet: 
+  temps: 5370
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "S\xC3\xA9quences. Charles attend \xC3\xA0 l'h\xC3\xB4pital. (1:29:56) Il se remet \xC3\xA0 jouer au jeu des billes. Le toubib finit par arriver et annoncer \xC3\xA0 Howard que Red boitera mais qu'il pourra remarcher."
+  decor_id: 
+- effet: 
+  temps: 5425
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Dans la chambre, Charles, Marcela et Tom sont venus voir Red. Charles met \xC3\xA0 Red sur le temps de sa gu\xC3\xA9rison mais Red n'est pas dupe. Charles dit qu'ils vont d\xC3\xA9clarer forfait. Red refuse. Il leur demande d'appeler Woolf."
+  decor_id: 
+- effet: 
+  temps: 5475
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Conf\xC3\xA9rence de presse sous la pluie devant l'h\xC3\xB4pital de Baltimore. Charles annonce qu'ils ne d\xC3\xA9clarent pas forfait."
+  decor_id: 
+- effet: 
+  temps: 5485
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "George Woolf arrive \xC3\xA0 l'h\xC3\xB4pital sous la pluie. Tandis que la voix de PickPock r\xC3\xA9sonne."
+  decor_id: 
+- effet: 
+  temps: 5495
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Pick-Pock est au micro, on ne sait pas trop o\xC3\xB9, \xC3\xA7a ressemble \xC3\xA0 un bistrot."
+  decor_id: 
+- effet: 
+  temps: 5500
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Un cin\xC3\xA9ma. Sur la toile, Riddle annonce que le cavalier n'y changera rien, War Admiral est sup\xC3\xA9rieur d'origine."
+  decor_id: 
+- effet: 
+  temps: 5510
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "\xC3\x80 l'h\xC3\xB4pital, Red donne ses consignes \xC3\xA0 George Woolf. George dit \xC3\xA0 Red qu'il aimerait que ce soit lui."
+  decor_id: 
+- effet: 
+  temps: 5550
+  scale: 5
+  duree: 8
+  lieu: 
+  resume: George s'entraine de nuit sur Seabiscuit.
+  decor_id: 
+- effet: 
+  temps: 5558
+  scale: 5
+  duree: 7
+  lieu: 
+  resume: "\xC3\x80 nouveau dans la chambre, Red donne une nouvelle consigne \xC3\xA0 George."
+  decor_id: 
+- effet: 
+  temps: 5565
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Sur la piste, de nuit, George applique la consigne.
+  decor_id: 
+- effet: 
+  temps: 5570
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Nouvelle consigne dans la chambre d'h\xC3\xB4pital."
+  decor_id: 
+- effet: 
+  temps: 5575
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Nouvel entrainement de nuit.
+  decor_id: 
+- effet: 
+  temps: 5580
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Pour la derni\xC3\xA8re consigne, Red demande \xC3\xA0 George de fermer la porte. Il demande \xC3\xA0 George, malgr\xC3\xA9 les consignes de Smith de se laisser rattraper par War Admiral, pour qu'il le regarde droit dans les yeux, et qu'il gagne. Il lui dit que \xC3\xA7a n'est pas dans le jambes, que c'est dans le c\xC5\x93ur."
+  decor_id: 
+- effet: 
+  temps: 6085
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Sam conduit George et Seabiscuit aupr\xC3\xA8s de Charles et Marcela. Au micro, George dit qu'il aurait aim\xC3\xA9 que ce soit son ami Red Pollard qui soit l\xC3\xA0 aujourd'hui."
+  decor_id: 
+- effet: 
+  temps: 6100
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red entend ces derniers mots avec \xC3\xA9motion. Puis c'est la cl\xC3\xB4ture de l'\xC3\xA9mission, embrayant sur le sponsor p\xC3\xA9trolier de la course\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6120
+  scale: 5
+  duree: 28
+  lieu: 
+  resume: "\xC3\x80 la gare de Baltimore, Marcela et George tendent la coupe sous les acclamations et la fanfare. Un peu plus loin, on monte Red dans un train, Charles est \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s. Red a un petit regard de tristesse en voyant George parler avec entrain \xC3\xA0 la presse."
+  decor_id: 
+- effet: 
+  temps: 6148
+  scale: 5
+  duree: 7
+  lieu: 
+  resume: "Le train les ram\xC3\xA8ne \xC3\xA0 Santa Anita."
+  decor_id: 
+- effet: 
+  temps: 6155
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Arriv\xC3\xA9e \xC3\xA0 Santa Anita. Charles et Marcela accueillent Seabiscuit."
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Une ambulance ram\xC3\xA8ne Red au ranch. Sam est l\xC3\xA0 pour l'accueillir. L'ambiance est clairement \xC3\xA0 la tristesse, comme en ces lendemains de grande victoire\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6540
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Red reprend la vieille selle dans l'\xC3\xA9curie."
+  decor_id: 
+- effet: 
+  temps: 6545
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Red part avec Biscuit sur la piste. Sam ne sait pas s'il doit le laisser faire. Quand il s'inqui\xC3\xA8te de la jambe de Red, celui-ci lui montre la proth\xC3\xA8se formidable qu'il s'est confectionn\xC3\xA9 : un bout de bois\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6560
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red monte doucement Seabiscuit. Il lui rappelle leurs victoires pass\xC3\xA9es, comme un animateur sur un hippodrome."
+  decor_id: 
+- effet: 
+  temps: 6580
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Red mange avec un bel app\xC3\xA9tit, devant le regard h\xC3\xA9berlu\xC3\xA9 de Marcela et Charles."
+  decor_id: 
+- effet: 
+  temps: 6600
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Octobre. Red monte Seabiscuit qui se met \xC3\xA0 courir lorsque des oiseaux quittent brusquement un taillis. Sa jambe semble bien tenir."
+  decor_id: 
+- effet: 
+  temps: 6630
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Red vient emprunter la tondeuse de Sam\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6640
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Red tond un cercle de pelouse.
+  decor_id: 
+- effet: 
+  temps: 6645
+  scale: 5
+  duree: 33
+  lieu: 
+  resume: "Red et Sam am\xC3\xA8nent Seabiscuit. Red fait du man\xC3\xA8ge avoir lui. Charles les aper\xC3\xA7oit alors qu'il rentre chez lui."
+  decor_id: 
+- effet: 
+  temps: 6678
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Repas du soir. Red ne manque plus (comprendre : il s'est remis au r\xC3\xA9gime de jockey)."
+  decor_id: 
+- effet: 
+  temps: 6698
+  scale: 5
+  duree: 7
+  lieu: 
+  resume: Red galope sur la piste de sable.
+  decor_id: 
+- effet: 
+  temps: 6705
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Conf\xC3\xA9rence au sommet sous la v\xC3\xA9randa. Marcela demande \xC3\xA0 Tom si c'est seulement possible. Tom lui assure que oui, simplement, on n'essaie m\xC3\xAAme pas. On se contente de\xE2\x80\xA6 chacun comprend. Tom recommande de le faire galoper un peu \xC3\xA0 l'hippodrome pour savoir. Ils aper\xC3\xA7oivent Red qui s'approche, un peu plus loin, en boitant\xE2\x80\xA6 D\xC3\xA9j\xC3\xA0 Charles et Marcella semblent avoir pris leur d\xC3\xA9cision\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6735
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Hippodrome. Tom et Charles regardent Seabiscuit courir. George revient en disant qu'il n'a rien senti. Tom lui propose de reprendre l'entrainement. George dit qu'il sera l\xC3\xA0. En repartant, Charles demande \xC3\xA0 Tom si Biscuit pourra \xC3\xAAtre pr\xC3\xAAt. Pr\xC3\xAAt pour quoi ? demande innocemment Sam. Sam le retient\xE2\x80\xA6 et se recule vers\xE2\x80\xA6 Pick-Pock, qui se cache derri\xC3\xA8re son journal. Il n'a rien manqu\xC3\xA9 de toute la sc\xC3\xA8ne\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6810
+  scale: 5
+  duree: 22
+  lieu: 
+  resume: Tick-Tock fait une annonce tonitruante dans son micro. Il annonce, sans le nommer, le retour de Seabiscuit dans les boxes.
+  decor_id: 
+- effet: 
+  temps: 6832
+  scale: 5
+  duree: 8
+  lieu: 
+  resume: "Dans sa chambre, Red coupe sa radio\xE2\x80\xA6 et r\xC3\xA9fl\xC3\xA9chit, dubitatif."
+  decor_id: 
+- effet: 
+  temps: 6840
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Red descend du train\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6845
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Biscuit revient au box avec George sur son dos, Tom et Charles \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s. Tom annonce le bon temps qu'ils viennent de faire. Soudain, Seabiscuit rue, s'agite. Charles d\xC3\xA9couvre\xE2\x80\xA6 Red, qui arrive avec sa canne au coin d'une \xC3\xA9curie. Moment de g\xC3\xAAne, Red calme le cheval. Red leur lance alors : \xE2\x80\x9CCette blessure est la plus cruelle de toutes.\xE2\x80\x9D Charles vient lui expliquer. Mais Red ne veut rien entendre."
+  decor_id: 
+- effet: 
+  temps: 6915
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Au bord du champ de course, Charles prend la d\xC3\xA9cision de donner sa chance \xC3\xA0 Red, par un \xE2\x80\x9CEt merde\xE2\x80\xA6\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6925
+  scale: 5
+  duree: 13
+  lieu: 
+  resume: "Red et Charles attendent dans la salle d'attente d'un toubib. Charles a dit qu'il remettait la d\xC3\xA9cision entre les mains d'un docteur."
+  decor_id: 
+- effet: 
+  temps: 6938
+  scale: 5
+  duree: 14
+  lieu: 
+  resume: "Dans la salle de consultation, le docteur ne sait pas quoi penser de la proth\xC3\xA8se fabriqu\xC3\xA9e par Red."
+  decor_id: 
+- effet: 
+  temps: 6952
+  scale: 5
+  duree: 6
+  lieu: 
+  resume: Red attend seul dans la salle d'attente.
+  decor_id: 
+- effet: 
+  temps: 6958
+  scale: 5
+  duree: 13
+  lieu: 
+  resume: "Le docteur explique \xC3\xA0 Charles, devant une radio que la jambe de Red peut casser \xC3\xA0 n'importe quel moment, qu'il faut oublier la course. S'il se casse \xC3\xA0 nouveau la jambe, on ne sait pas s'il pourra remarcher."
+  decor_id: 
+- effet: 
+  temps: 6971
+  scale: 5
+  duree: 32
+  lieu: 
+  resume: "Charles et Red rentrent, en voiture. Red souligne le \xE2\x80\x9Cpossible\xE2\x80\x9D (peut-\xC3\xAAtre) du toubib. Red argumente brillamment. Ils ont d\xC3\xA9j\xC3\xA0 r\xC3\xA9ussi des choses impossibles ensemble. Et pour lui, cette course \xC3\xA0 Santa Anita, c'est la plus importante de toutes. C'est une course qu'il a failli gagner. Pour toute r\xC3\xA9ponse, Charles met la radio."
+  decor_id: 
+- effet: 
+  temps: 7003
+  scale: 5
+  duree: 12
+  lieu: 
+  resume: Tableau d'annonce des cotes des chevaux. L'assistance applaudit quand elle voit le nom de Seabiscuit.
+  decor_id: 
+- effet: 
+  temps: 7015
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Alors que George se rase, Charles lui dit que la jambe de Red ne tiendra pas. De toute \xC3\xA9vidence, il cherche \xC3\xA0 se convaincre. C'est alors que George lui demande s'il veut son avis. Et le jockey de r\xC3\xA9pondre : \xE2\x80\x9CMieux vaut briser la jambe que le c\xC5\x93ur d'un homme.\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 7030
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Dans les tribunes d\xC3\xA9sertes, Charles essaie de se convaincre aupr\xC3\xA8s de Marcela que Red pourrait en mourir. Marcela plonge la main dans la poche de sa veste et en sort le jeu de billes. Elle lui avoue en pleurant que elle joue aussi beaucoup avec, mais qu'elle n'arrive jamais \xC3\xA0 garder la boule dans le trou. Et elle, la femme, comme la m\xC3\xA8re, lui demande en pleurant de laisser Red monter Seabiscuit, de le laisser courir."
+  decor_id: 
+- effet: 
+  temps: 7085
+  scale: 5
+  duree: 7
+  lieu: 
+  resume: "Tick-Tock ironise sur le ridicule de la d\xC3\xA9cision."
+  decor_id: 
+- effet: 
+  temps: 7092
+  scale: 5
+  duree: 8
+  lieu: 
+  resume: "On se retrouve le jour de la course. Tick-Tock est au micro face \xC3\xA0 la cam\xC3\xA9ra, en haut de la piste. Il parle du public incroyable se trouve ici d\xC3\xA9j\xC3\xA0 \xC3\xA0 midi."
+  decor_id: 
+- effet: 
+  temps: 7100
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Dans l'\xC3\xA9curie, Red attache sa proth\xC3\xA8se. Il dit que \xC3\xA7a n'est pas mal. Marcela lui remet une m\xC3\xA9daille de St-Christophe. Tom est appuy\xC3\xA9 contre le box, sceptique, ou pas."
+  decor_id: 
+- effet: 
+  temps: 7140
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Red monte sur Seabiscuit et s'accroche, non sans mal, \xC3\xA0 l'\xC3\xA9trier. Tom lui donne les recommandations de course. Il ne semble pas y croire lui-m\xC3\xAAme."
+  decor_id: 
+- effet: 
+  temps: 7200
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Les chevaux entrent sur la piste.
+  decor_id: 
+- effet: 
+  temps: 7220
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Charles va s'installer dans les tribunes sous des regards admiratifs, saluant quelques mains, serrant l'\xC3\xA9paule d'un serveur. Personne ne voit \xC3\xA0 quel point il est tendu. Et seul."
+  decor_id: 
+:dim: Seabiscuit

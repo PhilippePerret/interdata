@@ -1,0 +1,401 @@
+--- 
+:scale: 8
+:is_entier: false
+:film_dim: DancerInTheDark
+:film_id: 29
+:is_brin: false
+:items: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1123
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1127
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1130
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1132
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1136
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1138
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1141
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1145
+  :commentaire: "Premi\xC3\xA8re grande partie de la sc\xC3\xA8ne : le probl\xC3\xA8me de Bill = Il n'a plus d'argent et il pense qu'il va perdre Linda, sa femme."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1148
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1157
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1162
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1169
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1171
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1172
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1175
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1180
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1181
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1183
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1189
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1194
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1195
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1197
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1201
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1203
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1205
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1209
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1210
+  :commentaire: "Phase de transition : Remords de Bill, qui vont permettre de glisser subtilement vers la confession de Selma."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1212
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1213
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1216
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1217
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1219
+  :commentaire: "Fin de la transition : l'auteur a plac\xC3\xA9 Selma dans les dispositions n\xC3\xA9cessaires pour qu'elle nous livre son secret sans que cela ne paraisse artificiel (il ne faut pas oublier que Bill est la seule personne \xC3\xA0 laquelle elle confie son secret, la seule. Elle ment \xC3\xA0 tous les autres. Le livrer \xC3\xA0 un personnage \xE2\x80\x94 et donc \xC3\xA0 nous \xE2\x80\x94 n'\xC3\xA9tait pas \xC3\xA0 prendre \xC3\xA0 la l\xC3\xA9g\xC3\xA8re)."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1222
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1226
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1230
+  :commentaire: "Deuxi\xC3\xA8me grande partie : les confessions de Selma."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1233
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1238
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1245
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1255
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1257
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1260
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1264
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1269
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1274
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1276
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1278
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1285
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1288
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1293
+  :commentaire: "Un des \xC3\xA9l\xC3\xA9ments de l'objectif de Selma. C'est en quelque sorte l'incident d\xC3\xA9clencheur."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1299
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1302
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1306
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1308
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1309
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1315
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1320
+  :commentaire: "Deuxi\xC3\xA8me \xC3\xA9l\xC3\xA9ment de l'objectif de Selma : elle doit \xC3\xA9conomiser pour payer l'op\xC3\xA9ration des yeux"
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1322
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1323
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1325
+  :commentaire: "La compr\xC3\xA9hension de Bill fonctionne avec la n\xC3\xB4tre. Bill est le vecteur par lequel nous passons pour comprendre."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1330
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1331
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1334
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1338
+  :commentaire: "Phase d'affirmation : Bill r\xC3\xA9sume ce que nous avons pu voir de Selma jusque-l\xC3\xA0."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1342
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1343
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1352
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1356
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1362
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1364
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1375
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1377
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1380
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1384
+  :commentaire: "Troisi\xC3\xA8me partie de la sc\xC3\xA8ne : la com\xC3\xA9die musicale, passion que Selma et Bill partagent. Alors que tout ce qui vient d'\xC3\xAAtre dit va fonctionner comme une bombe \xC3\xA0 retardement, entra\xC3\xAEnant le vol de l'argent par Bill, et donc le meurtre de Bill par Selma, l'auteur d\xC3\xA9samorce totalement, et rend la suite d'autant plus cruelle, en renfor\xC3\xA7ant au maximum la connivence entre les deux personnages."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1406
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1408
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1412
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1417
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1418
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1418
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1420
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1423
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1427
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1434
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1437
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1447
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1450
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1453
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1456
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1459
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1464
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1465
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1468
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1469
+  :commentaire: "Derni\xC3\xA8re phase : Il faut que tout ce qu'ils ont dit reste secret (condition sine qua non pour que le film fonctionne, notamment \xC3\xA0 la fin, lors du proc\xC3\xA8s de Selma)."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1477
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1481
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1485
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1487
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1489
+  :commentaire: 
+:duree: 7860
+:titre: "S\xC3\xA9quence caravane"

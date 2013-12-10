@@ -1,0 +1,41 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: Crash
+:film_id: 27
+:is_brin: true
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 950
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1000
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3285
+  :commentaire: "Cl\xC3\xA9 de vo\xC3\xBBte ? \xC3\x87a serait assez logique\xC2\xA0: Hansen va d\xC3\xA9couvrir au cours du film qui il est."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4990
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5820
+  :commentaire: 
+:duree: 6240
+:titre: Brin personnage Tom Hansen

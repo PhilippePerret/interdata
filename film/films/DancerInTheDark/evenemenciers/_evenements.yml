@@ -1,0 +1,7206 @@
+--- 
+:items: 
+- effet: 
+  temps: 696
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "En la suivant, Selma demande \xC3\xA0 Gene de parler de l'argent de Bill"
+  decor_id: 
+- effet: 
+  temps: 755
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda parle de sa maison, belle comme un film, Bill parle de Linda, belle comme une star de cin\xC3\xA9ma"
+  decor_id: 
+- effet: 
+  temps: 763
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Ils parlent de l'argent dont a h\xC3\xA9rit\xC3\xA9 Bill"
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il est tard, Bill, qui n'arrive pas \xC3\xA0 dormir, rend visite \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 1141
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill confie \xC3\xA0 Selma qu'il n'a plus d'argent, et que son salaire ne suffit plus \xC3\xA0 payer les d\xC3\xA9penses de Linda"
+  decor_id: 
+- effet: 
+  temps: 1172
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill n'arrive pas \xC3\xA0 lui dire non, sa maison va \xC3\xAAtre saisie, il pense qu'il va perdre Linda"
+  decor_id: 
+- effet: 
+  temps: 1210
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill se reproche d'en avoir parl\xC3\xA9 \xC3\xA0 Selma, qui a assez avec ses propres soucis"
+  decor_id: 
+- effet: 
+  temps: 1481
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill demande \xC3\xA0 Selma de ne rien dire \xC3\xA0 propos de sa confidence (Motus)"
+  decor_id: 
+- effet: 
+  temps: 1779
+  scale: 6
+  duree: 14
+  lieu: 
+  resume: "Bill explique \xC3\xA0 Selma qu'il lui faudrait juste un pr\xC3\xAAt pour payer sa prochaine \xC3\xA9ch\xC3\xA9ance, pour ne pas \xC3\xAAtre inqui\xC3\xA9t\xC3\xA9 par la banque"
+  decor_id: 
+- effet: 
+  temps: 1793
+  scale: 6
+  duree: 8
+  lieu: 
+  resume: Selma comprend ce que veut Bill. Bill assure que ce sera juste pour un mois
+  decor_id: 
+- effet: 
+  temps: 1801
+  scale: 6
+  duree: 149
+  lieu: 
+  resume: Selma explique qu'elle ne peut pas donner l'argent de Gene
+  decor_id: 
+- effet: 
+  temps: 1813
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'il n'a plus qu'\xC3\xA0 se tirer une balle. Selma pense qu'il ne faut pas dire des choses pareilles"
+  decor_id: 
+- effet: 
+  temps: 2597
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill explique \xC3\xA0 Selma qu'il a trouv\xC3\xA9 une solution : tout raconter \xC3\xA0 Linda"
+  decor_id: 
+- effet: 
+  temps: 2627
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill observe Selma avec intensit\xC3\xA9, comme s'il avait une id\xC3\xA9e douloureuse derri\xC3\xA8re la t\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 2647
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill feint de sortir, mais reste dans la caravane
+  decor_id: 
+- effet: 
+  temps: 2694
+  scale: 6
+  duree: 343
+  lieu: 
+  resume: "[ellipse] Bill voit Selma sortir la boite de bonbons pour y ranger son salaire"
+  decor_id: 
+- effet: 
+  temps: 3615
+  scale: 6
+  duree: 18
+  lieu: 
+  resume: "Selma retrouve Bill \xC3\xA0 l'\xC3\xA9tage, dans son bureau"
+  decor_id: 
+- effet: 
+  temps: 3672
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill explique qu'il a \xC3\xA9t\xC3\xA9 incapable de demander un d\xC3\xA9lai pour ses \xC3\xA9ch\xC3\xA9ances"
+  decor_id: 
+- effet: 
+  temps: 3692
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: Selma lui dit que c'est son argent qui est dans son coffre
+  decor_id: 
+- effet: 
+  temps: 3704
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: Selma, en s'excusant, dit qu'elle va devoir reprendre son argent
+  decor_id: 
+- effet: 
+  temps: 3716
+  scale: 6
+  duree: 9
+  lieu: 
+  resume: Bill lui dit qu'elle pourra le reprendre, mais seulement dans un mois
+  decor_id: 
+- effet: 
+  temps: 3725
+  scale: 6
+  duree: 15
+  lieu: 
+  resume: "Selma lui dit que c'est impossible : elle doit payer l'op\xC3\xA9ration l'apr\xC3\xA8s-midi m\xC3\xAAme"
+  decor_id: 
+- effet: 
+  temps: 3747
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: Selma s'approche du bureau pour prendre l'argent
+  decor_id: 
+- effet: 
+  temps: 3753
+  scale: 6
+  duree: 2
+  lieu: 
+  resume: Selma sort les billets en disant la somme
+  decor_id: 
+- effet: 
+  temps: 3755
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Bill s'accroche \xC3\xA0 la housse"
+  decor_id: 
+- effet: 
+  temps: 3762
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: Selma lui dit qu'il lui fait confiance concernant la somme qui reste
+  decor_id: 
+- effet: 
+  temps: 3767
+  scale: 6
+  duree: 14
+  lieu: 
+  resume: En ajoutant les nouveau billets, elle dit qu'il y a maintenant 2056 dollars et 10 cents
+  decor_id: 
+- effet: 
+  temps: 3787
+  scale: 6
+  duree: 3
+  lieu: 
+  resume: Bill supplie Selma, mais Selma s'en va
+  decor_id: 
+- effet: 
+  temps: 3790
+  scale: 6
+  duree: 33
+  lieu: 
+  resume: Bill sort son arme et la braque
+  decor_id: 
+- effet: 
+  temps: 3823
+  scale: 6
+  duree: 4
+  lieu: 
+  resume: Selma dit que c'est son argent
+  decor_id: 
+- effet: 
+  temps: 3827
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: "Bill lui dit que c'est son argent \xC3\xA0 lui et qu'elle essaie de le voler. Selma se met \xC3\xA0 pleurer"
+  decor_id: 
+- effet: 
+  temps: 3833
+  scale: 6
+  duree: 18
+  lieu: 
+  resume: "Bill crie pour faire croire \xC3\xA0 un vol"
+  decor_id: 
+- effet: 
+  temps: 3851
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Linda dit \xC3\xA0 Selma qu'elle comprend que c'est pour son argent qu'elle voulait Bill"
+  decor_id: 
+- effet: 
+  temps: 3861
+  scale: 6
+  duree: 17
+  lieu: 
+  resume: "Bill demande \xC3\xA0 Selma de lui rendre l'argent"
+  decor_id: 
+- effet: 
+  temps: 3878
+  scale: 6
+  duree: 8
+  lieu: 
+  resume: "Bill arrache le sac des mains de Selma, Selma r\xC3\xA9siste"
+  decor_id: 
+- effet: 
+  temps: 3886
+  scale: 6
+  duree: 9
+  lieu: 
+  resume: Un coup de feu part, Bill s'affaisse, Selma pleure
+  decor_id: 
+- effet: 
+  temps: 3895
+  scale: 6
+  duree: 17
+  lieu: 
+  resume: Bill remercie Selma
+  decor_id: 
+- effet: 
+  temps: 3912
+  scale: 6
+  duree: 34
+  lieu: 
+  resume: Bill supplie Selma de le tuer, si elle est son amie
+  decor_id: 
+- effet: 
+  temps: 3946
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Bill explique \xC3\xA0 Selma que si elle veut l'argent, il va falloir le tuer"
+  decor_id: 
+- effet: 
+  temps: 3956
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Selma le supplie de ne pas lui faire \xC3\xA7a"
+  decor_id: 
+- effet: 
+  temps: 3966
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: Selma tente de prendre la housse, mais Bill s'y accroche
+  decor_id: 
+- effet: 
+  temps: 3978
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: Bill attrape la main de Selma et lui fait plaquer le canon contre son ventre
+  decor_id: 
+- effet: 
+  temps: 3984
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: Un coup de feu part, Bill crie
+  decor_id: 
+- effet: 
+  temps: 3994
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Selma essaie \xC3\xA0 nouveau de prendre la housse, mais Bill r\xC3\xA9siste en lui ordonnant de l'abattre"
+  decor_id: 
+- effet: 
+  temps: 4001
+  scale: 6
+  duree: 16
+  lieu: 
+  resume: "Selma se rel\xC3\xA8ve et tire plusieurs balles sur Bill"
+  decor_id: 
+- effet: 
+  temps: 4017
+  scale: 6
+  duree: 25
+  lieu: 
+  resume: "Selma essaie de tirerla housse, Bill s'y accroche d\xC3\xA9sesp\xC3\xA9rement"
+  decor_id: 
+- effet: 
+  temps: 4042
+  scale: 6
+  duree: 37
+  lieu: 
+  resume: Selma va chercher le coffre de Bill
+  decor_id: 
+- effet: 
+  temps: 4079
+  scale: 6
+  duree: 301
+  lieu: 
+  resume: "Selma frappe Bill avec le coffre, jusqu'\xC3\xA0 le tuer, puis s'effondre en pleurs"
+  decor_id: 
+- effet: 
+  temps: 4113
+  scale: 6
+  duree: 59
+  lieu: 
+  resume: "Selma parvient enfin  \xC3\xA0 prendre la housse"
+  decor_id: 
+- effet: 
+  temps: 5199
+  scale: 6
+  duree: 218
+  lieu: 
+  resume: "Il parle du sac o\xC3\xB9 Bill rangeait son argent, qu'on a retrouv\xC3\xA9 couvert de sang"
+  decor_id: 
+- effet: 
+  temps: 205
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale. Admiration de SAMUEL pour SELMA"
+  decor_id: 
+- effet: 
+  temps: 240
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel fait des reproches \xC3\xA0 KATHY, Selma la soutient"
+  decor_id: 
+- effet: 
+  temps: 290
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Selma qu'elle ne veut pas \xC3\xAAtre appel\xC3\xA9e \xE2\x80\x9CCvalda\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 295
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition des bruitages, Kathy refuse de faire le chien, Selma voudrait plus de rythme"
+  decor_id: 
+- effet: 
+  temps: 328
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la fin de la r\xC3\xA9p\xC3\xA9tition, Samuel f\xC3\xA9licite sa troupe"
+  decor_id: 
+- effet: 
+  temps: 380
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "A l'usine, Selma travaille sur sa presse en r\xC3\xA9p\xC3\xA9tant"
+  decor_id: 
+- effet: 
+  temps: 427
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Norman demande \xC3\xA0 Selma de ne pas apprendre son texte \xC3\xA0 l'usine, de garder l'\xC5\x93il sur la machine"
+  decor_id: 
+- effet: 
+  temps: 568
+  scale: 6
+  duree: 135
+  lieu: 
+  resume: "Dans la caravane, Selma punie Gene, il doit lui lire le script de sa com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 601
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma ne comprend pas certains mots du texte
+  decor_id: 
+- effet: 
+  temps: 906
+  scale: 6
+  duree: 30
+  lieu: 
+  resume: "Selma et Kathy suivent une com\xC3\xA9die musicale, Kathy raconte ce qui se passe \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 917
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy explique \xC3\xA0 Selma ce qui se passe \xC3\xA0 l'\xC3\xA9cran"
+  decor_id: 
+- effet: 
+  temps: 932
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma dit qu'elle adore quand ils dansent
+  decor_id: 
+- effet: 
+  temps: 1418
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill demande \xC3\xA0 Selma si elle aimerait \xC3\xAAtre dans un film, Selma dit qu'elle adorerait"
+  decor_id: 
+- effet: 
+  temps: 1427
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle aime quand les danseurs dansent sur une pi\xC3\xA8ce mont\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 1434
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle d\xC3\xA9teste la derni\xC3\xA8re chanson, parce que c'est la fin du film"
+  decor_id: 
+- effet: 
+  temps: 1450
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma confie qu'elle quittait la salle de cin\xC3\xA9ma avant la derni\xC3\xA8re chanson, pour que le film ne s'arr\xC3\xAAte jamais"
+  decor_id: 
+- effet: 
+  temps: 1982
+  scale: 6
+  duree: 1
+  lieu: 
+  resume: "Kathy s'\xC3\xA9tonne qu'en plus, Selma veuille aller \xC3\xA0 la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 2013
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma lui dit qu'elle doit se rendre \xC3\xA0 la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 2054
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff confie qu'il ne comprend rien aux com\xC3\xA9dies musicales, disant que lui ne se met pas subitement \xC3\xA0 chanter et danser"
+  decor_id: 
+- effet: 
+  temps: 2074
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la r\xC3\xA9p\xC3\xA9tition, Samuel annoncer qu'ils n'ont plus que la vente de g\xC3\xA2teaux \xC3\xA0 r\xC3\xA9p\xC3\xA9ter"
+  decor_id: 
+- effet: 
+  temps: 2076
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma arrive discr\xC3\xA8tement tandis que Samuel annoncer la date de la premi\xC3\xA8re repr\xC3\xA9sentation"
+  decor_id: 
+- effet: 
+  temps: 2080
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel accueille Selma en lui disant qu'ils lui ont trouv\xC3\xA9 une doublure, Susan. Etonnement inquiet de Selma."
+  decor_id: 
+- effet: 
+  temps: 2092
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel la rassure : c'est uniquement en cas de probl\xC3\xA8me"
+  decor_id: 
+- effet: 
+  temps: 2106
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel pr\xC3\xA9sente Susan \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 2111
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Samuel voudrait que Selma joue sans lunettes
+  decor_id: 
+- effet: 
+  temps: 2122
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Samuel annonce qu'ils verront les deux Maria dimanche prochain
+  decor_id: 
+- effet: 
+  temps: 2736
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Au cin\xC3\xA9ma, Selma et Kathy suivent une com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 2744
+  scale: 6
+  duree: 49
+  lieu: 
+  resume: "Kathy mime la chor\xC3\xA9graphie, avec deux doigts, sur la main de Selma"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale. Selma et Kathy attendent pour faire leur entr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 2767
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "La chanson commence. Selma \xC3\xA9coute en se balan\xC3\xA7ant"
+  decor_id: 
+- effet: 
+  temps: 2776
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Boris attend que Selma le rejoigne sur sc\xC3\xA8ne, Selma n'ose pas entrer"
+  decor_id: 
+- effet: 
+  temps: 2782
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel interrompt la chanson et demande \xC3\xA0 Selma ce qu'elle fait"
+  decor_id: 
+- effet: 
+  temps: 2788
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il relance la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 2793
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Kathy la distance qui la s\xC3\xA9pare de Boris. Kathy ne sait pas"
+  decor_id: 
+- effet: 
+  temps: 2805
+  scale: 6
+  duree: 4
+  lieu: 
+  resume: "Kathy fait l'entr\xC3\xA9e de Selma \xC3\xA0 sa place"
+  decor_id: 
+- effet: 
+  temps: 2809
+  scale: 6
+  duree: 9
+  lieu: 
+  resume: "Interruption de Samuel, d\xC3\xA9sesp\xC3\xA9r\xC3\xA9, Kathy s'excuse"
+  decor_id: 
+- effet: 
+  temps: 2818
+  scale: 6
+  duree: 285
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Selma qu'il y a six pas."
+  decor_id: 
+- effet: 
+  temps: 2823
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Boris arrive au bout de la sc\xC3\xA8ne, attend Selma"
+  decor_id: 
+- effet: 
+  temps: 2824
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma le rejoint en comptant ses pas
+  decor_id: 
+- effet: 
+  temps: 2832
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel demande \xC3\xA0 Selma de faire un tour autour de Boris. Elle n'ose pas bouger."
+  decor_id: 
+- effet: 
+  temps: 2838
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel, agac\xC3\xA9, lui demande si elle a quelque chose d'autre \xC3\xA0 proposer. Tout le monde se tait."
+  decor_id: 
+- effet: 
+  temps: 2846
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xA0 Samuel qu'elle veut lui parler"
+  decor_id: 
+- effet: 
+  temps: 2850
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel qu'il s'agit du tambour. Selma lui dit que ce n'est pas \xC3\xA7a"
+  decor_id: 
+- effet: 
+  temps: 2858
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xA0 Samuel que \xC3\xA7a ne prendra que deux secondes. Ils quittent la salle"
+  decor_id: 
+- effet: 
+  temps: 2876
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xA0 Samuel qu'elle n'a plus la t\xC3\xAAte \xC3\xA0 jouer le r\xC3\xB4le de Maria. \xC3\x89tonnement de Samuel."
+  decor_id: 
+- effet: 
+  temps: 2895
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit que Susan est tr\xC3\xA8s bien, Samuel approuve \xC3\xA0 contre-c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 2905
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit, en mentant, qu'elle feignait de ne vivre que pour la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 2918
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel dit qu'il ne lui reste plus que le r\xC3\xB4le de la nonne"
+  decor_id: 
+- effet: 
+  temps: 2930
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit que c'est un personnage s\xC3\xA9rieux"
+  decor_id: 
+- effet: 
+  temps: 2936
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel dit qu'il pourrait ajouter des claquettes au r\xC3\xB4le, ce qui r\xC3\xA9jouit Selma"
+  decor_id: 
+- effet: 
+  temps: 2957
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Samuel embrasse Selma sur le front
+  decor_id: 
+- effet: 
+  temps: 4802
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le docteur parle du danseur de claquettes, Oldrich Novy, qui n'a jamais perc\xC3\xA9 aux USA"
+  decor_id: 
+- effet: 
+  temps: 4814
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "En remplissant son dossier, le docteur raconte qu'il a vu toutes ses com\xC3\xA9dies musicales, ce qui ravie Selma"
+  decor_id: 
+- effet: 
+  temps: 4844
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff rappelle \xC3\xA0 Selma que c'est le soir de sa r\xC3\xA9p\xC3\xA9tition, Selma veut s'y rendre"
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma et Jeff arrivent alors que Samuel r\xC3\xA8gle la chor\xC3\xA9graphie de la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 4877
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel dit \xC3\xA0 Selma qu'il est heureux de la voir"
+  decor_id: 
+- effet: 
+  temps: 4902
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel revient dans la salle et relance la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 4911
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand Selma annonce qu'elle doit rentrer pour ne pas inqui\xC3\xA9ter Gene, Samuel la retient en disant qu'ils vont faire sa sc\xC3\xA8ne"
+  decor_id: 
+- effet: 
+  temps: 4932
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma et Jeff se sont rassis, Samule demande la sc\xC3\xA8ne des claquettes"
+  decor_id: 
+- effet: 
+  temps: 4944
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel demande son avis \xC3\xA0 Selma, s'excusant de ne pas avoir r\xC3\xA9p\xC3\xA9t\xC3\xA9 la sc\xC3\xA8ne depuis longtemps"
+  decor_id: 
+- effet: 
+  temps: 4955
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, plus d\xC3\xA9contract\xC3\xA9e, \xC3\xA9coute en se balan\xC3\xA7ant au rythme de la musique"
+  decor_id: 
+- effet: 
+  temps: 4973
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Samuel lance l'actrice sur un autre passage que doit jouer Selma
+  decor_id: 
+- effet: 
+  temps: 4994
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel la retient en lui parlant du tambour. Il a trouv\xC3\xA9 quelqu'un pour en jouer, Betty"
+  decor_id: 
+- effet: 
+  temps: 4999
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Betty est pr\xC3\xA9sent\xC3\xA9e \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 5005
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma parle avec Betty du tambour
+  decor_id: 
+- effet: 
+  temps: 5014
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel dit qu'il a une id\xC3\xA9e : ils vont faire le final"
+  decor_id: 
+- effet: 
+  temps: 5020
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Samuel se souvient que Selma d\xC3\xA9teste les finals, il propose une autre chanson"
+  decor_id: 
+- effet: 
+  temps: 5028
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Betty fait le d\xC3\xA9compte en tapant sur le piano. Selma \xC3\xA9coute, ravie"
+  decor_id: 
+- effet: 
+  temps: 5038
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Tous se mettent \xC3\xA0 chanter, accompagn\xC3\xA9s par les coups de baguettes sur le piano"
+  decor_id: 
+- effet: 
+  temps: 5601
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur voudrait savoir comment Selma a pu conna\xC3\xAEtre son nom. Oldrich explique qu'il \xC3\xA9tait connu, dans son pays"
+  decor_id: 
+- effet: 
+  temps: 5615
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Oldrich explique qu'il \xC3\xA9tait acteur de com\xC3\xA9dies musicales. Selma semble s'\xC3\xA9vader, absorb\xC3\xA9e par le rythme des crayons et des gommes des dessinateurs du tribunal"
+  decor_id: 
+- effet: 
+  temps: 6496
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma essaie de se forcer \xC3\xA0 chanter \xE2\x80\x9CMy Favorite Things\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6600
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Avec plus d'entrain, Selma parvient \xC3\xA0 chanter, sauter dans sa cellule"
+  decor_id: 
+- effet: 
+  temps: 6617
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma danse dans sa cellule en chantant
+  decor_id: 
+- effet: 
+  temps: 7633
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se met \xC3\xA0 chanter un chant d\xC3\xA9chirant, a cappela, en l'honneur de son fils ch\xC3\xA9ri"
+  decor_id: 
+- effet: 
+  temps: 7677
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma chante que c'est seulement l'avant-derni\xC3\xA8re chanson"
+  decor_id: 
+- effet: 
+  temps: 7744
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand la sonnerie du t\xC3\xA9l\xC3\xA9phone retentit, l'ex\xC3\xA9cuteur d\xC3\xA9croche"
+  decor_id: 
+- effet: 
+  temps: 7762
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x89tranglant brutalement le chant de Selma, la trappe s'ouvre faisant chuter la jeune femme dans le vide"
+  decor_id: 
+- effet: 
+  temps: 703
+  scale: 6
+  duree: 32
+  lieu: 
+  resume: "Chez les Houston, en \xC3\xA9coutant de la musique, Bill, Linda et Selma parlent des \xC3\xA9pingles que doit enfiler Selma"
+  decor_id: 
+- effet: 
+  temps: 735
+  scale: 6
+  duree: 39
+  lieu: 
+  resume: "En voyant la boite de bonbons des Houston, Selma repense \xC3\xA0 la premi\xC3\xA8re com\xC3\xA9die musicale vue en Tch\xC3\xA9coslovaquie, qui est \xC3\xA0 l'origine de son \xE2\x80\x9Cr\xC3\xAAve am\xC3\xA9ricain\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 774
+  scale: 6
+  duree: 24
+  lieu: 
+  resume: "Avant de partir, Linda offre la boite de bonbons \xC3\xA0 Selma, qui la prend comme un tr\xC3\xA9sor"
+  decor_id: 
+- effet: 
+  temps: 798
+  scale: 6
+  duree: 210
+  lieu: 
+  resume: "Selma place ses \xC3\xA9conomies dans la boite de bonbons"
+  decor_id: 
+- effet: 
+  temps: 1008
+  scale: 6
+  duree: 285
+  lieu: 
+  resume: "Selma dit que tout son argent va \xC3\xA0 son p\xC3\xA8re (grand-p\xC3\xA8re ?)"
+  decor_id: 
+- effet: 
+  temps: 1293
+  scale: 6
+  duree: 16
+  lieu: 
+  resume: Selma explique qu'elle est venue aux USA pour faire soigner Gene
+  decor_id: 
+- effet: 
+  temps: 1309
+  scale: 6
+  duree: 29
+  lieu: 
+  resume: "Elle \xC3\xA9conomise pour payer l'op\xC3\xA9ration, qui pourra avoir lieu quand Gene aura 13 ans"
+  decor_id: 
+- effet: 
+  temps: 1338
+  scale: 6
+  duree: 167
+  lieu: 
+  resume: "Bill comprend aussi que Selma travaille dur pour gagner l'argent de l'op\xC3\xA9ration"
+  decor_id: 
+- effet: 
+  temps: 1505
+  scale: 6
+  duree: 11
+  lieu: 
+  resume: "Selma re\xC3\xA7oit son salaire pour sa caisse d'\xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 1516
+  scale: 6
+  duree: 14
+  lieu: 
+  resume: "Elle en reprend une grosse, de 10 000 \xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 1530
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: "Pendant la pause, Selma, Kathy et Norman enfilent des \xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 1542
+  scale: 6
+  duree: 237
+  lieu: 
+  resume: "Kathy dit que l'argent est pour le p\xC3\xA8re de Selma, Oldrich Novy"
+  decor_id: 
+- effet: 
+  temps: 1950
+  scale: 6
+  duree: 11
+  lieu: 
+  resume: "Kathy s'\xC3\xA9tonne que Selma ait pris deux grosses caisses d'\xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 1961
+  scale: 6
+  duree: 733
+  lieu: 
+  resume: "Kathy s'\xC3\xA9tonne que Selma ait demand\xC3\xA9 de travailler en plus la nuit"
+  decor_id: 
+- effet: 
+  temps: 3037
+  scale: 6
+  duree: 21
+  lieu: 
+  resume: "Norman annonce \xC3\xA0 Selma qu'elle est licenci\xC3\xA9e, mais qu'elle ne paiera pas les r\xC3\xA9parations"
+  decor_id: 
+- effet: 
+  temps: 3058
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: Norman lui remet son salaire
+  decor_id: 
+- effet: 
+  temps: 3064
+  scale: 6
+  duree: 459
+  lieu: 
+  resume: "Norman veut proposer un autre boulot \xC3\xA0 Selma, mais elle dit que \xC3\xA7a va aller"
+  decor_id: 
+- effet: 
+  temps: 3523
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: Selma compte l'argent remis par Norman
+  decor_id: 
+- effet: 
+  temps: 3535
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: "En voulant ranger son argent, elle d\xC3\xA9couvre que ses \xC3\xA9conomies ont disparu"
+  decor_id: 
+- effet: 
+  temps: 3549
+  scale: 6
+  duree: 16
+  lieu: 
+  resume: Selma se rend chez les Houston
+  decor_id: 
+- effet: 
+  temps: 3556
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: "Linda la fait entrer en lui disant que Bill n'est pas l\xC3\xA0"
+  decor_id: 
+- effet: 
+  temps: 3561
+  scale: 6
+  duree: 54
+  lieu: 
+  resume: "Selma dit qu'elle doit parler \xC3\xA0 Bill. Linda, visiblement \xC3\xA9mue, lui r\xC3\xA9pond que Bill a \xC3\xA9t\xC3\xA9 chercher son coffre"
+  decor_id: 
+- effet: 
+  temps: 3740
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Elle ajoute qu'elle ne pourra plus \xC3\xA9conomiser, maintenant"
+  decor_id: 
+- effet: 
+  temps: 3781
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: "\xC3\x87a ne suffit pas pour l'op\xC3\xA9ration, mais il faudra faire avec"
+  decor_id: 
+- effet: 
+  temps: 4389
+  scale: 6
+  duree: 819
+  lieu: 
+  resume: Linda lui explique qu'ils vont prendre son argent, qu'elle doit se sauver pour Gene
+  decor_id: 
+- effet: 
+  temps: 5417
+  scale: 6
+  duree: 11
+  lieu: 
+  resume: "Le procureur voudrait savoir d'o\xC3\xB9 venait l'argent de Selma. Elle dit l'avoir \xC3\xA9conomis\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 5428
+  scale: 6
+  duree: 156
+  lieu: 
+  resume: "Ils en arrivent \xC3\xA0 Oldrich Novy, soit disant le p\xC3\xA8re pour lequel Selma \xC3\xA9conomisait"
+  decor_id: 
+- effet: 
+  temps: 5584
+  scale: 6
+  duree: 501
+  lieu: 
+  resume: "Le procureur lui fait \xC3\xA9galement confirmer qu'il n'a jamais re\xC3\xA7u d'argent de sa part, et qu'il n'est pas son p\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 6085
+  scale: 6
+  duree: 12
+  lieu: 
+  resume: "Jeff retourne en camion o\xC3\xB9 il avait conduit Selma"
+  decor_id: 
+- effet: 
+  temps: 6097
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: Jeff marche le long du lac
+  decor_id: 
+- effet: 
+  temps: 6103
+  scale: 6
+  duree: 19
+  lieu: 
+  resume: "Il aper\xC3\xA7oit un enfant aveugle, et le suit jusqu'\xC3\xA0 la clinique"
+  decor_id: 
+- effet: 
+  temps: 6122
+  scale: 6
+  duree: 17
+  lieu: 
+  resume: "\xC3\x80 l'accueil, Jeff demande si Selma \xC3\xA9tait leur patiente"
+  decor_id: 
+- effet: 
+  temps: 6139
+  scale: 6
+  duree: 14
+  lieu: 
+  resume: "L'infirmi\xC3\xA8re, apr\xC3\xA8s v\xC3\xA9rification, lui dit que non"
+  decor_id: 
+- effet: 
+  temps: 6153
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Alors qu'il allait partir, Jeff demande s'ils n'ont pas de patient au nom de \xE2\x80\x9CNovy\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 6
+  duree: 15
+  lieu: 
+  resume: "Au parloir, Kathy, radieuse, annonce qu'ils vont demander la r\xC3\xA9vision du proc\xC3\xA8s, que le pr\xC3\xA9c\xC3\xA9dent avocat \xC3\xA9tait incomp\xC3\xA9tent, aux dires du nouvel avocat."
+  decor_id: 
+- effet: 
+  temps: 6175
+  scale: 6
+  duree: 15
+  lieu: 
+  resume: "\xC3\x80 l'\xC3\xA9tonnement de Selma, Kathy d\xC3\xA9clare qu'avec les nouveaux \xC3\xA9l\xC3\xA9ments, Selma ne sera plus condamn\xC3\xA9e \xC3\xA0 mort"
+  decor_id: 
+- effet: 
+  temps: 6190
+  scale: 6
+  duree: 466
+  lieu: 
+  resume: "Kathy dit qu'ils sont au courant pour l'op\xC3\xA9ration de Gene, que Jeff a parl\xC3\xA9 au docteur"
+  decor_id: 
+- effet: 
+  temps: 6656
+  scale: 6
+  duree: 53
+  lieu: 
+  resume: Selma rencontre son nouvel avocat
+  decor_id: 
+- effet: 
+  temps: 6709
+  scale: 6
+  duree: 9
+  lieu: 
+  resume: "Quand il explique qu'un avocat commis d'office n'assure pas la meilleure d\xC3\xA9fense, Selma lui demande si lui n'est pas commis d'office"
+  decor_id: 
+- effet: 
+  temps: 6718
+  scale: 6
+  duree: 9
+  lieu: 
+  resume: "L'avocat dit que non, qu'il devra \xC3\xAAtre pay\xC3\xA9, ce qui fait r\xC3\xA9agir Selma"
+  decor_id: 
+- effet: 
+  temps: 6727
+  scale: 6
+  duree: 21
+  lieu: 
+  resume: "L'avocat la rassure aussit\xC3\xB4t : tout a \xC3\xA9t\xC3\xA9 r\xC3\xA9gl\xC3\xA9, il a accept\xC3\xA9 la somme qu'on lui proposait"
+  decor_id: 
+- effet: 
+  temps: 6748
+  scale: 6
+  duree: 36
+  lieu: 
+  resume: "Stup\xC3\xA9faite, Selma comprend que ce sont ses \xC3\xA9conomies qui ont permis de payer l'avocat."
+  decor_id: 
+- effet: 
+  temps: 6784
+  scale: 6
+  duree: 24
+  lieu: 
+  resume: "Au parloir, Selma s'en prend \xC3\xA0 Kathy, expliquant que l'op\xC3\xA9ration de Gene est la chose la plus importante de sa vie"
+  decor_id: 
+- effet: 
+  temps: 6808
+  scale: 6
+  duree: 15
+  lieu: 
+  resume: "Kathy parvient \xC3\xA0 placer que ce dont Gene a besoin, c'est d'une m\xC3\xA8re. Selma, aussi sourde que Kathy, r\xC3\xA9torque que ce sont ses yeux dont il a besoin"
+  decor_id: 
+- effet: 
+  temps: 6823
+  scale: 6
+  duree: 23
+  lieu: 
+  resume: "\xC3\x80 bout, Kathy menace de dire \xC3\xA0 la police que Selma a vol\xC3\xA9 cet argent \xC3\xA0 Bill, ce qui lui fera tout perdre. Selma s'effondre en larmes"
+  decor_id: 
+- effet: 
+  temps: 6846
+  scale: 6
+  duree: 743
+  lieu: 
+  resume: "L'avocat explique \xC3\xA0 Selma qu'elle pourra r\xC3\xA9cup\xC3\xA9rer son argent"
+  decor_id: 
+- effet: 
+  temps: 7589
+  scale: 6
+  duree: 20
+  lieu: 
+  resume: "Kathy retrouve Selma sur la mezzanine, lui explique en lui remettant les lunettes de Gene que l'op\xC3\xA9ration a r\xC3\xA9ussi"
+  decor_id: 
+- effet: 
+  temps: 504
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "JEFF propose de ramener Gene, Selma lui demande de quoi il se m\xC3\xAAle"
+  decor_id: 
+- effet: 
+  temps: 535
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la sortie de l'usine, Jeff attend Selma pour la ramener. Selma refuse"
+  decor_id: 
+- effet: 
+  temps: 555
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy explique \xC3\xA0 Jeff que Selma l'aime, malgr\xC3\xA9 les apparences"
+  decor_id: 
+- effet: 
+  temps: 1015
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Gene d\xC3\xA9couvre, ravi, qu'ils lui ont achet\xC3\xA9 un v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 1105
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy vante les m\xC3\xA9rites de Jeff, qui est l'auteur du cadeau"
+  decor_id: 
+- effet: 
+  temps: 1666
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Jeff, qui l'attend une fois encore, qu'elle ne peut pas avoir de petit ami, mais que ce serait lui, si elle en avait un"
+  decor_id: 
+- effet: 
+  temps: 1996
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Jeff attend Selma sur le parking
+  decor_id: 
+- effet: 
+  temps: 2005
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma lui dit que c'est lui qu'elle cherchait, au grand \xC3\xA9tonnement de Jeff"
+  decor_id: 
+- effet: 
+  temps: 2042
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff fait de la place sur le si\xC3\xA8ge passage, pour Selma, en renon\xC3\xA7ant \xC3\xA0 lui offrir un bouquet de fleurs achet\xC3\xA9 pour elle"
+  decor_id: 
+- effet: 
+  temps: 2512
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff est encore l\xC3\xA0, Kathy lui demande s'il couche ici"
+  decor_id: 
+- effet: 
+  temps: 2522
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Jeff veut ramener Selma. Selma dit que ce serait mieux de ramener Kathy. Elle refuse
+  decor_id: 
+- effet: 
+  temps: 2533
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff voit la coupure \xC3\xA0 la main de Selma. Elle dit que ce n'est rien"
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, sur le parking, demande apr\xC3\xA8s Jeff. Mais il n'est pas encore l\xC3\xA0"
+  decor_id: 
+- effet: 
+  temps: 3129
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff la rejoint en courant \xC3\xA0 un pont ferrovi\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 3142
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff lui dit qu'il peut la ramener, mais Selma lui r\xC3\xA9pond qu'elle n'aura besoin de lui qu'\xC3\xA0 3 heures"
+  decor_id: 
+- effet: 
+  temps: 3166
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma n'entend pas Jeff passer derri\xC3\xA8re lui contre la barri\xC3\xA8re, et lui lance de descendre des rails"
+  decor_id: 
+- effet: 
+  temps: 3175
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff d\xC3\xA9couvre, interloqu\xC3\xA9, que Selma est aveugle"
+  decor_id: 
+- effet: 
+  temps: 3188
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma \xC3\xA9coute le rythme que fait le train"
+  decor_id: 
+- effet: 
+  temps: 3200
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "(CLIP) Selma jette ses lunettes par-dessus le pont en demandant ce qu'il y a \xC3\xA0 voir"
+  decor_id: 
+- effet: 
+  temps: 3214
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma monte dans le train en disant qu'elle a d\xC3\xA9j\xC3\xA0 tout vu"
+  decor_id: 
+- effet: 
+  temps: 3273
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff lui chante tout ce qui lui reste \xC3\xA0 d\xC3\xA9couvrir, mais Selma lui r\xC3\xA9pond qu'elle conna\xC3\xAEt ou que \xC3\xA7a n'a pas d'int\xC3\xA9r\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 3383
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma monte dans le train, Jeff la regarde s'\xC3\xA9loigner"
+  decor_id: 
+- effet: 
+  temps: 3391
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma danse avec les ouvriers en r\xC3\xA9p\xC3\xA9tant qu'elle a vu ce qu'elle \xC3\xA9tait et ce qu'elle sera"
+  decor_id: 
+- effet: 
+  temps: 3431
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma et les danseurs rejoignent le bout du wagon
+  decor_id: 
+- effet: 
+  temps: 3470
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff s'arr\xC3\xAAte sur la voie ferr\xC3\xA9e en regardant le train s'\xC3\xA9loigner avec les ouvriers et Selma (FIN DU CLIP)"
+  decor_id: 
+- effet: 
+  temps: 3484
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff, incr\xC3\xA9dule, demande \xC3\xA0 Selma si elle est vraiment aveugle"
+  decor_id: 
+- effet: 
+  temps: 4516
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Jeff arrive en camion et voit Selma au bord de l'eau
+  decor_id: 
+- effet: 
+  temps: 4549
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma lui demande s'il est d\xC3\xA9j\xC3\xA0 3 heures. Jeff r\xC3\xA9pond qu'il est toujours en avance"
+  decor_id: 
+- effet: 
+  temps: 4563
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dans son camion, Jeff fait remarquer \xC3\xA0 Selma qu'elle a du sang. Elle feind l'\xC3\xA9tonnement"
+  decor_id: 
+- effet: 
+  temps: 4574
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Le camion de Jeff s'en va juste quand la police arrive chez les Houston
+  decor_id: 
+- effet: 
+  temps: 4592
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Jeff roule, Selma s'est endormie
+  decor_id: 
+- effet: 
+  temps: 4605
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff r\xC3\xA9veille Selma et lui dit qu'ils sont arriv\xC3\xA9s \xC3\xA0 l'arr\xC3\xAAt d'autobus"
+  decor_id: 
+- effet: 
+  temps: 4633
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Jeff de lui promettre de ne pas la suivre"
+  decor_id: 
+- effet: 
+  temps: 4822
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il fait nuit noire, Jeff attend Selma pr\xC3\xA8s de son camion"
+  decor_id: 
+- effet: 
+  temps: 6884
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Au parloir, Selma reproche \xC3\xA0 Jeff de faire des cadeaux \xC3\xA0 Gene en faisant croire qu'ils viennent d'elle"
+  decor_id: 
+- effet: 
+  temps: 6911
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff lui dit qu'elle pourrait appeler Gene, mais Selma pense que \xC3\xA7a n'est pas une bonne id\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 6932
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand Jeff d\xC3\xA9clare que Gene voulait \xC3\xAAtre l\xC3\xA0 pour l'ex\xC3\xA9cution, Selma, stup\xC3\xA9faite, demande qui a pu lui mettre des id\xC3\xA9es pareilles dans la t\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 6959
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff se propose d'\xC3\xAAtre l\xC3\xA0, lui, si elle le d\xC3\xA9sire"
+  decor_id: 
+- effet: 
+  temps: 6980
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Alors Selma lui dit qu'elle aimerait qu'il soit l\xC3\xA0. Jeff s'effondre en larmes"
+  decor_id: 
+- effet: 
+  temps: 7008
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand Jeff, un peu plus tard, demande \xC3\xA0 Selma pourquoi elle a eu Gene, Selma r\xC3\xA9pond qu'elle voulait juste sentir un b\xC3\xA9b\xC3\xA9 dans ses bras"
+  decor_id: 
+- effet: 
+  temps: 7041
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff dit \xC3\xA0 Selma qu'il l'aime, et raccroche le combin\xC3\xA9 du parloir. Selma pleure."
+  decor_id: 
+- effet: 
+  temps: 523
+  scale: 6
+  duree: 383
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Gene de comprendre ce que lui a dit sa m\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 936
+  scale: 6
+  duree: 653
+  lieu: 
+  resume: Le spectateur se moque d'elle, Kathy ne se laisse pas faire
+  decor_id: 
+- effet: 
+  temps: 1589
+  scale: 6
+  duree: 21
+  lieu: 
+  resume: Selma ne se rend pas compte qu'elle pose deux plaques sur la presse. Kathy arrive juste avant l'accident
+  decor_id: 
+- effet: 
+  temps: 1610
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Norman r\xC3\xA9primande Selma, lui expliquant violemment que \xC3\xA7a casse la machine"
+  decor_id: 
+- effet: 
+  temps: 1629
+  scale: 6
+  duree: 11
+  lieu: 
+  resume: "Kathy reproche \xC3\xA0 Selma d'avoir tromp\xC3\xA9 le docteur"
+  decor_id: 
+- effet: 
+  temps: 1631
+  scale: 6
+  duree: 17
+  lieu: 
+  resume: "Kathy lui dit qu'elle ne devrait pas travailler \xC3\xA0 la presse"
+  decor_id: 
+- effet: 
+  temps: 1648
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: "Kathy la met en garde contre le danger, lui demande d'\xC3\xAAtre attentive, chaque seconde"
+  decor_id: 
+- effet: 
+  temps: 1653
+  scale: 6
+  duree: 297
+  lieu: 
+  resume: Kathy lui demande de promettre de rester vigilante, mais elle voit bien que c'est en vain
+  decor_id: 
+- effet: 
+  temps: 1972
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Kathy lui demande comment elle fera alors qu'elle voit d\xC3\xA9j\xC3\xA0 mal le jour. Selma lui assure que tout ira bien"
+  decor_id: 
+- effet: 
+  temps: 1983
+  scale: 6
+  duree: 221
+  lieu: 
+  resume: "Kathy se f\xC3\xA2che et part en disant que Selma ne doit pas compter sur elle pour venir \xC3\xA0 son secours"
+  decor_id: 
+- effet: 
+  temps: 2204
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: Kathy vient aider Selma
+  decor_id: 
+- effet: 
+  temps: 2210
+  scale: 6
+  duree: 6
+  lieu: 
+  resume: "Selma lui demande ce qu'elle fait l\xC3\xA0, r\xC3\xA9jouie. Elle prend Kathy dans ses bras"
+  decor_id: 
+- effet: 
+  temps: 2216
+  scale: 6
+  duree: 15
+  lieu: 
+  resume: "Norman demande ce que Kathy fait l\xC3\xA0. Elle r\xC3\xA9pond qu'elle fait ce qu'elle veut de son temps libre"
+  decor_id: 
+- effet: 
+  temps: 2231
+  scale: 6
+  duree: 311
+  lieu: 
+  resume: "Kathy demande \xC3\xA0 Selma de travailler plus vite."
+  decor_id: 
+- effet: 
+  temps: 2542
+  scale: 6
+  duree: 20
+  lieu: 
+  resume: "Selma va jusqu'\xC3\xA0 la voie ferr\xC3\xA9e sous le regard attrist\xC3\xA9 de Kathy"
+  decor_id: 
+- effet: 
+  temps: 2562
+  scale: 6
+  duree: 179
+  lieu: 
+  resume: Kathy essuie une larme
+  decor_id: 
+- effet: 
+  temps: 2741
+  scale: 6
+  duree: 3
+  lieu: 
+  resume: "Selma demande ce qui se passe, ce qui agace le (m\xC3\xAAme) spectateur"
+  decor_id: 
+- effet: 
+  temps: 3103
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: "Kathy r\xC3\xA9primande Norman"
+  decor_id: 
+- effet: 
+  temps: 3108
+  scale: 6
+  duree: 2908
+  lieu: 
+  resume: Kathy vient consoler Selma
+  decor_id: 
+- effet: 
+  temps: 6016
+  scale: 6
+  duree: 144
+  lieu: 
+  resume: "Kathy demande \xC3\xA0 Selma de lui laisser dire bonjour \xC3\xA0 Gene de sa part, mais Selma, \xC3\xA0 nouveau, refuse"
+  decor_id: 
+- effet: 
+  temps: 6210
+  scale: 6
+  duree: 28
+  lieu: 
+  resume: "Tandis que Selma ne veut que savoir si Gene est au courant, qu'il ne doit pas s'inqui\xC3\xA9ter, Kathy poursuit sur sa lanc\xC3\xA9e, sur l'espoir d'un nouveau jugement"
+  decor_id: 
+- effet: 
+  temps: 6238
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Selma que l'avocat viendra la voir dans deux semaines, ce qui \xC3\xA9tonne Selma puisqu'elle doit \xC3\xAAtre ex\xC3\xA9cut\xC3\xA9e dans une"
+  decor_id: 
+- effet: 
+  temps: 6245
+  scale: 6
+  duree: 8
+  lieu: 
+  resume: "Kathy lui dit de demander un sursis, qui est souvent accord\xC3\xA9 la premi\xC3\xA8re fois"
+  decor_id: 
+- effet: 
+  temps: 6253
+  scale: 6
+  duree: 16
+  lieu: 
+  resume: "Kathy reproche \xC3\xA0 Selma de ne pas s'enthousiasmer de ces nouvelles"
+  decor_id: 
+- effet: 
+  temps: 6269
+  scale: 6
+  duree: 449
+  lieu: 
+  resume: Kathy lui redit de demander le sursis
+  decor_id: 
+- effet: 
+  temps: 6816
+  scale: 6
+  duree: 7
+  lieu: 
+  resume: "Aussi sourde l'une que l'autre, Kathy demande \xC3\xA0 Selma d'\xC3\xA9couter la raison, Selma dit n'\xC3\xA9couter que son c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 6963
+  scale: 6
+  duree: 621
+  lieu: 
+  resume: "Quand Selma demande des nouvelles de Kathy, Jeff lui apprend qu'elle est encore f\xC3\xA2ch\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 7584
+  scale: 6
+  duree: 5
+  lieu: 
+  resume: "Kathy, n'y tenant plus, se pr\xC3\xA9cipite hors de la salle"
+  decor_id: 
+- effet: 
+  temps: 7598
+  scale: 6
+  duree: 10
+  lieu: 
+  resume: "Alors qu'un gardien la tire hors de la salle, Kathy crie \xC3\xA0 Selma qu'elle a eu raison d'\xC3\xA9couter son c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 335
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dans le cabinet m\xC3\xA9dical, Selma apprend ses lettres par ch\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 350
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma passe sa visite des yeux avec succ\xC3\xA8s, en trichant, le docteur lui dit qu'elle pourra travailler sur sa machine"
+  decor_id: 
+- effet: 
+  temps: 1219
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Bill s'il veut conna\xC3\xAEtre son secret"
+  decor_id: 
+- effet: 
+  temps: 1230
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma lui confie qu'elle deviendra aveugle avant la fin de l'ann\xC3\xA9e, une maladie h\xC3\xA9r\xC3\xA9ditaire"
+  decor_id: 
+- effet: 
+  temps: 1569
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy d\xC3\xA9couvre la feuille de lettres de l'examen de Selma"
+  decor_id: 
+- effet: 
+  temps: 1634
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma r\xC3\xA9pond qu'elle pourrait travailler les yeux ferm\xC3\xA9s"
+  decor_id: 
+- effet: 
+  temps: 1708
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff dit \xC3\xA0 Selma que c'est dangereux de faire du v\xC3\xA9lo avec des lunettes"
+  decor_id: 
+- effet: 
+  temps: 1721
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Un camion manque d'\xC3\xA9craser Selma"
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Au bord de la voie ferr\xC3\xA9e, Selma \xC3\xA9coute le train. Elle n'y voit plus"
+  decor_id: 
+- effet: 
+  temps: 1928
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma doit renoncer \xC3\xA0 aller au travail en v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 2148
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma voudrait savoir pourquoi l'atelier est sombre. La contre-ma\xC3\xAEtre lui r\xC3\xA9pond que la lumi\xC3\xA8re est toujours la m\xC3\xAAme"
+  decor_id: 
+- effet: 
+  temps: 2159
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sous l'\xC5\x93il de la contre-ma\xC3\xAEtre, Selma a du mal de suivre la cadence et de se rep\xC3\xA9rer"
+  decor_id: 
+- effet: 
+  temps: 2191
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sarah est d\xC3\xA9j\xC3\xA0 l\xC3\xA0 \xC3\xA0 attendre une pi\xC3\xA8ce. Selma fait tomber ses pi\xC3\xA8ces, elle n'en peut plus"
+  decor_id: 
+- effet: 
+  temps: 2259
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma poursuit son travail, \xC3\xA9puis\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3160
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Un train arrive en klaxonnant au bout du pont
+  decor_id: 
+- effet: 
+  temps: 3801
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il le dit \xC3\xA0 Selma, qui ne le croit pas"
+  decor_id: 
+- effet: 
+  temps: 3814
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill se pr\xC3\xA9cipite sur elle pour lui faire sentir l'arme"
+  decor_id: 
+- effet: 
+  temps: 4661
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Au bord du lac, Selma se d\xC3\xA9barrasse de la housse, de son gilet plein de sang et se lave les mains"
+  decor_id: 
+- effet: 
+  temps: 4681
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Mais quand elle quitte le lac, le gilet reste accroch\xC3\xA9 \xC3\xA0 des branches et la housse est au bord de l'eau"
+  decor_id: 
+- effet: 
+  temps: 4697
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma trouve le chemin long\xC3\xA9 d'une corde"
+  decor_id: 
+- effet: 
+  temps: 4708
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Elle suit le chemin en se guidant de la corde
+  decor_id: 
+- effet: 
+  temps: 4718
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma sort du bois et arrive \xC3\xA0 la clinique"
+  decor_id: 
+- effet: 
+  temps: 4730
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Un INFIRMIER conduit Selma dans le bureau du DOCTEUR
+  decor_id: 
+- effet: 
+  temps: 400
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma se laisse bercer par le rythme des machines
+  decor_id: 
+- effet: 
+  temps: 1384
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique que lorsque c'est trop dur, elle \xC3\xA9coute la musique que font les machines"
+  decor_id: 
+- effet: 
+  temps: 1578
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma r\xC3\xAAvasse, berc\xC3\xA9e par le rythme des machines"
+  decor_id: 
+- effet: 
+  temps: 1640
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle r\xC3\xAAvassait, qu'elle entendait de la musique"
+  decor_id: 
+- effet: 
+  temps: 2249
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma se laisse bercer par le rythme des machines en nettoyant la sienne
+  decor_id: 
+- effet: 
+  temps: 2278
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "CLIP. Chor\xC3\xA9graphie avec les ouvriers, Selma et Kathy"
+  decor_id: 
+- effet: 
+  temps: 4151
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Tout redevient calme. Linda attend dehors, Bill est allong\xC3\xA9 sur le sol"
+  decor_id: 
+- effet: 
+  temps: 4166
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se met \xC3\xA0 chanter"
+  decor_id: 
+- effet: 
+  temps: 4131
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma entend le craquement du saphir sur le vinyl (CLIP)
+  decor_id: 
+- effet: 
+  temps: 4195
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, en touchant le front de Bill, le r\xC3\xA9veille"
+  decor_id: 
+- effet: 
+  temps: 4207
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill entra\xC3\xAEne Selma dans la salle de bains. Elle lui demande s'il a mal"
+  decor_id: 
+- effet: 
+  temps: 4222
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill se lavec les mains en lui disant qu'il lui a fait plus mal encore
+  decor_id: 
+- effet: 
+  temps: 4235
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill entra\xC3\xAEne Selma dans la chambre"
+  decor_id: 
+- effet: 
+  temps: 4245
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se d\xC3\xA9coiffe en disant que tout va mal, Bill la r\xC3\xA9conforte"
+  decor_id: 
+- effet: 
+  temps: 4258
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill, comme un p\xC3\xA8re pour Selma, lui dit qu'elle devra \xC3\xAAtre forte"
+  decor_id: 
+- effet: 
+  temps: 4260
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xAAtrela seule \xC3\xA0 bl\xC3\xA2mer"
+  decor_id: 
+- effet: 
+  temps: 4266
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill et Selma vont \xC3\xA0 la fen\xC3\xAAtre voir Gene tourner en v\xC3\xA9lo. Gene chante que sa m\xC3\xA8re n'a fait que ce qu'elle devait faire"
+  decor_id: 
+- effet: 
+  temps: 4286
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill et Selma quittent la fen\xC3\xAAtre tandis que Gene continuer de tourner en chantant"
+  decor_id: 
+- effet: 
+  temps: 4291
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill retourne peindre sa porte de cuisine tant que Selma chante le temps qu'il faut pour pardonner
+  decor_id: 
+- effet: 
+  temps: 4314
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Bill de lui pardonner. Bill la pardonne"
+  decor_id: 
+- effet: 
+  temps: 4324
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand des sir\xC3\xA8nes de police se font entendre, Bill dit \xC3\xA0 Selma de se sauver"
+  decor_id: 
+- effet: 
+  temps: 4332
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma se sert contre lui et sort de la maison
+  decor_id: 
+- effet: 
+  temps: 4341
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dehors, Selma entend le claquement du fil du drapeau am\xC3\xA9ricain"
+  decor_id: 
+- effet: 
+  temps: 4363
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma chante \xC3\xA0 Linda qu'elle a tu\xC3\xA9 son mari"
+  decor_id: 
+- effet: 
+  temps: 4367
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda chante \xC3\xA0 Selma de se sauver"
+  decor_id: 
+- effet: 
+  temps: 4382
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma chante qu'elle n'a aucune raison de fuir, puisque la police vient pour elle
+  decor_id: 
+- effet: 
+  temps: 4398
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, au bout de l'all\xC3\xA9e, dit qu'elle est la seule \xC3\xA0 bl\xC3\xA2mer. A nouveau, Gene chante qu'elle n'a fait que ce qu'elle devait faire"
+  decor_id: 
+- effet: 
+  temps: 4407
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma laisse Linda et se sauve
+  decor_id: 
+- effet: 
+  temps: 4409
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma suit Gene jusqu'au pont de bois
+  decor_id: 
+- effet: 
+  temps: 4424
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma s'arr\xC3\xAAte au milieu du pont et laisse Gene s'\xC3\xA9loigner"
+  decor_id: 
+- effet: 
+  temps: 4434
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma revient sur ses pas et descend \xC3\xA0 la rivi\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 4479
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma s'approche de la rivi\xC3\xA8re en chantant qu'elle n'a fait que ce qu'elle devait faire"
+  decor_id: 
+- effet: 
+  temps: 4495
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma entre dans l'eau (FIN CLIP)
+  decor_id: 
+- effet: 
+  temps: 5054
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma part dans son r\xC3\xAAte (CLIP), chante qu'il y aura toujours quelqu'un pour la rattraper"
+  decor_id: 
+- effet: 
+  temps: 5114
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Les policiers arrivent dans la salle de spectacle et prennent Selma
+  decor_id: 
+- effet: 
+  temps: 5137
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Ils la font monter dans une voiture de police
+  decor_id: 
+- effet: 
+  temps: 5644
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "(CLIP). Selma glisse dans son r\xC3\xAAve"
+  decor_id: 
+- effet: 
+  temps: 5657
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Alors que Selma se demande pourquoi elle l'aimait tant, Oldrich, en chantant r\xC3\xA9pond que son amour lui \xC3\xA9tait bien \xC3\xA9gal"
+  decor_id: 
+- effet: 
+  temps: 5692
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Oldrich dit qu'il \xC3\xA9tait toujours l\xC3\xA0 pour la rattraper et ex\xC3\xA9cute un num\xC3\xA9ro de claquette avec Selma"
+  decor_id: 
+- effet: 
+  temps: 5759
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Ils r\xC3\xA9p\xC3\xA8tent qu'il sera toujours l\xC3\xA0 pour la rattraper, ce que l'assistance reprend en ch\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 5806
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma danse avec ses amis, Kathy, Linda, Jeff et Norman
+  decor_id: 
+- effet: 
+  temps: 5819
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Chacun, en dansant, se remet peu \xC3\xA0 peu en place."
+  decor_id: 
+- effet: 
+  temps: 5827
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "(FIN DU CLIP). Le greffier annonce l'entr\xC3\xA9e du juge, qui vient reprendre sa place"
+  decor_id: 
+- effet: 
+  temps: 7340
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "La procession commence (CLIP), accompagn\xC3\xA9e par le d\xC3\xA9compte de Brenda et le chant de Selma"
+  decor_id: 
+- effet: 
+  temps: 7353
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma va trouver un condamn\xC3\xA9 noir dans sa cellule et le console"
+  decor_id: 
+- effet: 
+  temps: 7372
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma ex\xC3\xA9cute un pas de danse avec un gardien"
+  decor_id: 
+- effet: 
+  temps: 7379
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma traverse le couloir de la mort en chantant les pas qu'elle a d\xC3\xA9j\xC3\xA0 faits"
+  decor_id: 
+- effet: 
+  temps: 7384
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Des condamn\xC3\xA9s dansent derri\xC3\xA8re leur grille, Selma offre ses mains \xC3\xA0 baiser"
+  decor_id: 
+- effet: 
+  temps: 7397
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma va s'allonger \xC3\xA0 c\xC3\xB4t\xC3\xA9 d'un autre condamn\xC3\xA9. Un gardien vient la rechercher"
+  decor_id: 
+- effet: 
+  temps: 7408
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le gardien soul\xC3\xA8ve Selma et la fait tourner dans ses bras"
+  decor_id: 
+- effet: 
+  temps: 7413
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma rejoint Brenda et les gardiens qui montent jusqu'\xC3\xA0 la salle d'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7434
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "La porte de la salle d'ex\xC3\xA9cution se referme, la musique s'arr\xC3\xAAte (FIN DU CLIP)"
+  decor_id: 
+- effet: 
+  temps: 7619
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le rythme des battements de son c\xC5\x93ur se fait entendre"
+  decor_id: 
+- effet: 
+  temps: 458
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sur le parking, Selma met une claque \xC3\xA0 GENE, son fils"
+  decor_id: 
+- effet: 
+  temps: 475
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma fait des remontrances \xC3\xA0 Gene sur son absence \xC3\xA0 l'\xC3\xA9cole, lui explique l'importance d'apprendre"
+  decor_id: 
+- effet: 
+  temps: 626
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma pose des questions gentilles \xC3\xA0 Gene. Gene la repousse"
+  decor_id: 
+- effet: 
+  temps: 653
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma montre ses pas de claquettes
+  decor_id: 
+- effet: 
+  temps: 786
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma couche Gene
+  decor_id: 
+- effet: 
+  temps: 865
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda lui dit qu'elle emm\xC3\xA8nera Gene \xC3\xA0 l'\xC3\xA9cole"
+  decor_id: 
+- effet: 
+  temps: 963
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dans la caravane, Linda, Bill et Kathy tournent autour du pot \xC3\xA0 propos du v\xC3\xA9lo de Gene"
+  decor_id: 
+- effet: 
+  temps: 979
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle ne peut pas acheter de choses aussi ch\xC3\xA8res \xC3\xA0 Gene"
+  decor_id: 
+- effet: 
+  temps: 983
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma veut savoir si c'est Gene qui a eu cette id\xC3\xA9e. Kathy et Gene nient"
+  decor_id: 
+- effet: 
+  temps: 998
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Gene qu'elle n'a pas assez d'argent pour un v\xC3\xA9lo."
+  decor_id: 
+- effet: 
+  temps: 1025
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma refuse d'accepter ce cadeau
+  decor_id: 
+- effet: 
+  temps: 1033
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Gene qu'elle n'est pas une m\xC3\xA8re qui peut se permettre ce genre de chose"
+  decor_id: 
+- effet: 
+  temps: 1050
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Gene essaie le v\xC3\xA9lo sous le regard maternel de Selma"
+  decor_id: 
+- effet: 
+  temps: 1061
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma mesure le bonheur de Gene
+  decor_id: 
+- effet: 
+  temps: 1072
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma accepte que Gene garde le v\xC3\xA9lo, au grand plaisir de tous"
+  decor_id: 
+- effet: 
+  temps: 1081
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "En contre-partie, Selma veut que Gene aille tous les jours \xC3\xA0 l'\xC3\xA9cole"
+  decor_id: 
+- effet: 
+  temps: 1352
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle savait que Gene aurait ce probl\xC3\xA8me, que c'est donc de sa faute"
+  decor_id: 
+- effet: 
+  temps: 1844
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma am\xC3\xA8ne Gene chez les Houston. Bill \xC3\xA9vite son regard"
+  decor_id: 
+- effet: 
+  temps: 1872
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Gene voudrait voir le pistolet de Bill
+  decor_id: 
+- effet: 
+  temps: 2585
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma va chercher Gene chez les Houston
+  decor_id: 
+- effet: 
+  temps: 2591
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill aide Selma \xC3\xA0 coucher Gene"
+  decor_id: 
+- effet: 
+  temps: 5940
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, ne voulant aborder que les choses pratiques, parle de la lettre que va recevoir Gene. Elle demande \xC3\xA0 Kathy de bien s'en occuper"
+  decor_id: 
+- effet: 
+  temps: 5974
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy explique que Gene voudrait voir sa m\xC3\xA8re, mais Selma refuse, \xC3\xA0 contre-c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 5991
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique que Gene doit s'appeler \xE2\x80\x9CNovy\xE2\x80\x9D, que c'est important"
+  decor_id: 
+- effet: 
+  temps: 6040
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Devant la porte de la cellule, Brenda dit \xC3\xA0 Selma qu'elle sait qu'elle aime son fils, ce que confirme Selma"
+  decor_id: 
+- effet: 
+  temps: 7563
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se met \xC3\xA0 appeler Gene, augmentant encore l'\xC3\xA9motion de Brenda et Kathy"
+  decor_id: 
+- effet: 
+  temps: 7577
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma appelle \xC3\xA0 nouveau son fils Gene, en hurlant"
+  decor_id: 
+- effet: 
+  temps: 7605
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma semble se calmer, les lunettes de Gene entre les mains
+  decor_id: 
+- effet: 
+  temps: 7764
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Les lunettes de Gene tombent sur le sol
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Fanfare dans le noir
+  decor_id: 
+- effet: 
+  temps: 408
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "NORMAN parle \xC3\xA0 Kathy d'une machine cass\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 413
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Norman dit \xC3\xA0 Kathy que Bill est l\xC3\xA0, avec Gene"
+  decor_id: 
+- effet: 
+  temps: 443
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand Norman dit \xC3\xA0 Selma que Bill est l\xC3\xA0 avec Gene, Selma pose ses gants et y va"
+  decor_id: 
+- effet: 
+  temps: 526
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "BILL, policier de la ville, ram\xC3\xA8ne Gene \xC3\xA0 l'\xC3\xA9cole"
+  decor_id: 
+- effet: 
+  temps: 666
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "LINDA HOUSTON rend visite \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 674
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda propose \xC3\xA0 Selma et Gene de venir \xC3\xA9couter de la musique chez eux"
+  decor_id: 
+- effet: 
+  temps: 689
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda sort de la caravance en regardant affectueusement son mari Bill Houston, le policier (ou sa maison\xE2\x80\xA6)"
+  decor_id: 
+- effet: 
+  temps: 847
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma salue le train qui passe \xC3\xA0 c\xC3\xB4t\xC3\xA9 de sa caravane"
+  decor_id: 
+- effet: 
+  temps: 854
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma se rend ches les Houston
+  decor_id: 
+- effet: 
+  temps: 860
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma paie son loyer aux Houston
+  decor_id: 
+- effet: 
+  temps: 877
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma reproche \xC3\xA0 Kathy d'\xC3\xAAtre toujours s\xC3\xA9rieuse"
+  decor_id: 
+- effet: 
+  temps: 888
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Kathy le sens de \xE2\x80\x9CCvalda\xE2\x80\x9D, lui disant qu'elle a juste besoin d'\xC3\xAAtre un peu secou\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 915
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Un SPECTATEUR se retourne vers elle, le regard noir
+  decor_id: 
+- effet: 
+  temps: 926
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Le spectateur leur demande de se taire.
+  decor_id: 
+- effet: 
+  temps: 948
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Kathy, profitant d'un bruit, demande au spectateur d'en faire moins
+  decor_id: 
+- effet: 
+  temps: 956
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill joue avec Gene, Linda et Kathy arrivent
+  decor_id: 
+- effet: 
+  temps: 1043
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill transforme le v\xC3\xA9lo en scooter"
+  decor_id: 
+- effet: 
+  temps: 1091
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff sort un aphorisme r\xC3\xA9p\xC3\xA9t\xC3\xA9 par son p\xC3\xA8re, que personne ne comprend. \xC3\x87a fait rire tout le monde"
+  decor_id: 
+- effet: 
+  temps: 1121
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sur le pont, Linda essaie le v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 1195
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma lui r\xC3\xA9pond que Linda l'aime"
+  decor_id: 
+- effet: 
+  temps: 1302
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Elle ajoute que Gene ne doit pas \xC3\xAAtre au courant, pour ne pas aggraver sa maladie"
+  decor_id: 
+- effet: 
+  temps: 1325
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill comprend le mensonge \xC3\xA0 propos du p\xC3\xA8re en Tch\xC3\xA9coslovaquie. Selma dit qu'elle est orpheline"
+  decor_id: 
+- effet: 
+  temps: 1406
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill confie \xC3\xA0 Selma qu'il adore aussi les com\xC3\xA9dies musicales"
+  decor_id: 
+- effet: 
+  temps: 1469
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill remercie Selma de lui avoir confi\xC3\xA9 son secret"
+  decor_id: 
+- effet: 
+  temps: 1490
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Linda voit Bill quitter la caravane de Selma
+  decor_id: 
+- effet: 
+  temps: 1554
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Ils parlent du communisme, Selma pense que c'est tr\xC3\xA8s bien. Norman lui demande ce qu'elle fait ici, alors"
+  decor_id: 
+- effet: 
+  temps: 1566
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma reprend son travail
+  decor_id: 
+- effet: 
+  temps: 1736
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill propose \xC3\xA0 Selma de la ramener. Elle accepte"
+  decor_id: 
+- effet: 
+  temps: 1747
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff parle \xC3\xA0 Bill du camion qui roulait comme un fou. Bill ne semble pas l'entendre"
+  decor_id: 
+- effet: 
+  temps: 1769
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma part avec Bill
+  decor_id: 
+- effet: 
+  temps: 1807
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill regrette de lui avoir demand\xC3\xA9 \xC3\xA7a, Selma lui dit que \xC3\xA7a ne co\xC3\xBBte rien"
+  decor_id: 
+- effet: 
+  temps: 1839
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill dit qu'il plaisantait, et s'en va
+  decor_id: 
+- effet: 
+  temps: 1877
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma s'\xC3\xA9tonne que Bill ait un pistolet chez lui. Linda lui dit que c'est normal, puisqu'il est policier, et qu'il le garde dans son bureau"
+  decor_id: 
+- effet: 
+  temps: 1888
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Gene, Selma et Linda regardent Bill attacher son ceinturon
+  decor_id: 
+- effet: 
+  temps: 1897
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma propose de payer plus de loyer. Linda refuse.
+  decor_id: 
+- effet: 
+  temps: 1908
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill part au travail
+  decor_id: 
+- effet: 
+  temps: 2017
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle ne prend plus son v\xC3\xA9lo, qu'elle a trouv\xC3\xA9 un raccourci par la voie ferr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 2037
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Jeff d\xC3\xA9pose les boites dans son coffre tandis que Selma monte dans le camion"
+  decor_id: 
+- effet: 
+  temps: 2132
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80l'usine, la CONTRE-MAITRE DE NUIT explique son travail \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 2155
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "La contre-ma\xC3\xAEtre pr\xC3\xA9cise \xC3\xA0 Selma qu'elle devra travailler plus vite"
+  decor_id: 
+- effet: 
+  temps: 2158
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma remercie la contre-ma\xC3\xAEtre en lui disant qu'elle a compris"
+  decor_id: 
+- effet: 
+  temps: 2178
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sarah, l'ouvri\xC3\xA8re qui doit r\xC3\xA9cup\xC3\xA9rer les pi\xC3\xA8ces de Selma, prend les deux derni\xC3\xA8res pi\xC3\xA8ces de la pile. La contre-ma\xC3\xAEtre vient dire \xC3\xA0 Selma de travailler plus vite"
+  decor_id: 
+- effet: 
+  temps: 2243
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Un peu plus tard, Kathy somnole contre une machine
+  decor_id: 
+- effet: 
+  temps: 2490
+  scale: 6
+  duree: 
+  lieu: 
+  resume: La presse de Selma fait un bruit anormal
+  decor_id: 
+- effet: 
+  temps: 2496
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "La presse de Selma s'est bloqu\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 2497
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Tous arrivent autour de la machine. La contre-ma\xC3\xAEtre prend les choses en mains"
+  decor_id: 
+- effet: 
+  temps: 2505
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Les ouvriers quittent l'usine
+  decor_id: 
+- effet: 
+  temps: 2549
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma sent les rails du pied, et part le long de la voie
+  decor_id: 
+- effet: 
+  temps: 2567
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma arrive \xC3\xA0 la hauteur de sa caravane"
+  decor_id: 
+- effet: 
+  temps: 2633
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill dit \xC3\xA0 Selma, ext\xC3\xA9nu\xC3\xA9e, qu'il va la laisser se reposer"
+  decor_id: 
+- effet: 
+  temps: 2642
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma avoue qu'elle est morte de fatigue
+  decor_id: 
+- effet: 
+  temps: 2656
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma est intrigu\xC3\xA9e, ne sait pas si Bill est partie, \xC3\xA9coute\xE2\x80\xA6 Bill retient son souffle"
+  decor_id: 
+- effet: 
+  temps: 2691
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Convaincue qu'elle est seule, Selma retourne s'asseoir un peu
+  decor_id: 
+- effet: 
+  temps: 2709
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill s'en va sur la pointe des pieds
+  decor_id: 
+- effet: 
+  temps: 2723
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma s'endort sur la table de la cuisine
+  decor_id: 
+- effet: 
+  temps: 2964
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, Norman s'\xC3\xA9tonne que Selma n'aie pas ses \xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 2969
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy dit qu'elle a m\xC3\xAAme renonc\xC3\xA9 au r\xC3\xB4le de Maria, ce qui r\xC3\xA9jouit Norman"
+  decor_id: 
+- effet: 
+  temps: 2977
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Norman et Selma, en riant, font une \xE2\x80\x9Cbataille de pouce\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 2985
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Norman dit \xC3\xA0 Selma qu'il doit lui parler dans son bureau"
+  decor_id: 
+- effet: 
+  temps: 2994
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Norman, dans son bureau, explique \xC3\xA0 Selma le temps qu'ils ont perdu \xC3\xA0 cause de la machine"
+  decor_id: 
+- effet: 
+  temps: 3012
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle peut travailler correctement si elle ne fait que la journ\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3053
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma remercie Norman
+  decor_id: 
+- effet: 
+  temps: 3082
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma sort du bureau en le remerciant
+  decor_id: 
+- effet: 
+  temps: 3093
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma reprend ses affaires dans le vestiaire de l'usine
+  decor_id: 
+- effet: 
+  temps: 3124
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma retourne chez elle, par la voie ferr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3496
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Ils se s\xC3\xA9parent"
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma revient \xC3\xA0 sa caravane"
+  decor_id: 
+- effet: 
+  temps: 3571
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Alors qu'elle part vers les escaliers, Linda lance \xC3\xA0 Selma que Bill lui a tout racont\xC3\xA9. Selma ne comprend pas."
+  decor_id: 
+- effet: 
+  temps: 3580
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda, \xC3\xA9mue, dit \xC3\xA0 Selma qu'elle doit d\xC3\xA9m\xC3\xA9nager"
+  decor_id: 
+- effet: 
+  temps: 3584
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda explique qu'elle sait que Selma a fait des avances \xC3\xA0 Selma. Selma reste sous le choc"
+  decor_id: 
+- effet: 
+  temps: 3609
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Elle r\xC3\xA9p\xC3\xA8te qu'elle veut parler \xC3\xA0 Bill et part dans les escaliers"
+  decor_id: 
+- effet: 
+  temps: 3603
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda lui demande de s'expliquer, mais Selma dit n'avoir rien \xC3\xA0 dire"
+  decor_id: 
+- effet: 
+  temps: 4116
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Assise au bureau de Bill, Selma essaie de se calmer
+  decor_id: 
+- effet: 
+  temps: 3636
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Bill lui dit qu'il a fait croire \xC3\xA0 Linda que Selma \xC3\xA9tait amoureuse de lui"
+  decor_id: 
+- effet: 
+  temps: 3653
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle n'a rien dit \xC3\xA0 cause de leur pacte (\xE2\x80\x9Cmotus\xE2\x80\x9D)"
+  decor_id: 
+- effet: 
+  temps: 3841
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda accourre et les d\xC3\xA9couvre, stup\xC3\xA9faite"
+  decor_id: 
+- effet: 
+  temps: 3855
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill envoie Linda chercher les menottes
+  decor_id: 
+- effet: 
+  temps: 3925
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "En revenant, sans les menottes, Linda d\xC3\xA9couvre la sc\xC3\xA8ne, stup\xC3\xA9faite"
+  decor_id: 
+- effet: 
+  temps: 3937
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Bill lui demande d'aller chez les Miller appeler le commissariat
+  decor_id: 
+- effet: 
+  temps: 3943
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Linda y court
+  decor_id: 
+- effet: 
+  temps: 4560
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Ils retournent au camion
+  decor_id: 
+- effet: 
+  temps: 4647
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma part dans la for\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 4749
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle vient payer l'op\xC3\xA9ration. Le docteur accepte, m\xC3\xAAme s'il n'y a pas assez"
+  decor_id: 
+- effet: 
+  temps: 4771
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le docteur demande un nom pour reconna\xC3\xAEtre Gene. Selma dit \xE2\x80\x9CNovy\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 4869
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Tout le monde se retourne, une m\xC3\xA8re tire son fils pour quitter la salle"
+  decor_id: 
+- effet: 
+  temps: 4879
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Samuel s'excuse et quitte la salle
+  decor_id: 
+- effet: 
+  temps: 4883
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dans le couloir, il d\xC3\xA9croche le t\xC3\xA9l\xC3\xA9phone"
+  decor_id: 
+- effet: 
+  temps: 4888
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Dans la salle de spectacle, le malaise est perceptible, tous \xC3\xA9piant Selma"
+  decor_id: 
+- effet: 
+  temps: 4895
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Dans le couloir, Samuel dit que Selma se trouve ici
+  decor_id: 
+- effet: 
+  temps: 4980
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma s'excuse aupr\xC3\xA8s de Samuel, mais elle doit y aller"
+  decor_id: 
+- effet: 
+  temps: 5141
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Au tribunal, le procureur lit l'acte d'accusation
+  decor_id: 
+- effet: 
+  temps: 5206
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Les amis et relations de Selma passent \xC3\xA0 la barre, chacun l'enfon\xC3\xA7ant un peu plus"
+  decor_id: 
+- effet: 
+  temps: 5278
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda, v\xC3\xA9h\xC3\xA9mente, reproche \xC3\xA0 Selma de n'avoir montr\xC3\xA9 aucune piti\xC3\xA9 pour Bill"
+  decor_id: 
+- effet: 
+  temps: 5289
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma d\xC3\xA9cline son identit\xC3\xA9 \xC3\xA0 la barre"
+  decor_id: 
+- effet: 
+  temps: 5301
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Le procureur dessine un portrait idyllique des Houston qui, par les faits, se comportaient en amis pour Selma et son fils
+  decor_id: 
+- effet: 
+  temps: 5364
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand le procureur demande \xC3\xA0 Selma pourquoi elle a tu\xC3\xA9 Bill, Selma r\xC3\xA9pond que Bill lui avait demand\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 5379
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur ironise sur l'invraisemblance de cette raison. Pourquoi aurait-il voulu mourir ? Selma r\xC3\xA9pond qu'elle a promis de ne pas le dire."
+  decor_id: 
+- effet: 
+  temps: 5404
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur explique qu'alors, il ne leur reste plus qu'\xC3\xA0 la croire sur parole"
+  decor_id: 
+- effet: 
+  temps: 5473
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur refait la liste des choses que les jur\xC3\xA9s sont cens\xC3\xA9s croire, en terminant sur Oldrich Novy."
+  decor_id: 
+- effet: 
+  temps: 5504
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Avant de laisser Selma repartir, le procureur demande \xC3\xA0 Selma de confirmer que tout ce qu'elle a dit \xC3\xA9tait exact. Selma confirme."
+  decor_id: 
+- effet: 
+  temps: 5523
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur, sarcastique, redit aux jur\xC3\xA9s qu'ils doivent croire Selma sur parole."
+  decor_id: 
+- effet: 
+  temps: 5538
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "C'est alors qu'\xC3\xA0 l'\xC3\xA9tonnement de tous, le procureur fait appeler Oldrich Novy \xC3\xA0 la barre"
+  decor_id: 
+- effet: 
+  temps: 5548
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Oldrich fait son entr\xC3\xA9e et d\xC3\xA9cline son identit\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 5560
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le procureur demande si Oldrich Novy habitait en Tch\xC3\xA9coslovaquie, ce qu'il confirme"
+  decor_id: 
+- effet: 
+  temps: 5570
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la surprise g\xC3\xA9n\xC3\xA9rale, Oldrich Novy affirme \xC3\xA0 deux reprises ne pas conna\xC3\xAEtre Selma"
+  decor_id: 
+- effet: 
+  temps: 5845
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Tous attendent, inquiets, le verdict rendu par le jury
+  decor_id: 
+- effet: 
+  temps: 5866
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le greffier demande \xC3\xA0 Selma de se lever pour la lecture de la condamnation"
+  decor_id: 
+- effet: 
+  temps: 5876
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma est condamn\xC3\xA9e \xC3\xA0 mort pour meurtre avec pr\xC3\xA9m\xC3\xA9ditation, ce qui provoque l'effondrement des amis de Selma"
+  decor_id: 
+- effet: 
+  temps: 5891
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le jury confirme sa sentence, donn\xC3\xA9e \xC3\xA0 l'unanimit\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 5898
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le juge annonce le transfert de Selma au p\xC3\xA9nitencier d'\xC3\xA9tat avant sa pendaison, et l\xC3\xA8ve la s\xC3\xA9ance. Selma reste sous le choc, incr\xC3\xA9dule"
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy se rend au p\xC3\xA9nitencier d'\xC3\xA9tat"
+  decor_id: 
+- effet: 
+  temps: 5935
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Au parloir, elle explique \xC3\xA0 Selma qu'elle vient d'apprendre la d\xC3\xA9cision de la Cour Supr\xC3\xAAme"
+  decor_id: 
+- effet: 
+  temps: 6003
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Elle s'excuse aupr\xC3\xA8s de Kathy de ne pas lui en avoir parl\xC3\xA9 avant et de ne pas pouvoir lui en dire plus"
+  decor_id: 
+- effet: 
+  temps: 6024
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda, la gardienne, ram\xC3\xA8ne Selma \xC3\xA0 sa cellule"
+  decor_id: 
+- effet: 
+  temps: 6050
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Alors qu'elle lui retire les menottes, Brenda d\xC3\xA9clare qu'elle a un fils, elle aussi"
+  decor_id: 
+- effet: 
+  temps: 6066
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Les deux femmes, complices, se saluent
+  decor_id: 
+- effet: 
+  temps: 6080
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma, dans sa cellule, pleure
+  decor_id: 
+- effet: 
+  temps: 6256
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma craque, tout \xC3\xA7a est trop dur pour elle"
+  decor_id: 
+- effet: 
+  temps: 6273
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Brenda va trouver Selma dans sa cellule
+  decor_id: 
+- effet: 
+  temps: 6282
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda explique \xC3\xA0 Selma que si elle n'obtient pas son sursis, elle sera conduite dans un autre b\xC3\xA2timent"
+  decor_id: 
+- effet: 
+  temps: 6306
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Et puis, ajoute Selma, ils font leur \xE2\x80\x9C107 pas\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6321
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda demande \xC3\xA0 Selma de penser \xC3\xA0 quelque chose d'agr\xC3\xA9able, qu'elle aura son sursis"
+  decor_id: 
+- effet: 
+  temps: 6328
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se plaint du calme de la prison, dit qu'\xC3\xA0 l'usine, elle pouvait se voir dans une com\xC3\xA9die musicale, o\xC3\xB9 rien d'affreux ne peut arriver"
+  decor_id: 
+- effet: 
+  temps: 6361
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma demande si les prisonniers ne font jamais de marche. Brenda dit que non.
+  decor_id: 
+- effet: 
+  temps: 6373
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma parle de la radio qu'elle entend le soir, par la bouche d'a\xC3\xA9ration. Brenda lui dit que c'est impossible, c'est interdit"
+  decor_id: 
+- effet: 
+  temps: 6402
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Brenda lui dit qu'elle doit entendre les chants de la chapelle
+  decor_id: 
+- effet: 
+  temps: 6411
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda dit que Selma aura peut-\xC3\xAAtre un sermon, ce qui r\xC3\xA9jouit Selma."
+  decor_id: 
+- effet: 
+  temps: 6427
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Une fois Brenda partie, Selma va \xC3\xA9couter \xC3\xA0 la bouche d'a\xC3\xA9ration"
+  decor_id: 
+- effet: 
+  temps: 6464
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Un ch\xC5\x93ur se fait entendre, de plus en plus fort"
+  decor_id: 
+- effet: 
+  temps: 6636
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda vient annoncer \xC3\xA0 Selma qu'elle a obtenu son sursis"
+  decor_id: 
+- effet: 
+  temps: 6649
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Les deux femmes s'\xC3\xA9treignent, profond\xC3\xA9ment \xC3\xA9mues"
+  decor_id: 
+- effet: 
+  temps: 6666
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il se pr\xC3\xA9sente, il s'appelle Luke"
+  decor_id: 
+- effet: 
+  temps: 6672
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'avocat explique \xC3\xA0 Selma, heureuse, qu'il n'a besoin que de sa signature pour demander la r\xC3\xA9vision"
+  decor_id: 
+- effet: 
+  temps: 6689
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il explique \xC3\xA0 Selma, tout ou\xC3\xAFe, que l'autre avocat avait mal fait son travail"
+  decor_id: 
+- effet: 
+  temps: 6773
+  scale: 6
+  duree: 
+  lieu: 
+  resume: L'avocat veut parler tactique avec Selma, mais la jeune femme n'y est plus
+  decor_id: 
+- effet: 
+  temps: 6853
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Il voudrait seulement savoir si elle mesure la port\xC3\xA9e de sa d\xC3\xA9cision, ce que confirme Selma, qui a d\xC3\xA9j\xC3\xA0 annul\xC3\xA9 le sursis. Elle se sent pr\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 6876
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Le prison sous la nuit, un sapin enguirland\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 7062
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda, dans le couloir de la prison, attend deux gardiennes. Lorsqu'elles arrivent, elle dit \xC3\xA0 Selma qu'il est l'heure"
+  decor_id: 
+- effet: 
+  temps: 7079
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda passe les menottes \xC3\xA0 Selma en lui caressant les mains"
+  decor_id: 
+- effet: 
+  temps: 7095
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Brenda fait sortir Selma de sa cellule et la remet aux deux gardiennes
+  decor_id: 
+- effet: 
+  temps: 7124
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Les gardiens conduisent Selma jusqu'\xC3\xA0 sa derni\xC3\xA8re cellule"
+  decor_id: 
+- effet: 
+  temps: 7141
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Ils font asseoir Selma sur son lit et la laissent
+  decor_id: 
+- effet: 
+  temps: 7166
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma est allong\xC3\xA9e sur son lit, yeux grands ouverts"
+  decor_id: 
+- effet: 
+  temps: 7178
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Une gardienne apporte \xC3\xA0 manger \xC3\xA0 Selma. Selma ne bouge pas."
+  decor_id: 
+- effet: 
+  temps: 7195
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma est toujours allong\xC3\xA9e, elle n'a pas touch\xC3\xA9 \xC3\xA0 son repas"
+  decor_id: 
+- effet: 
+  temps: 7205
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma est toujours allong\xC3\xA9e. Des gardiens arrivent \xC3\xA0 sa cellule."
+  decor_id: 
+- effet: 
+  temps: 7754
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Brenda s'effondre en larmes
+  decor_id: 
+- effet: 
+  temps: 7769
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma se balance au bout de sa corde, devant l'assistance o\xC3\xB9 il ne reste que Linda et deux hommes"
+  decor_id: 
+- effet: 
+  temps: 7772
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Un texte symbolique contre la peine de mort appara\xC3\xAEt \xC3\xA0 l'\xC3\xA9cran"
+  decor_id: 
+- effet: 
+  temps: 7777
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur et les gardiens viennent constater la mort, le rideau est tir\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 7250
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Un gardien annonce \xC3\xA0 Selma que l'heure est venue. Selma ne bouge pas, seul son doigt bat nerveusement sa main."
+  decor_id: 
+- effet: 
+  temps: 7261
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Les gardiens lui passent les menotes et essaient en vain de la relever
+  decor_id: 
+- effet: 
+  temps: 7275
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Brenda intervient. Selma lui dit que ses jambes ne vont pas bien. Brenda l'encourage
+  decor_id: 
+- effet: 
+  temps: 7289
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda trouve une id\xC3\xA9e : faire du bruit en tapant ses pieds par terre. Selma pense qu'elle n'y arriva pas, Brenda l'encourage \xC3\xA0 \xC3\xA9couter"
+  decor_id: 
+- effet: 
+  temps: 7322
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Selma, aid\xC3\xA9e et encourag\xC3\xA9e par Brenda, parvient \xC3\xA0 faire ses premiers pas"
+  decor_id: 
+- effet: 
+  temps: 7436
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur demande \xC3\xA0 Selma ses derniers mots. Elle n'a rien \xC3\xA0 dire. L'ex\xC3\xA9cuteur dit de proc\xC3\xA9der \xC3\xA0 l'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7449
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand un gardien enfile la cagoule sur la t\xC3\xAAte de Selma, celle-ci s'\xC3\xA9croule"
+  decor_id: 
+- effet: 
+  temps: 7461
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy, dans l'assistance, profond\xC3\xA9ment \xC3\xA9mue, retient ses larmes"
+  decor_id: 
+- effet: 
+  temps: 7469
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur ordonne d'utiliser la planche, malgr\xC3\xA9 les demandes de Brenda"
+  decor_id: 
+- effet: 
+  temps: 7475
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "On sangle Selma sur la planche d'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7502
+  scale: 6
+  duree: 
+  lieu: 
+  resume: Selma dit qu'elle a peur, Brenda tente de la rassurer
+  decor_id: 
+- effet: 
+  temps: 7510
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Linda est dans l'assistance, t\xC3\xAAte baiss\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 7512
+  scale: 6
+  duree: 
+  lieu: 
+  resume: On met Selma en place devant la corde
+  decor_id: 
+- effet: 
+  temps: 7523
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Quand le gardien remet la cagoule, Selma se met \xC3\xA0 crier qu'elle n'en veut pas. Brenda a beau lui expliquer que c'est pour qu'elle ne voie pas, Selma continue de crier"
+  decor_id: 
+- effet: 
+  temps: 7537
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Kathy la regarde, d\xC3\xA9sempar\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 7540
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Brenda finit par retirer la cagoule, en d\xC3\xA9pit du r\xC3\xA9glement"
+  decor_id: 
+- effet: 
+  temps: 7552
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur dit qu'il doit t\xC3\xA9l\xC3\xA9phone pour savoir si l'ex\xC3\xA9cution est possible sans cagoule"
+  decor_id: 
+- effet: 
+  temps: 7572
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur revient en disant qu'ils doivent attendre la r\xC3\xA9ponse"
+  decor_id: 
+- effet: 
+  temps: 7804
+  scale: 6
+  duree: 
+  lieu: 
+  resume: "Sur la mezzanine, Brenda est rest\xC3\xA9e seule, le regard fig\xC3\xA9 vers la trappe d'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 3
+  duree: 
+  lieu: 11 p.
+  resume: "Pr\xC3\xA9sentation de Selma et de son univers"
+  decor_id: 
+- effet: 
+  temps: 689
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Les relations amicales avec les Houston, Jeff et Kathy. Les \xC3\xA9conomies de Selma"
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Les confidences (Bill et Selma). Selma fr\xC3\xB4le l'accident"
+  decor_id: 
+- effet: 
+  temps: 1779
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma refuse un pr\xC3\xAAt \xC3\xA0 Bill"
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma n'y voit plus. Mais elle veut travailler de nuit et poursuivre les r\xC3\xA9p\xC3\xA9titions."
+  decor_id: 
+- effet: 
+  temps: 2132
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "L'accident de machine et Bill qui d\xC3\xA9couvre o\xC3\xB9 sont les \xC3\xA9conomies de Selma"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma renonce \xC3\xA0 son r\xC3\xB4le. Elle est licenci\xC3\xA9e. Jeff d\xC3\xA9couvre qu'elle est aveugle."
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma doit tuer Bill pour payer l'op\xC3\xA9ration des yeux de Gene"
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Arrestation et condamnation \xC3\xA0 mort de Selma"
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma au p\xC3\xA9nitencier d'\xC3\xA9tat. Complicit\xC3\xA9 avec Brenda, une gardienne. Kathy et Jeff d\xC3\xA9couvrent la v\xC3\xA9rit\xC3\xA9, Selma demande un sursis"
+  decor_id: 
+- effet: 
+  temps: 6656
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Selma refuse le nouvel avocat quand elle comprend qu'il est pay\xC3\xA9 avec ses \xC3\xA9conomies. Kathy et elle se brouillent."
+  decor_id: 
+- effet: 
+  temps: 7062
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Ex\xC3\xA9cution capitale de Selma"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 2
+  duree: 
+  lieu: 
+  resume: Le monde de Selma
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 2
+  duree: 
+  lieu: 
+  resume: Les confidences (Bill et Selma)
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 2
+  duree: 
+  lieu: 
+  resume: "De la c\xC3\xA9cit\xC3\xA9 \xC3\xA0 l'accident de machine"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 2
+  duree: 
+  lieu: 
+  resume: La chute
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 2
+  duree: 
+  lieu: 
+  resume: Le meurtre
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 2
+  duree: 
+  lieu: 
+  resume: Arrestation et condamnation
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 2
+  duree: 
+  lieu: 
+  resume: "P\xC3\xA9nitencier et ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Fanfare dans le noir
+  decor_id: 
+- effet: 
+  temps: 205
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale. Compliments de SAMUEL pour SELMA, reproches \xC3\xA0 KATHY"
+  decor_id: 
+- effet: 
+  temps: 295
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition des bruitages, Kathy refuse de faire le chien, Selma voudrait plus de rythme"
+  decor_id: 
+- effet: 
+  temps: 328
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Samuel conclut la r\xC3\xA9p\xC3\xA9tition en f\xC3\xA9licitant sa troupe"
+  decor_id: 
+- effet: 
+  temps: 335
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma passe sa visite des yeux en trichant. Elle pourra travailler sur sa machine
+  decor_id: 
+- effet: 
+  temps: 380
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, Selma travaille sur sa presse (apprend son script et se laisse bercer par le rythme)"
+  decor_id: 
+- effet: 
+  temps: 408
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "NORMAN, g\xC3\xAAn\xC3\xA9, dit \xC3\xA0 KATHY que Bill est l\xC3\xA0 avec Gene."
+  decor_id: 
+- effet: 
+  temps: 427
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Norman vient dire \xC3\xA0 Selma que Gene est l\xC3\xA0, avec Bill"
+  decor_id: 
+- effet: 
+  temps: 458
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Sur le parking, Selma reproche \xC3\xA0 GENE, son fils, de ne pas \xC3\xAAtre \xC3\xA0 l'\xC3\xA9cole. C'est BILL, policier, qui l'a amen\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 504
+  scale: 7
+  duree: 
+  lieu: 
+  resume: JEFF propose de ramener Gene. Selma le repousse
+  decor_id: 
+- effet: 
+  temps: 526
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill repart avec Gene
+  decor_id: 
+- effet: 
+  temps: 535
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff attend Selma \xC3\xA0 la sortie de l'usine pour la ramener. Selma refuse"
+  decor_id: 
+- effet: 
+  temps: 555
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy explique \xC3\xA0 Jeff que Selma l'aime malgr\xC3\xA9 les apparences"
+  decor_id: 
+- effet: 
+  temps: 568
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans la caravave, Selma essaie d'\xC3\xA9tablir le contact avec Gene. Gene reste sur sa r\xC3\xA9serve"
+  decor_id: 
+- effet: 
+  temps: 666
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "LINDA HOUSTON vient leur proposer de venir \xC3\xA9couter de la musique chez eux"
+  decor_id: 
+- effet: 
+  temps: 689
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En se rendant chez les Houston, Selma demande \xC3\xA0 Gene de parler de l'argent de Bill"
+  decor_id: 
+- effet: 
+  temps: 703
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill, Linda et Selma parlent des \xC3\xA9pingles \xC3\xA0 enfiler"
+  decor_id: 
+- effet: 
+  temps: 735
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En voyant la boite de bonbons des Houston, Selma repense \xC3\xA0 sa premi\xC3\xA8re com\xC3\xA9die musicale, qui a d\xC3\xA9clench\xC3\xA9 son r\xC3\xAAve am\xC3\xA9ricain."
+  decor_id: 
+- effet: 
+  temps: 763
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Ils parlent de l'argent dont \xC3\xA0 h\xC3\xA9rit\xC3\xA9 Bill"
+  decor_id: 
+- effet: 
+  temps: 774
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda offre la boite de bonbons \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 786
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Apr\xC3\xA8s avoir couch\xC3\xA9 Gene, Selma place ses \xC3\xA9conomies dans la boite de bonbons"
+  decor_id: 
+- effet: 
+  temps: 847
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma salue le train qui passe \xC3\xA0 c\xC3\xB4t\xC3\xA9 de chez elle"
+  decor_id: 
+- effet: 
+  temps: 854
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma vient payer le loyer aux Houston, en emmenant Gene que Linda doit conduire \xC3\xA0 l'\xC3\xA9cole"
+  decor_id: 
+- effet: 
+  temps: 877
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma reproche \xC3\xA0 Kathy d'\xC3\xAAtre toujours s\xC3\xA9rieuse. Elle lui explique le sens de \xE2\x80\x9CCvalda\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 906
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma et Kathy suivent une com\xC3\xA9die musicale. Kathy doit expliquer \xC3\xA0 Selma ce qui se passe, ce qui \xC3\xA9nerve un SPECTATEUR"
+  decor_id: 
+- effet: 
+  temps: 932
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma confie son amour pour la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 956
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill, Linda et Kathy veulent parler \xC3\xA0 Selma du v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 979
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle ne peut pas payer ce genre de chose \xC3\xA0 Gene : son argent va \xC3\xA0 son p\xC3\xA8re en Tch\xC3\xA9coslovaquie"
+  decor_id: 
+- effet: 
+  temps: 1015
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff a achet\xC3\xA9 un v\xC3\xA9lo pour l'anniversaire de Gene. Gene exhulte. Selma ne peut pas accepter"
+  decor_id: 
+- effet: 
+  temps: 1043
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Gene essaie le v\xC3\xA9lo, il est ravi"
+  decor_id: 
+- effet: 
+  temps: 1072
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma accepte qu'il garde le v\xC3\xA9lo, mais lui demande en contre-partie d'aller \xC3\xA0 l'\xC3\xA9cole tous les jours"
+  decor_id: 
+- effet: 
+  temps: 1091
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Jeff sort un aphorisme que personne ne comprend
+  decor_id: 
+- effet: 
+  temps: 1105
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy vante les m\xC3\xA9rites de Jeff. Selma rit, \xC3\xA9mue"
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Tard dans la nuit, Bill vient confier \xC3\xA0 Selma qu'il n'a plus d'argent, qu'il pense qu'il va perdre Linda. Selma lui r\xC3\xA9pond que Linda l'aime, ce qui ne semble pas le convaincre"
+  decor_id: 
+- effet: 
+  temps: 1210
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill se reproche d'avoir parl\xC3\xA9 de \xC3\xA7a \xC3\xA0 Selma, elle a assez de soucis comme \xC3\xA7a"
+  decor_id: 
+- effet: 
+  temps: 1230
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma confie \xC3\xA0 Bill qu'elle devient aveugle, et qu'elle est venue aux \xC3\xA9tats-unis pour faire soigner Gene qui a la m\xC3\xAAme maladie qu'elle"
+  decor_id: 
+- effet: 
+  temps: 1309
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle \xC3\xA9conomise pour l'op\xC3\xA9ration. Bill comprend pour le mensonge sur le p\xC3\xA8re, pour le fait que Selma travaille si dur"
+  decor_id: 
+- effet: 
+  temps: 1352
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma dit que c'est de sa faute, qu'elle savait que Gene aurait le m\xC3\xAAme probl\xC3\xA8me qu'elle"
+  decor_id: 
+- effet: 
+  temps: 1384
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle \xC3\xA9coute le rythme des machines quand \xC3\xA7a devient trop dur"
+  decor_id: 
+- effet: 
+  temps: 1406
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill et Selma parle de l'amour des com\xC3\xA9dies musicales qu'ils partagent"
+  decor_id: 
+- effet: 
+  temps: 1434
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma confie qu'elle d\xC3\xA9teste la derni\xC3\xA8re chanson, et qu'elle part avant pour que le film ne s'arr\xC3\xAAte jamais"
+  decor_id: 
+- effet: 
+  temps: 1469
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill, apr\xC3\xA8s avoir remerci\xC3\xA9 Selma pour son secret, lui demande de ne rien dire."
+  decor_id: 
+- effet: 
+  temps: 1490
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda aper\xC3\xA7oit Bill quitter la caravane de Selma"
+  decor_id: 
+- effet: 
+  temps: 1505
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma ram\xC3\xA8ne sa boite d'\xC3\xA9pingle et en reprend une plus grosse"
+  decor_id: 
+- effet: 
+  temps: 1530
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Pendant la pause, Kathy, Norman et Selma enfilent des \xC3\xA9pingles. C'est pour le p\xC3\xA8re de Selma, Oldrich Novy"
+  decor_id: 
+- effet: 
+  temps: 1554
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Ils parlent du communisme
+  decor_id: 
+- effet: 
+  temps: 1566
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Tandis que Selma reprend son travail, Kathy d\xC3\xA9couvre la feuille de lettres de Selma"
+  decor_id: 
+- effet: 
+  temps: 1578
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma ne s'aper\xC3\xA7oit pas qu'elle pose deux plaques sur sa presse. Kathy intervient juste \xC3\xA0 temps"
+  decor_id: 
+- effet: 
+  temps: 1610
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma se fait tirer les bretelles par Norman
+  decor_id: 
+- effet: 
+  temps: 1629
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy reproche \xC3\xA0 Selma d'avoir trich\xC3\xA9 pour son examen"
+  decor_id: 
+- effet: 
+  temps: 1631
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Selma qu'elle ne peut pas travailler sur la presse, Selma pense qu'elle pourrait m\xC3\xAAme les yeux ferm\xC3\xA9s"
+  decor_id: 
+- effet: 
+  temps: 1648
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy demande \xC3\xA0 Selma de promettre qu'elle fera attention. Selma promet sans y penser"
+  decor_id: 
+- effet: 
+  temps: 1666
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Jeff, qui l'attend, qu'elle ne peut pas se permettre d'avoir un petit ami"
+  decor_id: 
+- effet: 
+  temps: 1708
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff met en garde Selma : faire du v\xC3\xA9lo avec des lunettes est dangereux. Il dit vrai : un camion manque d'\xC3\xA9craser Selma"
+  decor_id: 
+- effet: 
+  temps: 1736
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill se propose de ramener Selma. Elle accepte
+  decor_id: 
+- effet: 
+  temps: 1779
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill demande un pr\xC3\xAAt \xC3\xA0 Selma. Elle lui dit qu'elle ne peut pas, que son argent est l'argent de Gene."
+  decor_id: 
+- effet: 
+  temps: 1807
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill regrette de lui avoir demand\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 1813
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill conclut en disant qu'il n'a plus qu'\xC3\xA0 se tirer une balle, avant de dire qu'il plaisantait"
+  decor_id: 
+- effet: 
+  temps: 1844
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma conduit Gene chez les Houston. Gene voudrait voir l'arme de Bill. \xC3\x89tonnement de Selma sur le fait que Bill ait une arme \xC3\xA0 la maison"
+  decor_id: 
+- effet: 
+  temps: 1897
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma propose de payer plus de loyer. Linda refuse
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma n'y voit plus, elle doit renoncer \xC3\xA0 aller au travail en v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 1950
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy se f\xC3\xA2che avec Selma apr\xC3\xA8s avoir appris qu'elle prenait deux bo\xC3\xAEtes, qu'elle allait travailler de nuit apr\xC3\xA8s la r\xC3\xA9p\xC3\xA9tition. Elle ne veut plus la secourir"
+  decor_id: 
+- effet: 
+  temps: 1996
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selmaest contente de voir Jeff sur le parking : elle doit se rendre \xC3\xA0 la r\xC3\xA9p\xC3\xA9tition et comptait sur lui"
+  decor_id: 
+- effet: 
+  temps: 2017
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma parle du raccourci qu'elle prend maintenant pour venir \xC3\xA0 l'usine"
+  decor_id: 
+- effet: 
+  temps: 2037
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff fait monter Selma dans son camion, et n'ose pas lui offrir un bouquet de fleurs achet\xC3\xA9 pour elle"
+  decor_id: 
+- effet: 
+  temps: 2054
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff confie qu'il ne comprend rien aux com\xC3\xA9dies musicales"
+  decor_id: 
+- effet: 
+  temps: 2074
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la r\xC3\xA9p\xC3\xA9tition, Samuel pr\xC3\xA9sente \xC3\xA0 Selma sa doublure. Selma se rassure quand elle apprend que c'est juste une doublure en cas de probl\xC3\xA8me"
+  decor_id: 
+- effet: 
+  temps: 2111
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Samuel voudrait que Selma joue sans lunettes, ce qui n'est pas pour plaire \xC3\xA0 la jeune femme"
+  decor_id: 
+- effet: 
+  temps: 2132
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, la CONRE-MAITRE DE NUIT explique \xC3\xA0 Selma son travail. Travailler sur deux machines, travailler plus vite"
+  decor_id: 
+- effet: 
+  temps: 2159
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma ne parvient pas \xC3\xA0 suivre la cadence"
+  decor_id: 
+- effet: 
+  temps: 2204
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Kathy vient aider Selma, ravie. Mais Kathy lui demande de travailler plus vite
+  decor_id: 
+- effet: 
+  temps: 2243
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Plus tard dans la nuit, Kathy somnole et Selma n'en peut plus. Elle se laisse bercer par le bruit des machines
+  decor_id: 
+- effet: 
+  temps: 2278
+  scale: 7
+  duree: 
+  lieu: 
+  resume: CLIP
+  decor_id: 
+- effet: 
+  temps: 2490
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "La presse de Selma s'est bloqu\xC3\xA9e, toute l'usine accourt"
+  decor_id: 
+- effet: 
+  temps: 2505
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Jeff attend encore Selma, pour la ramener. Selma refuse
+  decor_id: 
+- effet: 
+  temps: 2533
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff voit la coupure \xC3\xA0 la main de Selma. Elle minimise"
+  decor_id: 
+- effet: 
+  temps: 2542
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma retourne chez elle en se guidant avec les rails
+  decor_id: 
+- effet: 
+  temps: 2567
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma vient rechercher Gene chez les Houston
+  decor_id: 
+- effet: 
+  temps: 2591
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill explique \xC3\xA0 Selma qu'il va tout dire \xC3\xA0 Linda"
+  decor_id: 
+- effet: 
+  temps: 2627
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill dit \xC3\xA0 Selma, ext\xC3\xA9nu\xC3\xA9e, qu'il va la laisser se reposer. Mais il semble avoir une id\xC3\xA9e derri\xC3\xA8re la t\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 2647
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill feind de sortir, mais reste dans la caravane. Apr\xC3\xA8s un doute, Selma se dit qu'il est parti"
+  decor_id: 
+- effet: 
+  temps: 2694
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill d\xC3\xA9couvre o\xC3\xB9 Selma planque ses \xC3\xA9conomies."
+  decor_id: 
+- effet: 
+  temps: 2736
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au cin\xC3\xA9ma, Kathy raconte \xC3\xA0 Selma ce qui se passe \xC3\xA0 l'\xC3\xA9cran, en lui mimant la chor\xC3\xA9graphie, ce qui fait r\xC3\xA2ler le m\xC3\xAAme spectateur"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la r\xC3\xA9p\xC3\xA9tition, Selma, ignorant la distance qu'elle a \xC3\xA0 parcourir n'ose pas faire son entr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 2788
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy fait l'entr\xC3\xA9e \xC3\xA0 la place de Selma pour compter les pas. Samuel s'exasp\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 2823
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma parvient \xC3\xA0 faire son entr\xC3\xA9e en comptant ses pas"
+  decor_id: 
+- effet: 
+  temps: 2832
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma refuse de faire le tour de Boris. Samuel s'\xC3\xA9nerv un peu"
+  decor_id: 
+- effet: 
+  temps: 2846
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xA0 Samuel qu'elle veut lui parler. Ils quittent la salle"
+  decor_id: 
+- effet: 
+  temps: 2876
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma annonce \xC3\xA0 Samuel qu'elle renonce au r\xC3\xB4le de Maria dans la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 2905
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma fait croire que son amour pour les com\xC3\xA9dies musicales \xC3\xA9tait feint"
+  decor_id: 
+- effet: 
+  temps: 2918
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Samuel lui dit qu'il ne reste qu'un petit r\xC3\xB4le pour elle"
+  decor_id: 
+- effet: 
+  temps: 2930
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Ils parlent du r\xC3\xB4le de la nonne, Samuel dit pouvoir ajouter des claquettes, le rendre moins s\xC3\xA9rieux"
+  decor_id: 
+- effet: 
+  temps: 2964
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, Selma n'a plus ses \xC3\xA9pingles et Kathy annonce \xC3\xA0 Norman qu'elle a renonc\xC3\xA9 aussi \xC3\xA0 son r\xC3\xB4le"
+  decor_id: 
+- effet: 
+  temps: 2977
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Norman et Selma chahutent
+  decor_id: 
+- effet: 
+  temps: 2985
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Norman dit \xC3\xA0 Selma qu'il doit lui parler"
+  decor_id: 
+- effet: 
+  temps: 2994
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Norman parle de l'incident, Selma r\xC3\xA9pond qu'elle peut travailler correctement en ne faisant que la journ\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3037
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Mais Norman lui annonce qu'elle est licenci\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3058
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Norman lui remet son salaire
+  decor_id: 
+- effet: 
+  temps: 3064
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Il veut proposer un autre boulot \xC3\xA0 Selma, mais elle le refuse"
+  decor_id: 
+- effet: 
+  temps: 3093
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma reprend ses affaires dans les vestiaires
+  decor_id: 
+- effet: 
+  temps: 3103
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy r\xC3\xA9primande Norman et vient consoler Selma"
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Sur le parking de l'usine, Selma cherche Jeff, mais il n'est pas encore l\xC3\xA0"
+  decor_id: 
+- effet: 
+  temps: 3129
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff rattrape Selma sur un pont ferrovi\xC3\xA8re. Selma lui dit qu'elle aura besoin de lui \xC3\xA0 trois heures"
+  decor_id: 
+- effet: 
+  temps: 3124
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma retourne chez elle par la voie ferr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3160
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Un train arrive au bout du pont
+  decor_id: 
+- effet: 
+  temps: 3166
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff d\xC3\xA9couvre que Selma est aveugle"
+  decor_id: 
+- effet: 
+  temps: 3188
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma \xC3\xA9coute le rythme fait par le train qui passe \xC3\xA0 c\xC3\xB4t\xC3\xA9 d'eux"
+  decor_id: 
+- effet: 
+  temps: 3200
+  scale: 7
+  duree: 
+  lieu: 
+  resume: (CLIP) Selma jette ses lunettes en disant qu'elle a tout vu
+  decor_id: 
+- effet: 
+  temps: 3273
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff lui chante tout ce qui lui reste a d\xC3\xA9couvrir, mais Selma r\xC3\xA9torque que \xC3\xA7a n'a pas d'int\xC3\xA9r\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 3391
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma chante qu'elle a vu l'essentiel : ce qu'elle \xC3\xA9tait et ce qu'elle sera"
+  decor_id: 
+- effet: 
+  temps: 3470
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff regarde le train s'\xC3\xA9loigner avec Selma (FIN DU CLIP)"
+  decor_id: 
+- effet: 
+  temps: 3484
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Apr\xC3\xA8s avoir demand\xC3\xA9 \xC3\xA0 Selma si elle \xC3\xA9tait vraiment aveugle, ils se s\xC3\xA9parent"
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma arrive \xC3\xA0 sa caravane"
+  decor_id: 
+- effet: 
+  temps: 3523
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En voulant ajouter l'argent de son dernier salaire \xC3\xA0 ses \xC3\xA9conomies, Selma d\xC3\xA9couvre qu'on lui a d\xC3\xA9rob\xC3\xA9es"
+  decor_id: 
+- effet: 
+  temps: 3549
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma se rend chez les Houston, pour voir Bill. Linda lui dit qu'il n'est pas l\xC3\xA0."
+  decor_id: 
+- effet: 
+  temps: 3571
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda lance \xC3\xA0 Selma que Bill lui a tout racont\xC3\xA9. Selma ne comprend pas."
+  decor_id: 
+- effet: 
+  temps: 3580
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda lui parle des avances qu'elle a faites \xC3\xA0 Bill, et lui demande de d\xC3\xA9m\xC3\xA9nager. Selma ne s'explique pas."
+  decor_id: 
+- effet: 
+  temps: 3609
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Elle dit vouloir seulement parler \xC3\xA0 Bill"
+  decor_id: 
+- effet: 
+  temps: 3615
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma retrouve Bill \xC3\xA0 l'\xC3\xA9tage, qui lui explique ce qu'il a fait croire \xC3\xA0 Linda"
+  decor_id: 
+- effet: 
+  temps: 4116
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Assise au bureau de Bill, Selma essaie de se remettre
+  decor_id: 
+- effet: 
+  temps: 4131
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le craquement du saphir sur le vinyl la fait basculer dans le r\xC3\xAAve (CLIP)"
+  decor_id: 
+- effet: 
+  temps: 3653
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle n'a rien dit \xC3\xA0 cause de leur pacte (\xE2\x80\x9Cmotus\xE2\x80\x9D)"
+  decor_id: 
+- effet: 
+  temps: 4195
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma r\xC3\xA9ssucite Bill en le touchant au front"
+  decor_id: 
+- effet: 
+  temps: 3672
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'il a \xC3\xA9t\xC3\xA9 incapable de demander un d\xC3\xA9lai pour ses \xC3\xA9ch\xC3\xA9ances"
+  decor_id: 
+- effet: 
+  temps: 3692
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma, en s'excusant, lui dit qu'elle va devoir reprendre son argent
+  decor_id: 
+- effet: 
+  temps: 3716
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill lui dit qu'elle pourra l'avoir dans un mois, mais Selma doit payer l'op\xC3\xA9ration l'apr\xC3\xA8s-midi m\xC3\xAAme"
+  decor_id: 
+- effet: 
+  temps: 3747
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma reprend l'argent des mains de Bill, qui s'y accroche, en lui disant qu'elle lui fait confiance sur la somme
+  decor_id: 
+- effet: 
+  temps: 3767
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'il y a 2056 dollars et 10 cents, que \xC3\xA7a n'est pas suffisant, mais qu'il faudra faire avec"
+  decor_id: 
+- effet: 
+  temps: 3787
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill supplie Selma, mais elle s'en va
+  decor_id: 
+- effet: 
+  temps: 3790
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill sort son arme et braque Selma, qui ne le croit pas capable de \xC3\xA7a"
+  decor_id: 
+- effet: 
+  temps: 3814
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill se pr\xC3\xA9cipite sur elle pour lui faire sentir l'arme"
+  decor_id: 
+- effet: 
+  temps: 3827
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill crie, pour faire croire que Selma est en train de lui voler son argent. Selma se met \xC3\xA0 pleurer"
+  decor_id: 
+- effet: 
+  temps: 3841
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda accourt et reproche \xC3\xA0 Selma de s'\xC3\xAAtre int\xC3\xA9ress\xC3\xA9e \xC3\xA0 Bill pour son argent"
+  decor_id: 
+- effet: 
+  temps: 3855
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill envoie sa femme chercher les menottes
+  decor_id: 
+- effet: 
+  temps: 3861
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill arrache la sacoche qui contient l'argent des mains de Selma
+  decor_id: 
+- effet: 
+  temps: 3886
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En s'accrochant \xC3\xA0 la sacoche, un coup de feu part et Bill s'affaisse"
+  decor_id: 
+- effet: 
+  temps: 3912
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill supplie Selma de le tuer, si elle est son amie
+  decor_id: 
+- effet: 
+  temps: 3925
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda revient sans les menottes et d\xC3\xA9couvre la sc\xC3\xA8ne, horrifi\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3937
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill lui ordonne de se rendre chez leur voisin pour appeler le commissariat. Linda s'y pr\xC3\xA9cipite"
+  decor_id: 
+- effet: 
+  temps: 3946
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill dit \xC3\xA0 Selma que si elle veut son argent, elle va devoir le tuer."
+  decor_id: 
+- effet: 
+  temps: 3966
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma tire sur la sacoche, mais Bill r\xC3\xA9siste"
+  decor_id: 
+- effet: 
+  temps: 3978
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill plaque l'arme que tient Selma contre son ventre, un nouveau coup de feu part
+  decor_id: 
+- effet: 
+  temps: 3994
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma tire \xC3\xA0 nouveau sur la sacoche, mais Bill s'y accroche toujours et ordonnant \xC3\xA0 Selma de l'abattre"
+  decor_id: 
+- effet: 
+  temps: 4001
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma se rel\xC3\xA8ve, en larmes, et tire plusieurs balles"
+  decor_id: 
+- effet: 
+  temps: 4017
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Elle essaie encore de prendre la sacoche, mais Bill r\xC3\xA9siste"
+  decor_id: 
+- effet: 
+  temps: 4042
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma va prendre le coffre de Bill, et le frappe au visage
+  decor_id: 
+- effet: 
+  temps: 4079
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill finit par mourir, Selma peut reprendre sa sacoche
+  decor_id: 
+- effet: 
+  temps: 4207
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans la salle de bains, Selma demande \xC3\xA0 Bill s'il a mal. Il r\xC3\xA9pond qu'il lui a fait plus mal encore"
+  decor_id: 
+- effet: 
+  temps: 4235
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans la chambre, Selma se d\xC3\xA9coiffe, Bill la r\xC3\xA9conforte"
+  decor_id: 
+- effet: 
+  temps: 4258
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Comme un p\xC3\xA8re, Bill lui dit qu'elle devra \xC3\xAAtre forte"
+  decor_id: 
+- effet: 
+  temps: 4266
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dehors, Gene tourne en v\xC3\xA9lo en chantant que Selma n'a fait que ce qu'elle devait faire"
+  decor_id: 
+- effet: 
+  temps: 4291
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la cuisine, Bill dit \xC3\xA0 Selma qu'il la pardonne"
+  decor_id: 
+- effet: 
+  temps: 4324
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand les sir\xC3\xA8nes de police se font entendre, Bill dit \xC3\xA0 Selma de se sauver"
+  decor_id: 
+- effet: 
+  temps: 4341
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dehors, sous le drapeau am\xC3\xA9ricain, Selma avoue \xC3\xA0 Linda qu'elle a tu\xC3\xA9 son mari"
+  decor_id: 
+- effet: 
+  temps: 4367
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Linda lui chante de se sauver, mais Selma r\xC3\xA9pond qu'elle n'a aucune raison de fuir puisque la police vient pour elle"
+  decor_id: 
+- effet: 
+  temps: 4389
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Linda convainc Selma en lui expliquant qu'ils vont prendre son argent si elle ne sauve pas
+  decor_id: 
+- effet: 
+  temps: 4407
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma se sauve en suivant Gene
+  decor_id: 
+- effet: 
+  temps: 4424
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma s'arr\xC3\xAAte au milieu du pont"
+  decor_id: 
+- effet: 
+  temps: 4434
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Elle descend \xC3\xA0 la rivi\xC3\xA8re en chantant qu'elle n'a fait que ce qu'elle devait faire"
+  decor_id: 
+- effet: 
+  temps: 4495
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma entre dans l'eau et se met \xC3\xA0 tourner (FIN CLIP)"
+  decor_id: 
+- effet: 
+  temps: 4516
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Jeff arrive, en avance comme d'habitude, pour chercher Selma
+  decor_id: 
+- effet: 
+  temps: 4563
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans son camion, Jeff fait remarquer \xC3\xA0 Selma qu'elle a du sang sur ses v\xC3\xAAtements et son visage"
+  decor_id: 
+- effet: 
+  temps: 4574
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Ils quittent la maison des Houston au moment o\xC3\xB9 la police y arrive"
+  decor_id: 
+- effet: 
+  temps: 4592
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff roule, Selma est endormie \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s"
+  decor_id: 
+- effet: 
+  temps: 4605
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand ils arrivent \xC3\xA0 l'endroit convenu, Selma demande \xC3\xA0 Jeff de ne pas la suivre"
+  decor_id: 
+- effet: 
+  temps: 4647
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma part dans la for\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 4661
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au bord du lac, Selma se lave et se d\xC3\xA9barrasse, mais mal, de la sacoche et de son gilet plein de sang."
+  decor_id: 
+- effet: 
+  temps: 4697
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma trouve le chemin long\xC3\xA9 d'une corde et le suit"
+  decor_id: 
+- effet: 
+  temps: 4718
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Elle arrive \xC3\xA0 la clinique"
+  decor_id: 
+- effet: 
+  temps: 4730
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans le bureau du docteur, Selma paye l'op\xC3\xA9ration de Gene"
+  decor_id: 
+- effet: 
+  temps: 4771
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand le docteur demande un nom, Selma dit qu'il s'appelle \xE2\x80\x9CNovy\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 4802
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En remplissant le dossier, le docteur, au grand plaisir de Selma, parle de Oldrich Novy, l'acteur de com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 4822
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma revient au camion o\xC3\xB9 l'attend Jeff, qui propose \xC3\xA0 Selma de la conduire \xC3\xA0 sa r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la consternation de tous, Selma arrive \xC3\xA0 la r\xC3\xA9p\xC3\xA9tition. Samuel feind d'\xC3\xAAtre heureux de la voir."
+  decor_id: 
+- effet: 
+  temps: 4879
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Samuel s'excuse et quitte la salle
+  decor_id: 
+- effet: 
+  temps: 4883
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans le couloir, il d\xC3\xA9croche le t\xC3\xA9l\xC3\xA9phone"
+  decor_id: 
+- effet: 
+  temps: 4888
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Dans la salle de spectacle, on attend, le malaise est perceptible
+  decor_id: 
+- effet: 
+  temps: 4895
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Dans le couloir, Samuel dit que Selma se trouve ici
+  decor_id: 
+- effet: 
+  temps: 4902
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Samuel revient et relance la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 4911
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand Selma veut s'en aller, Samuel la retient en lui disant qu'ils vont faire sa sc\xC3\xA8ne"
+  decor_id: 
+- effet: 
+  temps: 4932
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma, semblant se d\xC3\xA9contracter, \xC3\xA9coute la r\xC3\xA9p\xC3\xA9tition de ses sc\xC3\xA8nes"
+  decor_id: 
+- effet: 
+  temps: 4980
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Mais elle veut \xC3\xA0 nouveau s'en aller, et Samuel la retient en lui pr\xC3\xA9sentant Betty, la joueuse de tambour"
+  decor_id: 
+- effet: 
+  temps: 5014
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Apr\xC3\xA8s s'\xC3\xAAtre souvenu que Selma d\xC3\xA9testait les finals, Samuel propose de faire une autre chanson"
+  decor_id: 
+- effet: 
+  temps: 5028
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma \xC3\xA9coute, ravie, la chanson accompagn\xC3\xA9e par les coups de baguettes de Betty sur le piano"
+  decor_id: 
+- effet: 
+  temps: 5054
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma glisse dans son r\xC3\xAAve (CLIP), chantant qu'il y aura toujours quelqu'un pour la rattraper"
+  decor_id: 
+- effet: 
+  temps: 5114
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Les policiers arrivent et embarquent Selma (FIN DU CLIP)
+  decor_id: 
+- effet: 
+  temps: 5141
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Au tribunal, le procureur lit l'acte d'accusation
+  decor_id: 
+- effet: 
+  temps: 5199
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Les t\xC3\xA9moins passent \xC3\xA0 la barre, enfon\xC3\xA7ant Selma"
+  decor_id: 
+- effet: 
+  temps: 5289
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma passe \xC3\xA0 la barre. Le procureur voudrait savoir pourquoi elle a tu\xC3\xA9 Bill Houston, qui \xC3\xA9tait un v\xC3\xA9ritable ami pour elle. Elle dit qu'il lui a demand\xC3\xA9, mais a promis de ne pas dire pourquoi"
+  decor_id: 
+- effet: 
+  temps: 5404
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Le procureur ironise sur le fait qu'ils doivent donc la croire sur parole
+  decor_id: 
+- effet: 
+  temps: 5417
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le procureur l'am\xC3\xA8ne \xC3\xA0 parler de Oldrich Novy, son soi-disant p\xC3\xA8re pour lequel elle faisait ses soi-disantes \xC3\xA9conomies"
+  decor_id: 
+- effet: 
+  temps: 5473
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le procureur, apr\xC3\xA8s avoir r\xC3\xA9sum\xC3\xA9 avec ironie les \xC3\xA9l\xC3\xA9ments de l'affaire, redit aux jur\xC3\xA9s qu'ils doivent croire Selma sur parole."
+  decor_id: 
+- effet: 
+  temps: 5538
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "C'est alors qu'il appelle \xC3\xA0 la barre ce fameux Oldrich Novy, \xC3\xA0 la stup\xC3\xA9faction g\xC3\xA9n\xC3\xA9rale"
+  decor_id: 
+- effet: 
+  temps: 5570
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Devant l'assistance incr\xC3\xA9dule, Oldrich Novy affirme ne pas \xC3\xAAtre le p\xC3\xA8re de Selma, ne pas la conna\xC3\xAEtre, et n'avoir jamais re\xC3\xA7u d'argent de sa part"
+  decor_id: 
+- effet: 
+  temps: 5601
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand le procureur demande \xC3\xA0 Novy comment Selma a pu conna\xC3\xAEtre son nom, Novy explique qu'il \xC3\xA9tait un acteur de com\xC3\xA9dies musicales c\xC3\xA9l\xC3\xA8bre lorsqu'il vivant en Tch\xC3\xA9coslovaquie"
+  decor_id: 
+- effet: 
+  temps: 5644
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Berc\xC3\xA9e par le rythme des gommes et des crayons des dessinateurs du tribunal, Selma glisse dans un r\xC3\xAAve de com\xC3\xA9die musicale (CLIP) o\xC3\xB9tout le tribunal se met \xC3\xA0 danser"
+  decor_id: 
+- effet: 
+  temps: 5827
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "(FIN DU CLIP) Le juge revient et on demande \xC3\xA0 Selma de se lever pour la lecture de la condamnation"
+  decor_id: 
+- effet: 
+  temps: 5876
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "La condamnation tombe : Selma est condamn\xC3\xA9e \xC3\xA0 mort pour meurtre avec pr\xC3\xA9m\xC3\xA9ditation"
+  decor_id: 
+- effet: 
+  temps: 5898
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le juge annonce le transfert de Selma et sa pendaison au p\xC3\xA9nitencier d'\xC3\xA9tat. Selma reste sous le choc"
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy vient trouver Selma au p\xC3\xA9nitencier"
+  decor_id: 
+- effet: 
+  temps: 5940
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma parle de la lettre que Gene va recevoir et demande \xC3\xA0 Kathy de s'en occuper, sans pouvoir tout lui expliquer"
+  decor_id: 
+- effet: 
+  temps: 6003
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma s'excuse aupr\xC3\xA8s de Kathy de ne pas tout lui avoir dit, et refuse \xC3\xA0 contre-c\xC5\x93ur que Kathy donne le bonjour \xC3\xA0 Gene de sa part"
+  decor_id: 
+- effet: 
+  temps: 6024
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda reconduit Selma \xC3\xA0 sa cellule. Les deux femmes, complices, parlent de Gene et du fils de Brenda"
+  decor_id: 
+- effet: 
+  temps: 6080
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Dans sa cellule, Selma pleure
+  decor_id: 
+- effet: 
+  temps: 6085
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff retourne en camion o\xC3\xB9 il avait conduit Selma"
+  decor_id: 
+- effet: 
+  temps: 6097
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Jeff longe le lac
+  decor_id: 
+- effet: 
+  temps: 6103
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff aper\xC3\xA7oit un enfant aveugle et le suit jusqu'\xC3\xA0 la clinique"
+  decor_id: 
+- effet: 
+  temps: 6122
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'accueil, on lui dit qu'il n'y a pas de client au nom de Jezkova"
+  decor_id: 
+- effet: 
+  temps: 6153
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Juste avant de partir, Jeff demande s'ils auraient un patient au nom de \xE2\x80\x9CNovy\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au parloir, Kathy, radieuse, annonce \xC3\xA0 Selma que de nouveaux \xC3\xA9l\xC3\xA9ments, comme l'op\xC3\xA9ration de Gene, vont pouvoir la tirer d'affaire."
+  decor_id: 
+- effet: 
+  temps: 6210
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma ne veut savoir qu'une chose : si Gene est au courant, car il ne faut pas qu'il s'inqui\xC3\xA8te."
+  decor_id: 
+- effet: 
+  temps: 6238
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy dit \xC3\xA0 Selma de demander un sursis, souvent accord\xC3\xA9 la premi\xC3\xA8re fois. Elle pourra voir son avocat dans deux semaines"
+  decor_id: 
+- effet: 
+  temps: 6253
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Alors que Kathy reproche un peu \xC3\xA0 Selma de ne pas s'enthousiasmer, Selma craque, confie que c'est trop dur pour elle"
+  decor_id: 
+- effet: 
+  temps: 6273
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Dans la cellule, Brenda et Selma parlent de ce qui se passera si elle n'obtient pas le sursis. Les 107 pas.
+  decor_id: 
+- effet: 
+  temps: 6321
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand Brenda conseille \xC3\xA0 Selma de penser \xC3\xA0 autre chose, Selma r\xC3\xA9pond qu'elle souffre du calme de la prison."
+  decor_id: 
+- effet: 
+  temps: 6427
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans sa cellule, seule, Selma va \xC3\xA9couter le ch\xC5\x93ur qui se fait entendre par la bouche d'a\xC3\xA9ration"
+  decor_id: 
+- effet: 
+  temps: 6496
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma essaie de se forcer \xC3\xA0 chanter. Elle finit par y parvenir"
+  decor_id: 
+- effet: 
+  temps: 6636
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda vient annoncer \xC3\xA0 Selma qu'elle a obtenu son sursis"
+  decor_id: 
+- effet: 
+  temps: 6656
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Selma rencontre son nouvel avocat
+  decor_id: 
+- effet: 
+  temps: 6689
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le nouvel avocat explique que l'autre \xC3\xA9tait commis d'office et qu'il a mal fait son travail"
+  decor_id: 
+- effet: 
+  temps: 6718
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "L'avocat pr\xC3\xA9cise \xC3\xA0 Selma que lui n'est pas commis d'office, et qu'il a accept\xC3\xA9 la somme qu'on lui proposait"
+  decor_id: 
+- effet: 
+  temps: 6748
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma d\xC3\xA9couvre, stup\xC3\xA9faite, que ce sont ses \xC3\xA9conomies qui ont permis de payer l'avocat"
+  decor_id: 
+- effet: 
+  temps: 6784
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au parloir, un dialogue de sourdes entre Selma et Kathy. Selma explique que l'op\xC3\xA9ration des yeux est la chose la plus importante de sa vie, tandis que Kathy explique que ce dont a besoin Gene, c'est d'une m\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 6823
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy finit par menacer de faire croire \xC3\xA0 la police que Selma a vol\xC3\xA9 cet argent \xC3\xA0 Bill. Selma s'effondre en larmes"
+  decor_id: 
+- effet: 
+  temps: 6846
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le nouvel avocat confirme \xC3\xA0 Selma qu'elle peut reprendre son argent, mais qu'une fois la machine en route, il ne sera plus possible de revenir en arri\xC3\xA8re. Selma se dit pr\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 6876
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "La prison sous la nuit, un sapin enguirland\xC3\xA9 au milieu du carrefour"
+  decor_id: 
+- effet: 
+  temps: 6884
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au parloir, Selma repproche \xC3\xA0 Jeff de faire des cadeaux \xC3\xA0 Gene en faisant croire qu'ils viennent d'elle"
+  decor_id: 
+- effet: 
+  temps: 6911
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff voudrait qu'elle appelle son fils, mais Selma pense que \xC3\xA7a n'est pas une bonne id\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 6932
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand Jeff parle de la pr\xC3\xA9sence de Gene \xC3\xA0 l'ex\xC3\xA9cution, Selma, stup\xC3\xA9faite, demande qui lui met des id\xC3\xA9es pareilles en t\xC3\xAAte"
+  decor_id: 
+- effet: 
+  temps: 6959
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy est toujours f\xC3\xA2ch\xC3\xA9e contre Selma, Jeff se propose de venir, Selma accepte"
+  decor_id: 
+- effet: 
+  temps: 7008
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma explique \xC3\xA0 Jeff qu'elle a eu Gene pour pouvoir sentir un b\xC3\xA9b\xC3\xA9 dans ses bras"
+  decor_id: 
+- effet: 
+  temps: 7041
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Jeff dit \xC3\xA0 Selma qu'il l'aime"
+  decor_id: 
+- effet: 
+  temps: 7062
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda vient dire \xC3\xA0 Selma que c'est l'heure et la fait sortir de sa cellule"
+  decor_id: 
+- effet: 
+  temps: 7124
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "On conduit Selma dans sa derni\xC3\xA8re cellule"
+  decor_id: 
+- effet: 
+  temps: 7166
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma attend, sans bouger, sans manger, dans sa derni\xC3\xA8re cellule"
+  decor_id: 
+- effet: 
+  temps: 7744
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand la sonnerie du t\xC3\xA9l\xC3\xA9phone retentit, Brenda s'effondre en larmes"
+  decor_id: 
+- effet: 
+  temps: 7205
+  scale: 7
+  duree: 
+  lieu: 
+  resume: On vient la chercher, c'est l'heure. Selma est nerveuse
+  decor_id: 
+- effet: 
+  temps: 7762
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Etranglant brutalement le chant de Selma, la trappe s'ouvre, faisant chuter la jeune femme dans le vide
+  decor_id: 
+- effet: 
+  temps: 7769
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma reste pendue au bout de sa corde, tandis qu'un texte symbolique contre la peine de mort apparait \xC3\xA0 l'\xC3\xA9cran"
+  decor_id: 
+- effet: 
+  temps: 7777
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "On vient constater la mort de la condamn\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 7261
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma ne parvient pas \xC3\xA0 se tenir sur ses jambes, Brenda doit venir l'aider"
+  decor_id: 
+- effet: 
+  temps: 7289
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda trouve une id\xC3\xA9e : marteller le rythme de ses pieds. Elle demande \xC3\xA0 Selma de se concentrer sur ce bruit"
+  decor_id: 
+- effet: 
+  temps: 7340
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "(CLIP) Travers\xC3\xA9e chor\xC3\xA9graphique du couloir de la mort, rythme par le compte de Brenda et de Selma"
+  decor_id: 
+- effet: 
+  temps: 7413
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Lorsque la porte de la salle d'ex\xC3\xA9cution se referme, la musique s'arr\xC3\xAAte (FIN DU CLIP)"
+  decor_id: 
+- effet: 
+  temps: 7436
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "L'ex\xC3\xA9cuteur, apr\xC3\xA8s avoir demand\xC3\xA9 son dernier mot \xC3\xA0 Selma, ordonne le d\xC3\xA9but de l'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7449
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand un gardien enfile la t\xC3\xAAte de Selma dans la cagoule, celle-ci s'\xC3\xA9croule"
+  decor_id: 
+- effet: 
+  temps: 7469
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "On sangle Selma sur la planche pr\xC3\xA9vue dans ce genre de situation"
+  decor_id: 
+- effet: 
+  temps: 7512
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Quand le gardien remet la cagoule, Selma se met \xC3\xA0 hurler qu'elle n'en veut pas"
+  decor_id: 
+- effet: 
+  temps: 7540
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda prend sa d\xC3\xA9fense et retire la cagoule, malgr\xC3\xA9 le r\xC3\xA8glement. L'ex\xC3\xA9cuteur doit t\xC3\xA9l\xC3\xA9phoner pour savoir si l'ex\xC3\xA9cution est possible dans ces conditions"
+  decor_id: 
+- effet: 
+  temps: 7563
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma se met \xC3\xA0 appeler Gene, tandis qu'ils attendent la r\xC3\xA9ponse"
+  decor_id: 
+- effet: 
+  temps: 7584
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Kathy, n'y tenant plus, monte \xC3\xA0 la salle d'ex\xC3\xA9cution, et remet les lunettes de Gene \xC3\xA0 Selma en lui annon\xC3\xA7ant que l'op\xC3\xA9ration a r\xC3\xA9ussi"
+  decor_id: 
+- effet: 
+  temps: 7605
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma semble plus sereine. Elle entend les battements de son c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 7633
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma se met \xC3\xA0 entonner un chant d\xC3\xA9chirant, a cappela,en l'honneur de son fils ch\xC3\xA9ri, chantant que c'est seulement l'avant-derni\xC3\xA8re chanson"
+  decor_id: 
+- effet: 
+  temps: 7804
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Brenda reste seule sur la mezzanine de la salle d'ex\xC3\xA9cution, le regard fig\xC3\xA9 vers la trappe"
+  decor_id: 
+- effet: 
+  temps: 205
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 335
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "En trichant, Selma passe sa visite des yeux avec succ\xC3\xA8s"
+  decor_id: 
+- effet: 
+  temps: 380
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Probl\xC3\xA8mes de Selma avec son fils Gene, qui fait l'\xC3\xA9cole buissonni\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 535
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Jeff veut ramener Selma, Selma le repousse
+  decor_id: 
+- effet: 
+  temps: 568
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma essaie d'\xC3\xA9tablir le dialogue avec Gene"
+  decor_id: 
+- effet: 
+  temps: 689
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Visite aux Houston. Les \xC3\xA9pingles, l'h\xC3\xA9ritage de Bill, le r\xC3\xAAve am\xC3\xA9ricain de Selma, le cin\xC3\xA9ma"
+  decor_id: 
+- effet: 
+  temps: 774
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma place ses \xC3\xA9conomies dans la bo\xC3\xAEte de bonbons que lui a offerte Linda Houston"
+  decor_id: 
+- effet: 
+  temps: 847
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma salue le train qui passe \xC3\xA0 c\xC3\xB4t\xC3\xA9 de chez elle"
+  decor_id: 
+- effet: 
+  temps: 854
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Selma vient payer son loyer et conduire Gene
+  decor_id: 
+- effet: 
+  temps: 877
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma et Kathy vont au cin\xC3\xA9ma"
+  decor_id: 
+- effet: 
+  temps: 956
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "L'anniversaire de Gene. Les amis de Selma lui ont offert le v\xC3\xA9lo dont Gene r\xC3\xAAvait."
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Bill confie \xC3\xA0 Selma qu'il n'a plus d'argent. Selma confie qu'elle devient aveugle et qu'elle travaille pour payer une op\xC3\xA9ration des yeux \xC3\xA0 Gene"
+  decor_id: 
+- effet: 
+  temps: 1505
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma ram\xC3\xA8ne une boite d'\xC3\xA9pingles et en prend une plus grosse"
+  decor_id: 
+- effet: 
+  temps: 1530
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Kathy, Norman et Selma discutent pendant la pause. Le communisme, le Tch\xC3\xA9coslovaquie et Oldrich Novy"
+  decor_id: 
+- effet: 
+  temps: 1566
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Kathy d\xC3\xA9couvre la fraude de Selma et lui \xC3\xA9vite in extremis un accident de machine. Selma manque de se faire \xC3\xA9craser. Elle accepte que Bill la ram\xC3\xA8ne"
+  decor_id: 
+- effet: 
+  temps: 1779
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Bill demande un pr\xC3\xAAt \xC3\xA0 Selma. Selma doit refuser"
+  decor_id: 
+- effet: 
+  temps: 1844
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Selma conduit Gene chez les Houston. L'arme de Bill.
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma n'y voit plus. Kathy se f\xC3\xA2che avec elle quand elle apprend qu'en plus, elle veut faire la nuit."
+  decor_id: 
+- effet: 
+  temps: 1996
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma accepte que Jeff la ram\xC3\xA8ne en camion"
+  decor_id: 
+- effet: 
+  temps: 2074
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la r\xC3\xA9p\xC3\xA9tion, Samuel pr\xC3\xA9sente \xC3\xA0 Selma sa doublure"
+  decor_id: 
+- effet: 
+  temps: 2132
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "L'accident se produit alors que Selma fait sa premi\xC3\xA8re nuit, malgr\xC3\xA9 l'aide de Kathy"
+  decor_id: 
+- effet: 
+  temps: 2567
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Bill se cache pour voir o\xC3\xB9 Selma range ses \xC3\xA9conomies"
+  decor_id: 
+- effet: 
+  temps: 2736
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Kathy et Selma sont au cin\xC3\xA9ma"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma renonce au r\xC3\xB4le de Maria dans la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 2964
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Norman annonce \xC3\xA0 Selma qu'elle est licenci\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Jeff d\xC3\xA9couvre que Selma est aveugle. Selma lui donne rendez-vous \xC3\xA0 3 heures"
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma d\xC3\xA9couvre que ses \xC3\xA9conomies lui ont \xC3\xA9t\xC3\xA9 d\xC3\xA9rob\xC3\xA9es"
+  decor_id: 
+- effet: 
+  temps: 3549
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma doit tuer Bill pour r\xC3\xA9cup\xC3\xA9rer son argent"
+  decor_id: 
+- effet: 
+  temps: 4516
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma va payer l'op\xC3\xA9ration des yeux de Gene"
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Arrestation de Selma pendant la r\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 5141
+  scale: 4
+  duree: 
+  lieu: 
+  resume: Jugement et condamnation de Selma
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma en prison. Elle demande \xC3\xA0 Kathy de s'occuper de Gene. Complicit\xC3\xA9 avec Brenda, la gardienne"
+  decor_id: 
+- effet: 
+  temps: 6085
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Kathy et Jeff d\xC3\xA9couvre l'histoire de l'op\xC3\xA9ration des yeux. Kathy pense que Selma va pouvoir \xC3\xA9chapper \xC3\xA0 la peine capitale"
+  decor_id: 
+- effet: 
+  temps: 6273
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Complicit\xC3\xA9 de Brenda et Selma en prison. Brenda conseille \xC3\xA0 Selma de penser \xC3\xA0 autre chose"
+  decor_id: 
+- effet: 
+  temps: 6636
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Brenda vient annoncer \xC3\xA0 Selma qu'elle a obtenu son sursis"
+  decor_id: 
+- effet: 
+  temps: 6656
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma comprend que l'argent de l'op\xC3\xA9ration doit servir \xC3\xA0 payer l'op\xC3\xA9ration. Kathy et Selma se f\xC3\xA2chent. Selma renonce \xC3\xA0 cette nouvelle chance."
+  decor_id: 
+- effet: 
+  temps: 6876
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Jeff vient trouver Selma en prison. Il dit qu'il l'aime et viendra le jour de l'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7062
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Selma est conduite dans sa derni\xC3\xA8re cellule"
+  decor_id: 
+- effet: 
+  temps: 7205
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "Ex\xC3\xA9cution capitale de Selma"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 1
+  duree: 
+  lieu: 
+  resume: "L'avant meurtre. Le but de Selma, le probl\xC3\xA8me de Bill."
+  decor_id: 
+- effet: 
+  temps: 3615
+  scale: 1
+  duree: 
+  lieu: 
+  resume: Assassinat de Bill Houston (qui dure environ 8mn30s.)
+  decor_id: 
+- effet: 
+  temps: 4116
+  scale: 1
+  duree: 
+  lieu: 
+  resume: "L'apr\xC3\xA8s-meurtre. L'arrestation, la condamnation, la prison, l'ex\xC3\xA9cution."
+  decor_id: 
+- effet: 
+  temps: 7860
+  scale: 1
+  duree: 
+  lieu: 
+  resume: Fin du film
+  decor_id: 
+- effet: 
+  temps: 1127
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma, en train d'enfiler des \xC3\xA9pingles, l'invite \xC3\xA0 rentrer."
+  decor_id: 
+- effet: 
+  temps: 1132
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Bill si \xC3\xA7a va. Il r\xC3\xA9pond qu'il n'arrive pas \xC3\xA0 trouver le sommeil"
+  decor_id: 
+- effet: 
+  temps: 1141
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill est assis en face de Selma, emb\xC3\xAAt\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 1145
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill avoue \xC3\xA0 Selma que tout son argent a \xC3\xA9t\xC3\xA9 d\xC3\xA9pens\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 1157
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Il explique que Linda continue de d\xC3\xA9penser, sans arr\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 1169
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill dit que son salaire ne suffit plus
+  decor_id: 
+- effet: 
+  temps: 1172
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill explique qu'il n'arrive pas \xC3\xA0 lui dire non"
+  decor_id: 
+- effet: 
+  temps: 1175
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'il a trop de retard dans ses \xC3\xA9ch\xC3\xA9ances et que la banque va saisir sa maison. Selma compatit."
+  decor_id: 
+- effet: 
+  temps: 1183
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Bill pense qu'il va perdre Linda.
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill arrive dans la caravane de Selma. Il fait nuit.
+  decor_id: 
+- effet: 
+  temps: 1127
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma est \xC3\xA0 la table, en train d'enfiler des \xC3\xA9pingles."
+  decor_id: 
+- effet: 
+  temps: 1130
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma invite Bill \xC3\xA0 entrer."
+  decor_id: 
+- effet: 
+  temps: 1132
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill a l'air tr\xC3\xA8s emb\xC3\xAAt\xC3\xA9. Selma lui demande si \xC3\xA7a ne va pas."
+  decor_id: 
+- effet: 
+  temps: 1136
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill explique qu'il a juste du mal \xC3\xA0 dormir"
+  decor_id: 
+- effet: 
+  temps: 1138
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Selma retire ses lunettes"
+  decor_id: 
+- effet: 
+  temps: 1141
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill est assis en face d'elle, emb\xC3\xAAt\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1145
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Bill dit qu'il n'a pas d'argent."
+  decor_id: 
+- effet: 
+  temps: 1148
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill explique que tout l'argent dont il avait h\xC3\xA9rit\xC3\xA9 a \xC3\xA9t\xC3\xA9 d\xC3\xA9pens\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1157
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xC2\xAB Et Linda\xE2\x80\xA6 \xC2\xBB la phrase s'\xC3\xA9trangle dans sa gorge."
+  decor_id: 
+- effet: 
+  temps: 1162
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill explique qu'elle ne fait que d\xC3\xA9penser, d\xC3\xA9penser."
+  decor_id: 
+- effet: 
+  temps: 1169
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill dit que son salaire ne suffit plus.
+  decor_id: 
+- effet: 
+  temps: 1171
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma le regarde avec compassion.
+  decor_id: 
+- effet: 
+  temps: 1172
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill explique qu'il n'arrive pas \xC3\xA0 dire non \xC3\xA0 Linda."
+  decor_id: 
+- effet: 
+  temps: 1175
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill dit que la banque va saisir leur maison.
+  decor_id: 
+- effet: 
+  temps: 1180
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Il explique qu'il a trop d'\xC3\xA9ch\xC3\xA9ances en retard"
+  decor_id: 
+- effet: 
+  temps: 1181
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma le regarde avec compassion.
+  decor_id: 
+- effet: 
+  temps: 1183
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill dit dans un sanglot qu'il va perdre Linda
+  decor_id: 
+- effet: 
+  temps: 1189
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Il r\xC3\xA9p\xC3\xA8te dans un sanglot qu'il le sait, qu'il en est s\xC3\xBBr"
+  decor_id: 
+- effet: 
+  temps: 1194
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma le regarde avec empathie
+  decor_id: 
+- effet: 
+  temps: 1195
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma lui dit que Linda l'aime
+  decor_id: 
+- effet: 
+  temps: 1197
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill se prend la t\xC3\xAAte dans les mains"
+  decor_id: 
+- effet: 
+  temps: 1201
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma ne sait pas quoi lui dire.
+  decor_id: 
+- effet: 
+  temps: 1203
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma lui dit de ne pas pleurer
+  decor_id: 
+- effet: 
+  temps: 1205
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill pleure dans ses mains.
+  decor_id: 
+- effet: 
+  temps: 1209
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Selma tient Bill par le bras"
+  decor_id: 
+- effet: 
+  temps: 1210
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'il n'aurait pas d\xC3\xBB le dire \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 1212
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma lui r\xC3\xA9pond de ne pas s'inqui\xC3\xA9ter."
+  decor_id: 
+- effet: 
+  temps: 1213
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill r\xC3\xA9p\xC3\xA8te qu'il n'aurait pas d\xC3\xBB. Selma lui r\xC3\xA9pond que c'est bon."
+  decor_id: 
+- effet: 
+  temps: 1216
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Selma lui r\xC3\xA9p\xC3\xA8te de ne pas s'inqui\xC3\xA9ter."
+  decor_id: 
+- effet: 
+  temps: 1217
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'elle a assez de soucis comme \xC3\xA7a."
+  decor_id: 
+- effet: 
+  temps: 1219
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma lui demande s'il se sentirait mieux si elle aussi lui disait un secret.
+  decor_id: 
+- effet: 
+  temps: 1222
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill lui demande quel secret elle pourrait bien lui dire.
+  decor_id: 
+- effet: 
+  temps: 1226
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma hausse les \xC3\xA9paules"
+  decor_id: 
+- effet: 
+  temps: 1230
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma dit qu'elle devient aveugle.
+  decor_id: 
+- effet: 
+  temps: 1233
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill la regarde, attendant la suite, perplexe.
+  decor_id: 
+- effet: 
+  temps: 1238
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle ne l'est pas encore mais que \xC3\xA7a arrivera bient\xC3\xB4t."
+  decor_id: 
+- effet: 
+  temps: 1245
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle dit que ce sera peut-\xC3\xAAtre pour cette ann\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 1255
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma sourit
+  decor_id: 
+- effet: 
+  temps: 1257
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xC2\xAB Aveugle ? \xC2\xBB demande Bill, sid\xC3\xA9r\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 1260
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill regarde Selma avec compassion.
+  decor_id: 
+- effet: 
+  temps: 1264
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit que \xC3\xA7a n'est pas si grave que \xC3\xA7a"
+  decor_id: 
+- effet: 
+  temps: 1269
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle explique que c'est un probl\xC3\xA8me de famille"
+  decor_id: 
+- effet: 
+  temps: 1274
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill attend la suite.
+  decor_id: 
+- effet: 
+  temps: 1276
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xC2\xAB Mais tu deviens aveugle ! \xC2\xBB ajoute-t-il, comme si c'\xC3\xA9tait la pire chose qui puisse arriver."
+  decor_id: 
+- effet: 
+  temps: 1278
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma dit qu'elle l'a toujours su. Qu'elle le sait depuis qu'elle est petite fille.
+  decor_id: 
+- effet: 
+  temps: 1285
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma sourit, comme une petite fille.
+  decor_id: 
+- effet: 
+  temps: 1288
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill lui demande si elle se sent bien.
+  decor_id: 
+- effet: 
+  temps: 1293
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle est venue en Am\xC3\xA9rique parce qu'on pouvait op\xC3\xA9rer Gene."
+  decor_id: 
+- effet: 
+  temps: 1299
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xC2\xAB Gene ? \xC2\xBB demande Bill"
+  decor_id: 
+- effet: 
+  temps: 1302
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma dit plus doucement que Gene n'est pas au courant
+  decor_id: 
+- effet: 
+  temps: 1306
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit \xC3\xA0 Bill qu'il ne doit pas lui dire. Sinon, \xC3\xA7a pourrait empirer."
+  decor_id: 
+- effet: 
+  temps: 1308
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill fait non de la t\xC3\xAAte, confirmant qu'il ne veut pas lui dire"
+  decor_id: 
+- effet: 
+  temps: 1309
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle doit juste \xC3\xA9conomiser assez pour\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 1315
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle sourit en ajoutant qu'elle \xC2\xAB en a presque assez \xC2\xBB"
+  decor_id: 
+- effet: 
+  temps: 1320
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xE2\x80\xA6 pour payer l'op\xC3\xA9ration"
+  decor_id: 
+- effet: 
+  temps: 1322
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill l'\xC3\xA9coute en approuvant de la t\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 1323
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma poursuit en expliquant qu'on pourra l'op\xC3\xA9rer quand il aura treize ans."
+  decor_id: 
+- effet: 
+  temps: 1325
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill, comprenant tout, lui dit qu'elle a donc invent\xC3\xA9 cette histoire avec son p\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 1330
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma renifle
+  decor_id: 
+- effet: 
+  temps: 1331
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle n'a jamais eu de p\xC3\xA8re"
+  decor_id: 
+- effet: 
+  temps: 1334
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle dit qu'elle a invent\xC3\xA9 son nom, aussi."
+  decor_id: 
+- effet: 
+  temps: 1338
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill dit en d\xC3\xA9signant les \xC3\xA9pingles sur la table que c'est pour \xC3\xA7a qu'elle travaille si dur, pour \xC3\xA7a qu'elle fait tout ce qu'elle fait"
+  decor_id: 
+- effet: 
+  temps: 1342
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma ne dit rien, dure.
+  decor_id: 
+- effet: 
+  temps: 1343
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill ajoute \xC2\xAB C'est pourlui, pour son op\xC3\xA9ration \xC2\xBB"
+  decor_id: 
+- effet: 
+  temps: 1352
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit que \xC3\xA7a doit \xC3\xAAtre de sa faute \xC3\xA0 elle."
+  decor_id: 
+- effet: 
+  temps: 1356
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill lui demande pourquoi
+  decor_id: 
+- effet: 
+  temps: 1362
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma se pince les l\xC3\xA8vres"
+  decor_id: 
+- effet: 
+  temps: 1364
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle savait qu'il aurait des yeux aussi mauvais que les siens, mais qu'elle l'a eu quand m\xC3\xAAme."
+  decor_id: 
+- effet: 
+  temps: 1375
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill la regarde avec compassion.
+  decor_id: 
+- effet: 
+  temps: 1377
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill lui dit qu'elle est tr\xC3\xA8s forte"
+  decor_id: 
+- effet: 
+  temps: 1380
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma nie de la t\xC3\xAAte en disant qu'elle n'est pas forte."
+  decor_id: 
+- effet: 
+  temps: 1384
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Selma explique qu'elle joue \xC3\xA0 des petits jeux quand \xC3\xA7a devient trop dur. Quand elle travaille \xC3\xA0 l'usine, elle entend les machines qui font des rythmes. Elle commence \xC3\xA0 r\xC3\xAAver et tout devient de la musique."
+  decor_id: 
+- effet: 
+  temps: 1406
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Selma dit \xC3\xA0 Bill qu'il aime les films, lui aussi."
+  decor_id: 
+- effet: 
+  temps: 1408
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill confirme qu'il adore. Il dit qu'il adore les com\xC3\xA9dies musicales."
+  decor_id: 
+- effet: 
+  temps: 1412
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma se r\xC3\xA9jouit, lui demande s'il aime quand ils font des claquettes et qu'ils dansent. Bill dit que oui."
+  decor_id: 
+- effet: 
+  temps: 1417
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill dit qu'il adore les voir tous ensemble, bien align\xC3\xA9s"
+  decor_id: 
+- effet: 
+  temps: 1418
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma le regarde, \xC3\xA9merveill\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 1420
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma rit.
+  decor_id: 
+- effet: 
+  temps: 1423
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "\xC2\xAB A taper avec tes pieds ? \xC2\xBB \xC2\xAB Oui ! \xC2\xBB fait Selma, ravie"
+  decor_id: 
+- effet: 
+  temps: 1427
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle dit qu'elle adore quand ils dansent tous en rond sur une \xC3\xA9norme pi\xC3\xA8ce mont\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 1434
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit alors que la derni\xC3\xA8re chanson est toujours emb\xC3\xAAtante. Pourquoi, demande Bill."
+  decor_id: 
+- effet: 
+  temps: 1437
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'\xC3\xA0 l'apoth\xC3\xA9ose, on sait que c'est la fin."
+  decor_id: 
+- effet: 
+  temps: 1447
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma dit qu'elle d\xC3\xA9teste \xC3\xA7a, qu'elle d\xC3\xA9teste vraiment"
+  decor_id: 
+- effet: 
+  temps: 1450
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle trichait toujours, en Tch\xC3\xA9coslovaquie, quand elle\xC3\xA9tait petite fille. "
+  decor_id: 
+- effet: 
+  temps: 1453
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle demande \xC3\xA0 Bill s'il veut savoir pourquoi. Bill r\xC3\xA9pond que oui."
+  decor_id: 
+- effet: 
+  temps: 1456
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma explique qu'elle partait juste apr\xC3\xA8s l'avant-derni\xC3\xA8re chanson"
+  decor_id: 
+- effet: 
+  temps: 1459
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Elle explique que comme \xC3\xA7a, le film ne s'arr\xC3\xAAtait jamais. Et elle sourit."
+  decor_id: 
+- effet: 
+  temps: 1464
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill lui sourit aussi. "
+  decor_id: 
+- effet: 
+  temps: 1465
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma lui demande si \xC3\xA7a n'est pas merveilleux. Bill dit que oui."
+  decor_id: 
+- effet: 
+  temps: 1468
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma baisse le regard
+  decor_id: 
+- effet: 
+  temps: 1469
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Bill remercie Selma de lui avoir dit son secret
+  decor_id: 
+- effet: 
+  temps: 1477
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma remercie Bill de lui avoir dit le sien
+  decor_id: 
+- effet: 
+  temps: 1481
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "[ellipse] Bill, debout \xC3\xA0 la porte, dit \xC2\xAB Motus \xC2\xBB \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 1485
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Selma ne comprend pas
+  decor_id: 
+- effet: 
+  temps: 1487
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Bill lui explique que \xC3\xA7a signifie qu'ils ne doivent rien dire \xC3\xA0 personne."
+  decor_id: 
+- effet: 
+  temps: 1489
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Selma r\xC3\xA9pond que oui, elle n'en parlera \xC3\xA0 personne"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Fanfare dans le noir
+  decor_id: 
+- effet: 
+  temps: 205
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9p\xC3\xA9tition de la com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 335
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma passe une visite des yeux avec succ\xC3\xA8s"
+  decor_id: 
+- effet: 
+  temps: 380
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, Norman apprend \xC3\xA0 Selma que Bill est l\xC3\xA0, avec Gene"
+  decor_id: 
+- effet: 
+  temps: 458
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma rejoint Gene et Bill sur le parking de l'usine. Gene a encore fugu\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 535
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la sortie d'usine, Jeff veut ramener Selma. Selma repousse son offre"
+  decor_id: 
+- effet: 
+  temps: 568
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma essaie d'\xC3\xA9tablir le dialogue avec Gene"
+  decor_id: 
+- effet: 
+  temps: 689
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma et Gene se rendent chez les Houston. Selma demande \xC3\xA0 Gene de parler \xC3\xA0 Bill de son argent"
+  decor_id: 
+- effet: 
+  temps: 703
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "En \xC3\xA9coutant de la musique, chez les Houston, Selma, Norman et Linda parle d'\xC3\xA9pingle, de Tch\xC3\xA9coslovaquie et de cin\xC3\xA9ma"
+  decor_id: 
+- effet: 
+  temps: 774
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Linda offre la boite de bonbons \xC3\xA0 Selma"
+  decor_id: 
+- effet: 
+  temps: 786
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma place ses \xC3\xA9conomies dans la boite de bonbons"
+  decor_id: 
+- effet: 
+  temps: 847
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma salue le train qui passe \xC3\xA0 c\xC3\xB4t\xC3\xA9 de sa caravane"
+  decor_id: 
+- effet: 
+  temps: 854
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma vient payer son loyer et amener Gene
+  decor_id: 
+- effet: 
+  temps: 877
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma reproche \xC3\xA0 Kathy d'\xC3\xAAtre toujours s\xC3\xA9rieuse"
+  decor_id: 
+- effet: 
+  temps: 906
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma et Kathy assistent \xC3\xA0 la projection d'une com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 956
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Linda, Kathy, Jeff et Bill ont offerts un v\xC3\xA9lo pour l'anniversaire de Gene"
+  decor_id: 
+- effet: 
+  temps: 1043
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Gene essaie le v\xC3\xA9lo, Selma accepte le cadeau"
+  decor_id: 
+- effet: 
+  temps: 1123
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Bill confie \xC3\xA0 Selma qu'il n'a plus d'argent. Selma lui confie qu'elle devient aveugle et qu'elle veut payer une op\xC3\xA9ration des yeux \xC3\xA0 Gene"
+  decor_id: 
+- effet: 
+  temps: 1490
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Linda aper\xC3\xA7oit Bill quitter la caravane de Selma"
+  decor_id: 
+- effet: 
+  temps: 1505
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma prend une plus grosse bo\xC3\xAEte d'\xC3\xA9pingles"
+  decor_id: 
+- effet: 
+  temps: 1530
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Pendant la pause, Kathy, Norman et Selma bavardent (Oldrich Novy, communisme)
+  decor_id: 
+- effet: 
+  temps: 1566
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy d\xC3\xA9couvre la \xE2\x80\x9Cfraude\xE2\x80\x9D de Selma. Selma frise l'accident"
+  decor_id: 
+- effet: 
+  temps: 1629
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy reproche \xC3\xA0 Selma d'avoir trich\xC3\xA9. Selma refuse que Jeff la ram\xC3\xA8ne. Elle manque de se faire \xC3\xA9craser par un camion. Elle accepte que Bill la reconduise"
+  decor_id: 
+- effet: 
+  temps: 1779
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Bill demande un pr\xC3\xAAt \xC3\xA0 Selma. Selma dit qu'elle ne peut pas"
+  decor_id: 
+- effet: 
+  temps: 1844
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma conduit Gene chez les Houston. L'arme de Bill. Selma voudrait payer plus de loyer. Linda refuse
+  decor_id: 
+- effet: 
+  temps: 1916
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma n'y voit plus, elle doit renoncer \xC3\xA0 aller \xC3\xA0 l'usine en v\xC3\xA9lo"
+  decor_id: 
+- effet: 
+  temps: 1950
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy se f\xC3\xA2che avec Selma en apprenant qu'elle va travailler de nuit"
+  decor_id: 
+- effet: 
+  temps: 1996
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma accepte que Jeff la ram\xC3\xA8ne en camion"
+  decor_id: 
+- effet: 
+  temps: 2054
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Dans le camion, Jeff confie ne rien comprendre aux com\xC3\xA9dies musicales"
+  decor_id: 
+- effet: 
+  temps: 2074
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la r\xC3\xA9p\xC3\xA9tition, Samuel pr\xC3\xA9sente \xC3\xA0 Selma sa doublure pour le spectacle"
+  decor_id: 
+- effet: 
+  temps: 2132
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma commence son travail de nuit.
+  decor_id: 
+- effet: 
+  temps: 2278
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Clip \xE2\x80\x9CLes machines fracassantes\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 2490
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma bloque sa machine
+  decor_id: 
+- effet: 
+  temps: 2542
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma rentre en se guidant avec les rails
+  decor_id: 
+- effet: 
+  temps: 2567
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma vient chercher Gene chez les Houston
+  decor_id: 
+- effet: 
+  temps: 2591
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Bill fait croire qu'il est parti pour voir o\xC3\xB9 Selma range ses \xC3\xA9conomies"
+  decor_id: 
+- effet: 
+  temps: 2736
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy et Selma assiste \xC3\xA0 une com\xC3\xA9die musicale"
+  decor_id: 
+- effet: 
+  temps: 2765
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Apr\xC3\xA8s les difficult\xC3\xA9s qu'elle \xC3\xA9prouve \xC3\xA0 jouer son r\xC3\xB4le dans la com\xC3\xA9die musicale, Selma demande \xC3\xA0 parler \xC3\xA0 Samuel"
+  decor_id: 
+- effet: 
+  temps: 2876
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma annonce \xC3\xA0 Samuel qu'elle renonce \xC3\xA0 jouer le r\xC3\xB4le de Maria"
+  decor_id: 
+- effet: 
+  temps: 2964
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 l'usine, apr\xC3\xA8s avoir chahuter avec Selma, Norman lui dit qu'il doit lui parler"
+  decor_id: 
+- effet: 
+  temps: 2994
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Norman annonce \xC3\xA0 Selma qu'il doit la licencier"
+  decor_id: 
+- effet: 
+  temps: 3093
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma reprend ses affaires dans les vestiaires
+  decor_id: 
+- effet: 
+  temps: 3103
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy r\xC3\xA9primande Norman et console Selma"
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma ne trouve pas Jeff sur le parking de l'usine
+  decor_id: 
+- effet: 
+  temps: 3129
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Jeff rattrape Selma sur la voie ferr\xC3\xA9e. Il d\xC3\xA9couvre qu'il est aveugle."
+  decor_id: 
+- effet: 
+  temps: 3124
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma rentre chez elle par la voie ferr\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3200
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Clip du train. \xE2\x80\x9CQu'y a-t-il \xC3\xA0 voir\xC2\xA0?\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 3484
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Jeff et Selma se s\xC3\xA9parent en se donnant rendez-vous"
+  decor_id: 
+- effet: 
+  temps: 3513
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma arrive \xC3\xA0 sa caravane"
+  decor_id: 
+- effet: 
+  temps: 3523
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma d\xC3\xA9couvre que ses \xC3\xA9conomies lui ont \xC3\xA9t\xC3\xA9 d\xC3\xA9rob\xC3\xA9es"
+  decor_id: 
+- effet: 
+  temps: 3549
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma vient trouver Bill. Linda la re\xC3\xA7oit durement."
+  decor_id: 
+- effet: 
+  temps: 3615
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma doit assassiner Bill pour r\xC3\xA9cup\xC3\xA9rer son argent"
+  decor_id: 
+- effet: 
+  temps: 4131
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma cherche le pardon et la compr\xC3\xA9hension dans ses r\xC3\xAAves (CLIP)"
+  decor_id: 
+- effet: 
+  temps: 4516
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Jeff vient chercher Selma pour le rendez-vous
+  decor_id: 
+- effet: 
+  temps: 4563
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Jeff et Selma partent pour le rendez-vous
+  decor_id: 
+- effet: 
+  temps: 4592
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Jeff roule tandis que Selma dort
+  decor_id: 
+- effet: 
+  temps: 4605
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Jeff et Selma arrive \xC3\xA0 l'arr\xC3\xAAt d'autobus. Selma demande \xC3\xA0 Jeff de ne pas la suivre et part dans la for\xC3\xAAt"
+  decor_id: 
+- effet: 
+  temps: 4661
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma, au bord du lac, se lave et se d\xC3\xA9barrasse de son gilet et de la sacoche de Bill"
+  decor_id: 
+- effet: 
+  temps: 4697
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma se rend \xC3\xA0 la clinique"
+  decor_id: 
+- effet: 
+  temps: 4730
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma paie l'op\xC3\xA9ration des yeux de Gene"
+  decor_id: 
+- effet: 
+  temps: 4822
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Selma revient au camion de Jeff
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma arrive \xC3\xA0 la r\xC3\xA9p\xC3\xA9tition"
+  decor_id: 
+- effet: 
+  temps: 4883
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Dans le couloir, Samuel dit que Selma est ici. Dans la salle, on attend
+  decor_id: 
+- effet: 
+  temps: 4902
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Samuel fait tout pour retenir Selma
+  decor_id: 
+- effet: 
+  temps: 5054
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Arrestation de Selma (Clip)
+  decor_id: 
+- effet: 
+  temps: 5141
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Proc\xC3\xA8s de Selma."
+  decor_id: 
+- effet: 
+  temps: 5644
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Clip du tribunal. \xE2\x80\x9CIl y aura toujours quelqu'un pour me rattraper.\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 5827
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma est condamn\xC3\xA9e \xC3\xA0 mort pour meurtre avec pr\xC3\xA9m\xC3\xA9ditation"
+  decor_id: 
+- effet: 
+  temps: 5919
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma demande \xC3\xA0 Kathy de s'occuper de Gene (la lettre qu'il doit recevoir)"
+  decor_id: 
+- effet: 
+  temps: 6024
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Brenda, la gardienne, reconduit Selma \xC3\xA0 sa cellule (complicit\xC3\xA9 des deux femmes)"
+  decor_id: 
+- effet: 
+  temps: 6080
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Dans sa cellule, Selma pleure
+  decor_id: 
+- effet: 
+  temps: 6085
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Jeff retrouve l'endroit o\xC3\xB9 se rendait Selma (clinique)"
+  decor_id: 
+- effet: 
+  temps: 6122
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "\xC3\x80 la clinique, Jeff se renseigne sur Selma"
+  decor_id: 
+- effet: 
+  temps: 6160
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy, radieuse, annonce \xC3\xA0 Selma qu'avec les nouveaux \xC3\xA9l\xC3\xA9ments (l'op\xC3\xA9ration des yeux) et le nouvel avocat, Selma va pouvoir \xC3\xA9chapper \xC3\xA0 la peine de mort. Kathy lui dit de demander un sursis"
+  decor_id: 
+- effet: 
+  temps: 6273
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Brenda et Selma parlent dans la cellule. Ce qui se passera si elle n'obtient pas son sursis, le calme de la prison
+  decor_id: 
+- effet: 
+  temps: 6427
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Seule dans sa cellule, Selma \xC3\xA9coute les voix de la bouche d'a\xC3\xA9ration et se force \xC3\xA0 chanter"
+  decor_id: 
+- effet: 
+  temps: 6636
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Brenda annonce \xC3\xA0 Selma qu'elle a obtenu son sursis"
+  decor_id: 
+- effet: 
+  temps: 6656
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Lors de sa rencontre avec son nouvel avocat, Selma d\xC3\xA9couvre que ce sont ses \xC3\xA9conomies qui ont permis de le payer"
+  decor_id: 
+- effet: 
+  temps: 6784
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Kathy et Selma se f\xC3\xA2chent. Selma ne veut pas que l'argent soit utilis\xC3\xA9 pour la sauver"
+  decor_id: 
+- effet: 
+  temps: 6846
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "L'avocat dit \xC3\xA0 Selma qu'elle pourra r\xC3\xA9cup\xC3\xA9rer son argent"
+  decor_id: 
+- effet: 
+  temps: 6876
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "La prison sous la nuit, bient\xC3\xB4t no\xC3\xABl"
+  decor_id: 
+- effet: 
+  temps: 6884
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Jeff et Selma discutent. Kathy est f\xC3\xA2ch\xC3\xA9e. Selma accepte que Jeff vienne le jour de l'ex\xC3\xA9cution"
+  decor_id: 
+- effet: 
+  temps: 7062
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "On conduit Selma dans sa derni\xC3\xA8re cellule"
+  decor_id: 
+- effet: 
+  temps: 7166
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma attend dans sa derni\xC3\xA8re cellule, allong\xC3\xA9e, sans manger"
+  decor_id: 
+- effet: 
+  temps: 7205
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "On vient chercher Selma pour son ex\xC3\xA9cution."
+  decor_id: 
+- effet: 
+  temps: 7340
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Selma traverse dans ses r\xC3\xAAves le couloir de la mort"
+  decor_id: 
+- effet: 
+  temps: 7436
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Ex\xC3\xA9cution capitale de Selma"
+  decor_id: 
+:dim: DancerInTheDark

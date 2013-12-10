@@ -1,0 +1,33 @@
+--- 
+:is_entier: true
+:duree: 8850
+:scale: 7
+:is_brin: true
+:film_id: 74
+:items: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 286
+  :commentaire: C'est l'installation de l'histoire Riton-Pamela.
+- :scale: 7
+  :indice_absolu: 
+  :temps: 600
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 710
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1620
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1710
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1800
+  :commentaire: 
+:titre: Riton et Pamela
+:film_dim: LesEnfantsDuMarais

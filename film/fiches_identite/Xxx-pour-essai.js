@@ -1,0 +1,1 @@
+{"titre": "xxx-pour-essai", "titre_fr": "", "auteurs": [], "realisateur": [], "producteur": [], "annee": "2009", "acteurs": [], "duree": 7320, "duree_generique": 120, "pays": "fr", "resume": "Ce n'est pas un film, c'est une fiche pour essai.", "links": "", "id": "Xxx-pour-essai"}

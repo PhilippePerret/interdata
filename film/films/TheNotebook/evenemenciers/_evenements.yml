@@ -1,0 +1,759 @@
+--- 
+:items: 
+- effet: 
+  temps: 0
+  scale: 4
+  duree: 130
+  lieu: 
+  resume: "Un skiff sur l'eau, \xC3\xA0 la nuit qui tombe. Ambiance d'une s\xC3\xA9r\xC3\xA9nit\xC3\xA9 magique, contagieuse."
+  decor_id: 
+- effet: 
+  temps: 130
+  scale: 4
+  duree: 50
+  lieu: 
+  resume: "D\xC3\xA9couverte de la maison de retraite, les oies qui volent vers elle avec le bateau qui arrive. Une femme, vieille, \xC3\xA0 une fen\xC3\xAAtre. C'est ALLIE. On vient la chercher pour se coucher."
+  decor_id: 
+- effet: 
+  temps: 180
+  scale: 4
+  duree: 8
+  lieu: 
+  resume: "Le skiffeur. Fin du g\xC3\xA9n\xC3\xA9rique."
+  decor_id: 
+- effet: 
+  temps: 188
+  scale: 4
+  duree: 39
+  lieu: 
+  resume: "(s\xC3\xA9quence) Pr\xC3\xA9sentation de DUKE, un homme ordinaire en train de se coiffer. Il dit qu'il a aim\xC3\xA9 de tout son c\xC5\x93ur, et que \xC3\xA7a lui a suffi. Il va prendre ses m\xC3\xA9dicaments en disant \xC3\xA0 l'infirmi\xC3\xA8re que c'est le grand jour. Elle ironise : il lui dit \xC3\xA7a tous les jours"
+  decor_id: 
+- effet: 
+  temps: 227
+  scale: 4
+  duree: 68
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie refuse de sortir. Duke arrive pour lui faire la lecture. Ils vont s'asseoir dans le salon. Il commence l'histoire de Noah et Allie."
+  decor_id: 
+- effet: 
+  temps: 295
+  scale: 4
+  duree: 206
+  lieu: 
+  resume: "(Flash-Back) Seabrook. F\xC3\xAAte foraine. (5:20) Coup de foudre de Noah pour Allie. Elle le repousse. Il lui fait du chantage sur la grande roue\xC2\xA0: il se pend, si elle n'accepte pas de sortir avec lui, il se l\xC3\xA2che dans le vide. Elle doit accepter, mais l'humilie en lui baissant son pantalon."
+  decor_id: 
+- effet: 
+  temps: 501
+  scale: 4
+  duree: 114
+  lieu: 
+  resume: "Dans la rue, ils se croisent \xC3\xA0 nouveau. Noah la drague, lui fait une d\xC3\xA9claration, essaie d'obtenir son rencard. \xC3\x80 la fin, on sent qu'elle n'est pas indiff\xC3\xA9rente au charme du jeune homme."
+  decor_id: 
+- effet: 
+  temps: 615
+  scale: 4
+  duree: 100
+  lieu: 
+  resume: "(s\xC3\xA9q.) Ils se retrouvent au cin\xC3\xA9ma (avec Fin et sa copine). Noah s'ennuie, il s'assied \xC3\xA0 c\xC3\xB4t\xC3\xA9 d'Allie, il n'a d'yeux que pour elle. \xC3\x80 la fin de la s\xC3\xA9ance, ils d\xC3\xA9cident de rentrer \xC3\xA0 pied ensemble."
+  decor_id: 
+- effet: 
+  temps: 715
+  scale: 4
+  duree: 370
+  lieu: 
+  resume: "Ils rentrent \xC3\xA0 pied, ils parlent dans la rue. On d\xC3\xA9couvre Allie, petite fille de riche \xC3\xA0 l'emploi du temps de petite fille de riche, entre latin, tennis et piano. Annonce du d\xC3\xA9part \xC3\xA0 l'universit\xC3\xA9. Il lui fait comprendre qu'elle ne fait rien de son propre chef. Il a toujours cru qu'elle \xC3\xA9tait \xC2\xAB\xC2\xA0libre\xC2\xA0\xC2\xBB (free). Elle se dit libre. (14:17) Noah s'allonge dans la rue, sous les feux. Elle finit par le rejoindre. Aie confiance. Elle adore peindre. (16:00) Une voiture arrive, ils se rel\xC3\xA8vent en vitesse, comme des trouillards (elle rit grassement). (16:20) Il la fait danser dans la rue (\xC3\xA7a ne se fait pas, dit-elle, il se moque d'elle \xE2\x80\x94 il chante, elle se moque de lui). \xC3\x87a termine sur eux dansants sur la musique de Billie Hollyday, elle se sert contre lui. Elle est conquise (~18:00)."
+  decor_id: 
+- effet: 
+  temps: 1085
+  scale: 4
+  duree: 20
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Allie demande s'ils sont tomb\xC3\xA9s amoureux. Duke confirme"
+  decor_id: 
+- effet: 
+  temps: 1105
+  scale: 4
+  duree: 30
+  lieu: 
+  resume: "(s\xC3\xA9q) Allie et Noah ne se quittent plus. Elle vient le chercher au boulot, ils font du v\xC3\xA9lo (avec Fin et sa copine). Ils mangent une glace dans la rue et s'embrasse. Elle a de l'humour."
+  decor_id: 
+- effet: 
+  temps: 1135
+  scale: 4
+  duree: 140
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie, de nuit, arrive chez Allie, elle d\xC3\xA9couvre Noah en train de lire des po\xC3\xA8mes de Whitman \xC3\xA0 son p\xC3\xA8re. C'est la premi\xC3\xA8re fois qu'elle vient. R\xC3\xA9cit du b\xC3\xA9gaiements de Noah enfant et la po\xC3\xA9sie pour l'aider \xC3\xA0 le surmonter. Un tableau de Allie."
+  decor_id: 
+- effet: 
+  temps: 1275
+  scale: 4
+  duree: 60
+  lieu: 
+  resume: "Au bord de la mer, ils se baignent. Si elle \xC3\xA9tait un oiseau, il serait un oiseau."
+  decor_id: 
+- effet: 
+  temps: 1335
+  scale: 4
+  duree: 85
+  lieu: 
+  resume: "(s\xC3\xA9q.) Moment de plaisir. Soir\xC3\xA9e country devant la maison \xE2\x80\x94 Allison est rest\xC3\xA9e une fille simple (et on l'accepte dans le monde de Noah). Au bord du lac, Allie doit jouer \xC3\xA0 Jane et se jeter \xC3\xA0 l'eau. Noah lui apprend \xC3\xA0 conduire."
+  decor_id: 
+- effet: 
+  temps: 1420
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: Ils se disputent (confirmation voix-off qu'ils se disputaient sur tout). Elle le pousse, elle le gifle.
+  decor_id: 
+- effet: 
+  temps: 1430
+  scale: 4
+  duree: 58
+  lieu: 
+  resume: "Ils finissent en s'embrassant dans le fourgon de Noah, devant la demeure d'Allie. (24:15) Son p\xC3\xA8re l'attend dehors. Il la fait sursauter. Son p\xC3\xA8re veut le rencontrer (on sent qu'il prend les choses \xC3\xA0 la l\xC3\xA9g\xC3\xA8re, que \xC3\xA7a n'est pour lui qu'une amourette estivale)."
+  decor_id: 
+- effet: 
+  temps: 1488
+  scale: 4
+  duree: 122
+  lieu: 
+  resume: "Repas chez les Hamilton. Noah est un pauvre et ne s'en cache pas. (25:30) Sur le salaire les parents tique. La m\xC3\xA8re leur demande ce qu'il feront apr\xC3\xA8s l'\xC3\xA9t\xC3\xA9. Elle met le malaise en parlant de Sarah Laurence, l'universit\xC3\xA9 de NY qu'Allie doit rejoindre. On sent bien que Noah ne sera pas accept\xC3\xA9 dans ce monde, qu'il n'est pas \xE2\x80\x9Cconvenable\xE2\x80\x9D. Allie d\xC3\xA9teste sa m\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 1610
+  scale: 4
+  duree: 17
+  lieu: 
+  resume: "Alors qu'ils les regardent s'amuser dans une barque, la m\xC3\xA8re dit que Noah a pris trop de place dans le c\xC5\x93ur d'Allie. Le p\xC3\xA8re dit que \xC3\xA7a n'est qu'une amourette d'\xC3\xA9t\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1627
+  scale: 4
+  duree: 493
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie arrive chez Noah la nuit tomb\xC3\xA9e. Il l'emm\xC3\xA8ne dans la maison d\xC3\xA9labr\xC3\xA9e qu'il a d\xC3\xA9j\xC3\xA0 pr\xC3\xA9vu de retaper pour elle (il l'annonce \xC3\xA0 28:50). L'endroit plait \xC3\xA0 Allie. Allie voudrait que la maison soit blanche, avec des volets bleus, une v\xC3\xA9randa tout autour et elle veut une pi\xC3\xA8ce pour peindre . Pr\xC3\xA9lude de Chopin interrompu par un baiser de Noah. (31:10) Noah installe la couverture rouge par terre, et ils se d\xC3\xA9shabillent l'un devant l'autre (merveilleux moment). Allie est trop nerveuse pour faire l'amour, elle parle trop, elle devient folle. Pour toute r\xC3\xA9ponse, il lui dit qu'il l'aime (c'est la seule fois dans le film). (35:10) Ils sont interrompus par Fin qui d\xC3\xA9barque en panique\xC2\xA0: la police cherche Allie"
+  decor_id: 
+- effet: 
+  temps: 2120
+  scale: 4
+  duree: 160
+  lieu: 
+  resume: "Noah ram\xC3\xA8ne Allie chez elle. Parents inquiets, il est 2 heures du matin. (36:40) Conflit priv\xC3\xA9 entre parent et Allie. Il n'est pas pour lui. Elle lui dit qu'il ne le reverra pas. Le p\xC3\xA8re confirme\xC2\xA0: il n'est pas pour elle. (37:45) Noah, qui attendait dans une autre pi\xC3\xA8ce, mais entendant des bribes du discours, se l\xC3\xA8ve et s'en va. Allie dit \xC3\xA0 ses parents qu'ils ne savent pas ce qu'est l'amour, qu'ils ne s'aiment pas."
+  decor_id: 
+- effet: 
+  temps: 2280
+  scale: 4
+  duree: 190
+  lieu: 
+  resume: "Allie rattrape Noah dehors. Noah mesure que cet amour est impossible. Noah dit qu'ils verront bien ce qui se passera \xC3\xA0 la fin de l'\xC3\xA9t\xC3\xA9. Mais pour lui, il sait que c'est fini (r\xC3\xA9alisme de Noah oppos\xC3\xA9 \xC3\xA0 la passion d'Allie). (40:48) Elle lui dit qu'elle le hait, elle le frappe, donne des coups de pied dans son camion. Elle essaie de le retenir au dernier moment, mais il est d\xC3\xA9j\xC3\xA0 parti\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2470
+  scale: 4
+  duree: 19
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Duke et Allie marchent dehors. Allie dit qu'elle aurait d\xC3\xBB envoyer pa\xC3\xAEtre ses parents. Duke rit, oui, c'est ce qu'elle aurait d\xC3\xBB faire."
+  decor_id: 
+- effet: 
+  temps: 2489
+  scale: 4
+  duree: 49
+  lieu: 
+  resume: "(s\xC3\xA9q.) Les Hamilton quittent le Sud plus t\xC3\xB4t que pr\xC3\xA9vu (il restait une semaine). Allie ne veut pas partir. Sa m\xC3\xA8re la contraint de force."
+  decor_id: 
+- effet: 
+  temps: 2538
+  scale: 4
+  duree: 106
+  lieu: 
+  resume: "Allie vient dire \xC3\xA0 Fin qu'elle s'en va. Noah n'est pas l\xC3\xA0. Il doit dire \xC3\xA0 Noah qu'elle l'aime. Fin lui dit que c'est fini, qu'elle doit laisser tomber. S'il veut lui parler, il lui \xC3\xA9crira. Allie comprend."
+  decor_id: 
+- effet: 
+  temps: 2644
+  scale: 4
+  duree: 7
+  lieu: 
+  resume: "Allie quitte la ville, regarde la rue par la fen\xC3\xAAtre."
+  decor_id: 
+- effet: 
+  temps: 2651
+  scale: 4
+  duree: 19
+  lieu: 
+  resume: "Noah rentre \xC3\xA0 la scierie. Apprenant qu'Allie est parti, il se pr\xC3\xA9cipite."
+  decor_id: 
+- effet: 
+  temps: 2670
+  scale: 4
+  duree: 18
+  lieu: 
+  resume: "Arrivant devant la maison, il trouve le portail ferm\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 2688
+  scale: 4
+  duree: 12
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Les amours d'\xC3\xA9t\xC3\xA9 sont des \xC3\xA9toiles filantes."
+  decor_id: 
+- effet: 
+  temps: 2700
+  scale: 4
+  duree: 30
+  lieu: 
+  resume: "(s\xC3\xA9q. \xE2\x80\x94 soutenue par la voix-off qui raconte) Noah \xC3\xA9crit \xC3\xA0 Allie. La m\xC3\xA8re r\xC3\xA9cup\xC3\xA8re la lettre. Noah lui \xC3\xA9crit tous les jours. Le facteur r\xC3\xA9p\xC3\xA8te \xC3\xA0 Noah qu'il n'a rien pour lui."
+  decor_id: 
+- effet: 
+  temps: 2730
+  scale: 4
+  duree: 8
+  lieu: 
+  resume: "Au bout d'un an, il d\xC3\xA9cide de passer \xC3\xA0 autre chose. Il envoie sa lettre d'adieu."
+  decor_id: 
+- effet: 
+  temps: 2738
+  scale: 4
+  duree: 22
+  lieu: 
+  resume: "Changement de d\xC3\xA9cor. La ville d'Atlanta, un chantier. D\xC3\xA9claration de la guerre."
+  decor_id: 
+- effet: 
+  temps: 2760
+  scale: 4
+  duree: 50
+  lieu: 
+  resume: "(s\xC3\xA9q. soutenue par la voix-off qui explique) Noah et Fin s'engagent, ils font leur serment. (46:00) Visite m\xC3\xA9dicale. (46:05) dans le d\xC3\xA9sert contre Rommel. (46:09) Dans la neige sous le commandement de Patton. Ils essuient une attaque. Fin est tu\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 2810
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: "Allie en 3e ann\xC3\xA9e de fac."
+  decor_id: 
+- effet: 
+  temps: 2820
+  scale: 4
+  duree: 70
+  lieu: 
+  resume: "Allie s'engage comme infirmi\xC3\xA8re. Elle s'occupe des bless\xC3\xA9s de guerre. (47:10) Elle s'occupe de Lon, le corps dans le pl\xC3\xA2tre. Il l'invite pour un rendez-vous. Il a de l'humour malgr\xC3\xA9 son \xC3\xA9tat. Elle le prend avec indiff\xC3\xA9rence."
+  decor_id: 
+- effet: 
+  temps: 2890
+  scale: 4
+  duree: 28
+  lieu: 
+  resume: "Allie sort de la fac avec ses copines. Lon est l\xC3\xA0, parfaitement retap\xC3\xA9, charmant. Il l'aborde, r\xC3\xA9it\xC3\xA8re son invitation. La voix-off dit qu'elle tombe amoureuse de lui."
+  decor_id: 
+- effet: 
+  temps: 2918
+  scale: 4
+  duree: 22
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie et Lon dansent dans un club. Ils rient dans une voiture avant de se rendre au th\xC3\xA9\xC3\xA2tre. Ils font du cheval sur la plage. La voix-off vante tous les atouts de Lon, un jeune homme de bonne famille, tout comme Allie."
+  decor_id: 
+- effet: 
+  temps: 2940
+  scale: 4
+  duree: 170
+  lieu: 
+  resume: "Demande en mariage. Lon, Allie et ses parents sont \xC3\xA0 une f\xC3\xAAte new-yorkaise anim\xC3\xA9e par un clone de Cab Calloway. Lon se montre intelligent. Il a d\xC3\xA9j\xC3\xA0 leur accord. Ils se montrent plein d'humour et complices. (50:50) Il dit qu'il a d\xC3\xA9j\xC3\xA0 l'accord de ses parents. Il lui offre une bague. Allie dit oui sans h\xC3\xA9siter. Lon fait l'annonce au micro. (51:40) Mais la voix-off, \xC3\xA0 la fin de cette sc\xC3\xA8ne joyeuse, indique qu'Allie s'est demand\xC3\xA9e pourquoi, en disant oui, elle avait vu le visage de Noah."
+  decor_id: 
+- effet: 
+  temps: 3110
+  scale: 4
+  duree: 71
+  lieu: 
+  resume: "(s\xC3\xA9q.)Noah rentre de guerre. Son p\xC3\xA8re l'accueille. (52:13) Son p\xC3\xA8re lui dit qu'il a vendu sa maison et que Noah va pouvoir acheter Windsor Plantation, la maison dont il r\xC3\xAAvait."
+  decor_id: 
+- effet: 
+  temps: 3181
+  scale: 4
+  duree: 15
+  lieu: 
+  resume: "Noah et son p\xC3\xA8re arrivent devant la maison sous un beau soleil. La ruine a l'air magnifique."
+  decor_id: 
+- effet: 
+  temps: 3196
+  scale: 4
+  duree: 99
+  lieu: 
+  resume: "(s\xC3\xA9q.) Noah revoit Allie alors qu'il se rend \xC3\xA0 Charleston pour soumettre ses plans. (53:55) Il saute du bus en marche, traverse la route anim\xC3\xA9e. (54:25) Elle est avec Lon, elle a l'air parfaitement heureuse."
+  decor_id: 
+- effet: 
+  temps: 3295
+  scale: 4
+  duree: 19
+  lieu: 
+  resume: "(s\xC3\xA9q.) Noah retape la maison. La voix-off explique qu'il s'\xC3\xA9tait dit que s'il parvenait \xC3\xA0 retaper la maison, il r\xC3\xA9cup\xC3\xA8rerait Allie. La s\xC3\xA9quence se termine avec Noah, de nuit, qui met les derniers coups de pinceau \xC3\xA0 la fa\xC3\xA7ade"
+  decor_id: 
+- effet: 
+  temps: 3314
+  scale: 4
+  duree: 26
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) (s\xC3\xA9q.) On vient chercher Allie et Duke pour le d\xC3\xA9jeuner. (55:20) Duke et Allie mangent ensemble. Allie demande s'ils se sont revus. Duke rit en disant qu'il ne va pas r\xC3\xA9v\xC3\xA9ler la fin de l'histoire."
+  decor_id: 
+- effet: 
+  temps: 3340
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: "Mort du p\xC3\xA8re de Noah. Noah a la barbe maintenant."
+  decor_id: 
+- effet: 
+  temps: 3350
+  scale: 4
+  duree: 14
+  lieu: 
+  resume: "(s\xC3\xA9q.) Noah finit la maison. Noah dans son atelier. Noah retapant le plancher. Noah installa un garde-fou sur la terrasse."
+  decor_id: 
+- effet: 
+  temps: 3364
+  scale: 4
+  duree: 9
+  lieu: 
+  resume: "Noah, la bouteille \xC3\xA0 la main, est photographi\xC3\xA9 par un journaliste devant sa maison."
+  decor_id: 
+- effet: 
+  temps: 3373
+  scale: 4
+  duree: 49
+  lieu: 
+  resume: "(s\xC3\xA9q.) Mise en vente de la maison. La voix-off nous apprend qu'il s'est saoul\xC3\xA9 pendant 10 jours, qu'il a failli mettre le feu \xC3\xA0 la maison, et qu'il a fini par d\xC3\xA9cider de la mettre en vente. (56:30) Une femme dit qu'elle la prend. 56:40 On lui offre plus, il prend son fusil pour chasser les acheteurs"
+  decor_id: 
+- effet: 
+  temps: 3422
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: "Noah dans une barque, \xC3\xA9vacue sa frustration."
+  decor_id: 
+- effet: 
+  temps: 3432
+  scale: 4
+  duree: 110
+  lieu: 
+  resume: "Noah couch\xC3\xA9 avec Martha Shaw, une veuve de guerre. Elle lui propose des choses \xC3\xA0 faire, il les repousse toutes. Elle lui demande ce qu'il veut d'elle. Elle n'est pas dupe qu'il voit une autre en elle. Il lui r\xC3\xA9pond qu'il ne peut pas lui donner ce qu'elle attend de lui."
+  decor_id: 
+- effet: 
+  temps: 3542
+  scale: 4
+  duree: 53
+  lieu: 
+  resume: "Allie essaie sa robe de mari\xC3\xA9e. Toute les femmes sont tr\xC3\xA8s excit\xC3\xA9es. (59:46) Allie d\xC3\xA9couvre la photo de Noah dans le journal. Allie s'\xC3\xA9vanouit."
+  decor_id: 
+- effet: 
+  temps: 3595
+  scale: 4
+  duree: 22
+  lieu: 
+  resume: "Allie dans sa baignoire, un verre \xC3\xA0 la main, r\xC3\xA9fl\xC3\xA9chit en jouant avec le robinet d'eau froide. \xC3\x80 c\xC3\xB4t\xC3\xA9 d'elle, l'article de journal."
+  decor_id: 
+- effet: 
+  temps: 3617
+  scale: 4
+  duree: 115
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie vient dire \xC3\xA0 Lon qu'elle va s'absenter quelques jours. Lon est dans son bureau d'affaire, en train de suivre le cours de la bourse. Allie dit qu'elle ne peint plus. Lon l'encourage \xC3\xA0 peindre. Elle se refuse \xC3\xA0 lui mentir, lui dit qu'elle doit s'absenter 48h pour r\xC3\xA9gler deux trois choses \xC3\xA0 Seabrook. Lon s'inqui\xC3\xA8te un peu, mais la laisse partir, lui fait confiance, la rassure m\xC3\xAAme sur ses h\xC3\xA9sitations. Il se montre tr\xC3\xA8s compr\xC3\xA9hensif, le mari qui aurait pu \xC3\xAAtre le mari id\xC3\xA9al."
+  decor_id: 
+- effet: 
+  temps: 3732
+  scale: 4
+  duree: 5
+  lieu: 
+  resume: "Allie arrive \xC3\xA0 Seabrook."
+  decor_id: 
+- effet: 
+  temps: 3737
+  scale: 4
+  duree: 102
+  lieu: 
+  resume: "Arriv\xC3\xA9e d'Allie \xC3\xA0 la villa Windsor Plantation. Noah est en train de passer le rabot dans son atelier. Il sent quelque chose et sort. Allie est l\xC3\xA0. Il en perd la voix. Allie parle. Noah ne dit rien. Elle repart, en disant qu'elle est stupide, qu'elle n'aurait jamais d\xC3\xBB venir. (1:03:41) Elle d\xC3\xA9fonce la barri\xC3\xA8re de Noah. La voiture ne d\xC3\xA9marre plus. Noah, calme, lui demande si elle veut rentrer."
+  decor_id: 
+- effet: 
+  temps: 3839
+  scale: 4
+  duree: 44
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Duke referme le livre. Allie, apr\xC3\xA8s avoir dit qu'elle trouvait que c'\xC3\xA9tait une belle histoire, affirme qu'elle l'a d\xC3\xA9j\xC3\xA0 entendue. Duke, apr\xC3\xA8s l'avoir d\xC3\xA9visag\xC3\xA9e (pour lui, la m\xC3\xA9moire revient), dit simplement \xE2\x80\x9CYes\xE2\x80\x9D. Allie s'inqui\xC3\xA8te, dans une grimace\xC2\xA0: peut-\xC3\xAAtre plus d'une fois (phase de lucidit\xC3\xA9). L'infirmi\xC3\xA8re passe dire \xC3\xA0 Duke que le docteur veut le voir. Alors que Duke quitte la table, l'infirmi\xC3\xA8re invite Allie \xC3\xA0 rejoindre le piano. Allie ne se rappelle m\xC3\xAAme pas qu'elle joue."
+  decor_id: 
+- effet: 
+  temps: 3883
+  scale: 4
+  duree: 57
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) (s\xC3\xA9q.) Visite m\xC3\xA9dicale de Duke par un nouveau docteur. Tout semble aller. (1:05:30) Ils parlent de mademoiselle Hamilton (premi\xC3\xA8re citation du nom\xC2\xA0? \xE2\x80\x94 indication qu'ils ne se sont pas mari\xC3\xA9s, laissant le doute). Duke lui affirme qu'elle se souvient. On entend le piano en fond.(1:06:15) Au piano, Allie se met \xC3\xA0 jouer le pr\xC3\xA9lude de Chopin. \xC3\x89motion de Duke."
+  decor_id: 
+- effet: 
+  temps: 3940
+  scale: 4
+  duree: 110
+  lieu: 
+  resume: "(FB) Allie et Noah sont dans le salon. Allie parle de Lon (Hammond Junior, de \xE2\x80\x9CHammond coton\xE2\x80\x9D). Ils parlent en bons vieux amis. Il l'invite \xC3\xA0 d\xC3\xAEner."
+  decor_id: 
+- effet: 
+  temps: 4050
+  scale: 4
+  duree: 72
+  lieu: 
+  resume: "Ils d\xC3\xAEnent. Ils sont plus d\xC3\xA9tendus, blaguent. Noah lui dit que c'est dans cette pi\xC3\xA8ce qu'ils se sont d\xC3\xA9voil\xC3\xA9s l'un \xC3\xA0 l'autre."
+  decor_id: 
+- effet: 
+  temps: 4122
+  scale: 4
+  duree: 41
+  lieu: 
+  resume: "Devant la maison, il lui lit un po\xC3\xA8me de Whitman. Elle lui demande si leur amour \xC3\xA9tait v\xC3\xA9ritable. Elle lui dit qu'elle doit y aller."
+  decor_id: 
+- effet: 
+  temps: 4163
+  scale: 4
+  duree: 37
+  lieu: 
+  resume: "\xC3\x80 la voiture, ils se s\xC3\xA9parent. Il lui donne rendez-vous pour le lendemain matin, il a un endroit \xC3\xA0 lui montrer. "
+  decor_id: 
+- effet: 
+  temps: 4200
+  scale: 4
+  duree: 129
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Visite des enfants et petits-enfants. Duke finit la lecture. Allie soupire qu'elle aimerait tant pouvoir deviner la fin de l'histoire. (1:10:11) Arriv\xC3\xA9e des enfants. L'infirmi\xC3\xA8re pr\xC3\xA9cise, devant l'\xC3\xA9tonnement d'Allie, que ce sont les enfants de Duke (1:11:00) Allie part faire la sieste. Les enfants demandent \xC3\xA0 leur p\xC3\xA8re de revenir. La sc\xC3\xA8ne finit sur ses mots de Duke\xC2\xA0: \xE2\x80\x9CYour mother is my home\xE2\x80\x9D. "
+  decor_id: 
+- effet: 
+  temps: 4329
+  scale: 4
+  duree: 61
+  lieu: 
+  resume: "FB. Allie rentre \xC3\xA0 l'h\xC3\xB4tel. Coup de fil de Lon, il s'inqui\xC3\xA8te. Le silence d'Allie sonne comme un mensonge. Elle lui dit qu'elle l'aime, qu'elle l'appellera demain."
+  decor_id: 
+- effet: 
+  temps: 4390
+  scale: 4
+  duree: 50
+  lieu: 
+  resume: "Allie revient chez Noah. Elle d\xC3\xA9couvre l'atelier de Noah, caresse les meubles qu'il construit."
+  decor_id: 
+- effet: 
+  temps: 4440
+  scale: 4
+  duree: 135
+  lieu: 
+  resume: "(s\xC3\xA9q. des oies) Noah l'emm\xC3\xA8ne en barque dans un endroit incroyable o\xC3\xB9 l'eau s'\xC3\xA9tend entre les arbres, o\xC3\xB9 des milliers d'oies et de canards se prom\xC3\xA8nent. Ils se disent qu'ils ont l'air diff\xC3\xA9rents. Elle lui dit que c'est beau ce qu'il a fait. (1:16:00) L'orage se met \xC3\xA0 tonner."
+  decor_id: 
+- effet: 
+  temps: 4575
+  scale: 4
+  duree: 110
+  lieu: 
+  resume: "Ils rentrent en barque. La nuit tombe, l'orage gronde. (1:16:30) La pluie se met \xC3\xA0 tomber. Allie s'abrite, ridicule, sous un bout de tissu. Noah \xC3\xA9clate de rire. Elle finit par jeter son tissu et \xC3\xA9clate de rire avec lui sous la pluie. Ils se regardent, avec intensit\xC3\xA9. (1:17:15) Ils arrivent au ponton. Noah remonte le bateau. (1:17:36) Alors qu'Allie s'\xC3\xA9loigne sur le ponton, elle se fige, fait demi-tour, et revient \xC3\xA0 Noah lui demander pourquoi il ne lui a pas \xC3\xA9crit. Elle dit qu'elle l'a attendu, pendant 7 ans. Elle lui dit que c'est trop tard maintenant. Il lui parle alors des 365 lettres qu'il lui a \xC3\xA9crites. (1:18:00) Il lui dit que \xC3\xA7a n'\xC3\xA9tait pas fini pour lui, et que \xC3\xA7a ne l'est toujours pas. Il se jette sur elle et l'embrasse."
+  decor_id: 
+- effet: 
+  temps: 4685
+  scale: 4
+  duree: 135
+  lieu: 
+  resume: "(s\xC3\xA9q.) Ils rentrent dans la maison en s'embrassant. Ils font l'amour, sauvagement. Elle lui baisse \xC3\xA0 nouveau son pantalon\xE2\x80\xA6 Il la monte \xC3\xA0 l'\xC3\xA9tage, le pantalon sur les chevilles."
+  decor_id: 
+- effet: 
+  temps: 4820
+  scale: 4
+  duree: 188
+  lieu: 
+  resume: "Ils sont allong\xC3\xA9s \xC3\xA0 m\xC3\xAAme le sol, ils se r\xC3\xA9veillent. Allie r\xC3\xA9veille Noah. Il lui demande si elle veut le tuer\xE2\x80\xA6 Il a besoin de manger, de se reposer. (1:21:50) Martha Shaw arrive. Noah l'accueille, g\xC3\xAAn\xC3\xA9. Martha sent qu'\xE2\x80\x9Celle\xE2\x80\x9D est l\xC3\xA0. Allie se montre, accueille Martha avec chaleur. Elle l'invite \xC3\xA0 entrer."
+  decor_id: 
+- effet: 
+  temps: 5008
+  scale: 4
+  duree: 84
+  lieu: 
+  resume: "Fin de la soir\xC3\xA9e, Martha s'en va. Martha s'avoue vaincue, mais avoir retrouv\xC3\xA9 le go\xC3\xBBt \xC3\xA0 l'amour. (1:24:30) Allie les voit s'embrasser, compr\xC3\xA9hensive, assur\xC3\xA9e de leur amour."
+  decor_id: 
+- effet: 
+  temps: 5092
+  scale: 4
+  duree: 73
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie se r\xC3\xA9veille, enroul\xC3\xA9e dans la couverture rouge. Noah est d\xC3\xA9j\xC3\xA0 lev\xC3\xA9. Il lui a laiss\xC3\xA9 des fleurs sur son oreiller. Il lui a laiss\xC3\xA9 un mot. Elle suit des fl\xC3\xA8ches et d\xC3\xA9couvre l'atelier de peinture qu'il lui a r\xC3\xA9serv\xC3\xA9. (1:25:50) Allie peint, nue, sur la terrasse. Elle entend du bruit."
+  decor_id: 
+- effet: 
+  temps: 5165
+  scale: 4
+  duree: 100
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie descend, c'est sa m\xC3\xA8re. Elle lui annonce que Lon est en route, que son p\xC3\xA8re a racont\xC3\xA9 toute l'histoire. (1:26:50) Allie veut savoir pour les lettres. Sa m\xC3\xA8re avoue. La m\xC3\xA8re dit qu'elle regrette, mais que sa fille doit prendre ses responsabilit\xC3\xA9s. Sa m\xC3\xA8re lui demande de s'habiller."
+  decor_id: 
+- effet: 
+  temps: 5265
+  scale: 4
+  duree: 140
+  lieu: 
+  resume: "Le grand amour de la m\xC3\xA8re. La m\xC3\xA8re l'am\xC3\xA8ne dans une cimenterie (?). Elle lui montre l'homme dont elle \xC3\xA9tait amoureuse. Il \xC3\xA9tait superbe, il ressemble \xC3\xA0 un simple ouvrier ventreux maintenant. La m\xC3\xA8re, en pleurs, dit aimer son mari et se jette dans les bras de sa fille. Allie d\xC3\xA9couvre sa m\xC3\xA8re. L'ouvrier l'aper\xC3\xA7oit."
+  decor_id: 
+- effet: 
+  temps: 5405
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: "En revenant en ville, Allie (et sa m\xC3\xA8re) aper\xC3\xA7oit la voiture de Lon devant l'h\xC3\xB4tel."
+  decor_id: 
+- effet: 
+  temps: 5415
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "Retour \xC3\xA0 Windsor Plantation. Noah est l\xC3\xA0. La m\xC3\xA8re embrasse sa fille. Elle la laisse partir. Elle la rappelle pour lui remettre les lettres de Noah. Elles \xC3\xA9taient dans lecoffre (ce qui montre pourquoi elle \xC3\xA9tait venue, pas pour rechercher sa fille)."
+  decor_id: 
+- effet: 
+  temps: 5505
+  scale: 4
+  duree: 230
+  lieu: 
+  resume: "(suit la pr\xC3\xA9c\xC3\xA9dente) Allie rejoint Noah sur le perron. Il apprend que Lon est ici. Ambiance embarrass\xC3\xA9e. Noah lui demande ce qu'elle compte faire. Elle ne sait pas. Elle est nerveuse. Noah s'\xC3\xA9nerve, a l'impression d'\xC3\xAAtre revenu au point de d\xC3\xA9part. Il se disent qu'ils se ha\xC3\xAFssent. Elle part \xC3\xA0 sa voiture. Il lui fait un \xC3\xA9tat des lieux. Elle lui fait une d\xC3\xA9claration d'amour d\xC3\xA9chirante. Pense \xC3\xA0 toi, lui dit-il, pense \xC3\xA0 ce que tu veux. Elle lui dit qu'elle doit y aller. (1:35:10) Il la laisse monter dans sa voiture. Elle s'en va."
+  decor_id: 
+- effet: 
+  temps: 5735
+  scale: 4
+  duree: 60
+  lieu: 
+  resume: "De retour vers Seabrook, Allie pleure au volant. Elle \xC3\xA9vite de justesse un camion, se retrouve dans le foss\xC3\xA9. Elle ouvre la lettre d'adieu de Noah. Elle fond en larmes. (1:36:25) Allie roule."
+  decor_id: 
+- effet: 
+  temps: 5795
+  scale: 4
+  duree: 33
+  lieu: 
+  resume: "Allie arrive \xC3\xA0 Seabrook, se gare devant le Seabrook Inn en pleurant. Elle se recoiffe , entendant encore les mots de la lettre de Noah."
+  decor_id: 
+- effet: 
+  temps: 5828
+  scale: 4
+  duree: 52
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Duke ach\xC3\xA8ve la lettre. Lui et Allie sont assis au bord de l'eau. Duke fait une citation de Whitman. Allie semble comprendre. Elle dit qu'il l'a connu."
+  decor_id: 
+- effet: 
+  temps: 5880
+  scale: 4
+  duree: 80
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Allie se souvient. Duke a pr\xC3\xA9par\xC3\xA9 un d\xC3\xAEner pour Allie. Regardant le paysage \xC3\xA0 l'ext\xC3\xA9rieur au coucher du soleil, Allie dit n'avoir jamais rien vu d'aussi beau. Duke lui r\xC3\xA9pond \xE2\x80\x9CMoi non plus\xE2\x80\x9D en la regardant. Rappel de la maladie de Duke. (1:39:15) Allie demande ce qui s'est pass\xC3\xA9 ensuite. Qui a choisi Allie\xC2\xA0?"
+  decor_id: 
+- effet: 
+  temps: 5960
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "Dans la chambre d'h\xC3\xB4tel, Lon et Allie s'expliquent. Allie est d\xC3\xA9chir\xC3\xA9e dans ses choix. Allie dit qu'elle sait qu'elle doit rester avec lui."
+  decor_id: 
+- effet: 
+  temps: 6050
+  scale: 4
+  duree: 18
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Duke conclut en disant qu'ils v\xC3\xA9curent heureux. Who\xC2\xA0? demande Allie. (1:40:57) Et l\xC3\xA0 \xC3\xA7a lui revient. Elle dit \xE2\x80\x9CBien s\xC3\xBBr\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 6068
+  scale: 4
+  duree: 37
+  lieu: 
+  resume: "FB. Retour de Allie. Noah, allong\xC3\xA9 dans la couverture rouge, entend du bruit. Il sort sur le balcon et voit Allie qui revient, avec ses valises, en haussant les \xC3\xA9paules. Noah descend, Allie se jette dans ses bras."
+  decor_id: 
+- effet: 
+  temps: 6105
+  scale: 4
+  duree: 245
+  lieu: 
+  resume: "(Temps pr\xC3\xA9sent) Allie se souvient. Moment de r\xC3\xA9mission. \xE2\x80\x9CIt was us\xE2\x80\x9D dit-elle en pleurant. Noah se jette dans ses bras en pleurant lui aussi. Ils parlent de la maladie d'Allie, de ses absences. Quand Allie lui demande combien de temps ils ont, Noah r\xC3\xA9pond que la derni\xC3\xA8re \xC3\xA7a a dur\xC3\xA9 pas plus de 5 minutes. (1:42:40) Il l'invite \xC3\xA0 danser. Ils parlent des enfants. (1:44:30) Elle lui propose de sortir en voiture. Noah doit refuser. (1:44:40) Fin de la r\xC3\xA9mission. Allie (merveilleuse Geena Rowlands) lui demande pourquoi il l'a appel\xC3\xA9e \xE2\x80\x9CDarling\xE2\x80\x9D. Allie s'\xC3\xA9nerve, Noah ne peux admettre qu'elle ne se souvienne plus, Allie appelle \xC3\xA0 l'aide. (1:45:30) Les infirmiers et le docteur doivent intervenir pour lui faire une piq\xC3\xBBre. Duke (merveilleux James Gardner) s'effondre en larmes."
+  decor_id: 
+- effet: 
+  temps: 6350
+  scale: 4
+  duree: 55
+  lieu: 
+  resume: "Dans sa chambre, Noah-Duke regardent les photos de leur couple (1:46:20) Il ouvre le livre, et l'on peut lire sur la page de garde \xE2\x80\x9CL'Histoire de nos vies, par Allison Hamilton Calhoun, \xC3\xA0 mon amour, Noah. Lis-moi ceci et je te reviendrai\xE2\x80\x9D. La sc\xC3\xA8ne s'ach\xC3\xA8ve sur un fondu au noir de la maison de retraite vue du lac."
+  decor_id: 
+- effet: 
+  temps: 6405
+  scale: 4
+  duree: 65
+  lieu: 
+  resume: "Duke a fait une nouvelle attaque, il est conduit d'urgence \xC3\xA0 l'infirmerie. Allie le voit passer. On la conduit dans l'aile rose de la maison, au cabinet (?) du docteur (?) Holmes. On la retrouve assise sur son fauteuil roulant, dans une grande pi\xC3\xA8ce vide o\xC3\xB9 sont parqu\xC3\xA9s d'autres personnes sur leur fauteuil roulant. Allie n'est plus \xC3\xA2g\xC3\xA9e, elle est vieille, perdue dans ses pens\xC3\xA9es. On la retrouve \xC3\xA0 la grille qui s\xC3\xA9pare les hommes des femmes (?), en train de regarder. On repense \xC3\xA0 ce qu'a \xC3\xA9t\xC3\xA9 sa vie, et on souffre pour elle de son incapacit\xC3\xA9 \xC3\xA0 s'en souvenir."
+  decor_id: 
+- effet: 
+  temps: 6470
+  scale: 4
+  duree: 100
+  lieu: 
+  resume: "Duke sort de sa chambre en se cachant. L'infirmi\xC3\xA8re de garde lui explique qu'il n'a pas le droit de quitter sa chambre, mais s'arrange pour le laisser aller l\xC3\xA0 o\xC3\xB9 il doit aller, chez Allie\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6570
+  scale: 4
+  duree: 180
+  lieu: 
+  resume: "Duke rejoint Allie dans sa chambre. Il la r\xC3\xA9veille, elle se souvient de lui. (1:51:00) Elle lui demande s'il croit que leur amour peut cr\xC3\xA9er des miracles. Il lui dit que oui. (1:51:35) Elle lui demande s'il pense que leur amour est capable de les emporter ensemble. Il lui dit que leur amour peut faire tout ce qu'ils voudront. (1:52:00) Il s'allonge \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s. Ils se souhaitent bonne nuit et s'endorment l'un contre l'autre."
+  decor_id: 
+- effet: 
+  temps: 6750
+  scale: 4
+  duree: 20
+  lieu: 
+  resume: Des canards s'envolent.
+  decor_id: 
+- effet: 
+  temps: 6770
+  scale: 4
+  duree: 
+  lieu: 
+  resume: "G\xC3\xA9n\xC3\xA9rique de fin"
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 130
+  lieu: 
+  resume: "Un skiff sur l'eau, \xC3\xA0 la nuit qui tombe. Ambiance d'une s\xC3\xA9r\xC3\xA9nit\xC3\xA9 magique, contagieuse."
+  decor_id: 
+- effet: 
+  temps: 130
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "D\xC3\xA9couverte de la maison de retraite, les oies qui volent vers elle avec le bateau qui arrive. Une femme, vieille, \xC3\xA0 une fen\xC3\xAAtre. C'est ALLIE. On vient la chercher pour se coucher."
+  decor_id: 
+- effet: 
+  temps: 180
+  scale: 5
+  duree: 8
+  lieu: 
+  resume: "Le skiffeur. Fin du g\xC3\xA9n\xC3\xA9rique."
+  decor_id: 
+- effet: 
+  temps: 188
+  scale: 5
+  duree: 39
+  lieu: 
+  resume: "(s\xC3\xA9quence) Pr\xC3\xA9sentation de DUKE, un homme ordinaire en train de se coiffer. Il dit qu'il a aim\xC3\xA9 de tout son c\xC5\x93ur, et que \xC3\xA7a lui a suffi. Il va prendre ses m\xC3\xA9dicaments en disant \xC3\xA0 l'infirmi\xC3\xA8re que c'est le grand jour. Elle ironise : il lui dit \xC3\xA7a tous les jours"
+  decor_id: 
+- effet: 
+  temps: 227
+  scale: 5
+  duree: 68
+  lieu: 
+  resume: "(s\xC3\xA9q.) Allie refuse de sortir. Duke arrive pour lui faire la lecture. Ils vont s'asseoir dans le salon. Il commence l'histoire de Noah et Allie."
+  decor_id: 
+- effet: 
+  temps: 1085
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Allie demande s'ils sont tomb\xC3\xA9s amoureux. Duke confirme"
+  decor_id: 
+- effet: 
+  temps: 2470
+  scale: 5
+  duree: 19
+  lieu: 
+  resume: "Duke et Allie marchent dehors. Allie dit qu'elle aurait d\xC3\xBB envoyer pa\xC3\xAEtre ses parents. Duke rit, oui, c'est ce qu'elle aurait d\xC3\xBB faire."
+  decor_id: 
+- effet: 
+  temps: 2688
+  scale: 5
+  duree: 12
+  lieu: 
+  resume: "Les amours d'\xC3\xA9t\xC3\xA9 sont des \xC3\xA9toiles filantes."
+  decor_id: 
+- effet: 
+  temps: 3314
+  scale: 5
+  duree: 26
+  lieu: 
+  resume: "(s\xC3\xA9q.) On vient chercher Allie et Duke pour le d\xC3\xA9jeuner. (55:20) Duke et Allie mangent ensemble. Allie demande s'ils se sont revus. Duke rit en disant qu'il ne va pas r\xC3\xA9v\xC3\xA9ler la fin de l'histoire."
+  decor_id: 
+- effet: 
+  temps: 3839
+  scale: 5
+  duree: 44
+  lieu: 
+  resume: "Duke referme le livre. Allie, apr\xC3\xA8s avoir dit qu'elle trouvait que c'\xC3\xA9tait une belle histoire, affirme qu'elle l'a d\xC3\xA9j\xC3\xA0 entendue. Duke, apr\xC3\xA8s l'avoir d\xC3\xA9visag\xC3\xA9e (pour lui, la m\xC3\xA9moire revient), dit simplement \xE2\x80\x9CYes\xE2\x80\x9D. Allie s'inqui\xC3\xA8te, dans une grimace\xC2\xA0: peut-\xC3\xAAtre plus d'une fois (phase de lucidit\xC3\xA9). L'infirmi\xC3\xA8re passe dire \xC3\xA0 Duke que le docteur veut le voir. Alors que Duke quitte la table, l'infirmi\xC3\xA8re invite Allie \xC3\xA0 rejoindre le piano. Allie ne se rappelle m\xC3\xAAme pas qu'elle joue."
+  decor_id: 
+- effet: 
+  temps: 3883
+  scale: 5
+  duree: 57
+  lieu: 
+  resume: "(s\xC3\xA9q.) Visite m\xC3\xA9dicale de Duke par un nouveau docteur. Tout semble aller. (1:05:30) Ils parlent de mademoiselle Hamilton (premi\xC3\xA8re citation du nom\xC2\xA0? \xE2\x80\x94 indication qu'ils ne se sont pas mari\xC3\xA9s, laissant le doute). Duke lui affirme qu'elle se souvient. On entend le piano en fond.(1:06:15) Au piano, Allie se met \xC3\xA0 jouer le pr\xC3\xA9lude de Chopin. \xC3\x89motion de Duke."
+  decor_id: 
+- effet: 
+  temps: 4200
+  scale: 5
+  duree: 129
+  lieu: 
+  resume: "Visite des enfants et petits-enfants. Duke finit la lecture. Allie soupire qu'elle aimerait tant pouvoir deviner la fin de l'histoire. (1:10:11) Arriv\xC3\xA9e des enfants. L'infirmi\xC3\xA8re pr\xC3\xA9cise, devant l'\xC3\xA9tonnement d'Allie, que ce sont les enfants de Duke (1:11:00) Allie part faire la sieste. Les enfants demandent \xC3\xA0 leur p\xC3\xA8re de revenir. La sc\xC3\xA8ne finit sur ses mots de Duke\xC2\xA0: \xE2\x80\x9CYour mother is my home\xE2\x80\x9D. "
+  decor_id: 
+- effet: 
+  temps: 5828
+  scale: 5
+  duree: 52
+  lieu: 
+  resume: "Duke ach\xC3\xA8ve la lettre. Lui et Allie sont assis au bord de l'eau. Duke fait une citation de Whitman. Allie semble comprendre. Elle dit qu'il l'a connu."
+  decor_id: 
+- effet: 
+  temps: 5880
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Allie se souvient. Duke a pr\xC3\xA9par\xC3\xA9 un d\xC3\xAEner pour Allie. Regardant le paysage \xC3\xA0 l'ext\xC3\xA9rieur au coucher du soleil, Allie dit n'avoir jamais rien vu d'aussi beau. Duke lui r\xC3\xA9pond \xE2\x80\x9CMoi non plus\xE2\x80\x9D en la regardant. Rappel de la maladie de Duke. (1:39:15) Allie demande ce qui s'est pass\xC3\xA9 ensuite. Qui a choisi Allie\xC2\xA0?"
+  decor_id: 
+- effet: 
+  temps: 6050
+  scale: 5
+  duree: 18
+  lieu: 
+  resume: "Duke conclut en disant qu'ils v\xC3\xA9curent heureux. Who\xC2\xA0? demande Allie. (1:40:57) Et l\xC3\xA0 \xC3\xA7a lui revient. Elle dit \xE2\x80\x9CBien s\xC3\xBBr\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 6105
+  scale: 5
+  duree: 245
+  lieu: 
+  resume: "Allie se souvient. Moment de r\xC3\xA9mission. \xE2\x80\x9CIt was us\xE2\x80\x9D dit-elle en pleurant. Noah se jette dans ses bras en pleurant lui aussi. Ils parlent de la maladie d'Allie, de ses absences. Quand Allie lui demande combien de temps ils ont, Noah r\xC3\xA9pond que la derni\xC3\xA8re \xC3\xA7a a dur\xC3\xA9 pas plus de 5 minutes. (1:42:40) Il l'invite \xC3\xA0 danser. Ils parlent des enfants. (1:44:30) Elle lui propose de sortir en voiture. Noah doit refuser. (1:44:40) Fin de la r\xC3\xA9mission. Allie (merveilleuse Geena Rowlands) lui demande pourquoi il l'a appel\xC3\xA9e \xE2\x80\x9CDarling\xE2\x80\x9D. Allie s'\xC3\xA9nerve, Noah ne peux admettre qu'elle ne se souvienne plus, Allie appelle \xC3\xA0 l'aide. (1:45:30) Les infirmiers et le docteur doivent intervenir pour lui faire une piq\xC3\xBBre. Duke (merveilleux James Gardner) s'effondre en larmes."
+  decor_id: 
+- effet: 
+  temps: 6350
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Dans sa chambre, Noah-Duke regardent les photos de leur couple (1:46:20) Il ouvre le livre, et l'on peut lire sur la page de garde \xE2\x80\x9CL'Histoire de nos vies, par Allison Hamilton Calhoun, \xC3\xA0 mon amour, Noah. Lis-moi ceci et je te reviendrai\xE2\x80\x9D. La sc\xC3\xA8ne s'ach\xC3\xA8ve sur un fondu au noir de la maison de retraite vue du lac."
+  decor_id: 
+- effet: 
+  temps: 6405
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Duke a fait une nouvelle attaque, il est conduit d'urgence \xC3\xA0 l'infirmerie. Allie le voit passer. On la conduit dans l'aile rose de la maison, au cabinet (?) du docteur (?) Holmes. On la retrouve assise sur son fauteuil roulant, dans une grande pi\xC3\xA8ce vide o\xC3\xB9 sont parqu\xC3\xA9s d'autres personnes sur leur fauteuil roulant. Allie n'est plus \xC3\xA2g\xC3\xA9e, elle est vieille, perdue dans ses pens\xC3\xA9es. On la retrouve \xC3\xA0 la grille qui s\xC3\xA9pare les hommes des femmes (?), en train de regarder. On repense \xC3\xA0 ce qu'a \xC3\xA9t\xC3\xA9 sa vie, et on souffre pour elle de son incapacit\xC3\xA9 \xC3\xA0 s'en souvenir."
+  decor_id: 
+- effet: 
+  temps: 6470
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: "Duke sort de sa chambre en se cachant. L'infirmi\xC3\xA8re de garde lui explique qu'il n'a pas le droit de quitter sa chambre, mais s'arrange pour le laisser aller l\xC3\xA0 o\xC3\xB9 il doit aller, chez Allie\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 6570
+  scale: 5
+  duree: 180
+  lieu: 
+  resume: "Duke rejoint Allie dans sa chambre. Il la r\xC3\xA9veille, elle se souvient de lui. (1:51:00) Elle lui demande s'il croit que leur amour peut cr\xC3\xA9er des miracles. Il lui dit que oui. (1:51:35) Elle lui demande s'il pense que leur amour est capable de les emporter ensemble. Il lui dit que leur amour peut faire tout ce qu'ils voudront. (1:52:00) Il s'allonge \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s. Ils se souhaitent bonne nuit et s'endorment l'un contre l'autre."
+  decor_id: 
+- effet: 
+  temps: 6750
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Des canards s'envolent.
+  decor_id: 
+:dim: TheNotebook

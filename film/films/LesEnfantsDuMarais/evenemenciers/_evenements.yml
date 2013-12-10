@@ -1,0 +1,1095 @@
+--- 
+:items: 
+- effet: 
+  temps: 325
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Cricri a cinq ans, elle dit \xE2\x80\x94 plus vieille\xC2\xA0\xE2\x80\x94 que ces souvenirs remontent \xC3\xA0 ce printemps. "
+  decor_id: 
+- effet: 
+  temps: 1850
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Cricri dit qu'elle se souvient parfaitement de ce jour.
+  decor_id: 
+- effet: 
+  temps: 2105
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Entr\xC3\xA9e de Pierrot, \xC3\xA0 la table de son grand-p\xC3\xA8re P\xC3\xA9p\xC3\xA9 la rainette."
+  decor_id: 
+- effet: 
+  temps: 2270
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 dit \xC3\xA0 Pierrot qu'il connait un endroit o\xC3\xB9 ils pourront faire naviguer la maquette de bateau."
+  decor_id: 
+- effet: 
+  temps: 2730
+  scale: 7
+  duree: 20
+  lieu: 
+  resume: Cricri fait la rencontre de Pierrot alors qu'il vient essayer son bateau.
+  decor_id: 
+- effet: 
+  temps: 2975
+  scale: 7
+  duree: 15
+  lieu: 
+  resume: "Cricri parle de son coup de foudre pour Pierrot, alors qu'il devait se laver et qu'il lui a demand\xC3\xA9 de s'\xC3\xA9loigner."
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 7
+  duree: 30
+  lieu: 
+  resume: "Cricri et Pierrot se retrouvent chacun d'un c\xC3\xB4t\xC3\xA9 et de l'autre du parc. Le gardien n'a pas laiss\xC3\xA9 Cricri rentrer. Pierrot lui donne son ballon et rejoint Berthe."
+  decor_id: 
+- effet: 
+  temps: 4480
+  scale: 7
+  duree: 40
+  lieu: 
+  resume: "Cricri, malade, demande \xC3\xA0 P\xC3\xA9p\xC3\xA9 d'expliquer \xC3\xA0 Pierrot pourquoi elle ne peut pas le voir. P\xC3\xA9p\xC3\xA9 lui rapporte que Pierrot semblait un peu triste. Cricri esp\xC3\xA8re qu'il ne l'\xC3\xA9tait pas trop quand m\xC3\xAAme\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 5020
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Riton confie \xC3\xA0 P\xC3\xA9p\xC3\xA9 que Cricri \xE2\x80\x94 encore malade \xE2\x80\x94 s'ennuie de Pierrot."
+  decor_id: 
+- effet: 
+  temps: 5080
+  scale: 7
+  duree: 50
+  lieu: 
+  resume: "Cricri vient confier \xC3\xA0 Garris qu'elle est amoureuse de Pierrot \xE2\x80\x9Cde la ville\xE2\x80\x9D. Elle vient trouver Garris pour savoir si l'amour c'est d'\xC3\xAAtre content et d'\xC3\xAAtre triste en m\xC3\xAAme temps."
+  decor_id: 
+- effet: 
+  temps: 5555
+  scale: 7
+  duree: 60
+  lieu: 
+  resume: "Apr\xC3\xA8s les vacances, Cricri et Pierrot se retrouvent, chez Madame Mercier, la voisine de P\xC3\xA9p\xC3\xA9 la rainette."
+  decor_id: 
+- effet: 
+  temps: 6395
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "La voix-off de Cricri annonce qu'elle a \xC3\xA9pous\xC3\xA9 Pierrot en 1947."
+  decor_id: 
+- effet: 
+  temps: 1100
+  scale: 7
+  duree: 40
+  lieu: 
+  resume: "Introduction de Marie, qui rentre chez ses patrons accompagn\xC3\xA9e de son copain militaire."
+  decor_id: 
+- effet: 
+  temps: 1225
+  scale: 7
+  duree: 75
+  lieu: 
+  resume: Garris rencontre Marie chez ses patrons. Il tombe sous le charme.
+  decor_id: 
+- effet: 
+  temps: 1305
+  scale: 7
+  duree: 30
+  lieu: 
+  resume: "Garris, en rentrant, dit qu'\xE2\x80\x9Celle est gentille, cette petite\xE2\x80\x9D. Riton est s\xC3\xBBr qu'elle viendra les voir."
+  decor_id: 
+- effet: 
+  temps: 1860
+  scale: 7
+  duree: 40
+  lieu: 
+  resume: "Riton dit \xC3\xA0 Garris qu'il a vu Marie. Garris voudrait savoir comment elle \xC3\xA9tait habill\xC3\xA9e. Riton lui dit qu'elle \xC3\xA9tait avec un militaire."
+  decor_id: 
+- effet: 
+  temps: 3190
+  scale: 7
+  duree: 10
+  lieu: 
+  resume: "Riton fait remarquer \xC3\xA0 Garris qu'une femme sur un tableau de Madame Mercier ressemble \xC3\xA0 \xE2\x80\x9Csa\xE2\x80\x9D Marie. Garris ironise sur le fait qu'il ne l'a vue qu'une fois. Mais on sait qu'il est touch\xC3\xA9\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3230
+  scale: 7
+  duree: 20
+  lieu: 
+  resume: "Dans la m\xC3\xAAme sc\xC3\xA8ne, Madame Mercier lui offre le tableau."
+  decor_id: 
+- effet: 
+  temps: 3830
+  scale: 7
+  duree: 90
+  lieu: 
+  resume: "Au march\xC3\xA9, Marie et Garris se croisent. Garris lui dit qu'il l'a attendue. Marie r\xC3\xA9pond innocemment \xE2\x80\x9CAh oui pourquoi ?\xE2\x80\x9D Elle lui promet de venir. Garris abandonne son stand pour offrir des boucles d'oreilles \xC3\xA0 Marie."
+  decor_id: 
+- effet: 
+  temps: 3950
+  scale: 7
+  duree: 10
+  lieu: 
+  resume: "Garris aper\xC3\xA7oit Marie prendre la main de son bidasse. Riton lui dit que \xC3\xA7a ne veut pas dire grand chose. Garris ironise\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4005
+  scale: 7
+  duree: 45
+  lieu: 
+  resume: "Garris retouche le tableau ressemblant \xC3\xA0 Marie."
+  decor_id: 
+- effet: 
+  temps: 4170
+  scale: 7
+  duree: 10
+  lieu: 
+  resume: "Quand Garris r\xC3\xA9fl\xC3\xA9chit, allong\xC3\xA9 sur son lit, on peut imaginer qu'il pense \xC3\xA0 Marie\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4705
+  scale: 7
+  duree: 
+  lieu: 
+  resume: Marie vient voir Garris au bord du marais. Elle lui demande de lui montrer sa maison.
+  decor_id: 
+- effet: 
+  temps: 4770
+  scale: 7
+  duree: 90
+  lieu: 
+  resume: "Marie d\xC3\xA9couvre la maison de Garris. Elle le harc\xC3\xA8le de questions. Elle lui dit qu'elle n'ira jamais avec un homme sans la bague au doigt. Alors qu'il va fumer, ils sont interrompus par un des enfants qui appelle Garris."
+  decor_id: 
+- effet: 
+  temps: 4925
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "En revenant chez lui, Garris d\xC3\xA9couvre que Marie est partie."
+  decor_id: 
+- effet: 
+  temps: 5040
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "\xC3\x89milie, acari\xC3\xA2tre, dit \xC3\xA0 Riton que Garris veut rester seul parce qu'il est amoureux."
+  decor_id: 
+- effet: 
+  temps: 5050
+  scale: 7
+  duree: 30
+  lieu: 
+  resume: "Garris se rend chez les patrons de Marie. La maison est ferm\xC3\xA9e. Il apprend d'une voisine qu'ils sont partis \xC3\xA0 Nice en vacances. Qu'ils reviendront certainement en septembre."
+  decor_id: 
+- effet: 
+  temps: 5670
+  scale: 7
+  duree: 40
+  lieu: 
+  resume: "Chez les Loiseaux, Garris apprend que Marie s'est mari\xC3\xA9 avec un pharmacien de Nice."
+  decor_id: 
+- effet: 
+  temps: 6415
+  scale: 7
+  duree: 15
+  lieu: 
+  resume: "La voix-off de Cricri suppose que Garris a rejoint Nice pour enlever l'\xC3\xA9pouse d'un pharmacien\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2085
+  scale: 8
+  duree: 5
+  lieu: 
+  resume: "Dans la salle de boxe surchauff\xC3\xA9e, un pneu atterrit en plus sur le ring d\xC3\xA9sert (Jo Sardi n'est pas l\xC3\xA0 pour son match)."
+  decor_id: 
+- effet: 
+  temps: 2090
+  scale: 8
+  duree: 10
+  lieu: 
+  resume: "Laurent, le gendre de P\xC3\xA9p\xC3\xA9 la rainette, lit l'histoire du pneu dans le journal l'Excelsior, disant que les journalistes racontent vraiment n'importe quoi."
+  decor_id: 
+- effet: 
+  temps: 2595
+  scale: 8
+  duree: 10
+  lieu: 
+  resume: "Quand Garris annonce \xC3\xA0 Madame Mercier qu'ils doivent nettoyer la salle de boxe le lendemain, celle-ci fait allusion au pneu jet\xC3\xA9 sur le ring."
+  decor_id: 
+- effet: 
+  temps: 2610
+  scale: 8
+  duree: 60
+  lieu: 
+  resume: "Garris et Riton reviennent de la salle des sports avec le pneu. Ils l'installent pour faire une balan\xC3\xA7oire."
+  decor_id: 
+- effet: 
+  temps: 6185
+  scale: 8
+  duree: 20
+  lieu: 
+  resume: Cricri est en train de se balancer sur le pneu quand Jo Sardi arrive pour trouver Riton.
+  decor_id: 
+- effet: 
+  temps: 6240
+  scale: 8
+  duree: 15
+  lieu: 
+  resume: "Garris d\xC3\xA9croche le pneu et le jette \xC3\xA0 Sardi en train de se noyer dans le marais."
+  decor_id: 
+- effet: 
+  temps: 286
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au bord de la route, Garris dit \xE0 Riton de ne plus penser \xE0 sa Pamela, elle est partie."
+  decor_id: 
+- effet: 
+  temps: 600
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans un flashback, Le Vieux fait allusion \xE0 la femme de Riton, Pamela, toujours en train de se peigner et se pomponner."
+  decor_id: 
+- effet: 
+  temps: 710
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans un flashback, Riton vient annoncer \xE0 Garris que Pamela est partie."
+  decor_id: 
+- effet: 
+  temps: 1620
+  scale: 7
+  duree: 30
+  lieu: 
+  resume: "Au bar, Riton se saoule en pleurnichant sur le d\xE9part de Pam\xE9la."
+  decor_id: 
+- effet: 
+  temps: 1710
+  scale: 7
+  duree: 15
+  lieu: 
+  resume: "Dans la m\xEAme sc\xE8ne, Riton prend Mireille, le copine de Jo Sardi, pour sa Pam\xE9la."
+  decor_id: 
+- effet: 
+  temps: 1800
+  scale: 7
+  duree: 10
+  lieu: 
+  resume: "En rentrant chez eux, Garris exhorte Riton de ne plus penser \xE0 Pam\xE9la, il lui dit qu'elle est partie, qu'il a une nouvelle femme maintenant. Riton r\xE9torque que Pam\xE9la \xE9tait une princesse."
+  decor_id: 
+- effet: 
+  temps: 26
+  scale: 5
+  duree: 499
+  lieu: 
+  resume: Ouverture au noir sur Garris (<acteur>Jacques Gamblin</acteur> qui ramasse le muguet
+  decor_id: 
+- effet: 
+  temps: 108
+  scale: 5
+  duree: 57
+  lieu: 
+  resume: "Riton (<acteur>Jacques Villeret</acteur>) r\xC3\xA9cup\xC3\xA8re sa bouteille dans l'eau et la vide en disant que \xC3\xA7a n'est pas bien ce qu'il fait. Garris arrive et lui reproche en silence de ne pas travailler. Alors que Garris se rafraichit, Riton pisse dans l'eau \xC3\xA0 c\xC3\xB4t\xC3\xA9 de lui."
+  decor_id: 
+- effet: 
+  temps: 165
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: Riton et Garris rentre. Garris lui dit qu'il est un beau salop d'avoir fini le litron de vin.
+  decor_id: 
+- effet: 
+  temps: 180
+  scale: 5
+  duree: 56
+  lieu: 
+  resume: "Ils se font prendre en stop par un charrette. Discussion sur le 1er mai et la vente du muguet. On est dans les ann\xC3\xA9es 70."
+  decor_id: 
+- effet: 
+  temps: 236
+  scale: 5
+  duree: 64
+  lieu: 
+  resume: "Ils s'arr\xC3\xAAtent au bord de la route pour fumer. Garris dit \xC3\xA0 Riton de ne pas penser \xC3\xA0 sa Pamela, qui est partie. Ils se motivent pour le soir."
+  decor_id: 
+- effet: 
+  temps: 300
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Des enfants tirent \xC3\xA0 la fronde. \xC3\x89MILIE, qui prend sa douche, les chasse. Elle chasse aussi sa petite fille CRICRI."
+  decor_id: 
+- effet: 
+  temps: 325
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Cri-cri plus vieille (<acteur>Suzanne Flon</acteur>), en voix-off, se demande pourquoi ses souvenirs remontent \xC3\xA0 se printemps l\xC3\xA0. On la voit se jeter dans les bras de Riton et Garris qui reviennent. C'est la fille de Riton. Elle va avoir cinq ans. Garris et Riton passent devant la maison de la femme \xC3\xA0 la douche."
+  decor_id: 
+- effet: 
+  temps: 360
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Les gar\xC3\xA7ons viennent dire \xC3\xA0 Garris qu'Am\xC3\xA9d\xC3\xA9e est pass\xC3\xA9 poser un poulet et qu'il veut aller vendre le muguet avec eux. Riton rigole."
+  decor_id: 
+- effet: 
+  temps: 375
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Ils arrivent \xC3\xA0 la maison et s'installe \xC3\xA0 table. Riton et sa haine du travail."
+  decor_id: 
+- effet: 
+  temps: 435
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Garris se demande pourquoi il reste ici depuis 12 ans. Riton s'inqui\xC3\xA8te, il ne veut pas que Garris les laisse."
+  decor_id: 
+- effet: 
+  temps: 455
+  scale: 5
+  duree: 215
+  lieu: 
+  resume: "(FLASH-BACK) Arriv\xC3\xA9e de Garris,apr\xC3\xA8s la guerre, 12 ans plus t\xC3\xB4t. Il fait rentrer."
+  decor_id: 
+- effet: 
+  temps: 505
+  scale: 5
+  duree: -479
+  lieu: 
+  resume: "(FLASH-BACK) Garris va relever les lignes, il ram\xC3\xA8ne une anguille."
+  decor_id: 
+- effet: 
+  temps: 525
+  scale: 5
+  duree: -417
+  lieu: 
+  resume: "(FLASH-BACK) Il ram\xC3\xA8ne l'anguille, dit qu'ils la mangeront demain. Garris dit qu'il repartira quand l'autre sera gu\xC3\xA9ri. (9:40) Ils parlent de Riton, qui habite avec sa femme Pamela dans l'autre cabane. Le vieux lui dit qu'il serait bien ici. (11:00) Il lui fait l'\xC3\xA9loge du marais."
+  decor_id: 
+- effet: 
+  temps: 670
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "(FLASH-BACK) Mort du vieux. Plus tard, Garris se r\xC3\xA9veille et d\xC3\xA9couvre le vieux dans son lit, mort. Il lui ferme les yeux. Au m\xC3\xAAme moment, Riton arrive en criant, (11:50) Pamela est partie."
+  decor_id: 
+- effet: 
+  temps: 710
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "(FLASH-BACK) Riton annonce \xC3\xA0 Garris que Pamela est partie. Les deux hommes s'asseyent sur le banc de la cabane."
+  decor_id: 
+- effet: 
+  temps: 740
+  scale: 5
+  duree: 5860
+  lieu: 
+  resume: "Garris prend son accord\xC3\xA9on et souffle la lumi\xC3\xA8re. Il quitte la cabane avec Riton pour aller chanter le 1er mai en ville."
+  decor_id: 
+- effet: 
+  temps: 760
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Am\xC3\xA9d\xC3\xA9e (<acteur>Andr\xC3\xA9 Dussolier</acteur> rejoint Garris et Riton. Am\xC3\xA9d\xC3\xA9e explique pourquoi sa s\xC5\x93ur est un peu f\xC3\xAAl\xC3\xA9e (son fianc\xC3\xA9 parti \xC3\xA0 la guerre et jamais revenu)."
+  decor_id: 
+- effet: 
+  temps: 795
+  scale: 5
+  duree: 120
+  lieu: 
+  resume: "Dans la rue, Riton se fait mal au pied. Riton voudrait savoir pourquoi Am\xC3\xA9d\xC3\xA9e ne parle plus \xC3\xA0 son p\xC3\xA8re. Am\xC3\xA9d\xC3\xA9e, apprenant qu'ils vont chantaient dans son quartier, se d\xC3\xA9siste. Ils le remercient pour le poulet."
+  decor_id: 
+- effet: 
+  temps: 915
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Un p\xC3\xA8re essaie de faire dormir son b\xC3\xA9b\xC3\xA9. Lorsque le b\xC3\xA9b\xC3\xA9 s'endort (15:45), les deux se mettent \xC3\xA0 chanter."
+  decor_id: 
+- effet: 
+  temps: 955
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Garris et Riton chantent devant la grande maison. En fermant la grille en partant, Riton r\xC3\xA9veille le b\xC3\xA9b\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1000
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Avant de se remettre \xC3\xA0 chanter, Riton donne \xC3\xA0 Garris un cours d'interpr\xC3\xA9tation de la chanson du 1er mai. Ils chantent admirablement faux."
+  decor_id: 
+- effet: 
+  temps: 1070
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Garris reproche les mauvaises mani\xC3\xA8re de Riton. Ils passent devant un portail ouvert et vont voir, rentrent dans la maison ouverte."
+  decor_id: 
+- effet: 
+  temps: 1100
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Alors qu'elle rentre chez ses patrons, Marie (<acteur>Isabelle Carr\xC3\xA9</acteur>)aper\xC3\xA7oit de la lumi\xC3\xA8re dans la maison. Elle s'inqui\xC3\xA8te. Son copain le laisse tomber."
+  decor_id: 
+- effet: 
+  temps: 1140
+  scale: 5
+  duree: 160
+  lieu: 
+  resume: "Marie rentre dans la maison une pelle \xC3\xA0 la main, pas rassur\xC3\xA9e. Garris lui explique ce qu'ils font l\xC3\xA0. Marie leur explique qu'elle est la bonne. Ils boivent un coup. Marie est charmante, Garris est sous le charme, Riton boit. Marie confie son amour pour Jean Harlow."
+  decor_id: 
+- effet: 
+  temps: 1300
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: Garris et Riton rentrent. Ils parlent de Marie. Ils ont fait un peu plus que 87 francs.
+  decor_id: 
+- effet: 
+  temps: 1350
+  scale: 5
+  duree: 145
+  lieu: 
+  resume: "Ils arrivent devant la grande maison blanche du banquier, qui justement arrive. Riton a peur d'y aller. Ils guettent la fen\xC3\xAAtre. (23:30) Ils se font jeter par \xE2\x80\x9CBanania\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 1495
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Garris retrouve Riton en train de boire. Riton a vol\xC3\xA9 les pantoufles du banquier. Ils ont gagn\xC3\xA9 assez, ils rentrent."
+  decor_id: 
+- effet: 
+  temps: 1535
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Le lendemain, Am\xC3\xA9d\xC3\xA9e retrouve Garris sur la place du village. Il est en train de vendre son muguet. (26:20) <personnage>Jo Sardi</personnage> (<acteur>Eric Cantona</acteur>), il  ach\xC3\xA8te tout le muguet de Garris. Sardi offre le muguet \xC3\xA0 l'assembl\xC3\xA9e. Garris ne se laisse pas impressionner."
+  decor_id: 
+- effet: 
+  temps: 1615
+  scale: 5
+  duree: 165
+  lieu: 
+  resume: "Dans le bistrot, Riton fait un speech sur l'amour. Il raconte le d\xC3\xA9part de Pamela. Il boit, trop. (27:40) Sardi entre dans le bar. On lui demande de mettre la sourdine. (28:20) Garris croit voir Pamela en la jeune femme qu'il d\xC3\xA9range, l'amie de Sardi. Sardi arrive et le jette du bar (28:55).  Riton revient et lui enfonce le chapeau sur le cr\xC3\xA2ne, la police doit intervenir, (29:25) Sardi cogne et se fait embarquer. (29:35) Garris vient rechercher Riton et l'emm\xC3\xA8ne."
+  decor_id: 
+- effet: 
+  temps: 1780
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Riton veut retourner chercher sa casquette, mais Garris l'emp\xC3\xAAche. Garris remet Riton sur le droit chemin \xC3\xA0 propos de M\xC3\xA9d\xC3\xA9e, sa femme, qui est une brave femme. Riton r\xC3\xA9torque que Pamela \xC3\xA9tait une princesse."
+  decor_id: 
+- effet: 
+  temps: 1810
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Dans le bar, Jo Sardi casse tout\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 1825
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Am\xC3\xA9d\xC3\xA9e cherche Garris et demande aux enfants."
+  decor_id: 
+- effet: 
+  temps: 1850
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Cricri sur le v\xC3\xA9lo avec Am\xC3\xA9d\xC3\xA9e. La voix-off raconte qu'elle se souvient parfaitement de ce jour."
+  decor_id: 
+- effet: 
+  temps: 1855
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Garris et Riton rentrent. Riton dit qu'elle a vu Marie. Garris voudrait savoir comment elle \xC3\xA9tait. Il ne se souvient plus. Il dit \xC3\xA0 Garris qu'elle \xC3\xA9tait avec un militaire. (31:40) Am\xC3\xA9d\xC3\xA9e les rejoint et leur dit qu'elle a un petit boulot de jardinier pour eux."
+  decor_id: 
+- effet: 
+  temps: 1930
+  scale: 5
+  duree: 4670
+  lieu: 
+  resume: "\xC3\x80 la cabane, Garris pr\xC3\xA9pare une tanche. Am\xC3\xA9d\xC3\xA9e s'extasie sur la libert\xC3\xA9 du marais. Ils mangent. Am\xC3\xA9d\xC3\xA9e lui parle de jazz, dit qu'il apportera son phono la prochaine fois."
+  decor_id: 
+- effet: 
+  temps: 2050
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "\xC3\x80 la prison, Sardi fait un scandale. Sardi dit que Riton va lui payer tr\xC3\xA8s cher."
+  decor_id: 
+- effet: 
+  temps: 2085
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "\xC3\x80 la salle de boxe, le public s'impatiente, envoie des pneus de voiture sur le ring."
+  decor_id: 
+- effet: 
+  temps: 2090
+  scale: 5
+  duree: 160
+  lieu: 
+  resume: "Dans la propri\xC3\xA9t\xC3\xA9 de famille Richard, repas de famille. Laurent, gendre du maitre de maison, lit l'Excelsior en ironisant sur l'incident de boxe. <personnage>P\xC3\xA9p\xC3\xA9 la rainette</personnage> (<acteur>Michel Serrault</acteur>) pr\xC3\xA9side le repas, en racontant la premi\xC3\xA8re grenouille qu'il a aval\xC3\xA9e toute crue, d'o\xC3\xB9 son surnom. M\xC3\xA9pris \xC3\xA0 peine cach\xC3\xA9 de son beau-fils, mais P\xC3\xA9p\xC3\xA9 garde l'autorit\xC3\xA9. Son beau-fils tente de l'humilier en lui rappelant son ill\xC3\xA9trisme."
+  decor_id: 
+- effet: 
+  temps: 2250
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 peint une maquette dans la remise. Pierrot, son petit-fils, vient le trouver. P\xC3\xA9p\xC3\xA9 lui parle d'un endroit o\xC3\xB9 rien n'est interdit o\xC3\xB9 ils pourront essayer le bateau. Pierrot part \xC3\xA0 l'\xC3\xA9cole en demandant \xC3\xA0 son grand-p\xC3\xA8re de venir le chercher \xC3\xA0 la sortie."
+  decor_id: 
+- effet: 
+  temps: 2300
+  scale: 5
+  duree: 310
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 la rainette entend et aper\xC3\xA7oit Garris et Riton qui travaillent dans la propri\xC3\xA9t\xC3\xA9 voisine, chez <personnage>Madame Mercier</personnage>. Am\xC3\xA9d\xC3\xA9e et la voisine discutent \xC3\xA0 table. La vieille prise. Am\xC3\xA9d\xC3\xA9e s'y met aussi, en toussant. Les deux autres se moquent gentiment. (39:20) Un cheval passe, la vieille va r\xC3\xA9cup\xC3\xA9rer du crottin de cheval pour ses plantations. (40:05) Riton veut partir r\xC3\xA9cup\xC3\xA9rer sa casquette, Garris le retient, le menace de ne plus le connaitre s'il y va. Ila fait assez de conneries comme \xC3\xA7a. (40:55) La vieille offre une casquette \xC3\xA0 Riton, puis ils boivent un coup. (43:00) Ils ne pourront pas revenir le lendemain, ils nettoient la salle de boxe (allusion au pneu)."
+  decor_id: 
+- effet: 
+  temps: 2610
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Garris et Riton reviennent au marais avec le pneu, ils viennent de nettoyer la salle de boxe et se sont fait 20 francs chacun. (43:50) Garris installe le pneu pour faire une balan\xC3\xA7oire. Cricri l'essaie en riant."
+  decor_id: 
+- effet: 
+  temps: 2665
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Jo Sardi entre en prison, s'installe dans sa cellule. Sardi s'est fait voler son titre, et il n'est plus boxeur, on lui a retir\xC3\xA9 sa licence."
+  decor_id: 
+- effet: 
+  temps: 2705
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 la rainette et son petit-fils Pierrot viennent essayer le bateau dans le marais. On apprend que P\xC3\xA9p\xC3\xA9 a v\xC3\xA9cu dans le marais pr\xC3\xA8s de 40 ans. (45:35) Ils rencontre Cri-cri, font connaissance avec les fr\xC3\xA8res."
+  decor_id: 
+- effet: 
+  temps: 2770
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 la rainette vient trouver Garris \xC3\xA0 sa cabane. Ils parlent.  (47:30) P\xC3\xA9p\xC3\xA9 l'aide \xC3\xA0 \xC3\xA9plucher les pommes de terre. P\xC3\xA9p\xC3\xA9 raconte comment il a fait fortune avec la ferraille (comment il est devenu un imb\xC3\xA9cile."
+  decor_id: 
+- effet: 
+  temps: 2885
+  scale: 5
+  duree: 18
+  lieu: 
+  resume: "(FLASH-BACK) Sur une barque, le Vieil Homme dit \xC3\xA0 Richard qu'il est un imb\xC3\xA9cile de vouloir quitter le marais, qu'il le regrettera."
+  decor_id: 
+- effet: 
+  temps: 2903
+  scale: 5
+  duree: 87
+  lieu: 
+  resume: "(Retour \xC3\xA0 la cabane de Garris) Garris et P\xC3\xA9p\xC3\xA9 fument. Il raconte pourquoi on l'appelle en v\xC3\xA9rit\xC3\xA9 la rainette : parce qu'il \xC3\xA9tait bon \xC3\xA0 la p\xC3\xAAche \xC3\xA0 la grenouille. (49:15) P\xC3\xA9p\xC3\xA9 rousp\xC3\xA8te Pierrot parce qu'il s'est sali et que sa m\xC3\xA8re risque de voir qu'ils n'\xC3\xA9taient pas au parc."
+  decor_id: 
+- effet: 
+  temps: 2990
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Pierrot va se laver. Il demande \xC3\xA0 Cri-cri de s'\xC3\xA9loigner. En voix-off, elle raconte son premier coup de foudre."
+  decor_id: 
+- effet: 
+  temps: 3000
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Alors qu'ils rentrent \xC3\xA0 la maison, la p\xC3\xA8re de Pierrot pique une crise en voyant dans quel \xC3\xA9tat est son fils. P\xC3\xA9p\xC3\xA9 lui avoue qu'ils \xC3\xA9taient au marais, elle s'indigne."
+  decor_id: 
+- effet: 
+  temps: 3035
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Berthe vient demander \xC3\xA0 P\xC3\xA9p\xC3\xA9 ce qu'il veut manger. Il a envie de manger des patates saut\xC3\xA9es (le repas que pr\xC3\xA9parait Gariss pour les enfants)."
+  decor_id: 
+- effet: 
+  temps: 3055
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Prison. Le gardien annonce \xC3\xA0 Sardi qu'on a flingu\xC3\xA9 le pr\xC3\xA9sident de la r\xC3\xA9publique. Il lui dit aussi qu'un article parle de tous les gens qui portent plainte contre Sardi (le patron du bar, des clients, des policiers)."
+  decor_id: 
+- effet: 
+  temps: 3090
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Garris et Riton travaillent \xC3\xA0 la nuit presque tomb\xC3\xA9e. Il se met \xC3\xA0 pleuvoir, ils vont s'abriter dans la maison."
+  decor_id: 
+- effet: 
+  temps: 3115
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Cricri et Pierrot, sous la pluie, se retrouvent de chaque c\xC3\xB4t\xC3\xA9 de la grille du parc. Quand Pierrot demande \xC3\xA0 Cricri pourquoi elle n'est pas venue jouer avec lui, elle lui que le gardien n'a pas voulu qu'elle rentre."
+  decor_id: 
+- effet: 
+  temps: 3150
+  scale: 5
+  duree: 130
+  lieu: 
+  resume: "Chez la vieille Mercier, Garris et Riton attendent la fin de la pluie. Ils parlent d'aller aux escargots. (53:00) Am\xC3\xA9d\xC3\xA9e arrive. (53:55) La vieille dame offre \xC3\xA0 Garris un tableau qui lui fait penser \xC3\xA0 Marie."
+  decor_id: 
+- effet: 
+  temps: 3280
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Garris, Riton et Am\xC3\xA9d\xC3\xA9e rentrent. Ils pr\xC3\xA9voient d'aller aux escargots le lendemain. Ils se donnent rendez-vous pour le lendemain."
+  decor_id: 
+- effet: 
+  temps: 3320
+  scale: 5
+  duree: 90
+  lieu: 
+  resume: "Garris et Riton rejoignent le train et montent dans un wagon \xC3\xA0 l'arri\xC3\xA8re. Le chauffeur leur indique o\xC3\xB9 sauter. Am\xC3\xA9d\xC3\xA9e arrive in extremis. Am\xC3\xA9d\xC3\xA9e installe un petit mouchoir pour s'asseoir par terre."
+  decor_id: 
+- effet: 
+  temps: 3410
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Am\xC3\xA9d\xC3\xA9e a lu toute la nuit \xC3\xA0 propos des escargots. Il leur annonce ce que vient de leur dire le conducteur du train."
+  decor_id: 
+- effet: 
+  temps: 3450
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Ils sautent du train dans la mont\xC3\xA9e. Am\xC3\xA9d\xC3\xA9e a bien du mal\xE2\x80\xA6 mais garde le sourire en r\xC3\xA9p\xC3\xA9tant son sempiternel \xE2\x80\x9Cje suis bien content d'\xC3\xAAtre venu\xE2\x80\x9D. Riton a encore mal aux pieds, il laisse ses chaussures au bord de la voie ferr\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 3505
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: Ils ramassent des escargots magnifiques.
+  decor_id: 
+- effet: 
+  temps: 3545
+  scale: 5
+  duree: 120
+  lieu: 
+  resume: "Riton revient pr\xC3\xA8s d'Am\xC3\xA9d\xC3\xA9e, assis en train de lire. C'est l'heure du casse-croute. Riton exprime sa crainte que Garris reprenne la route. Il sait que s'il reste, c'est pour lui et les gosses. Am\xC3\xA9d\xC3\xA9e leur dit quelques lignes sur la libert\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3665
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Ils reprennent le train. Les voitures de Riton sont \xC3\xA9cras\xC3\xA9es par le train. Garris le traite d'imb\xC3\xA9cile."
+  decor_id: 
+- effet: 
+  temps: 3705
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Le train s'arr\xC3\xAAte. Riton boude, il n'a plus de chaussures. Un peu plus tard, ils trinquent \xC3\xA0 l'arri\xC3\xA8re du train avec le chauffeur."
+  decor_id: 
+- effet: 
+  temps: 3760
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: Cricri est malade, elle est courageuse. Voix-off parle des cataplasme.
+  decor_id: 
+- effet: 
+  temps: 3790
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Riton s'inqui\xC3\xA8te pour sa petite Cricri. Garris le rassure."
+  decor_id: 
+- effet: 
+  temps: 3800
+  scale: 5
+  duree: 160
+  lieu: 
+  resume: "C'est le march\xC3\xA9. Marie rencontre Garris en train de vendre ses escargots. (1:05:05) Garris offre des boucles d'oreilles \xC3\xA0 Marie. (1:05:45) Garris aper\xC3\xA7oit Marie qui retrouve son militaire."
+  decor_id: 
+- effet: 
+  temps: 3960
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Dans la cabane de Riton, Garrisse apporte une robe \xC3\xA0 Cricri. La femme de Riton s'en prend \xC3\xA0 lui, il n'a pas tenu parole, ne lui a pas ramen\xC3\xA9 de chapeau."
+  decor_id: 
+- effet: 
+  temps: 4005
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Dans sa cabane, Garris retouche le tableau donn\xC3\xA9 par la vieille Mercier quand P\xC3\xA9p\xC3\xA9 arrive. Il apporte du vin. Quand il apprend que Riton est \xC3\xA0 la chasse \xC3\xA0 la grenouille, \xC3\xA0 l'\xC3\xA9tang des trois cur\xC3\xA9s, P\xC3\xA9p\xC3\xA9 se pr\xC3\xA9cipite."
+  decor_id: 
+- effet: 
+  temps: 4080
+  scale: 5
+  duree: 90
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 arrive \xC3\xA0 la marre o\xC3\xB9 p\xC3\xAAche Riton. D\xC3\xA9monstration de p\xC3\xAAche de grenouille\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4170
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Am\xC3\xA9d\xC3\xA9e arrive \xC3\xA0 la cabane de Garris. Il r\xC3\xA9fl\xC3\xA9chit, allong\xC3\xA9 sur son lit."
+  decor_id: 
+- effet: 
+  temps: 4200
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Am\xC3\xA9d\xC3\xA9e a amen\xC3\xA9 un robrac pour choisir une tapisserie, il veut l'avis de Garris. Celui-ci choisi au hasard des miosotis. Riton vient les chercher, en criant que P\xC3\xA9p\xC3\xA9 a d\xC3\xA9j\xC3\xA0 p\xC3\xAAch\xC3\xA9 120 grenouilles."
+  decor_id: 
+- effet: 
+  temps: 4275
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Ils arrivent \xC3\xA0 l'endroit o\xC3\xB9 p\xC3\xAAche P\xC3\xA9p\xC3\xA9. Quand on lui demande combien il en a pris, P\xC3\xA9p\xC3\xA9 avoue qu'il ne sait pas compter."
+  decor_id: 
+- effet: 
+  temps: 4330
+  scale: 5
+  duree: 150
+  lieu: 
+  resume: "Le soir, au bord du marais, ils \xC3\xA9coutent du jazz, Louis Armstrong, sur le phono d'Am\xC3\xA9d\xC3\xA9e. La femme de Riton leur hurle d'en finir avec cette musique de n\xC3\xA8gre. Ils trinquent \xC3\xA0 l'amiti\xC3\xA9. (1:13:30) Ils d\xC3\xA9cident de se faire les grenouilles p\xC3\xAAch\xC3\xA9es par Riton. (1:14:00) Les enfants viennent dire que Cricri voudrait voir \xE2\x80\x9Cl'homme riche\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 4480
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 va trouver Cricri dans son lit. Cricri voudrait que P\xC3\xA9p\xC3\xA9 explique la situation \xC3\xA0 Pierrot. P\xC3\xA9p\xC3\xA9 lui promet qu'ils iront ensemble au parc, jeudi prochain, si elle est remise (1:15:40) Cricri demande \xC3\xA0 sa maman pourquoi elle est toujours m\xC3\xA9chante. Elle dit qu'elle ne sait pas."
+  decor_id: 
+- effet: 
+  temps: 4545
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "En rentrant chez lui, P\xC3\xA9p\xC3\xA9, saoul, se fait sermonner par sa fille. Il lui fait peur avec une vieille couverture et en lui disant qu'il a mang\xC3\xA9 des grenouilles\xE2\x80\xA6 vivantes."
+  decor_id: 
+- effet: 
+  temps: 4625
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Prison, rencontre entre Jo et son avocat. On lui apprend qu'on a saisi la maison de sa m\xC3\xA8re pour payer les dommages et int\xC3\xA9r\xC3\xAAts. Jo tape du poing sur la table, il n'a plus rien."
+  decor_id: 
+- effet: 
+  temps: 4705
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: Marie vient voir Garris. Elle lui dit qu'elle aime bien son sourire. Elle lui demande pourquoi il n'est pas parti. Elle lui demande de lui montrer sa maison.
+  decor_id: 
+- effet: 
+  temps: 4775
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "Dans la cabane, elle le harc\xC3\xA8le de questions. (1:20:25) Elle lui dit qu'elle n'ira jamais avec un homme sans la bague au doigt. (1:20:55) Les enfants appellent Garris."
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Les enfants annoncent \xC3\xA0 Garris que Cricri est partie. Il la retrouve contre un arbre un peu plus loin."
+  decor_id: 
+- effet: 
+  temps: 4885
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Le toubib ausculte Cricri, bien mal en point. \xC3\x87a peut tourner \xC3\xA0 la pneumonie. Garris dit qu'il payera les rem\xC3\xA8des."
+  decor_id: 
+- effet: 
+  temps: 4925
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "En revenant chez lui, Garris voit que Marie est partie. En voix-off (pas de tr\xC3\xA8s bon go\xC3\xBBt\xE2\x80\xA6) il s'en prend \xC3\xA0 Riton qui lui pourrit la vie. Il dit qu'il va partir. (1:22:55) Dehors, Riton l'appelle, il a besoin d'aide pour les comprim\xC3\xA9s de Cricri. Garris l'envoie balader. (1:23:15) Mais il finit par sortir quand m\xC3\xAAme."
+  decor_id: 
+- effet: 
+  temps: 5005
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Les enfants font du cerf-volant. C'est P\xC3\xA9p\xC3\xA9 qui l'a fabriqu\xC3\xA9. Il est avec Riton et sa femme \xC3\x89milie, et Cricri allong\xC3\xA9e dans un fauteuil. On apprend que Garris ne voit plus personne en ce moment."
+  decor_id: 
+- effet: 
+  temps: 5045
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Garris va trouver Marie chez ses patrons. Mais le portail est ferm\xC3\xA9 d'un cadenas. Ils sont partis pour les vacances, avec Marie."
+  decor_id: 
+- effet: 
+  temps: 5080
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Cricri vient trouver Garris \xC3\xA0 sa cabane, en train de  d\xC3\xA9pendre son linge. Elle lui dit qu'elle croit qu'elle est amoureuse."
+  decor_id: 
+- effet: 
+  temps: 5130
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 visite son usine. Il ne r\xC3\xA9siste pas \xC3\xA0 la tentation de bricoler. Il demande \xC3\xA0 un de ses vieux coll\xC3\xA8gues de lui remplir un ch\xC3\xA8que."
+  decor_id: 
+- effet: 
+  temps: 5195
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Riton vient trouver Garris, en train de se raser. Riton lui montre le ch\xC3\xA8que que lui a donn\xC3\xA9 P\xC3\xA9p\xC3\xA9. Garris dit qu'ils lui rendront le ch\xC3\xA8que ce soir. (1:27:30) Quand il est parti, Riton r\xC3\xA9cup\xC3\xA8re le ch\xC3\xA8que dans la boite o\xC3\xB9 Garris l'avait rang\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 5255
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: Chez lui, Riton s'improvise une cravate.
+  decor_id: 
+- effet: 
+  temps: 5290
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Garris travaille \xC3\xA0 la moissonneuse. Il voit Riton passer. Garris le rejoint. Il lui demande le ch\xC3\xA8que."
+  decor_id: 
+- effet: 
+  temps: 5345
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Chez le banquier, ils retirent les 1000 francs. Et Garris conclut en disant qu'ils vont rendre l'argent \xC3\xA0 P\xC3\xA9p\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 5365
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Garris et Riton arrivent chez P\xC3\xA9p\xC3\xA9, accueillis par la fille. Heureusement, P\xC3\xA9p\xC3\xA9 arrive et les invite \xC3\xA0 rentrer."
+  decor_id: 
+- effet: 
+  temps: 5390
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "Ils s'installent au salon. P\xC3\xA9p\xC3\xA9 commande l'ap\xC3\xA9ro. Ils lui rendent son argent. (1:30:45) Laurent, le gendre, arrive. Petite humiliation du gendre, dans les r\xC3\xA8gles de l'art. Et P\xC3\xA9p\xC3\xA9 met Riton et Garris \xC3\xA0 la porte, en disant qu'il n'a plus d'amis."
+  decor_id: 
+- effet: 
+  temps: 5485
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: Dans la rue, Garris et Riton rentrent. Riton regarde Garris d'un sale air, mais il finit par dire que Garris a raison.
+  decor_id: 
+- effet: 
+  temps: 5520
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "\xC3\x80 la prison, la petite amie de Jo vient lui annoncer qu'elle a rencontr\xC3\xA9 quelqu'un."
+  decor_id: 
+- effet: 
+  temps: 5550
+  scale: 5
+  duree: 120
+  lieu: 
+  resume: "La voix-off raconte que septembre passa. On voit P\xC3\xA9p\xC3\xA9 couper ses plantes en guettant chez madame Mercier o\xC3\xB9 sont install\xC3\xA9s Am\xC3\xA9d\xC3\xA9e et Garris. (1:32:40) Soudain, Pierrot arrive. Cricri se pr\xC3\xA9cipite. (1:32:55) Madame Mercier invite P\xC3\xA9p\xC3\xA9 et Pierrot \xC3\xA0 venir. Garris est heureux. (1:33:30) Garris dit \xC3\xA0 P\xC3\xA9p\xC3\xA9 qu'il leur a manqu\xC3\xA9. Il l'invite \xC3\xA0 une f\xC3\xAAte qu'il va organiser pour l'anniversaire du conducteur de train."
+  decor_id: 
+- effet: 
+  temps: 5670
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Garris va trouver Marie. Elle ne travaille plus chez ses patrons. La nouvelle domestique lui apprend que Marie s'est mari\xC3\xA9e avec un pharmacien."
+  decor_id: 
+- effet: 
+  temps: 5710
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Jo Sardi sort de prison. Il annonce \xC3\xA0 son avocat (?) qu'il va buter Riton."
+  decor_id: 
+- effet: 
+  temps: 5750
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Garris et P\xC3\xA9p\xC3\xA9 se rencontrent en ville, le soir. Garris vient de livrer du charbon. Sur la charrette, P\xC3\xA9p\xC3\xA9 annonce qu'il ne pourra pas venir \xC3\xA0 l'anniversaire du conducteur de train. \xC3\x87a tombe le jour des fian\xC3\xA7ailles de sa petite fille Catherine."
+  decor_id: 
+- effet: 
+  temps: 5820
+  scale: 5
+  duree: 54
+  lieu: 
+  resume: "Sardi croise Riton, heureusement d\xC3\xA9guis\xC3\xA9 en P\xC3\xA8re-No\xC3\xABl. Riton panique et se sauve, faisant tomber un ours en peluche. Sardi le ramasse et le rattrape pour lui rendre, en ne comprenant pas sa r\xC3\xA9action. (1:37:38) Alors qu'il repart, Sardi r\xC3\xA9alise \xC3\xA0 qui il vient d'avoir \xC3\xA0 faire. Sardi part sur ses talons, mais ne le trouve plus."
+  decor_id: 
+- effet: 
+  temps: 5874
+  scale: 5
+  duree: 16
+  lieu: 
+  resume: "Sardi se renseigne sur Riton chez le patron, de toute \xC3\xA9vidence, qui embauche les p\xC3\xA8res no\xC3\xABl. Sardi apprend que Riton fait les P\xC3\xA8re No\xC3\xABl chez les Richard."
+  decor_id: 
+- effet: 
+  temps: 5890
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "C'est la nuit. C'est la f\xC3\xAAte de fian\xC3\xA7ailles chez les Richard. Ils parlent d'Hitler. Ils se r\xC3\xA9jouissent d'une guerre possible, bonne pour les affaires. P\xC3\xA9p\xC3\xA9 s'ennuie."
+  decor_id: 
+- effet: 
+  temps: 5935
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Dans la cabane de Garris, la viande cuit au feu de bois. Am\xC3\xA9d\xC3\xA9e et Riton sont l\xC3\xA0. Am\xC3\xA9d\xC3\xA9e installe la table. Riton dit que le boxeur est revenu et qu'il a peur. (1:39:25) Le conducteur de train arrive."
+  decor_id: 
+- effet: 
+  temps: 5970
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Au m\xC3\xAAme moment, Sardi arrive chez les Richard. Laurent le re\xC3\xA7oit. Berthe vient chercher P\xC3\xA9p\xC3\xA9. Quand P\xC3\xA9p\xC3\xA9 arrive \xC3\xA0 la porte (1:40:05), Sardi s'en va. P\xC3\xA9p\xC3\xA9 apprend que son gendre a dit \xC3\xA0 Sardi o\xC3\xB9 Riton se trouvait."
+  decor_id: 
+- effet: 
+  temps: 6025
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "P\xC3\xA9p\xC3\xA9 part sous la neige pour avertir Riton."
+  decor_id: 
+- effet: 
+  temps: 6030
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "\xC3\x80 la cabane de Garris, on chante le joyeux anniversaire en soufflant les bougies. Ils boivent \xC3\xA0 la sant\xC3\xA9 de P\xC3\xA9p\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 6065
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Dehors, P\xC3\xA9p\xC3\xA9 avance toujours sous la neige. Il fait un malaise. Il s'\xC3\xA9coule par terre, se rel\xC3\xA8ve, tombe \xC3\xA0 nouveau, et finit par mourir dans la neige (1:41:40)."
+  decor_id: 
+- effet: 
+  temps: 6105
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Garris ouvre la porte de la cabane. Il dit que P\xC3\xA9p\xC3\xA9 ne viendra plus."
+  decor_id: 
+- effet: 
+  temps: 6120
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Le lendemain, Garris sculpte des grenouilles et les trempe dans la peinture verte.
+  decor_id: 
+- effet: 
+  temps: 6125
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Garris va chez les Richard. Il demande \xC3\xA0 voir Pierrot. La fille le fait rentrer. Elle appelle Pierrot. Il lui remet la grenouille en lui souhaitant courage."
+  decor_id: 
+- effet: 
+  temps: 6165
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Alors que Cricri se balance dans le pneu, dans un brume \xC3\xA9paisse, Sardi arrive et demande apr\xC3\xA8s Pignol. Cricri lui dit que c'est son papa."
+  decor_id: 
+- effet: 
+  temps: 6205
+  scale: 5
+  duree: 67
+  lieu: 
+  resume: "Sardi charge une carabine en s'avan\xC3\xA7ant vers l'\xC3\xA9tang o\xC3\xB9 p\xC3\xAAche Riton. Il le met en joue, lui explique que \xC3\xA7a fait des mois entiers qu'il y pense. (1:43:45) Mais Cricri, dans son dos, fonce sur lui et le pousse \xC3\xA0 l'eau. (1:43:55) Sardi ne sait pas nager, Riton lui tend un b\xC3\xA2ton. Garris se pr\xC3\xA9cipite. Il d\xC3\xA9tache le pneu et le jette \xC3\xA0 Sardi. Riton se casse la jambe."
+  decor_id: 
+- effet: 
+  temps: 6272
+  scale: 5
+  duree: 93
+  lieu: 
+  resume: "Sardi et Garris sont dans la cabane de Garris. Sardi demande des nouvelles de Riton, s'inqui\xC3\xA8te. Sardi dit qu'il n'a jamais eu aussi peur de sa vie. Garris lui raconte la fin horrible d'une vache dans l'\xC3\xA9tang. Garris va voir Riton \xC3\xA0 l'h\xC3\xB4pital. Sardi dit qu'il fera tout pour lui."
+  decor_id: 
+- effet: 
+  temps: 6365
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "La voix-off repart, disant que voil\xC3\xA0, c'est toute l'histoire. Cricri, vieille, est assise pr\xC3\xA8s de la vierge et revoit des images du pass\xC3\xA9. Am\xC3\xA9d\xC3\xA9e sur son v\xC3\xA9lo, la m\xC3\xA8re de Pierrot, le chauffeur du train, Berthe dans le parc sous la pluie. Elle raconte que Riton et Jo Sardi ne se sont plus quitt\xC3\xA9s. Jo est devenu manager de boxeur et Riton est devenu soigneur (image d'un boxeur le visage en sang). Elle dit qu'ils sont morts ensemble, en mai 44, \xC3\xA0 Lyon, au cours d'un bombardement."
+  decor_id: 
+- effet: 
+  temps: 6395
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "La voix-off continue sur Pierrot, jeune, qui descend les marches pour retrouver Cricri. La voix raconte que 3 ans plus tard elle a \xC3\xA9pous\xC3\xA9 Pierrot, elle avait 20 ans."
+  decor_id: 
+- effet: 
+  temps: 6410
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "La voix-off continue en racontant (sur les images) le d\xC3\xA9part de Garris, au m\xC3\xAAme endroit, \xC3\xA0 la vierge. Il est parti, un jour de printemps et plus personne n'a plus entendu parler de lui."
+  decor_id: 
+- effet: 
+  temps: 6435
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Cricri se l\xC3\xA8ve, et raconte la fin du marais : il a \xC3\xA9t\xC3\xA9 remplac\xC3\xA9 par une grande surface (\xE2\x80\x9Cun monde de fou\xE2\x80\x9D)."
+  decor_id: 
+- effet: 
+  temps: 6445
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Cricri en train de tourner sur le pneu-balan\xC3\xA7oire en riant."
+  decor_id: 
+- effet: 
+  temps: 6450
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: Fondu au noir
+  decor_id: 
+:dim: LesEnfantsDuMarais

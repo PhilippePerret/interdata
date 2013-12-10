@@ -1,0 +1,57 @@
+--- 
+:is_entier: true
+:duree: 8850
+:scale: 7
+:is_brin: true
+:film_id: 74
+:items: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 325
+  :commentaire: "M\xC3\xAAme s'il n'est pas fait mention explicitement que c'est l'histoire d'amour qui est responsable de ce travail de la m\xC3\xA9moire, on peut le supposer."
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1850
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 2105
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 2270
+  :commentaire: "C'est au cours de cette exp\xC3\xA9dition au marais que Pierrot rencontrera Cricri."
+- :scale: 7
+  :indice_absolu: 
+  :temps: 2730
+  :commentaire: "Noter la simplicit\xC3\xA9 de cette rencontre, absolument pas dramatis\xC3\xA9e, tellement juste."
+- :scale: 7
+  :indice_absolu: 
+  :temps: 2975
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 3115
+  :commentaire: "Conflit de classe joliment \xC3\xA9voqu\xC3\xA9, en restant \xC3\xA0 la hauteur des enfants."
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4480
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5020
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5080
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5555
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 6395
+  :commentaire: 
+:titre: Histoire d'amour de Cricri avec Pierrot
+:film_dim: LesEnfantsDuMarais

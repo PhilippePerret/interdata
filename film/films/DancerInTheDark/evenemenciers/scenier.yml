@@ -1,0 +1,361 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: DancerInTheDark
+:film_id: 29
+:is_brin: false
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 205
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 380
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 458
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 535
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 568
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 689
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 703
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 774
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 786
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 847
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 854
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 877
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 906
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 956
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1043
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1123
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1490
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1505
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1530
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1566
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1629
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1779
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1844
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1916
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1950
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1996
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2054
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2074
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2132
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2278
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2490
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2505
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2542
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2567
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2591
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2736
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2765
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2876
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2964
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2994
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3093
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3103
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3115
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3129
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3124
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3200
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3484
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3513
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3523
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3549
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3615
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4131
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4516
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4563
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4592
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4605
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4661
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4697
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4730
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4822
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4860
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4883
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4902
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5054
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5141
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5644
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5827
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5919
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6024
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6080
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6085
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6122
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6160
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6273
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6427
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6636
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6656
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6784
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6846
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6876
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6884
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7062
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7166
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7205
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7340
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7436
+  :commentaire: 
+:duree: 7860
+:titre: "sc\xC3\xA9nier"

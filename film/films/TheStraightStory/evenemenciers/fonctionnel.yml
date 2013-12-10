@@ -1,0 +1,73 @@
+--- 
+:is_entier: true
+:duree: 6180
+:scale: 5
+:is_brin: false
+:film_id: 147
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 740
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 890
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1345
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1940
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2820
+  :commentaire: "Pourrait \xC3\xAAtre consid\xC3\xA9r\xC3\xA9 comme une cl\xC3\xA9 de voute, avec l'orage qui rappelle l'incident d\xC3\xA9clencheur, et le ton de la suite qui rappelle le d\xC3\xA9part du voyage, et les plans a\xC3\xA9riens le d\xC3\xA9but du film."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3040
+  :commentaire: "Cette sc\xC3\xA8ne pourrait aussi \xC3\xAAtre consid\xC3\xA9r\xC3\xA9e comme la cl\xC3\xA9 de voute. Elle est plac\xC3\xA9e au centre du film."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4610
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4625
+  :commentaire: "\xC3\x80 cause du ciel \xC3\xA9toil\xC3\xA9 pr\xC3\xA9c\xC3\xA9dent, et du temps proche des 3/4 exacts, on pourrait dire que cette sc\xC3\xA8ne marque l'entr\xC3\xA9e dans le d\xC3\xA9nouement. On peut la voir \xC3\xA9galement comme le pivot 2 (la sc\xC3\xA8ne qui permet au d\xC3\xA9nouement de se jouer), c'est alors la sc\xC3\xA8ne suivante qui devient l'entr\xC3\xA9e dans le d\xC3\xA9nouement."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4680
+  :commentaire: "On peut consid\xC3\xA9rer cette sc\xC3\xA8ne comme la premi\xC3\xA8re sc\xC3\xA8ne du d\xC3\xA9nouement."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4860
+  :commentaire: "C'est le pivot 2 (dans la forme qui adopterait la sc\xC3\xA8ne suivante comme d\xC3\xA9but du d\xC3\xA9nouement)."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4910
+  :commentaire: "D\xC3\xA9but du d\xC3\xA9nouement dans la forme 2."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5730
+  :commentaire: "C'est la CRISE, si pr\xC3\xA8s du but, Alvin semble ne plus pouvoir l'atteindre."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5765
+  :commentaire: Sortie de crise
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5900
+  :commentaire: CLIMAX
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6100
+  :commentaire: 
+:titre: "Sc\xC3\xA8nes fonctionnelles du film"
+:film_dim: TheStraightStory

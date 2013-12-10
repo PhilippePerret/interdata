@@ -1,0 +1,97 @@
+--- 
+:is_entier: true
+:duree: 8040
+:scale: 5
+:is_brin: false
+:film_id: 88
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: "Introduction : l'activit\xC3\xA9 et le fonctionnement de Pr\xC3\xA9crime   l'homme du gouvernement."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 60
+  :commentaire: " (assassinat non pr\xC3\xA9m\xC3\xA9dit\xC3\xA9 par mari tromp\xC3\xA9)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 840
+  :commentaire: "John Anderton, son addiction, son fils Sean et sa femme.   au tout d\xC3\xA9but : r\xC3\xA9f\xC3\xA9rendum pour pl\xC3\xA9bisciter ou non Pr\xC3\xA9crime alors que John court dans la \xC2\xAB\xC2\xA0Zone\xC2\xA0\xC2\xBB pour y r\xC3\xA9cup\xC3\xA9rer de la drogue (l'homme sans yeux)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1215
+  :commentaire: "\xE2\x80\x93 au tout d\xC3\xA9but (comme s\xC3\xA9quence pr\xC3\xA9c\xC3\xA9dente) : allusion au gouvernement qui veut supprimer Pr\xC3\xA9crime (BURGESS en personne vient demander \xC3\xA0 John de s'occuper de Whitman). \xE2\x80\x93 Conflit ouvert entre John et Witwer \xE2\x80\x93\xC2\xA0Fonctionnement des Pr\xC3\xA9cogs \xE2\x80\x93 Le Pr\xC3\xA9cog principal (AGATHA)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1710
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2078
+  :commentaire: "\xE2\x80\x93 Witwer d\xC3\xA9couvre la drogue chez lui \xE2\x80\x93\xC2\xA0La pr\xC3\xA9vision de son propre crime 38:15 (L\xC3\x89O CROW)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2295
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2400
+  :commentaire: "Il programme sur sa (superbe) montre le temps qui lui reste. Son coll\xC3\xA8gue Fletcher le traque dans les rues de la ville. [49:30] Witwer dans l'usine automobile hightech \xE2\x80\x93\xC2\xA0[53:00] John \xC3\xA9chappe \xC3\xA0 ses poursuivants dans la voiture rouge"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3190
+  :commentaire: "Un nouvel objectif se dessine pour John Anderton : mettre la main sur ce rapport minoritaire pour d\xC3\xA9montrer son innocence."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4110
+  :commentaire: "Et quelle convalescence puisque c'est ici que les spyders vont se mettre au travail\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3685
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3750
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4740
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5060
+  :commentaire: "L'objectif de John va \xC3\xAAtre de pouvoir faire lire le cerveau d'Agatha. Malheureusement, les conclusions seront terribles : pas de rapport minoritaire, John tuera bel et bien L\xC3\xA9o Crow (\xC3\xA9chec du moyen)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5490
+  :commentaire: "Agatha pr\xC3\xA9voyant tout ce qui va se passer, John et elle parviennent \xC3\xA0 \xC3\xA9chapper aux flics (sc\xC3\xA8ne du complexe commercial)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5670
+  :commentaire: "Tous les \xC3\xA9l\xC3\xA9ments s'\xC3\xA9clairent, L\xC3\xA9o Crow est le p\xC3\xA9dophile qui a enlev\xC3\xA9 et tuer le fils Sean de John. Pourtant, au dernier moment, John ne le tue pas, le crime n'est pas in\xC3\xA9luctable."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6160
+  :commentaire: "Retournement de situation\xC2\xA0: L\xC3\xA9o Crow avoue qu'il a menti. C'\xC3\xA9tait une machination visant \xC3\xA0 discr\xC3\xA9diter (?) John. \xC3\x80 la fin de la s\xC3\xA9quence, le vrai coupable se r\xC3\xA9v\xC3\xA8le : LAMAR BURGESS (qui tue Witwer)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6560
+  :commentaire: "Dans leur maison de campagne, avec Agatha et Lara sa femme, moment d'apaisement et de compr\xC3\xA9hension. John comprend qu'il s'est fait manipuler."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6900
+  :commentaire: "C'est la CRISE. La police les retrouve, John est d\xC3\xA9sactiv\xC3\xA9 et mis en prison."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7020
+  :commentaire: "Lara Anderton comprend que Lamar Burgess est le responsable. Elle fait lib\xC3\xA9rer John, qui fait publiquement la r\xC3\xA9v\xC3\xA9lation des crimes de Burgess pour parvenir \xC3\xA0 lancer Pr\xC3\xA9crime (le meurtre d'Anne Lively, m\xC3\xA8re d'Agatha). [2:09:30] Lamar Burgess se donne la mort."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7805
+  :commentaire: "Le programme Pr\xC3\xA9crime est abandonn\xC3\xA9. John et Lara attendent un nouvel enfant. Les pr\xC3\xA9cogs sont en vill\xC3\xA9giature, quelque part, loin, sur une \xC3\xAEle. [2:11:50] G\xC3\xA9n\xC3\xA9rique "
+- :scale: 5
+  :indice_absolu: 
+  :temps: 8015
+  :commentaire: 
+:titre: "Sc\xC3\xA9nier du film"
+:film_dim: MinorityReport

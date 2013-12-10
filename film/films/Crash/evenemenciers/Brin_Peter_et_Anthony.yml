@@ -1,0 +1,93 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: Crash
+:film_id: 27
+:is_brin: true
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 455
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 585
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1765
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1825
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2125
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2465
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2535
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4225
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4575
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4945
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4990
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5225
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5275
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5320
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5395
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5440
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6070
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6240
+  :commentaire: 
+:duree: 6240
+:titre: Brin Peter et Anthony

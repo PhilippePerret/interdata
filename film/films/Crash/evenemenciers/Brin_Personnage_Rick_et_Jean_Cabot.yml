@@ -1,0 +1,49 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: Crash
+:film_id: 27
+:is_brin: true
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 455
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 690
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 835
+  :commentaire: "C'est une annonce de la sc\xC3\xA8ne entre Graham Waters et Flanagan, qui permettra justement de trouver une solution au probl\xC3\xA8me."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2440
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2505
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3820
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4120
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4835
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5710
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5875
+  :commentaire: 
+:duree: 6240
+:titre: Brin Personnage Rick et Jean Cabot

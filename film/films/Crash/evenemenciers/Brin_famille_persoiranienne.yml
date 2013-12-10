@@ -1,0 +1,53 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: Crash
+:film_id: 27
+:is_brin: true
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 352
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1314
+  :commentaire: "\xC3\x80 noter la gestion de la coh\xC3\xA9rence\xC2\xA0: c'est Dorri qui charge l'arme (ce qui pourrait paraitre \xC3\xA9tonnant), ce qui emp\xC3\xAAchera tout doute sur le fait que Farhad, s'il l'avait charg\xC3\xA9e lui-m\xC3\xAAme, aurait pu voir qu'il s'agissait de balles \xC3\xA0 blanc."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2040
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2405
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2836
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3180
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3410
+  :commentaire: "\xC3\x80 noter comment cela marque encore plus l'entr\xC3\xA9e dans le d\xC3\xA9veloppement\xC2\xA0: les personnages vont commencer \xC3\xA0 agir les uns sur les autres (le spectateur peut le sentir)."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4195
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4630
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5440
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5585
+  :commentaire: 
+:duree: 6240
+:titre: Brin famille perso-iranienne

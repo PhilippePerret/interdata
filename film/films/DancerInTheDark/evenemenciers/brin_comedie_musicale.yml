@@ -1,0 +1,321 @@
+--- 
+:scale: 6
+:is_entier: true
+:film_dim: DancerInTheDark
+:film_id: 29
+:is_brin: true
+:items: 
+- :scale: 6
+  :indice_absolu: 2
+  :temps: 205
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 4
+  :temps: 240
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 6
+  :temps: 290
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 7
+  :temps: 295
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 10
+  :temps: 328
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 15
+  :temps: 380
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 19
+  :temps: 427
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 33
+  :temps: 568
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 35
+  :temps: 601
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 62
+  :temps: 906
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 64
+  :temps: 917
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 68
+  :temps: 932
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 142
+  :temps: 1418
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 143
+  :temps: 1427
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 144
+  :temps: 1434
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 145
+  :temps: 1450
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 238
+  :temps: 1982
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 245
+  :temps: 2013
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 253
+  :temps: 2054
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 255
+  :temps: 2074
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 256
+  :temps: 2076
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 258
+  :temps: 2080
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 260
+  :temps: 2092
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 262
+  :temps: 2106
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 263
+  :temps: 2111
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 265
+  :temps: 2122
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 348
+  :temps: 2736
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 352
+  :temps: 2744
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 356
+  :temps: 2765
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 358
+  :temps: 2767
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 360
+  :temps: 2776
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 362
+  :temps: 2782
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 363
+  :temps: 2788
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 364
+  :temps: 2793
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 366
+  :temps: 2805
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 367
+  :temps: 2809
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 369
+  :temps: 2818
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 371
+  :temps: 2823
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 372
+  :temps: 2824
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 373
+  :temps: 2832
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 374
+  :temps: 2838
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 375
+  :temps: 2846
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 376
+  :temps: 2850
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 377
+  :temps: 2858
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 380
+  :temps: 2876
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 382
+  :temps: 2895
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 384
+  :temps: 2905
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 386
+  :temps: 2918
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 388
+  :temps: 2930
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 389
+  :temps: 2936
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 391
+  :temps: 2957
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 707
+  :temps: 4802
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 709
+  :temps: 4814
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 714
+  :temps: 4844
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 716
+  :temps: 4860
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 720
+  :temps: 4877
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 725
+  :temps: 4902
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 727
+  :temps: 4911
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 729
+  :temps: 4932
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 731
+  :temps: 4944
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 732
+  :temps: 4955
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 734
+  :temps: 4973
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 737
+  :temps: 4994
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 739
+  :temps: 4999
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 740
+  :temps: 5005
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 742
+  :temps: 5014
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 744
+  :temps: 5020
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 746
+  :temps: 5028
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 748
+  :temps: 5038
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 796
+  :temps: 5601
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 798
+  :temps: 5615
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 899
+  :temps: 6496
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 903
+  :temps: 6600
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 907
+  :temps: 6617
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 1047
+  :temps: 7633
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 1052
+  :temps: 7677
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 1055
+  :temps: 7744
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 1059
+  :temps: 7762
+  :commentaire: 
+:duree: 7860
+:titre: "Com\xC3\xA9die musicale"

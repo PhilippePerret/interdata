@@ -1,0 +1,584 @@
+--- 
+:items: 
+- effet: 
+  temps: 0
+  scale: 4
+  duree: 40
+  lieu: 
+  resume: "Pr\xC3\xA9-film"
+  decor_id: 
+- effet: 
+  temps: 40
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "Howard Hughes, enfant, est lav\xC3\xA9 par sa m\xC3\xA8re. En voulant le prot\xC3\xA9ger, elle l'angoisse. Quarantaine."
+  decor_id: 
+- effet: 
+  temps: 130
+  scale: 4
+  duree: 140
+  lieu: 
+  resume: HH sur le tournage de son film d'aviation.
+  decor_id: 
+- effet: 
+  temps: 270
+  scale: 4
+  duree: 340
+  lieu: 
+  resume: "Cabaret. HH essaie de r\xC3\xA9cup\xC3\xA9rer deux cam\xC3\xA9ras aupr\xC3\xA8s de Mayer (de la MGM), qui lui rit au nez."
+  decor_id: 
+- effet: 
+  temps: 610
+  scale: 4
+  duree: 55
+  lieu: 
+  resume: "Actualit\xC3\xA9s (film le plus cher). HH pas satisfait de ses images : point de r\xC3\xA9f\xC3\xA9rence pour voir la vitesse."
+  decor_id: 
+- effet: 
+  temps: 665
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "Travail sur l'avion pour battre le record du monde de vitesse. Id\xC3\xA9e du monoplan."
+  decor_id: 
+- effet: 
+  temps: 755
+  scale: 4
+  duree: 50
+  lieu: 
+  resume: "M\xC3\xA9t\xC3\xA9orologue engag\xC3\xA9 pour nuages (point de r\xC3\xA9f\xC3\xA9rence). HH veut des nuages, \xC3\xA0 tout prix."
+  decor_id: 
+- effet: 
+  temps: 805
+  scale: 4
+  duree: 160
+  lieu: 
+  resume: "Des nuages sont annonc\xC3\xA9s en Oakland. Ils y vont. Tournage dans le ciel."
+  decor_id: 
+- effet: 
+  temps: 965
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "Film termin\xC3\xA9. Mais il va tout reprendre pour ajouter le son."
+  decor_id: 
+- effet: 
+  temps: 1055
+  scale: 4
+  duree: 190
+  lieu: 
+  resume: "HH s'investit totalement dans le montage du film. Indiff\xC3\xA9rent aux probl\xC3\xA8mes financiers."
+  decor_id: 
+- effet: 
+  temps: 1245
+  scale: 4
+  duree: 290
+  lieu: 
+  resume: "Premi\xC3\xA8re du film. Triomphe. HH, peur de la foule."
+  decor_id: 
+- effet: 
+  temps: 1535
+  scale: 4
+  duree: 70
+  lieu: 
+  resume: "HH vient chercher Katharine Hepburn sur son tournage pour l'inviter \xC3\xA0 une partie de golf."
+  decor_id: 
+- effet: 
+  temps: 1605
+  scale: 4
+  duree: 140
+  lieu: 
+  resume: "Golf avec Katharine Hepburn. Imp\xC3\xA9tuosit\xC3\xA9 de KH."
+  decor_id: 
+- effet: 
+  temps: 1745
+  scale: 4
+  duree: 135
+  lieu: 
+  resume: "Inspection de l'avion pour battre le record. Id\xC3\xA9e du transport a\xC3\xA9rien au-dessus des nuages."
+  decor_id: 
+- effet: 
+  temps: 1880
+  scale: 4
+  duree: 260
+  lieu: 
+  resume: "HH emm\xC3\xA8ne KH au restaurant. Eroyl Flynn. Les 12 petits pois. Flynn en prend un, HH ne peut plus manger, et s'en va."
+  decor_id: 
+- effet: 
+  temps: 2140
+  scale: 4
+  duree: 190
+  lieu: 
+  resume: "HH emm\xC3\xA8ne KH dans son avion, le\xC3\xA7on de pilotage. Il tombe amoureux. Il partage son lait avec elle."
+  decor_id: 
+- effet: 
+  temps: 2330
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "HH emm\xC3\xA8ne KH chez lui. Ils consomment leur amour."
+  decor_id: 
+- effet: 
+  temps: 2420
+  scale: 4
+  duree: 310
+  lieu: 
+  resume: Le record. HH inspecte la coque de l'avion du record. HH satisfait. Le record, HH aux commandes. Il se crashe dans un champ de betteraves mais explose le record du monde.
+  decor_id: 
+- effet: 
+  temps: 2730
+  scale: 4
+  duree: 300
+  lieu: 
+  resume: "Chez lui, HH fait part de son record \xC3\xA0 KH. Elle \xE2\x80\x94\xC2\xA0comme une m\xC3\xA8re\xE2\x80\xA6\xC2\xA0\xE2\x80\x94 s'occupe de ses blessures. L'homme le plus rapide du monde."
+  decor_id: 
+- effet: 
+  temps: 3030
+  scale: 4
+  duree: 90
+  lieu: 
+  resume: "HH bat le record du tour du monde en avion (4 jours). Images d'actualit\xC3\xA9s. (51:10) Juan Trippe, directeur de la Pan Am. HH a pris le contr\xC3\xB4le de TWA."
+  decor_id: 
+- effet: 
+  temps: 3120
+  scale: 4
+  duree: 210
+  lieu: 
+  resume: "Soir\xC3\xA9e de prestige. Tandis que KH va saluer L.B. Mayer, HH est abord\xC3\xA9 par Ava Gardner qui lui fait grosse impression. Dans les toilettes, HH sort sa savonnette (celle de son enfance) pour se laver les mains. Il ne peut pas passer la serviette \xC3\xA0 un handicap\xC3\xA9. HH et CH quittent la f\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 3330
+  scale: 4
+  duree: 325
+  lieu: 
+  resume: "Visite ches les Hepburn. Malaise dans cette famille excentrique. HH ne sent pas chez lui. Il quitte la table. CH vient le retrouver, lui reproche d'abandonner le \xE2\x80\x9Ccombat\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 3655
+  scale: 4
+  duree: 95
+  lieu: 
+  resume: "En visionnant son dernier film (Outlaws ?) il fait part de son projet Hercules pour l'arm\xC3\xA9e. Il enchaine aussit\xC3\xB4t sur un soutien-gorge pour exploiter les seins de Jane Russel."
+  decor_id: 
+- effet: 
+  temps: 3750
+  scale: 4
+  duree: 175
+  lieu: 
+  resume: "Passage devant la commission de censure (pour les seins dans le film). D\xC3\xA9monstration \xE2\x80\x9Cmath\xC3\xA9matiques\xE2\x80\x9D par son scientifique pour se disculper."
+  decor_id: 
+- effet: 
+  temps: 3925
+  scale: 4
+  duree: 15
+  lieu: 
+  resume: "Actualit\xC3\xA9s (son) sur une mise en page de magasine traitant des nombreuses conqu\xC3\xAAtes amoureuses de HH."
+  decor_id: 
+- effet: 
+  temps: 3940
+  scale: 4
+  duree: 45
+  lieu: 
+  resume: "Pr\xC3\xA9sentation du Hercules \xC3\xA0 l'arm\xC3\xA9e"
+  decor_id: 
+- effet: 
+  temps: 3985
+  scale: 4
+  duree: 115
+  lieu: 
+  resume: "CH lui fait une sc\xC3\xA8ne de m\xC3\xA9nage pour toutes les filles qu'il voit. HH ne lui ob\xC3\xA9it plus (t\xC3\xA9l\xC3\xA9phone   poser la glace), c'est la fin."
+  decor_id: 
+- effet: 
+  temps: 4100
+  scale: 4
+  duree: 20
+  lieu: 
+  resume: "Dans la voiture, en conduisant KH aux studios, HH demande un avion en bois \xC3\xA0 son ing\xC3\xA9nieur Odie."
+  decor_id: 
+- effet: 
+  temps: 4120
+  scale: 4
+  duree: 55
+  lieu: 
+  resume: KH retrouve sur le plateau son  amant Tracy Spencer.
+  decor_id: 
+- effet: 
+  temps: 4175
+  scale: 4
+  duree: 200
+  lieu: 
+  resume: "XF-11, l'avion espion. Pr\xC3\xA9sentation de la maquette du Constellation par Robert E. Gross, PDG de Lockheed Aircraft Corporation. HH lui fait retirer la salet\xC3\xA9 qu'il a sur le col. HH va payer de sa poche la fabrication des Constellation."
+  decor_id: 
+- effet: 
+  temps: 4375
+  scale: 4
+  duree: 300
+  lieu: 
+  resume: "Rupture entre HH et KH. Bless\xC3\xA9e, HH la rabaisse \xC3\xA0 son rang de star de cin\xC3\xA9ma\xE2\x80\xA6 (1:15:48) HH br\xC3\xBBle toutes ses affaires, puis appelle Noah Dietrcih pour lui en racheter."
+  decor_id: 
+- effet: 
+  temps: 4675
+  scale: 4
+  duree: 100
+  lieu: 
+  resume: Casting de celle qui deviendra sa nouvelle mascotte et femme, Faith Domergue.
+  decor_id: 
+- effet: 
+  temps: 4775
+  scale: 4
+  duree: 225
+  lieu: 
+  resume: "HH danse avec sa nouvelle mascotte. Diner. Juan Trippe, directeur de Pan Am, s'impose \xC3\xA0 leur table. HH lui d\xC3\xA9voile son projet de traverser l'atlantique, par Terre Neuve. Son associ\xC3\xA9 le lui reproche (C'est Pan Am, il peut tout). "
+  decor_id: 
+- effet: 
+  temps: 5000
+  scale: 4
+  duree: 100
+  lieu: 
+  resume: "(suite de pr\xC3\xA9c\xC3\xA9dente) Nouveau TOC dans les toilettes, HH ne parvient pas \xC3\xA0 empoigner la poign\xC3\xA9e pour sortir."
+  decor_id: 
+- effet: 
+  temps: 5100
+  scale: 4
+  duree: 60
+  lieu: 
+  resume: "(suite de pr\xC3\xA9c\xC3\xA9dente) HH annonce qu'il d\xC3\xA9clare la guerre \xC3\xA0 Pan Am."
+  decor_id: 
+- effet: 
+  temps: 5160
+  scale: 4
+  duree: 110
+  lieu: 
+  resume: "Rendez-vous (dans le style film noir) Pour prot\xC3\xA9ger KH, il rach\xC3\xA8te toutes les photos d'elle et de son amant Tracy Spencer."
+  decor_id: 
+- effet: 
+  temps: 5270
+  scale: 4
+  duree: 65
+  lieu: 
+  resume: "Juan Trippe pr\xC3\xA9sente son plan pour faire tomber HH au s\xC3\xA9nateur  Ralph Owen Brewster : faire passer le projet de loi sur l'aviation civile. Juan Trippe va placer Brewster \xC3\xA0 la pr\xC3\xA9sidence de la Comission d'enqu\xC3\xAAte sur la D\xC3\xA9fense."
+  decor_id: 
+- effet: 
+  temps: 5335
+  scale: 4
+  duree: 175
+  lieu: 
+  resume: "HH r\xC3\xA9fl\xC3\xA9chit au nom pour sa compagnie TWA avec Ava Gardner. Elle refuse son saphir du cachemir, lui r\xC3\xA9torque qu'elle n'est pas \xC3\xA0 vendre. (1:30:35) En se rendant au diner, il lui demande sa main, elle refuse.  (1:31:10) En arrivant \xC3\xA0 l'h\xC3\xB4tel, il se font \xE2\x80\x9Cd\xC3\xA9foncer\xE2\x80\x9D par la voiture de Faith Domergue, folle de jalousie."
+  decor_id: 
+- effet: 
+  temps: 5510
+  scale: 4
+  duree: 315
+  lieu: 
+  resume: "Chantier \xC3\xA9norme de l'Hercules. HH s'\xC3\xA9nerve contre le projet d'aviation civile. Choix du volant. HH fait virer le balayeur, qui l'obs\xC3\xA8de. Odie craque, HH lui conseille de se reposer. HH tombe dans un comportement r\xC3\xA9p\xC3\xA9titif (\xE2\x80\x9CMontre-moi tous les plans (bleus)\xE2\x80\x9D). (1:36:10) Dans sa voiture, HH essaie de s'emp\xC3\xAAcher de parler. Il r\xC3\xA9p\xC3\xA8te \xE2\x80\x9CQuarantaine\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 5825
+  scale: 4
+  duree: 375
+  lieu: 
+  resume: "Essai devant l'arm\xC3\xA9e du HX-11. (1:39:50) Probl\xC3\xA8me du moteur tribord. Panique. (1:41:30) HH se crashe. HH trouve la force de se sortir de l'avion qui prend feu. (1:43:10) HH dit \xE2\x80\x9CI'm Howard Hughes. The aviator\xE2\x80\x9D puis s'effondre."
+  decor_id: 
+- effet: 
+  temps: 6200
+  scale: 4
+  duree: 250
+  lieu: 
+  resume: "H\xC3\xB4pital, on apprend l'ampleur des d\xC3\xA9g\xC3\xA2ts. De nombreuses personnes pr\xC3\xA9sentes (Ava Gadner, Eroyl Flynn, etc.). (1:44:20) HH d\xC3\xA9figur\xC3\xA9 dans son lit (1:44:30) Jour, HH dans son lit, se fait pr\xC3\xA9parer un jus d'orange devant lui. Odie et Noah sont \xC3\xA0 son chevet. Une fuite d'huile est responsable de l'accident. L'arm\xC3\xA9e a r\xC3\xA9sili\xC3\xA9 son contrat. La guerre est finie. (1:46:30) Noah lui annonce qu'un Constellation s'est \xC3\xA9cras\xC3\xA9. L'aviation civile a suspendu tous leurs vols."
+  decor_id: 
+- effet: 
+  temps: 6450
+  scale: 4
+  duree: 40
+  lieu: 
+  resume: "Actualit\xC3\xA9s. Transport de l'\xE2\x80\x9COie de bois\xE2\x80\x9D au port de Long Beach."
+  decor_id: 
+- effet: 
+  temps: 6490
+  scale: 4
+  duree: 80
+  lieu: 
+  resume: "A\xC3\xA9roport, devant les Constellations \xC3\xA0 l'arr\xC3\xAAt : HH va continuer. Noah leur fait un topo alarmant sur l'\xC3\xA9tat d\xC3\xA9plorable de leurs finances."
+  decor_id: 
+- effet: 
+  temps: 6570
+  scale: 4
+  duree: 115
+  lieu: 
+  resume: "Chez Gardner. Ava Gardner d\xC3\xA9couvre que HH la fait espionner (micros dans sa propre villa). (1:51:00) Elle le fout \xC3\xA0 la porte. HH apprend que le FBI est chez lui."
+  decor_id: 
+- effet: 
+  temps: 6685
+  scale: 4
+  duree: 60
+  lieu: 
+  resume: "Le FBI fouille chez HH, mettant tout \xC3\xA0 sac. HH est paniqu\xC3\xA9, dit \xE2\x80\x9Cqu'ils touchent des choses\xE2\x80\x9D"
+  decor_id: 
+- effet: 
+  temps: 6745
+  scale: 4
+  duree: 375
+  lieu: 
+  resume: "Invitation chez le s\xC3\xA9nateur Brewster (qui compte le exploiter ses obsessions \xE2\x80\x94 trace de doigt sur le verre). Discussion sur le projet de loi. (1:54:00) Discussion sur le tableau du P\xC3\xA9rou. (1:54:40) Ils passent \xC3\xA0 table. HH se fait violence pour ne pas avoir de trouble. B. tente de faire pression sur HH\xC2\xA0: si HH se range \xC3\xA0 ses c\xC3\xB4t\xC3\xA9s, les \xE2\x80\x9Csalet\xC3\xA9s\xE2\x80\x9D qu'ils ont trouv\xC3\xA9s sur lui ne s'\xC3\xA9bruiteront pas. (1:58:20) HH quitte la table. Dans le couloir, ces troubles s'expriment. Il r\xC3\xA9cup\xC3\xA8re sa canne."
+  decor_id: 
+- effet: 
+  temps: 7120
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: "Conf\xC3\xA9rence de presse de Brewster, il enfonce HH."
+  decor_id: 
+- effet: 
+  temps: 7130
+  scale: 4
+  duree: 300
+  lieu: 
+  resume: "HH s'enferme dans sa salle de projection (entrecoup\xC3\xA9e au d\xC3\xA9but par la conf\xC3\xA9rence de presse). Protocolesur l'ouverture du lait. (2:00:40) Visite de KH. Elle le remercie pour les photos."
+  decor_id: 
+- effet: 
+  temps: 7430
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: Fourmis sur des sandwichs.
+  decor_id: 
+- effet: 
+  temps: 7440
+  scale: 4
+  duree: 125
+  lieu: 
+  resume: "HH dans sa salle de projection, longtemps plus tard (il a la barbe). Comportement r\xC3\xA9p\xC3\xA9titif, protocole pour donner le lait. (2:05:10) Il urine dans ses bouteilles de lait, qu'il aligne le long du mur, en essaie d'\xC3\xA9peler \xE2\x80\x9CQuarantaine\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 7565
+  scale: 4
+  duree: 315
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente) Visite de Juan Trippe. HH se refuse \xC3\xA0 vendre TWA. (2:09:00) JT lui explique tranquillement qu'il aura la compagnie lorsque HH sera pass\xC3\xA9 en audition et que Brewster l'aura d\xC3\xA9moli. (2:10:00) JT lui propose d'\xC3\xA9viter la commission. (2:10:50) En partant JT essaie de mettre Noah dans sa poche."
+  decor_id: 
+- effet: 
+  temps: 7880
+  scale: 4
+  duree: 20
+  lieu: 
+  resume: "Dans la salle de projection o\xC3\xB9 il s'est enferm\xC3\xA9, HH est au sommet de sa crise, roulant par terre sur les images de son Hell's Angels."
+  decor_id: 
+- effet: 
+  temps: 7900
+  scale: 4
+  duree: 50
+  lieu: 
+  resume: "HH sort de sa tani\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 7950
+  scale: 4
+  duree: 210
+  lieu: 
+  resume: "Ava Gardner vient le remettre d'aplomb (au moins au niveau des apparences). Elle d\xC3\xA9barque chez lui de nuit. Elle lui fait sa toilette. Elle le met en confiance."
+  decor_id: 
+- effet: 
+  temps: 8160
+  scale: 4
+  duree: 460
+  lieu: 
+  resume: "Passage devant la commission. HH, d'abord mis mal \xC3\xA0 l'aise par le public, les cam\xC3\xA9ras, les projecteurs, met le public dans sa poche et retourne Brewster."
+  decor_id: 
+- effet: 
+  temps: 8620
+  scale: 4
+  duree: 185
+  lieu: 
+  resume: "(VO actualit\xC3\xA9s) Essai de l'Hercules sur le port Long Beach (2:26:45) Retour \xC3\xA0 la commission."
+  decor_id: 
+- effet: 
+  temps: 8805
+  scale: 4
+  duree: 230
+  lieu: 
+  resume: "Retour \xC3\xA0 la commission. L'argent donn\xC3\xA9 par le gouvernement pour des avions jamais livr\xC3\xA9s. \xC3\x80 nouveau HH retourne la situation : c'est son argent qu'il a investi, et il n'a pas plus perdu d'argent que d'autres (800 millions de dollars pour des avions qui n'ont jamais vol\xC3\xA9).  (2:29:20) HH conclut sur le Hercules : il quittera l'am\xC3\xA9rique s'il ne d\xC3\xA9colle pas. Et il quitte inopin\xC3\xA9ment la commission sous les encouragements de l'assistance."
+  decor_id: 
+- effet: 
+  temps: 9035
+  scale: 4
+  duree: 30
+  lieu: 
+  resume: "Bureau de Juan Trippe. JT annonce que la loi ne passera pas. Il s'avoue vaincu dans un \xE2\x80\x9Cfuck\xE2\x80\x9D (merveilleusement donn\xC3\xA9 par Alec Baldwin\xE2\x80\xA6)"
+  decor_id: 
+- effet: 
+  temps: 9065
+  scale: 4
+  duree: 115
+  lieu: 
+  resume: "Retour \xC3\xA0 l'essai de l'Hercules dans le port de Los Angeles. Ils se lancent. (2:32:05) L'Hercules d\xC3\xA9colle."
+  decor_id: 
+- effet: 
+  temps: 9180
+  scale: 4
+  duree: 230
+  lieu: 
+  resume: "Pot pour f\xC3\xAAter l'\xC3\xA9v\xC3\xA8nement. TWA lance ses vols vers l'europe, HH invite Ava \xC3\xA0 Gardner. HH parle \xC3\xA0 Noah et Odie des avions \xC3\xA0 r\xC3\xA9action. Peur des serveurs. (2:34:45) HH fait une nouvelle crise (comportement r\xC3\xA9p\xC3\xA9titif \xE2\x80\x94\xC2\xA0\xE2\x80\x9CC'est la voie du futur\xE2\x80\x9D) (2:35:00) Noah et Odie le conduisent \xC3\xA0 l'\xC3\xA9cart. (2:35:30) Seul dans les toilettes, HH regarde dans le miroir, et revoit la sc\xC3\xA8ne de son enfant (premi\xC3\xA8re sc\xC3\xA8ne). Son ambition. Et il continue de r\xC3\xA9p\xC3\xA9ter, devant son reflet : \xE2\x80\x9CThe way of the future\xE2\x80\x9D. (2:36:50) Cut au noir."
+  decor_id: 
+- effet: 
+  temps: 9410
+  scale: 4
+  duree: 10
+  lieu: 
+  resume: _END
+  decor_id: 
+- effet: 
+  temps: 40
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Howard Hughes, enfant, est lav\xC3\xA9 par sa m\xC3\xA8re. En voulant le prot\xC3\xA9ger, elle l'angoisse. Quarantaine."
+  decor_id: 
+- effet: 
+  temps: 1300
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Alors qu'il arrive aux bras de Joan Harlow pour l'avant-premi\xC3\xA8re de son film, HH a peur de la foule. Il r\xC3\xA9pond \xC3\xA0 c\xC3\xB4t\xC3\xA9 aux questions du journaliste."
+  decor_id: 
+- effet: 
+  temps: 2020
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Au restaurant avec Katharine Hepburn, HH se fait servir son assiette habituelle : un morceau de viande et 12 petits pois soigneusement align\xC3\xA9s. Eroy Flynn lui prend un petit poi, HH ne peut plus manger et quitte le restaurant."
+  decor_id: 
+- effet: 
+  temps: 2285
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Alors qu'il donne une le\xC3\xA7on de pilotage \xC3\xA0 Katharine Hepburn, HH d\xC3\xA9cide de partager le lait avec elle (symbolique de son amour pour elle, pour le spectateur seulement)"
+  decor_id: 
+- effet: 
+  temps: 2830
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "KH lave les plaies de HH. Sc\xC3\xA8ne identique \xC3\xA0 la sc\xC3\xA8ne du d\xC3\xA9but, avec la m\xC3\xA8re. Katharine lui explique qu'il n'est pas en s\xC3\xA9curit\xC3\xA9, \xC3\xA0 cause de la presse, comme sa m\xC3\xA8re au d\xC3\xA9but, avec les microbes."
+  decor_id: 
+- effet: 
+  temps: 3215
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "(soir\xC3\xA9e de prestige, agoraphobie) HH va se laver les mains dans les toilettes. Il est incapable de passer la serviette \xC3\xA0 un homme atteint de polio."
+  decor_id: 
+- effet: 
+  temps: 4265
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "HH fait remarquer \xC3\xA0 Bob Gross (PDG de Lockheed et constructeur du Constellation) qu'il a une salet\xC3\xA9 sur le col. Il lui fait retirer et jeter son mouchoir. HH reste obs\xC3\xA9d\xC3\xA9, ensuite, par le mouchoir dans la poubelle."
+  decor_id: 
+- effet: 
+  temps: 4548
+  scale: 7
+  duree: 
+  lieu: 
+  resume: " Suite au d\xC3\xA9part de KH, HH br\xC3\xBBle toutes ses affaires, puis appelle Noah Dietrcih pour qu'il lui en rach\xC3\xA8te de nouvelles."
+  decor_id: 
+- effet: 
+  temps: 5000
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Nouveau TOC dans les toilettes, HH se frotte au sang avec le savon. Il ne parvient pas \xC3\xA0 prendre la poign\xC3\xA9e pour sortir, doit attendre que quelqu'un rentre."
+  decor_id: 
+- effet: 
+  temps: 5605
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Choix obsession pour le volant parfait pour l'Hercules. HH prend peur en voyant le balayeur soulever de la poussi\xC3\xA8re, il le fait virer. Apr\xC3\xA8s avoir calmer Odie, il tombe dans un comportement r\xC3\xA9p\xC3\xA9titif (\xE2\x80\x9CMontre-moi tous les plans (bleus)\xE2\x80\x9D). (1:36:10) Dans sa voiture, HH essaie de s'emp\xC3\xAAcher de parler. Puis il tente d'\xC3\xA9peler \xE2\x80\x9CQuarantaine\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 6270
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Sur son lit d'h\xC3\xB4pital, apr\xC3\xA8s l'accident, HH se fait pr\xC3\xA9parer son jus d'orange devant lui."
+  decor_id: 
+- effet: 
+  temps: 6695
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Le FBI fouille chez HH, mettant tout \xC3\xA0 sac. HH est paniqu\xC3\xA9, dit \xE2\x80\x9Cqu'ils touchent des choses\xE2\x80\x9D. Il s'\xC3\xA9nerve, impuissant."
+  decor_id: 
+- effet: 
+  temps: 6890
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Invit\xC3\xA9 chez le s\xC3\xA9nateur Brewstern, qui compte le exploiter ses obsessions,  HH se contient, lutte pour ne pas laisser s'exprimer ses troubles."
+  decor_id: 
+- effet: 
+  temps: 7095
+  scale: 7
+  duree: 
+  lieu: 
+  resume: En quittant Brewster, HH fait une crise (il s'est trop contenu).
+  decor_id: 
+- effet: 
+  temps: 7130
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "HH s'enferme dans sa salle de projection. Difficult\xC3\xA9 \xC3\xA0 dormir. Protocole de l'ouverture de la bouteille de lait."
+  decor_id: 
+- effet: 
+  temps: 7440
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "HH dans sa salle de projection, plus tard (il a la barbe). Comportement r\xC3\xA9p\xC3\xA9titif, protocole pour donner le lait s'affine encore (angle du sac). (2:04:40) Un domestique vient vers lui (sans qu'on sache pourquoi). (2:05:10) Il urine dans ses bouteilles de lait, qu'il aligne le long du mur, en essaie d'\xC3\xA9peler \xE2\x80\x9CQuarantaine\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 7595
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Alors qu'il parle avec Juan Trippe, depuis sa salle de projection, HH s'emp\xC3\xAAche de r\xC3\xA9p\xC3\xA9ter."
+  decor_id: 
+- effet: 
+  temps: 7880
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Dans la salle de projection o\xC3\xB9 il s'est enferm\xC3\xA9, HH est au sommet de sa crise, roulant par terre sur les images de son Hell's Angels."
+  decor_id: 
+- effet: 
+  temps: 7915
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "HH sort de sa tani\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 7950
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Ava Gardner vient le pr\xC3\xA9parer. Elle lui fait sa toilette, comme ses deuxm\xC3\xA8res pr\xC3\xA9c\xC3\xA9dentes\xE2\x80\xA6 Mais elle, a contrario des deux autres, le met en confiance (\xE2\x80\x9CIl n'y rien\xE2\x80\x9D, \xE2\x80\x9CRien n'est propre mais on fait de notre mieux\xE2\x80\x9D)."
+  decor_id: 
+- effet: 
+  temps: 8160
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Passage devant la commission. HH, d'abord mis mal \xC3\xA0 l'aise par le public, les cam\xC3\xA9ras, les projecteurs, met le public dans sa poche et retourne Brewster."
+  decor_id: 
+- effet: 
+  temps: 9215
+  scale: 7
+  duree: 
+  lieu: 
+  resume: "Peur des serveurs qui grandit. (2:35:00) HH fait une nouvelle crise (comportement r\xC3\xA9p\xC3\xA9titif \xE2\x80\x94\xC2\xA0\xE2\x80\x9CC'est la voie du futur\xE2\x80\x9D) (2:35:00) Noah et Odie le conduisent \xC3\xA0 l'\xC3\xA9cart. (2:35:30) Seul dans les toilettes, HH regarde dans le miroir, et revoit la sc\xC3\xA8ne de son enfant (premi\xC3\xA8re sc\xC3\xA8ne). Son ambition. Et il continue de r\xC3\xA9p\xC3\xA9ter, devant son reflet : \xE2\x80\x9CThe way of the future\xE2\x80\x9D. (2:36:50) Cut au noir."
+  decor_id: 
+:dim: Aviator

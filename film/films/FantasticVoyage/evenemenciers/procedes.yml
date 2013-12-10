@@ -1,0 +1,41 @@
+--- 
+:is_entier: true
+:duree: 5760
+:scale: 8
+:is_brin: false
+:film_id: 43
+:items: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 699
+  :commentaire: "Grant refuse qu'on le r\xC3\xA9duise. Par l\xC3\xA0, il refuse donc la mission qui doit lui \xC3\xAAtre confi\xC3\xA9e, et il la refuse comme une \xC3\xA9vidence."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 717
+  :commentaire: "Un film ne pourrait se passer de femmes\xE2\x80\xA6 Or, \xC3\xA0 cette \xC3\xA9poque, une femme dans une \xC3\xA9quipe comme celle-l\xC3\xA0 n'est pas vraiment envisageable. Regarder avec quel soin les auteurs se sont arrang\xC3\xA9s pour justifier la pr\xC3\xA9sence de Raquel Welch (qui n'est pas la derni\xC3\xA8re des femmes) : d'abord, ils font dire qu'elle est volontaire pour ensuite jouer un conflit. Reid, le m\xC3\xA9decin-chef de l'arm\xC3\xA9e se heurte \xC3\xA0 Duval, refusant qu'elle participe \xC3\xA0 l'exp\xC3\xA9dition. Et le tour est jou\xC3\xA9 sans qu'on se pose la moindre question."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 760
+  :commentaire: "Cela r\xC3\xA8gle la question : \xE2\x80\x9Cpourquoi l'avoir choisi lui ?\xE2\x80\x9D"
+- :scale: 8
+  :indice_absolu: 
+  :temps: 840
+  :commentaire: "Mickael explique \xC3\xA0 Owens inquiet que les seules turbulences se trouvent dans le c\xC5\x93ur, et qu'ils ne passeront pas par le c\xC5\x93ur. Ce qu'ils ne manqueront pas, quelques trente minutes plus tard, de faire\xE2\x80\xA6 C'est la belle pr\xC3\xA9paration d'un suspense futur."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 905
+  :commentaire: "C'est effectivement ce qui se passera \xC3\xA0 la fin de la mission."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 930
+  :commentaire: "Sur le mode de l'humour (car il sait qu'il ne se d\xC3\xA9filera pas), Grant dit qu'il a une derni\xC3\xA8re question : s'il pourrait avoir un taxi pour rentrer. Noter que les deux refus de l'appel encadre le briefing qui pr\xC3\xA9sente en d\xC3\xA9tail la mission."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1058
+  :commentaire: Une voix annonce qu'ils vont devoir checker leurs affaires.
+- :scale: 8
+  :indice_absolu: 
+  :temps: 1253
+  :commentaire: 
+:titre: "Proc\xC3\xA9d\xC3\xA9s courants"
+:film_dim: FantasticVoyage

@@ -1,0 +1,61 @@
+--- 
+:scale: 5
+:is_entier: true
+:film_dim: Crash
+:film_id: 27
+:is_brin: true
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 950
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1000
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2587
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3075
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3395
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3470
+  :commentaire: "Sc\xC3\xA8ne magnifique, un des moments les plus forts du film (\xC3\xA0 regarder absolument dans sa VO, et surtout pas en fran\xC3\xA7ais \xE2\x80\x94\xC2\xA0pour le reste, le doublage n'est pas si mauvais dans ce film). Sc\xC3\xA8ne sublime de beaut\xC3\xA9 et de sens. "
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4225
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4575
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5900
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5945
+  :commentaire: 
+:duree: 6240
+:titre: Brin Cameron et Christine Thayer

@@ -1,0 +1,957 @@
+--- 
+:is_entier: true
+:duree: 7560
+:scale: 5
+:is_brin: false
+:film_id: 113
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 88
+  :commentaire: "D\xC3\xA8s la premi\xC3\xA8re sc\xC3\xA8ne, le th\xC3\xA8me est pos\xC3\xA9 de fa\xC3\xA7on assez indirect : ne plus construire de bonne qualit\xC3\xA9 pour pouvoir avoir du travail. C'est comme une fa\xC3\xA7on d\xC3\xA9tourn\xC3\xA9e d'aborder le probl\xC3\xA8me."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 120
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 190
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 205
+  :commentaire: "Ironie du speech (faire fortune quand on a de l'ambition) et la r\xC3\xA9alit\xC3\xA9 de\xE2\x80\xA6 la r\xC3\xA9alit\xC3\xA9."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 290
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 325
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 370
+  :commentaire: "Belle id\xC3\xA9e tr\xC3\xA8s bien mise en image, la modernit\xC3\xA9 qui contre la libert\xC3\xA9. L'automobile (le barbel\xC3\xA9 d\xC3\xA9limite une route) contre le cheval, le premier incarnant la modernit\xC3\xA9 l'autre incarnant la nature et le pass\xC3\xA9."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 405
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 425
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 435
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 460
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 475
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 565
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 585
+  :commentaire: "Vraiment une sc\xC3\xA8ne magnifique de transmission de la passion. Sans ce p\xC3\xA8re aimant et passionn\xC3\xA9 (celui qu'on aurait tous aim\xC3\xA9 avoir), Red ne serait jamais devenu ce qu'il est."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 660
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 675
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 730
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 795
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 845
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 870
+  :commentaire: "L'\xC3\xA9motion de cette sc\xC3\xA8ne est d'une rare intensit\xC3\xA9, le jeu est la mise en sc\xC3\xA8ne y est remarquable. Tous les acteurs sont superbes, superbes\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 985
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1100
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1120
+  :commentaire: "Noter que la sc\xC3\xA8ne commence par Charles, au t\xC3\xA9l\xC3\xA9phone, qui refuse de licencier plus de ses ouvriers. Tout est fait pour nous en faire un homme bien."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1175
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1200
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1220
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1245
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1265
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1285
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1295
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1325
+  :commentaire: "C'est bien entendu un acte symbolique, qui prendra tout son sens, dans le film, lorsqu'il sera r\xC3\xA9-ouvert pour y remettre des chevaux."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1355
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1380
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1405
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1420
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1440
+  :commentaire: "C'est dans cette sc\xC3\xA8ne qu'il prend le mauvais coup qui lui fera perdre un peu de sa vue."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1485
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1505
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1555
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1605
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1620
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1670
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1690
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1730
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1790
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1830
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1925
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1945
+  :commentaire: "Cette sc\xC3\xA8ne inaugure le changement qui se produira par la suite : la renaissance de Charles, qui conduira au d\xC3\xA9veloppement. Du point de vue structurel, on pourrait presque dire que le d\xC3\xA9veloppement commence ici."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2055
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2070
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2120
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2150
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2165
+  :commentaire: "On peut peut-\xC3\xAAtre reprocher \xC3\xA0 cette sc\xC3\xA8ne son c\xC3\xB4t\xC3\xA9 un peu trop\xE2\x80\xA6 r\xC3\xA9alisateur\xE2\x80\xA6 On pense \xC3\xA0 la superbe s\xC3\xA9quence de Citizen Kane, qui elle \xC3\xA9tait r\xC3\xA9ussie."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2185
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2190
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2200
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2215
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2220
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2255
+  :commentaire: "Grande r\xC3\xA9plique, qui donne la couleur \xC3\xA0 tout le film : \xE2\x80\x9COn ne bazarde pas quelqu'un juste parce qu'il est un peu ab\xC3\xAEm\xC3\xA9.\xE2\x80\x9D"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2390
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2415
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2440
+  :commentaire: "J'aime beaucoup cette id\xC3\xA9e : c'est en faisant un poste subalterne que Red est d\xC3\xA9couvert par l'entraineur."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2475
+  :commentaire: "Sc\xC3\xA8ne tr\xC3\xA8s importante, c'est la rencontre entre l'histoire et le cheval, au tiers exact du film."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2535
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2560
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2590
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2610
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2620
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2640
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2650
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2675
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2740
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2810
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2840
+  :commentaire: "Bien entendu, tout le dialogue de Smith est \xC3\xA0 entendre \xC3\xA0 double sens : l'homme doit r\xC3\xA9-apprendre \xC3\xA0 \xC3\xAAtre un homme, au risque de se perdre lui-m\xC3\xAAme."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2885
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3000
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3040
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3105
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3130
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3170
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3180
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3190
+  :commentaire: "Symboliquement, \xC3\xA9videmment, cela signifie que la vie de Charles Howard a recommenc\xC3\xA9."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3230
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3250
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3260
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3275
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3315
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3425
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3435
+  :commentaire: "Cet animateur de radio, qui servira de point et de virgule tout au long du film, ajoute un couche suppl\xC3\xA9mentaire \xE2\x80\x94\xC2\xA0d'humour et de documentaire\xC2\xA0\xE2\x80\x94 \xC3\xA0 ce film d\xC3\xA9j\xC3\xA0 bien complet. Mais \xC3\xA7a ne fait pas du \xE2\x80\x9Cen trop\xE2\x80\x9D, \xC3\xA7a fait du \xE2\x80\x9Cen plus\xE2\x80\x9D."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3455
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3470
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3510
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3640
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3650
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3680
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3695
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3720
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3780
+  :commentaire: "\xC3\x80 noter ce superbe montage, entre la musique, qui joue le temps, et explose sur ce superbe ralenti quand Seabiscuit prend la t\xC3\xAAte de la course (donc un ralenti qui contredit le sens de l'histoire \xE2\x80\x94\xC2\xA0c'est tout l'art du producteur-r\xC3\xA9alisateur qui s'exprime)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3855
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3880
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3930
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3950
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4010
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4020
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4040
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4070
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4095
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4135
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4145
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4210
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4230
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4265
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4305
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4320
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4370
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4400
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4410
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4425
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4435
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4450
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4460
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4482
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4620
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4645
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4705
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4725
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4740
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4770
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4795
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4855
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4875
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4890
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4930
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4965
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4970
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4995
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5005
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5040
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5070
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5080
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5145
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5170
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5210
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5260
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5337
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5370
+  :commentaire: "Bien s\xC3\xBBr, avec lejeu de billes, on ne peut s'emp\xC3\xAAcher de penser que Charles Howard a projet\xC3\xA9 son affection sur Red, qu'il consid\xC3\xA8re comme son propre fils. Dans cette sc\xC3\xA8ne, il l'attend, toute la nuit, comme un p\xC3\xA8re."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5425
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5475
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5485
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5495
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5500
+  :commentaire: "Bien s\xC3\xBBr, il faut noter ce \xE2\x80\x9Csup\xC3\xA9rieur d'origine\xE2\x80\x9D qui ne tombe pas au hasard dans la bouche de riddle\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5510
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5550
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5558
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5565
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5570
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5575
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5580
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5640
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5650
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5675
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5685
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5700
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5730
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5755
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5845
+  :commentaire: "Le son est \xC3\xA9tonnamment faible, contrastant avec l'intensit\xC3\xA9 du moment."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5870
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6045
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6085
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6100
+  :commentaire: "Le film est plein de ces petites ironies : cette \xE2\x80\x9Ccourse du si\xC3\xA8cle\xE2\x80\x9D aussit\xC3\xB4t oubli\xC3\xA9e et remplac\xC3\xA9e par le message du sponsor p\xC3\xA9trolier\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6120
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6148
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6155
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6160
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6185
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6190
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6205
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6210
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6313
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6333
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6382
+  :commentaire: "C'est presque dommage d'avoir appuyer autant le parall\xC3\xA8le entre l'\xC3\xA9tat des deux personnages (Red et Seabiscuit) en faisant ce pano sur leurs\xE2\x80\xA6 pattes. Mais l'id\xC3\xA9e est belle."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6440
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6452
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6480
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6540
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6545
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6560
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6580
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6600
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6630
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6640
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6645
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6678
+  :commentaire: Quel bonheur ! quel bonheur tous ces jeux de regard !
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6698
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6705
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6735
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6810
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6832
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6840
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6845
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6925
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6938
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6952
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6958
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6971
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7003
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7015
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7085
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7092
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7100
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7140
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7200
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7220
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7260
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7262
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7278
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7343
+  :commentaire: "Alors que la voix-off est consid\xC3\xA9r\xC3\xA9 comme \xC3\xA9tant une voix de narrateur (et ce n'est pas le m\xC3\xAAme acteur), on ne peut s'emp\xC3\xAAcher ici, de comprendre que c'est Red qui parle. De surcroit la voix de McCullough est \xC3\xA9tonnamment proche de celle de Maguire\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7555
+  :commentaire: 
+:titre: "Sc\xC3\xA9nier complet"
+:film_dim: Seabiscuit

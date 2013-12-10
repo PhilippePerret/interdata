@@ -1,0 +1,373 @@
+--- 
+:is_entier: true
+:duree: 6510
+:scale: 5
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: "Un taxi passe au ralenti et fait apparaitre le titre, sur une musique lourde et l\xC3\xA9g\xC3\xA8re en m\xC3\xAAme temps."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 25
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 70
+  :commentaire: "La musique contraste entre l'int\xC3\xA9riorit\xC3\xA9 de Travis (un jazz l\xC3\xA9ger, genre fin de soir\xC3\xA9e) et la vision du monde ext\xC3\xA9rieur, brutal, marqu\xC3\xA9 par des roulements et des coups de cymbales."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 125
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 250
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 270
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 290
+  :commentaire: "\xC3\x80 noter la r\xC3\xA9plique \xE2\x80\x9CIl faut bien que quelqu'un s'en occupe\xE2\x80\x9D, qui va le caract\xC3\xA9riser de plus en plus."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 330
+  :commentaire: "Il dit que \xC3\xA7a ne fait pas de diff\xC3\xA9rence pour lui d'aller dans les quartiers malfam\xC3\xA9s. Il dit qu'il monte des noirs, que \xC3\xA7a ne fait pas de diff\xC3\xA9rence pour lui. "
+- :scale: 5
+  :indice_absolu: 
+  :temps: 390
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 430
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 470
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 480
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 565
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 585
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 600
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 628
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 630
+  :commentaire: "La sc\xC3\xA8ne commence par un establishment depuis la rue."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 765
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 785
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 875
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1065
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1165
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1170
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1375
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1575
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1600
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1775
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1835
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1875
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1880
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1910
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1935
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1945
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1990
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2065
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2130
+  :commentaire: On comprend que Betsy est malade.
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2225
+  :commentaire: Travis pense qu'il a un cancer de l'estomac.
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2250
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2290
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2540
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2655
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2865
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2930
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2955
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2975
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3060
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3080
+  :commentaire: "\xC3\x80 noter comment la rupture (cl\xC3\xA9 de vo\xC3\xBBte) est pass\xC3\xA9e, par l'id\xC3\xA9e d'une nouvelle page qui se tourne."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3100
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3125
+  :commentaire: "\xC3\x80 noter ce plan ou Travis vise par la fen\xC3\xAAtre, fait un panoramique et s'arr\xC3\xAAte sur un couple en train de discuter sur le trottoir. Ce plan est tr\xC3\xA8s exactement au milieu de la sc\xC3\xA8ne."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3335
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3365
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3380
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3400
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3460
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3524
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3790
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3905
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3925
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4020
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4115
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4215
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4235
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4345
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4535
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4570
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4850
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4880
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4890
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5150
+  :commentaire: "\xC3\x80 noter la fonction de cette sc\xC3\xA8ne\xC2\xA0: elle ne sert qu'\xC3\xA0 int\xC3\xA9grer la sc\xC3\xA8ne suivante dans le point de vue de Travis. Sans sa pr\xC3\xA9sence ici, c'\xC3\xA9tait le seul moment qui ne pouvait \xC3\xAAtre vu par Travis (c'est presque la m\xC3\xAAme chose lors de la pr\xC3\xA9sentation de Betsy \xC3\xA0 la permanence de Palantine, \xC3\xA0 l'envers\xC2\xA0: c'est\xC3\xA0 la fin seulement qu'on d\xC3\xA9couvre que Travis les observe)."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5170
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5325
+  :commentaire: "\xC3\x80 nouveau, la voix-off marque la structure : il dit qu'il a compris que sa vie ne pointait que vers une direction (il ne dit pas laquelle). Comment mieux exprimer que le film va rentrer dans son d\xC3\xA9nouement\xC2\xA0?"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5400
+  :commentaire: "Avec un doute quand m\xC3\xAAme sur le fait qu'il voulait vraiment s'attaquer \xC3\xA0 Palantine. N'\xC3\xA9tait-ce pas une merveilleuse fausse piste ?"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5590
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5605
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5635
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5645
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5735
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6035
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6100
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6195
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6225
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6320
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6370
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6385
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6510
+  :commentaire: 
+:titre: "Sc\xC3\xA9nier du film"
+:film_dim: TaxiDriver

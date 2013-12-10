@@ -1,0 +1,33 @@
+--- 
+:is_entier: true
+:duree: 8850
+:scale: 8
+:is_brin: true
+:film_id: 74
+:items: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 2085
+  :commentaire: "C'est l'installation du pneu, symbole de la d\xC3\xA9confiture de Jo Sardi."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 2090
+  :commentaire: Ici, il semble que le pneu sert que de liaison qu'autre chose.
+- :scale: 8
+  :indice_absolu: 
+  :temps: 2595
+  :commentaire: "L'incident a d\xC3\xA9cid\xC3\xA9ment fait le tour du village\xE2\x80\xA6 :-)"
+- :scale: 8
+  :indice_absolu: 
+  :temps: 2610
+  :commentaire: "\xC3\x80 partir d'ici, le pneu devient le symbole du bonheur autour du marais. \xC3\x80 noter que ce moment pr\xC3\xA9c\xC3\xA8de exactement l'entr\xC3\xA9e de Jo Sardi en prison."
+- :scale: 8
+  :indice_absolu: 
+  :temps: 6185
+  :commentaire: 
+- :scale: 8
+  :indice_absolu: 
+  :temps: 6240
+  :commentaire: "Symboliquement, c'est ce qui a fait chuter Sardi qui le sauve. C'est exactement ce qui se passe pour lui dans le film, comme va le d\xC3\xA9montrer la suite."
+:titre: "Une histoire de pneu\xE2\x80\xA6"
+:film_dim: LesEnfantsDuMarais

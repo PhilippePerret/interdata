@@ -1,0 +1,77 @@
+--- 
+:is_entier: true
+:duree: 8850
+:scale: 7
+:is_brin: true
+:film_id: 74
+:items: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1100
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1225
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1305
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 1860
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 3190
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 3230
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 3830
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 3950
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4005
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4170
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4705
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4770
+  :commentaire: "Ce sera la derni\xC3\xA8re fois qu'ils se verront (dans le champ narratif du film)."
+- :scale: 7
+  :indice_absolu: 
+  :temps: 4925
+  :commentaire: Va commencer alors, pour Garris, la recherche de Marie.
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5040
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5050
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 5670
+  :commentaire: 
+- :scale: 7
+  :indice_absolu: 
+  :temps: 6415
+  :commentaire: 
+:titre: Histoire d'amour Garris et Marie
+:film_dim: LesEnfantsDuMarais

@@ -1,0 +1,125 @@
+--- 
+:is_entier: true
+:duree: 7560
+:scale: 5
+:is_brin: false
+:film_id: 113
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5640
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5650
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5675
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5685
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5700
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5730
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5755
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5845
+  :commentaire: "Le son est \xC3\xA9tonnamment faible, contrastant avec l'intensit\xC3\xA9 du moment."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5870
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6045
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6185
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6190
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6205
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6210
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6313
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6333
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6382
+  :commentaire: "C'est presque dommage d'avoir appuyer autant le parall\xC3\xA8le entre l'\xC3\xA9tat des deux personnages (Red et Seabiscuit) en faisant ce pano sur leurs\xE2\x80\xA6 pattes. Mais l'id\xC3\xA9e est belle."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6440
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6452
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6480
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7260
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7262
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7278
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7343
+  :commentaire: "Alors que la voix-off est consid\xC3\xA9r\xC3\xA9 comme \xC3\xA9tant une voix de narrateur (et ce n'est pas le m\xC3\xAAme acteur), on ne peut s'emp\xC3\xAAcher ici, de comprendre que c'est Red qui parle. De surcroit la voix de McCullough est \xC3\xA9tonnamment proche de celle de Maguire\xE2\x80\xA6"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 7555
+  :commentaire: 
+:titre: "Le D\xC3\xA9nouement comme structure"
+:film_dim: Seabiscuit

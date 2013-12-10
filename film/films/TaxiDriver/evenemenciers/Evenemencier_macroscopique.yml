@@ -1,0 +1,25 @@
+--- 
+:is_entier: true
+:duree: 6510
+:scale: 1
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 1
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 1
+  :indice_absolu: 
+  :temps: 3080
+  :commentaire: "D\xC3\xA8s la sc\xC3\xA8ne suivante, il montre qu'il passe \xC3\xA0 l'action\xC2\xA0: il s'ach\xC3\xA8te des armes."
+- :scale: 1
+  :indice_absolu: 
+  :temps: 3125
+  :commentaire: 
+- :scale: 1
+  :indice_absolu: 
+  :temps: 6510
+  :commentaire: 
+:titre: "\xC3\x89v\xC3\xA8nemencier macroscopique"
+:film_dim: TaxiDriver

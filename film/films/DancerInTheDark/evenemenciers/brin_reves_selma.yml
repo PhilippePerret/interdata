@@ -1,0 +1,265 @@
+--- 
+:scale: 6
+:is_entier: true
+:film_dim: DancerInTheDark
+:film_id: 29
+:is_brin: true
+:items: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 400
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 1384
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 1578
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 1640
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 2249
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 2278
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3200
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3214
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3273
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3383
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3391
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3431
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 3470
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4151
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4166
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4131
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4195
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4207
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4222
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4235
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4245
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4258
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4260
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4266
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4286
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4291
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4314
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4324
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4332
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4341
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4363
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4367
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4389
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4382
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4398
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4407
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4409
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4424
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4434
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4479
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 4495
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5054
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5114
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5137
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5644
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5657
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5692
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5759
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5806
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5819
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 5827
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7762
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7340
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7353
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7372
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7379
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7384
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7397
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7408
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7413
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7434
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7619
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7633
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 7677
+  :commentaire: 
+:duree: 7860
+:titre: "R\xC3\xAAves de Selma"

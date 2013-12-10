@@ -1,0 +1,29 @@
+--- 
+:is_entier: true
+:duree: 208
+:scale: 6
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 20
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 165
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 190
+  :commentaire: 
+- :scale: 6
+  :indice_absolu: 
+  :temps: 208
+  :commentaire: 
+:titre: "\xC3\x89venemencier macro-cellulaire de la sc\xC3\xA8ne d'achat des armes"
+:film_dim: TaxiDriver

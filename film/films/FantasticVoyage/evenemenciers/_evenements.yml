@@ -1,0 +1,143 @@
+--- 
+:items: 
+- effet: 
+  temps: 699
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Refus de l'appel de Grant.
+  decor_id: 
+- effet: 
+  temps: 717
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "La pr\xC3\xA9sence d'une femme"
+  decor_id: 
+- effet: 
+  temps: 760
+  scale: 8
+  duree: 20
+  lieu: 
+  resume: "O'Brien explique en quoi Grant est l'homme id\xC3\xA9al de la situation."
+  decor_id: 
+- effet: 
+  temps: 840
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Mike Mickael explique qu'il ne passeront pas par le c\xC5\x93ur"
+  decor_id: 
+- effet: 
+  temps: 905
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Perspective de conflit : l'attaque des globules blancs et anticorps"
+  decor_id: 
+- effet: 
+  temps: 930
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Nouveau refus de l'appel
+  decor_id: 
+- effet: 
+  temps: 1058
+  scale: 8
+  duree: 
+  lieu: 
+  resume: "Annonce de ce qu'ils vont faire pendant la sc\xC3\xA8ne courante"
+  decor_id: 
+- effet: 
+  temps: 1253
+  scale: 8
+  duree: 
+  lieu: 
+  resume: Le fusil laser (installation)
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 3
+  duree: 
+  lieu: 
+  resume: L'attentat de Benes
+  decor_id: 
+- effet: 
+  temps: 320
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "La mission "
+  decor_id: 
+- effet: 
+  temps: 960
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Pr\xC3\xA9pation de la mission : installation dans le sous-marin"
+  decor_id: 
+- effet: 
+  temps: 1430
+  scale: 3
+  duree: 
+  lieu: 
+  resume: Miniaturisation
+  decor_id: 
+- effet: 
+  temps: 2190
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "D\xC3\xA9but de la mission dans le corps de Bennes"
+  decor_id: 
+- effet: 
+  temps: 2540
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "Passer par le C\xC5\x92UR"
+  decor_id: 
+- effet: 
+  temps: 3060
+  scale: 3
+  duree: 
+  lieu: 
+  resume: Air insuffisant, faire le plein dans les POUMONS
+  decor_id: 
+- effet: 
+  temps: 3840
+  scale: 3
+  duree: 
+  lieu: 
+  resume: "R\xC3\xA9paration du laser"
+  decor_id: 
+- effet: 
+  temps: 4270
+  scale: 3
+  duree: 
+  lieu: 
+  resume: Passer par l'OREILLE
+  decor_id: 
+- effet: 
+  temps: 4940
+  scale: 3
+  duree: 
+  lieu: 
+  resume: La tumeur du CERVEAU
+  decor_id: 
+- effet: 
+  temps: 5530
+  scale: 3
+  duree: 
+  lieu: 
+  resume: Fin de la mission (les YEUX)
+  decor_id: 
+- effet: 
+  temps: 5760
+  scale: 3
+  duree: 
+  lieu: 
+  resume: FIN
+  decor_id: 
+:dim: FantasticVoyage

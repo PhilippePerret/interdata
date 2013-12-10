@@ -1,0 +1,281 @@
+--- 
+:is_entier: true
+:duree: 208
+:scale: 9
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 8
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 12
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 14
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 15
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 17
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 19
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 21
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 24
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 35
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 41
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 48
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 50
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 54
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 58
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 63
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 65
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 68
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 70
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 74
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 75
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 77
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 79
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 84
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 85
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 87
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 91
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 92
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 93
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 99
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 105
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 107
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 112
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 115
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 119
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 121
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 123
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 126
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 129
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 132
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 137
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 140
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 142
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 145
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 147
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 150
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 151
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 154
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 155
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 160
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 164
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 165
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 169
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 170
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 173
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 176
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 178
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 180
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 186
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 188
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 190
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 192
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 197
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 199
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 201
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 203
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 206
+  :commentaire: 
+- :scale: 9
+  :indice_absolu: 
+  :temps: 208
+  :commentaire: 
+:titre: "Ev\xC3\xA8nemencier atomique de la sc\xC3\xA8ne d'achat des armes"
+:film_dim: TaxiDriver

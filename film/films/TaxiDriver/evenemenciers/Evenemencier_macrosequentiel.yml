@@ -1,0 +1,45 @@
+--- 
+:is_entier: true
+:duree: 6510
+:scale: 3
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 600
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 2225
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 3100
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 3905
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 4345
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 5310
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 6100
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 6510
+  :commentaire: 
+:titre: "\xC3\x89v\xC3\xA8nemencier macro-s\xC3\xA9quentiel"
+:film_dim: TaxiDriver

@@ -1,0 +1,696 @@
+--- 
+:items: 
+- effet: 
+  temps: 740
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Alvin apprend l'attaque cardiaque de son fr\xC3\xA8re Lyle"
+  decor_id: 
+- effet: 
+  temps: 890
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Alvin prend la d\xC3\xA9cision d'aller voir son fr\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 1345
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Plan sur le ciel \xC3\xA9toil\xC3\xA9"
+  decor_id: 
+- effet: 
+  temps: 1350
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Le matin se l\xC3\xA8ve. Le tracteur d'Alvin traverse la rue, passe devant la quincaillerie."
+  decor_id: 
+- effet: 
+  temps: 1940
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Alvin parvient \xC3\xA0 vraiment partir, avec son nouveau tracteur."
+  decor_id: 
+- effet: 
+  temps: 2820
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: Alvin s'abrite sous une grange.
+  decor_id: 
+- effet: 
+  temps: 3040
+  scale: 5
+  duree: 
+  lieu: 
+  resume: Dissertation d'Alvin sur la vieillesse.
+  decor_id: 
+- effet: 
+  temps: 4610
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Le ciel \xC3\xA9toil\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4625
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Les deux jumeaux r\xC3\xA9parent le tracteur d'Alvin."
+  decor_id: 
+- effet: 
+  temps: 4680
+  scale: 5
+  duree: 180
+  lieu: 
+  resume: "Au moment de payer, Alvin fait une r\xC3\xA9vision de la note, et r\xC3\xA9duit de moiti\xC3\xA9 la facture. Alvin profite de la pr\xC3\xA9sence des deux jumeaux pour faire un speech sur les fr\xC3\xA8res. Il re-situe son but, replace l'enjeu (ne pas arriver trop tard), et parle de l'importance de la fratrie. A brother is a brother."
+  decor_id: 
+- effet: 
+  temps: 4860
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Sc\xC3\xA8ne d'adieu entre Alvin et son h\xC3\xB4te. L'annonce du d\xC3\xA9part."
+  decor_id: 
+- effet: 
+  temps: 4910
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Petit matin, Alvin, apr\xC3\xA8s avoir \xC3\xA9t\xC3\xA9 immobilis\xC3\xA9 plusieurs jours, reprend enfin la route."
+  decor_id: 
+- effet: 
+  temps: 5730
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Au beau milieu d'un bois, sur une route o\xC3\xB9 ne passe personne, en face d'une mont\xC3\xA9e, Alvin tombe en panne."
+  decor_id: 
+- effet: 
+  temps: 5765
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Un tracteur passe, qui va aider Alvin \xC3\xA0 atteindre son but (simplement en lui disant de rallumer son moteur, ce qui marche)."
+  decor_id: 
+- effet: 
+  temps: 5900
+  scale: 5
+  duree: 220
+  lieu: 
+  resume: "Alvin est arriv\xC3\xA9 chez Lyle. La maison semble d\xC3\xA9serte. Il l'appelle, personne ne r\xC3\xA9pond. Puis, enfin, il entend son fr\xC3\xA8re. Alvin vient s'assoir, Lyle lui demande, \xC3\xA9mu, s'il a vraiment fait tout ce chemin sur son tracteur. Alvin r\xC3\xA9pond qu'il l'a fait. Ils se regardent, puis tournent le regard vers le ciel. Derri\xC3\xA8re le bleu du ciel, la voute \xC3\xA9toil\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 6100
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Le ciel \xC3\xA9toil\xC3\xA9. G\xC3\xA9n\xC3\xA9rique de fin."
+  decor_id: 
+- effet: 
+  temps: 0
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Vue a\xC3\xA9rienne d'un champ de ma\xC3\xAFs moissonn\xC3\xA9 par une batteuse."
+  decor_id: 
+- effet: 
+  temps: 30
+  scale: 5
+  duree: 24
+  lieu: 
+  resume: "Vue a\xC3\xA9rienne de la ville de Laurens, dans l'Iowa. La rue principale."
+  decor_id: 
+- effet: 
+  temps: 54
+  scale: 5
+  duree: 121
+  lieu: 
+  resume: "Une pelouse devant une maison. Dorothy se fait bronzer tandis que Rosie Straigth sort de chez elle. Dans sa cuisine, Alvin fait une attaque (hors-champ, \xC3\xA0 3:20). Dorothy revient avec \xC3\xA0 manger et \xC3\xA0 boire."
+  decor_id: 
+- effet: 
+  temps: 175
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Bud sort du caf\xC3\xA9 Schlitz, jette un \xC5\x93il. Il dit qu'il va \xE2\x80\x9Cle\xE2\x80\x9D chercher. Sig sort, lui dit qu'ils l'attendent."
+  decor_id: 
+- effet: 
+  temps: 210
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Bud arrive chez Alvin. Dorothy s'en m\xC3\xAAle. Bud l'envoie balader. Bud fait le tour de la maison."
+  decor_id: 
+- effet: 
+  temps: 260
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Bud rentre dans la maison, d\xC3\xA9couvre Alvin allonger au sol. Dorothy panique \xC3\xA0 d\xC3\xA9couvrant Alvin sur le sol. Rosie arrive, panique en d\xC3\xA9couvrant son papa sur le sol. Alvin r\xC3\xA9pond qu'il a juste besoin d'un coup de main pour se relever."
+  decor_id: 
+- effet: 
+  temps: 330
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: Dans sa voiture, Bud conduit Alvin chez le toubib avec Rose. Alvin ne veut pas y aller.
+  decor_id: 
+- effet: 
+  temps: 390
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Une infirmi\xC3\xA8re conduit Alvin dans le cabinet du toubib. Alvin regarde tous les appareils en attendant."
+  decor_id: 
+- effet: 
+  temps: 430
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Rosie parle avec la secr\xC3\xA9taire \xC3\xA0 l'accueil."
+  decor_id: 
+- effet: 
+  temps: 450
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Alvin est torse nu devant le toubib, il ne veut faire aucune radio, aucune analyse. Le toubib s'inqui\xC3\xA8te : si Alvin ne change pas de rythme de vie, les cons\xC3\xA9quences peuvent \xC3\xAAtre graves."
+  decor_id: 
+- effet: 
+  temps: 500
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: "Chez lui, Alvin se rallume un cigare. Il pense. Rose arrive avec une boite \xC3\xA0 oiseaux au toit rouge, elle va en faire une autre au toit bleu. Rose veut savoir ce que le docteur a dit \xC3\xA0 Alvin. Il fait croire qu'il a dit qu'il vivrait centenaire. Rosie est heureuse de l'apprendre. Ils restent un long moment sans rien se dire, tandis que Rosie fait la vaisselle et qu'Alvin se l\xC3\xA8ve. Il annonce qu'il va tondre la pelouse."
+  decor_id: 
+- effet: 
+  temps: 615
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Alvin n'arrive pas \xC3\xA0 d\xC3\xA9marrer son tracteur-tondeuse. Il a toutes les peines du monde pour en descendre."
+  decor_id: 
+- effet: 
+  temps: 650
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Plus tard dans la journ\xC3\xA9e, Alvin r\xC3\xA9pare le moteur alors que Rosie peint le toit de la maison des oiseaux en bleu. Alvin dit qu'il ne pourra pas tondre : il va pleuvoir."
+  decor_id: 
+- effet: 
+  temps: 680
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "Nuit, \xC3\xA0 l'int\xC3\xA9rieur de chez eux. Dehors, l'orage gronde. Alvin et Rose, assis devant la fen\xC3\xAAtre, regarde dehors, ils aiment l'orage. Ils apprennent par Bobby (certainement le cousin de Rose) que Lyle, le fr\xC3\xA8re d'Alvin, vient de faire une attaque."
+  decor_id: 
+- effet: 
+  temps: 765
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: La maison sous l'orage.
+  decor_id: 
+- effet: 
+  temps: 780
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Le lendemain, Alvin passe la tondeuse dehors.
+  decor_id: 
+- effet: 
+  temps: 790
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "\xC3\x80 l'int\xC3\xA9rieur, Rosie est en discussion avec son cousin Bobby. Elle fait allusion \xC3\xA0 leur dispute (on ne sait pas encore que c'est une dispute) qui a eu lieu le 7 juillet 1988, elle parle de leur caract\xC3\xA8re t\xC3\xA9tu, elle se demande ce qu'il va faire. Elle le guette par la fen\xC3\xAAtre, alors qu'il se rallume son cigare."
+  decor_id: 
+- effet: 
+  temps: 830
+  scale: 5
+  duree: 90
+  lieu: 
+  resume: "C'est la nuit, le jet d'eau arrose la pelouse. \xC3\x80 la fen\xC3\xAAtre, Rosie a une vision\xC2\xA0: un ballon arrive, que vient rechercher un jeune enfant. Alvin arrive et lui dit qu'il va partir voir Lyle. Rose lui demande comment il va faire, il ne sait pas encore."
+  decor_id: 
+- effet: 
+  temps: 920
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Rosie fait \xC3\xA0 Alvin l'inventaire des raisons pour lesquels Alvin ne doit pas, ne peut pas aller voir son fr\xC3\xA8re, tandis qu'Alvin est d\xC3\xA9j\xC3\xA0 en train de couper du bois pour sa remorque."
+  decor_id: 
+- effet: 
+  temps: 1000
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Rosie fait les courses pour Alvin. Quiproquo avec la serveuse \xC3\xA0 propos d'une f\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 1055
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Alvin soude sa remorque presque termin\xC3\xA9e."
+  decor_id: 
+- effet: 
+  temps: 1075
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: "Alvin passe acheter de l'essence et le dernier n\xC3\xA9cessaire pour son voyage, dans une quincaillerie o\xC3\xB9 se trouvent tous ses vieux copains. Ils voudraient bien savoir ce qu'il fait. Il n\xC3\xA9gocie l'achat d'un \xE2\x80\x9Cattrapeur\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 1190
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Dans le jardin, Alvin accroche sa remorque \xC3\xA0 son tracteur, sous le regard circonspect de rosie."
+  decor_id: 
+- effet: 
+  temps: 1250
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: "Les silots dress\xC3\xA9s dans la nuit. "
+  decor_id: 
+- effet: 
+  temps: 1255
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "Alvin et Rose sont allong\xC3\xA9s dans le jardin, sous la voute \xC3\xA9toil\xC3\xA9e. Rosie dit que la tondeuse est trop lourde. Alvin r\xC3\xA9p\xC3\xA8te qu'il doit faire ce voyage, par lui-m\xC3\xAAme. Alvin dit \xC3\xA0 Rosie de regarder le ciel, mais c'est elle qu'il regarde, avec contentement. Le ciel \xC3\xA9toil\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1365
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Dans la quincaillerie, Sig commente le passage d'Alvin
+  decor_id: 
+- effet: 
+  temps: 1370
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Les quatre amis sortent dehors pour suivre Alvin \xC3\xA0 pied, lui demandant ce qu'il compte faire. Alvin ne r\xC3\xA9pond pas. Les autre amis s'arr\xC3\xAAtent essouffl\xC3\xA9s d'avoir tant march\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 1405
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "La ligne jaune d\xC3\xA9file \xC3\xA0 c\xC3\xB4t\xC3\xA9 du tracteur d'Alvin. La route est longue, toute droite, sous le ciel nuageux. Il avance, lentement."
+  decor_id: 
+- effet: 
+  temps: 1465
+  scale: 5
+  duree: 5
+  lieu: 
+  resume: Une moissonneuse dans un champ
+  decor_id: 
+- effet: 
+  temps: 1470
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Alvin continue d'avancer le long des champs.
+  decor_id: 
+- effet: 
+  temps: 1490
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Il passe au bord d'une maison Il salue la m\xC3\xA8re et l'enfant."
+  decor_id: 
+- effet: 
+  temps: 1515
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Un peu plus loin, Alvin attrape une saucisse et la mange. Laurens s'\xC3\xA9loigne derri\xC3\xA8re lui."
+  decor_id: 
+- effet: 
+  temps: 1530
+  scale: 5
+  duree: 135
+  lieu: 
+  resume: "Des champs \xC3\xA0 perte de vue, Alvin avance, les grottes sont \xC3\xA0 5 miles. Un camion passe, faisant voler le chapeau d'Alvin. Il s'arr\xC3\xAAte pour le ramasser. Mais lorsqu'il veut repartir, le tracteur ne red\xC3\xA9marre pas."
+  decor_id: 
+- effet: 
+  temps: 1665
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Alvin fait du stop \xC3\xA0 c\xC3\xB4t\xC3\xA9 de son tracteur. Un car de touristes s'arr\xC3\xAAte et le monte."
+  decor_id: 
+- effet: 
+  temps: 1715
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Dans le bus on l'accueille en se moquant un peu. Le bus d\xC3\xA9marre, abandonnant le tracteur."
+  decor_id: 
+- effet: 
+  temps: 1750
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Alvin, sur son camion charg\xC3\xA9 sur une remorque, revient (\xC3\xA0 Laurens)."
+  decor_id: 
+- effet: 
+  temps: 1760
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Dans la quincaillerie, Sig appelle les autres en voyant Alvin passer dans la remorque. \xE2\x80\x9CPauvre Alvin\xE2\x80\x9D\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 1785
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: Chez eux, Rosie mange avec Dorothy quand Alvin arrive avec son fusil. Les deux femmes le regardent sans comprendre. Dehors, Alvin tire sur son tracteur, comme sur un vieux cheval. Le tracteur explose.
+  decor_id: 
+- effet: 
+  temps: 1835
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: "Alvin vient acheter un tracteur neuf chez John Deere. Il lui laisse pour 325 dollars. Alvin s'en va sur son petit tracteur, passant entre les grosses machine. "
+  decor_id: 
+- effet: 
+  temps: 1935
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Rosie regarde Alvin repartir.
+  decor_id: 
+- effet: 
+  temps: 1955
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Alvin sur la route. Cette fois, il visse bien son chapeau sur sa t\xC3\xAAte."
+  decor_id: 
+- effet: 
+  temps: 1965
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Alvin passe devant les grottes.
+  decor_id: 
+- effet: 
+  temps: 1975
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Une longue route sous le ciel d'orage. Alvin s'est arr\xC3\xAAt\xC3\xA9 pour ramasser du bois sec."
+  decor_id: 
+- effet: 
+  temps: 2010
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Alvin a fait un feu, le soleil se couche.
+  decor_id: 
+- effet: 
+  temps: 2035
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Alvin roule. Il rencontre une auto-stoppeuse, qui ne r\xC3\xA9pond pas \xC3\xA0 son signe de main."
+  decor_id: 
+- effet: 
+  temps: 2090
+  scale: 5
+  duree: 570
+  lieu: 
+  resume: "C'est le soir, Alvin est devant son feu. L'auto-stoppeuse, Crystal, arrive. Il l'invite \xC3\xA0 manger. Ils mangent, en silence. Ils parlent de la famille. Alvin comprend qu'elle est en fugue, et qu'elle est enceinte. Il lui raconte ce qu'il va faire, \xC3\xA0 Mount Zion. (43:45) Insert de la chambre alors qu'Alvin raconte comment les enfants de Rosie lui ont \xC3\xA9t\xC3\xA9 enlev\xC3\xA9s. Puis la sc\xC3\xA8ne de la balle et du gar\xC3\xA7on qui vient la chercher. Alvin raconte l'all\xC3\xA9gorie du fagot de brindilles, solide comme la famille.  Il l'invite \xC3\xA0 dormir. Alvin va se coucher, Crystal l'aide \xC3\xA0 se relever."
+  decor_id: 
+- effet: 
+  temps: 2660
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Le jour se l\xC3\xA8ve, Alvin aussi. Dehors, Crystal est partie, elle a juste laiss\xC3\xA9 un fagot de brindilles."
+  decor_id: 
+- effet: 
+  temps: 2725
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: Alvin sur la route.
+  decor_id: 
+- effet: 
+  temps: 2760
+  scale: 5
+  duree: 115
+  lieu: 
+  resume: Alvin est surpris par la pluie. Il va s'abriter sous une vieille grange, regarde les champs sous la pluie en rallumant son cigare.
+  decor_id: 
+- effet: 
+  temps: 2875
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Le beau temps est revenu, des champs \xC3\xA0 l'horizon (vues a\xC3\xA9riennes)"
+  decor_id: 
+- effet: 
+  temps: 2900
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Alvin passe devant le soleil qui se l\xC3\xA8ve."
+  decor_id: 
+- effet: 
+  temps: 2915
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Une moissonneuse dans les champs (vue a\xC3\xA9rienne)."
+  decor_id: 
+- effet: 
+  temps: 2925
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "Alvin sur la route, une exp\xC3\xA9dition cycliste le croise. Il s'arr\xC3\xAAte pour la regarder passer."
+  decor_id: 
+- effet: 
+  temps: 3010
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Le soir, Alvin arrive dans le camping des cyclistes. Tout le monde le salue.
+  decor_id: 
+- effet: 
+  temps: 3020
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Il fait nuit. Alvin parle de la vieillesse avec deux jeunes hommes, l'un compr\xC3\xA9hensif, l'autre indiff\xC3\xA9rent et moqueur."
+  decor_id: 
+- effet: 
+  temps: 3095
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: Alvin arrive en ville sous la pluie. De gros camions le doublent.
+  decor_id: 
+- effet: 
+  temps: 3140
+  scale: 5
+  duree: 170
+  lieu: 
+  resume: "Il fait beau, Alvin, sur la route, assiste \xC3\xA0 un accident. Une automobiliste affol\xC3\xA9e vient d'\xC3\xA9craser un daim. Elle est hyst\xC3\xA9rique, explique que \xC3\xA7a n'arrive pas d'arriver, qu'elle a d\xC3\xA9j\xC3\xA0 \xC3\xA9cras\xC3\xA9 13 daims alors qu'elle a tout essay\xC3\xA9. La femme partie, Alvin vient soulever la t\xC3\xAAte du daim du pied."
+  decor_id: 
+- effet: 
+  temps: 3310
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Au bord du feu, Alvin fait chauffer la viande du daim, \xC3\xA0 c\xC3\xB4t\xC3\xA9 de statues de daim dont il se cache. Il a attach\xC3\xA9 les bois du daim \xC3\xA0 sa remorque. Noir."
+  decor_id: 
+- effet: 
+  temps: 3345
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: Alvin a repris la route.
+  decor_id: 
+- effet: 
+  temps: 3365
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Une moissonneuse dans un champ, des arbres (vues a\xC3\xA9riennes)."
+  decor_id: 
+- effet: 
+  temps: 3390
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Une maison en feu. Des autochtones assistent sur des transats \xC3\xA0 l'entrainement des pompiers."
+  decor_id: 
+- effet: 
+  temps: 3420
+  scale: 5
+  duree: 175
+  lieu: 
+  resume: "Alvin arrive dans une cote dangereuse. Il semble avoir un probl\xC3\xA8me m\xC3\xA9canique. Ses freins ne semblent plus r\xC3\xA9pondre, le tracteur descend, \xC3\xA0 toute allure, les autochtones l'aper\xC3\xA7oivent. Alvin passe devant la maison en feu et parvient \xC3\xA0 s'arr\xC3\xAAter in extremis devant la maison en feu. Ils font connaissance. Tout le monde s'y met pour d\xC3\xA9gager le tracteur."
+  decor_id: 
+- effet: 
+  temps: 3595
+  scale: 5
+  duree: 155
+  lieu: 
+  resume: "Ils conduisent le tracteur jusque chez les Riordan, qui se met \xC3\xA0 examiner en connaisseur la tondeuse. Le verdict tombe :  probl\xC3\xA8me de transmission. Ils sont estomqu\xC3\xA9s d'apprendre qu'Alvin vient de l'Iowa, il a voyag\xC3\xA9 pendant 5 semaines avec sa tondeuse, a dormi dans sa remorque."
+  decor_id: 
+- effet: 
+  temps: 3750
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: Les Riordan installent un auvent pour Alvin.
+  decor_id: 
+- effet: 
+  temps: 3785
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "C'est la nuit, Alvin s'allume un cigare et contemple le ciel \xC3\xA9toil\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3825
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Le lendemain, Alvin compte son argent. Quelques dollars. Il r\xC3\xA9fl\xC3\xA9chit."
+  decor_id: 
+- effet: 
+  temps: 3860
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Alvin vient demander \xC3\xA0 t\xC3\xA9l\xC3\xA9phone. Il veut t\xC3\xA9l\xC3\xA9phoner de dehors."
+  decor_id: 
+- effet: 
+  temps: 3930
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: Alvin appelle Rose, ravie de l'entendre.
+  decor_id: 
+- effet: 
+  temps: 3945
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: "Danny Riordan rejoint sa femme dans la cuisine. Ils parlent d'Alvin tandis qu'en parall\xC3\xA8le se poursuit le coup de fil entre Rosie et Alvin."
+  decor_id: 
+- effet: 
+  temps: 4045
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Alvin a redonn\xC3\xA9 le t\xC3\xA9l\xC3\xA9phone, avec quatre dollars."
+  decor_id: 
+- effet: 
+  temps: 4055
+  scale: 5
+  duree: 105
+  lieu: 
+  resume: "Diordan vient trouver Alvin alors qu'il se pr\xC3\xA9pare un caf\xC3\xA9. Danny vient parler de la r\xC3\xA9paration \xC3\xA0 Alvin. Il se propose de conduire Alvin, mais Alvin refuse : il finira \xC3\xA0 sa fa\xC3\xA7on. Danny a beau essayer de le dissuader, Alvin est t\xC3\xAAtu."
+  decor_id: 
+- effet: 
+  temps: 4160
+  scale: 5
+  duree: 65
+  lieu: 
+  resume: "Un vieux voisin vient trouver Alvin. On lui a apport\xC3\xA9 des brownies. Le voisin propose une bi\xC3\xA8re, Alvin accepte de le suivre."
+  decor_id: 
+- effet: 
+  temps: 4225
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: Alvin et le voisin se rendent en voiture en ville.
+  decor_id: 
+- effet: 
+  temps: 4240
+  scale: 5
+  duree: 350
+  lieu: 
+  resume: "Accoud\xC3\xA9s au comptoir, les deux hommes se confient. Alvin parle de son alcoolisme pour oublier la guerre. Le voisin finit par se confier, lui aussi, en racontant la longue histoire de son incident de guerre, fondant en larmes. Alvin \xC3\xA9tait snipper. Alvin raconte comment il a abattu un des siens, et se met \xC3\xA0 pleurer lui aussi."
+  decor_id: 
+- effet: 
+  temps: 4590
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "C'est la nuit, Alvin r\xC3\xA9fl\xC3\xA9chit. Il l\xC3\xA8ve les yeux vers le ciel \xC3\xA9toil\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 4960
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: Alvin traverse la ville.
+  decor_id: 
+- effet: 
+  temps: 4985
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Alvin traverse la verdure du Wisconsin. Les prairies et les bois ont remplac\xC3\xA9 les champs de ma\xC3\xAFs. Vue a\xC3\xA9riennes sur d'autres champs de ma\xC3\xAFs. Alvin passe un croisement. Le mississipi"
+  decor_id: 
+- effet: 
+  temps: 5065
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: Alvin franchit le Mississippi.
+  decor_id: 
+- effet: 
+  temps: 5140
+  scale: 5
+  duree: 340
+  lieu: 
+  resume: "Un cimeti\xC3\xA8re, de nuit. Le cur\xC3\xA9 apporte \xC3\xA0 manger \xC3\xA0 Alvin. Il a d\xC3\xA9j\xC3\xA0 mang\xC3\xA9, mais lui demande de rester un moment avec lui. Le cur\xC3\xA9 connait le fr\xC3\xA8re, il l'a vu \xC3\xA0 l'h\xC3\xB4pital, mais ne sait rien de plus. Alvin raconte son enfance avec Lyle. Il raconte vaguement ce qui les a s\xC3\xA9par\xC3\xA9s."
+  decor_id: 
+- effet: 
+  temps: 5480
+  scale: 5
+  duree: 147
+  lieu: 
+  resume: "Alvin, sur son tracteur, s'arr\xC3\xAAte \xC3\xA0 une pompe. Il entre dans le bar d\xC3\xA9sert o\xC3\xB9 l'attend d\xC3\xA9j\xC3\xA0 le barman, incr\xC3\xA9dule. Alvin prend une bi\xC3\xA8re. Le barman lui indique la route."
+  decor_id: 
+- effet: 
+  temps: 5627
+  scale: 5
+  duree: 28
+  lieu: 
+  resume: "Alvin reste bloqu\xC3\xA9, sur son tracteur. Il attend. C'est alors qu'un tracteur passe. Le chauffeur lui dit d'essayer de red\xC3\xA9marrer. Alvin essaie, il y parvient."
+  decor_id: 
+- effet: 
+  temps: 5655
+  scale: 5
+  duree: 245
+  lieu: 
+  resume: "Alvin roule le long de la route. Il se glisse entre les arbres, descend une pente. Arriv\xC3\xA9e au bas de la colline, son moteur cale."
+  decor_id: 
+- effet: 
+  temps: 6120
+  scale: 5
+  duree: -40
+  lieu: 
+  resume: "G\xC3\xA9n\xC3\xA9rique fin sur l'ascension vers les \xC3\xA9toiles."
+  decor_id: 
+:dim: TheStraightStory

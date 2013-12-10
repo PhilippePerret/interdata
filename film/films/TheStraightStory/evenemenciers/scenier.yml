@@ -1,0 +1,365 @@
+--- 
+:is_entier: true
+:duree: 6180
+:scale: 5
+:is_brin: false
+:film_id: 147
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 30
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 54
+  :commentaire: "\xC3\x80 noter l'effet incroyable que produit le mouvement de la grue sur la musique qui s'est arr\xC3\xAAt\xC3\xA9e. Effet inqui\xC3\xA9tant, comme un monstre (la mort \xC3\xA0 coup s\xC3\xBBr), qui r\xC3\xB4de au-dessus de nos t\xC3\xAAtes."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 175
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 210
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 260
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 330
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 390
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 430
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 450
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 500
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 615
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 650
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 680
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 765
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 780
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 790
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 830
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 920
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1000
+  :commentaire: "Quel talent dans cette mise en sc\xC3\xA8ne !"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1055
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1075
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1190
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1250
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1255
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1365
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1370
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1405
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1465
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1470
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1490
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1515
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1530
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1665
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1715
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1750
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1785
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1835
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1935
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1955
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1965
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1975
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2010
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2035
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2090
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2660
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2725
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2875
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2900
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2925
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3010
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3020
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3095
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3140
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3310
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3345
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3365
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3390
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3420
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3595
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3750
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3785
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3825
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3860
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3930
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3945
+  :commentaire: "On peut pas s'emp\xC3\xAAcher de voir une petite prouesse de la part de Lynch, ici, qui n'avait nullement besoin d'entrelacer ces trois lieux, si ce n'est pour les entrelacer. Il choisit justement deux sc\xC3\xA8nes dont une est d\xC3\xA9j\xC3\xA0 une difficult\xC3\xA9 en soi : un coup de fil avec deux lieux distincts. ;-)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4045
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4055
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4160
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4225
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4240
+  :commentaire: "Au cours du dernier speech d'Alvin, le plan dure presque 2 minutes sans interruption et se termine par les larmes d'Alvin, sans montage. C'est une prouesse de tournage incroyable qui ajoute encore \xC3\xA0 l'\xC3\xA9motion de cette sc\xC3\xA8ne."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4590
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4680
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4860
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4910
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4960
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4985
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5065
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5140
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5480
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5627
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5655
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5900
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6120
+  :commentaire: 
+:titre: "Sc\xC3\xA9nier du film (hors g\xC3\xA9n\xC3\xA9rique)"
+:film_dim: TheStraightStory

@@ -1,0 +1,469 @@
+--- 
+:is_entier: true
+:duree: 8850
+:scale: 5
+:is_brin: false
+:film_id: 74
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 26
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 108
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 165
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 180
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 236
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 300
+  :commentaire: "Note : \xC3\x89milie est la nouvelle femme de Riton, mais on ne l'apprendra que plus tard."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 325
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 360
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 375
+  :commentaire: "Allusion au \xE2\x80\x9Clivre\xE2\x80\x9D (un almanach de 1921)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 435
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 455
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 505
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 525
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 670
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 710
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 740
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 795
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 915
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 955
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1000
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1070
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1100
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1140
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1495
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1535
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1615
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1780
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1810
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1825
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1850
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1855
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1930
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2050
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2085
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2090
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2250
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2300
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2610
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2665
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2705
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2770
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2885
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2903
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2990
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3000
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3035
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3055
+  :commentaire: "Note : il s'agit de Paul Doumer, on doit donc \xC3\xAAtre le 7 mai 1932, le lendemain de son assassinat."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3090
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3115
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3150
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3280
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3320
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3410
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3450
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3505
+  :commentaire: "On ne peut s'emp\xC3\xAAcher de repenser \xC3\xA0 la toute premi\xC3\xA8re sc\xC3\xA8ne dans la bois, de la cueillette du muguet."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3545
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3665
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3705
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3760
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3790
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3800
+  :commentaire: "On peut remarquer comment les auteurs font sortir Marie rapidement pour ne pas \xC3\xA9terniser une situation qui aurait pu s'\xC3\xA9terniser\xC2\xA0: le clocher sonne, et elle dit qu'elle est en retard, elle doit partir pr\xC3\xA9cipitamment."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3960
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4005
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4080
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4170
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4200
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4275
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4330
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4480
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4545
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4625
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4705
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4775
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4860
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4885
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4925
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5005
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5045
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5080
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5130
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5195
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5255
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5290
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5345
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5365
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5390
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5485
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5520
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5550
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5670
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5710
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5750
+  :commentaire: "\xC3\x87a fait r\xC3\xA9f\xC3\xA9rence au probl\xC3\xA8me pos\xC3\xA9 lors de la premi\xC3\xA8re sc\xC3\xA8ne chez les Richard, o\xC3\xB9 Catherine \xC3\xA9tait amoureuse d'un certain Lucien qui n'\xC3\xA9tait pas de sa condition. Bizarre ce qui en est dit ici\xE2\x80\xA6 puisqu'on s'attendrait \xC3\xA0 ce que ce Lucien ait \xC3\xA9t\xC3\xA9 remplac\xC3\xA9 par le Lucien dont ils parlent justement ici."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5820
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5874
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5890
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5935
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5970
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6025
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6030
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6065
+  :commentaire: "\xC3\x80 noter la musique, sereine, qui ne pousse en rien la situation vers le m\xC3\xA9lodrame. La mort fait partie de la vie."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6105
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6120
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6125
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6165
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6205
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6272
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6365
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6395
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6410
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6435
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6445
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6450
+  :commentaire: 
+:titre: "Sc\xC3\xA9nier"
+:film_dim: LesEnfantsDuMarais

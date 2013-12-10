@@ -1,0 +1,535 @@
+--- 
+:items: 
+- effet: 
+  temps: 455
+  scale: 5
+  duree: 130
+  lieu: 
+  resume: "Nuit. ANTHONY et PETER WATERS, deux blacks \xC3\xA0 l'apparence tout \xC3\xA0 fait tranquilles sortent d'un restaurant. Anthony s'\xC3\xA9nerve en se plaignant du raciste dont ils ont \xC3\xA9t\xC3\xA9 victimes. \xC3\x87a fait marrer Peter. Ils croisent le Procureur RICHARD \xE2\x80\x9CRICK\xE2\x80\x9D CABOT et sa femme JEAN. Anthony n'aime pas le regard de la femme, ils sortent leurs armes, braquent le couple et leur vole leur 4x4."
+  decor_id: 
+- effet: 
+  temps: 585
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Dans le 4x4 braqu\xC3\xA9, Peter pose un Saint-Christophe sur le tableau de bord. Anthony lui demande de retirer ce truc Vaudou, \xC3\xA0 cause des empreintes."
+  decor_id: 
+- effet: 
+  temps: 1765
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Dans le 4x4 braqu\xC3\xA9 des Cabots, Anthony et Peter se prennent la t\xC3\xAAte sur les chansons. Anthony reproche aux blacks de mal se traiter dans le hip-hop et Peter reproche au country d'\xC3\xAAtre raciste."
+  decor_id: 
+- effet: 
+  temps: 1825
+  scale: 5
+  duree: 90
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente) Alors que Peter chante \xC3\xA0 tue-t\xC3\xAAte et qu'Anthony continue de philosophie, ils percutent Choi, le vieux cor\xC3\xA9en, sorti de sa camionnette. Il est en sang sous le 4x4, les deux blacks ne savent pas quoi faire."
+  decor_id: 
+- effet: 
+  temps: 2025
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Les voleurs \xC3\xA0 la tire black d\xC3\xA9posent Choi devant les urgences."
+  decor_id: 
+- effet: 
+  temps: 2125
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Peter et Anthony veulent obtenir d'un garagiste (forc\xC3\xA9ment louche) qu'il leur nettoie le 4x4. Le garagiste se lance alors dans un speech sur les talents de la police scientifique, et les jette avec leur v\xC3\xA9hicule."
+  decor_id: 
+- effet: 
+  temps: 2465
+  scale: 5
+  duree: 40
+  lieu: 
+  resume: "Peter et Anthony sortent de chez eux, dans un quartier pauvre. Anthony reproche \xC3\xA0 Peter de saluer un voleur de vieilles dames. Ils montent dans la voiture, mais elle ne d\xC3\xA9marre pas."
+  decor_id: 
+- effet: 
+  temps: 2535
+  scale: 5
+  duree: 52
+  lieu: 
+  resume: "Alors que, sur le trottoir, Peter va appeler le bus, Anthony lui demande ce qu'il fait, lui expliquant que s'il y a de grandes fen\xC3\xAAtre dans les bus, c'est pour humilier les noirs\xE2\x80\xA6 Peter prend tout \xC3\xA7a \xC3\xA0 la rigolade."
+  decor_id: 
+- effet: 
+  temps: 4225
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Alors que le r\xC3\xA9alisateur Cameron Thayer reste fig\xC3\xA9 dans sa voiture, nerveux, Peter et Anthony le braquent. Cameron, au bout du rouleau, se jettent sur eux et se met \xC3\xA0 tabasser Anthony. Peter, le flingue \xC3\xA0 la main, reste incapable de tirer. Une voiture de flic arrivant, Peter lib\xC3\xA8re Anthony et se sauve. Anthony et Cameron remontent dans le 4x4, s'exhortant tout deux \xC3\xA0 descendre, et Cameron finit par d\xC3\xA9marrer le v\xC3\xA9hicule et se tire. Une poursuite s'engage\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4300
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente) L'officier Hansen s'est joint \xC3\xA0 la poursuite du Navigator de Cameron, qui se retrouve bient\xC3\xB4t coinc\xC3\xA9 devant une porte de garage."
+  decor_id: 
+- effet: 
+  temps: 4335
+  scale: 5
+  duree: 240
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente) La sc\xC3\xA8ne qui aurait pu tourner au cauchemar (Cameron \xC3\xA0 bout et arm\xC3\xA9) est sauv\xC3\xA9e par le jeune Tom Hansen qui s'interpose et r\xC3\xA9ussit \xC3\xA0 raisonner ses coll\xC3\xA8gues aussi bien que Cameron. Les armes sont rang\xC3\xA9es, on laisse le r\xC3\xA9alisateur repartir avec un avertissement."
+  decor_id: 
+- effet: 
+  temps: 4575
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente) Cameron d\xC3\xA9pose Anthony au bord du trottoir. Il lui rend son arme, en lui disant qu'il se met dans la merde autant que lui. Sceptique, Anthony quitte le v\xC3\xA9hicule."
+  decor_id: 
+- effet: 
+  temps: 5275
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: Anthony, dans un bus, descend en apercevant  quelque chose dehors.
+  decor_id: 
+- effet: 
+  temps: 5320
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Anthony monte dans la camionnette du cor\xC3\xA9en Choi et la d\xC3\xA9marre."
+  decor_id: 
+- effet: 
+  temps: 5395
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Alors qu'Anthony essaie de fourguer la camionnette au garagiste Lucien, ils d\xC3\xA9couvrent des asiatiques, femmes et enfants, entass\xC3\xA9s \xC3\xA0 l'arri\xC3\xA8re du v\xC3\xA9hicule. Lucien se montre soudain int\xC3\xA9ress\xC3\xA9 par l'affaire, sachant qu'il pourra revendre chaque t\xC3\xAAte au moins 500 dollars."
+  decor_id: 
+- effet: 
+  temps: 6070
+  scale: 5
+  duree: 170
+  lieu: 
+  resume: "\xC3\x80 broadway, Anthony, qui a gard\xC3\xA9 sa camionnette, lib\xC3\xA8re les occupant asiatique et leur donne 40 dollars pour s'acheter \xC3\xA0 manger. Aussit\xC3\xB4t apr\xC3\xA8s, Shaniqua Jonhson, l'infirmi\xC3\xA8re, se fait emboutir l'arri\xC3\xA8re de sa voiture. Le film s'ach\xC3\xA8ve sur la neige tombant sur Los Angeles."
+  decor_id: 
+- effet: 
+  temps: 6240
+  scale: 5
+  duree: 
+  lieu: 
+  resume: "Noir. G\xC3\xA9n\xC3\xA9rique"
+  decor_id: 
+- effet: 
+  temps: 950
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Studio City. Ryan rejoint son jeune coll\xC3\xA8gue (l'officier TOM \xE2\x80\x9CTOMMY\xE2\x80\x9D HANSEN).  Apr\xC3\xA8s avoir entendu l'annonce du vole du 4x4, John Ryan prend en filature un Navigator, malgr\xC3\xA9 la certitude que ce n'est pas le v\xC3\xA9hicule braqu\xC3\xA9. \xC3\x80 l'int\xC3\xA9rieur, les deux flics voient la femme (CHRISTINE THAYER) se redresser alors qu'elle faisait une fellation au chauffeur."
+  decor_id: 
+- effet: 
+  temps: 1000
+  scale: 5
+  duree: 275
+  lieu: 
+  resume: "(suite de la pr\xC3\xA9c\xC3\xA9dente). Ryan et Hansen proc\xC3\xA8de au contr\xC3\xB4le du v\xC3\xA9hicule. Ryan, passablement \xC3\xA9nerv\xC3\xA9 par l'humeur joyeuse de Christine et son mari CAMERON THAYER, r\xC3\xA9alisateur, il finit par humilier le couple et profitant d'une palpation de s\xC3\xA9curit\xC3\xA9 pour caresser la femme entre les cuisses devant son mari impuissant, qui doit m\xC3\xAAme s'excuser pour que les flics les laissent repartir."
+  decor_id: 
+- effet: 
+  temps: 1350
+  scale: 5
+  duree: 110
+  lieu: 
+  resume: "Dans leur chambre, Christine renonce \xC3\xA0 appeler la police et exprime tout le m\xC3\xA9pris qu'elle a pour l'attitude de son mari Cameron."
+  decor_id: 
+- effet: 
+  temps: 2587
+  scale: 5
+  duree: 93
+  lieu: 
+  resume: "Alors qu'il \xE2\x80\x9Ccasse\xE2\x80\x9D un plan, le r\xC3\xA9alisateur Cameron Thayer se fait rappeler \xC3\xA0 l'ordre par son FRED, premier assistant, qui lui fait comprendre que Cameron se prend pour le personnage et manque de vigilance quant \xC3\xA0 l'accent de l'acteur qui le joue. Cameron se laisse convaincre et demande une nouvelle prise."
+  decor_id: 
+- effet: 
+  temps: 3075
+  scale: 5
+  duree: 105
+  lieu: 
+  resume: "Christine Thayer est venu trouver son mari Cameron sur son plateau de tournage. Elle s'excuse, en larmes, pour son comportement avec les flics, elle aurait d\xC3\xBB se taire. Mais elle n'a pas support\xC3\xA9 de voir Cameron perdre toute dignit\xC3\xA9. Cameron confirme, habit\xC3\xA9\xC2\xA0: ils lui ont retir\xC3\xA9 toute dignit\xC3\xA9, et il laisse Christine en plan."
+  decor_id: 
+- effet: 
+  temps: 3395
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Le plateau de t\xC3\xA9l\xC3\xA9vision, en plein tournage de sc\xC3\xA8ne. Cameron semble ailleurs."
+  decor_id: 
+- effet: 
+  temps: 3470
+  scale: 5
+  duree: 350
+  lieu: 
+  resume: "L'officier John Ryan sauve Christine Thayer coinc\xC3\xA9e dans sa voiture retourn\xC3\xA9e et mang\xC3\xA9e par les flammes. Le raciste aux mains baladeuses se transforme en h\xC3\xA9ros."
+  decor_id: 
+- effet: 
+  temps: 5900
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Cameron s'arr\xC3\xAAte pour regarder la neige commencer \xC3\xA0 tomber."
+  decor_id: 
+- effet: 
+  temps: 5945
+  scale: 5
+  duree: 70
+  lieu: 
+  resume: "Alors que Cameron s'approche de la voiture en feu de Hansen, il re\xC3\xA7oit un appel de chez lui. C'est Christine, il lui dit qu'il l'aime. \xC3\x87a la fait rire de bonheur."
+  decor_id: 
+- effet: 
+  temps: 690
+  scale: 5
+  duree: 145
+  lieu: 
+  resume: "Chez le procureur Rick Cabot, DANIEL, serrurier mexicain, installe une nouvelle serrure. Jean vient demander \xC3\xA0 son mari, qui est avec son staff de campagne, de  rechanger les serrures d\xC3\xA8s le lendemain. Jean finit par s'\xC3\xA9nerver contre l'indiff\xC3\xA9rence de Rick et accuse le serrurier d'\xC3\xAAtre un voyou."
+  decor_id: 
+- effet: 
+  temps: 1460
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Daniel rentre chez lui, il est tard. Il aper\xC3\xA7oit la lumi\xC3\xA8re encore allum\xC3\xA9 sous la porte de la chambre de sa fille."
+  decor_id: 
+- effet: 
+  temps: 1480
+  scale: 5
+  duree: 260
+  lieu: 
+  resume: "Apr\xC3\xA8s avoir d\xC3\xA9couvert sa fille LARA cach\xC3\xA9e sous le lit, Daniel, pour la rassurer, lui remet son \xE2\x80\x9Cmanteau magique\xE2\x80\x9D invisible \xC3\xA0 l'\xC3\xA9preuve des balles, qu'une f\xC3\xA9e lui avait remis."
+  decor_id: 
+- effet: 
+  temps: 1740
+  scale: 5
+  duree: 12
+  lieu: 
+  resume: "Quand Daniel referme la porte de la chambre, son bipper sonne. Il soupire. Encore du boulot\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 1752
+  scale: 5
+  duree: 13
+  lieu: 
+  resume: "Daniel red\xC3\xA9marre sa camionnette et repart."
+  decor_id: 
+- effet: 
+  temps: 2040
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "Dans le magasin perse, Daniel le serrurier essaie de faire comprendre \xC3\xA0 Farhad qu'il doit changer sa porte. Farhad, qui ne comprend pas, pense que le serrurier essaie de l'arnaquer. \xC3\x80 bout, Daniel finit par partir sans demander son paiement."
+  decor_id: 
+- effet: 
+  temps: 2836
+  scale: 5
+  duree: 59
+  lieu: 
+  resume: "Farhad, le vendeur perse, essaie d'obtenir de la compagnie de serrure le nom du serrurier qui est venu chez lui. Sa fille Dorri arrive et d\xC3\xA9couvre le carnage. Sa m\xC3\xA8re, en train de nettoyer une inscription les traitant d'arabes, se d\xC3\xA9sole en demandant depuis quand les perses sont des arabes. Dorri s'inqui\xC3\xA8te tout \xC3\xA0 coup pour l'arme mais la trouve \xC3\xA0 sa place, soulag\xC3\xA9e. Farhad n'obtient pas le nom du serrurier, on lui raccroche au nez."
+  decor_id: 
+- effet: 
+  temps: 3180
+  scale: 5
+  duree: 105
+  lieu: 
+  resume: "Le monde s'\xC3\xA9croule pour Farhad quand l'assureur, venu constater les d\xC3\xA9g\xC3\xA2t, lui dit que l'assurance ne couvrira rien. Le serrurier avait dit \xC3\xA0 Farhad de changer sa porte, pour eux, il y a eu n\xC3\xA9gligence. Quand Dorri demande \xC3\xA0 son p\xC3\xA8re si \xC3\xA7a va, il acquiesce, mais on sent qu'il ressent exactement le contraire."
+  decor_id: 
+- effet: 
+  temps: 3410
+  scale: 5
+  duree: 60
+  lieu: 
+  resume: "Farhad retrouve le nom du serrurier sur le devis froiss\xC3\xA9 jet\xC3\xA9 dans la poubelle."
+  decor_id: 
+- effet: 
+  temps: 4195
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Farhad se rend dans le quartier de Daniel le serrurier, et attend dans sa voiture alors que Lara rentre de l'\xC3\xA9cole et saute dans les bras de sa m\xC3\xA8re (Elizabeth)."
+  decor_id: 
+- effet: 
+  temps: 4630
+  scale: 5
+  duree: 170
+  lieu: 
+  resume: "Alors que Daniel rentre chez lui, il se fait braquer par Farhad. Lara, la fille de Daniel, pensant le prot\xC3\xA9ger de son manteau magique, se jette dans ses bras au moment m\xC3\xAAme o\xC3\xB9 Farhad tire. Pendant un instant, on pense que la fillette a \xC3\xA9t\xC3\xA9 touch\xC3\xA9e. Daniel et sa femme Elizabeth hurle. Mais Lara est toujours vivante. Le couple rentre avec leur enfant, en laissant Farhad au milieu du trottoir, encore sous le coup."
+  decor_id: 
+- effet: 
+  temps: 5885
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Chez Daniel, sa femme Elisabeth est endormie avec Lara. Daniel songe, appuy\xC3\xA9 \xC3\xA0 la fen\xC3\xAAtre."
+  decor_id: 
+- effet: 
+  temps: 170
+  scale: 5
+  duree: 175
+  lieu: 
+  resume: "Une sc\xC3\xA8ne d'accident. Le lieutenant noir GRAHAM WATERS et sa coll\xC3\xA8gue RIA, alors qu'ils arrivaient sur une sc\xC3\xA8ne de crime, ont percut\xC3\xA9 la voiture d'une femme cor\xC3\xA9enne. Tandis que Ria va s'expliquer violemment avec KIM LEE, la Cor\xC3\xA9enne, Graham rejoint la sc\xC3\xA8ne de crime. Il est profond\xC3\xA9ment troubl\xC3\xA9 par ce qu'il d\xC3\xA9couvre (hors-champ)."
+  decor_id: 
+- effet: 
+  temps: 890
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Dans un bus-restaurant, un jeune cor\xC3\xA9en remet \xC3\xA0 un plus vieux une enveloppe. \xC3\x80 proximit\xC3\xA9, L'officier JOHN RYAN est au t\xC3\xA9l\xC3\xA9phone avec la clinique qui suit son p\xC3\xA8re. John voudrait trouver une solution pour son p\xC3\xA8re qui ne peut plus dormir \xC3\xA0 cause de ses fuites urinaires. Devant l'apparente indiff\xC3\xA9rence de l'infirmi\xC3\xA8re en chef SHANIQUA JONSHON, John Ryan l'insulte de fa\xC3\xA7on raciste."
+  decor_id: 
+- effet: 
+  temps: 940
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "John Rayan sort du bus-restaurant. Devant lui passe la camionnette conduite par le vieux cor\xC3\xA9en."
+  decor_id: 
+- effet: 
+  temps: 5335
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: "Kim Lee fait irruption \xC3\xA0 l'h\xC3\xB4pital \xC3\xA0 la recherche de son mari."
+  decor_id: 
+- effet: 
+  temps: 5345
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "Kim lee, \xC3\xA9mue aux larmes, retrouve son Choi dans un lit d'h\xC3\xB4pital. Il lui donne le ch\xC3\xA8que et lui dit de l'encaisser tout de suite."
+  decor_id: 
+- effet: 
+  temps: 352
+  scale: 5
+  duree: 103
+  lieu: 
+  resume: "DORRI, belle jeune persane, a accompagn\xC3\xA9 son p\xC3\xA8re FARHAD chez un armurier pour acheter une arme. L'armurier (raciste), en a marre de leur tergiversation. Il les insulte sans vergogne. Farhad s'\xC3\xA9nerve et l'agent de s\xC3\xA9curit\xC3\xA9 doit le mettre \xC3\xA0 la porte. Dorri ach\xC3\xA8te des cartouches"
+  decor_id: 
+- effet: 
+  temps: 1314
+  scale: 5
+  duree: 36
+  lieu: 
+  resume: "Dans le magasin de la famille perse, tandis que Dorri charge l'arme de son p\xC3\xA8re, la M\xC3\x88RE ne parvient pas \xC3\xA0 fermer le verrou de la porte. On devine qu'ils se sont fait d\xC3\xA9valiser."
+  decor_id: 
+- effet: 
+  temps: 2405
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Farhad trouve la porte de son magasin entrouverte et le magasin mis \xC3\xA0 sac."
+  decor_id: 
+- effet: 
+  temps: 5440
+  scale: 5
+  duree: 45
+  lieu: 
+  resume: "Graham et sa m\xC3\xA8re, soutenus par Ria, d\xC3\xA9couvrent le corps mort de Peter. La m\xC3\xA8re s'effondre. L'iranienne Dorri, pathologiste judiciaire sur l'affaire, quitte la salle."
+  decor_id: 
+- effet: 
+  temps: 5585
+  scale: 5
+  duree: 125
+  lieu: 
+  resume: "En rentrant chez elle, Dorri trouve son p\xC3\xA8re prostr\xC3\xA9, l'arme \xC3\xA0 la main. Il lui raconte l'incident, qu'il a tir\xC3\xA9 sur une enfant, mais que son ange est venu pour les prot\xC3\xA9ger. Dorri r\xC3\xA9cup\xC3\xA8re et les balles. C'\xC3\xA9tait une boite de balles \xC3\xA0 blanc."
+  decor_id: 
+- effet: 
+  temps: 610
+  scale: 5
+  duree: 80
+  lieu: 
+  resume: "Une autre sc\xC3\xA8ne de crime pour le lieutenant Graham Waters et sa coll\xC3\xA8gue Ria. Un homicide entre deux flics, dont l'un est Konflin, un agent des Stups aux allures de Bee Gees, qui invoque la l\xC3\xA9gitime d\xC3\xA9fense.L'affaire a l'air louche. Et pas de t\xC3\xA9moin pour dire qui a tir\xC3\xA9 le premier."
+  decor_id: 
+- effet: 
+  temps: 2205
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "Alors que le lieutenant Graham Waters fait l'amour avec sa coll\xC3\xA8gue Ria, il re\xC3\xA7oit un coup de fil de sa m\xC3\xA8re. Il l'envoie balader. Ria reproche l'attitude de Graham et coupe court \xC3\xA0 la partie de jambes en l'air. Graham lui reproche de juger sans savoir."
+  decor_id: 
+- effet: 
+  temps: 2895
+  scale: 5
+  duree: 135
+  lieu: 
+  resume: "Graham Waters rend visite \xC3\xA0 sa m\xC3\xA8re LOUISE atteinte alzheimer. Elle ne s'int\xC3\xA9resse pas \xC3\xA0 Graham, lui demande juste s'il a trouv\xC3\xA9 son fr\xC3\xA8re Amer, Graham r\xC3\xA9pond que non. Dans la cuisine, Graham trouve le frigo presque vide."
+  decor_id: 
+- effet: 
+  temps: 3030
+  scale: 5
+  duree: 20
+  lieu: 
+  resume: "Graham Waters ouvre le frigo, il est presque vide. Graham se d\xC3\xA9sole. Il renifle le lait, vieux, le jette \xC3\xA0 la poubelle."
+  decor_id: 
+- effet: 
+  temps: 3050
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Graham rejoint Ria dans leur voiture, et dit qu'il n'a pas pu s'excuser, que sa m\xC3\xA8re n'\xC3\xA9tait pas l\xC3\xA0. Ria, sceptique, lui annonce qu'on a retrouv\xC3\xA9 quelque chose dans la Mercedes\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 3370
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Des barbel\xC3\xA9s.La fourri\xC3\xA8re de la police. Dansla roue de secours de la Mercedes, le d\xC3\xA9tective Waters et Ria d\xC3\xA9couvrent des billets de banque."
+  decor_id: 
+- effet: 
+  temps: 3820
+  scale: 5
+  duree: 300
+  lieu: 
+  resume: "Graham Waters a rendez-vous avec FLANAGAN dans une riche salle de conf\xC3\xA9rence. Graham comprend rapidement que le conseiller du procureur g\xC3\xA9n\xC3\xA9ral Cabot essaie de le manipuler, et il finit par l'envoyer balader. Jusqu'au moment o\xC3\xB9 Flanagan sort son atout\xC2\xA0: si Graham les aide, le casier judiciaire charg\xC3\xA9 de son fr\xC3\xA8re, pourra \xC3\xAAtre nettoyer\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4120
+  scale: 5
+  duree: 75
+  lieu: 
+  resume: "Interrog\xC3\xA9 par le procureur Rick Cabot, le lieutenant Graham Waters sugg\xC3\xA8re que les ant\xC3\xA9c\xC3\xA9dents de Conklin penche en la faveur de sa responsabilit\xC3\xA9 dans le meurtre du flic noir. Satisfait, Rick rejoint la conf\xC3\xA9rence de presse en commen\xC3\xA7ant \xC3\xA0 remercier les journalistes pour leurs t\xC3\xA9moignages d'amiti\xC3\xA9 suite au vol de son v\xC3\xA9hicule\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 4800
+  scale: 5
+  duree: 35
+  lieu: 
+  resume: "Graham Walters vient remplir le frigo de sa m\xC3\xA8re qui dort."
+  decor_id: 
+- effet: 
+  temps: 5225
+  scale: 5
+  duree: 50
+  lieu: 
+  resume: "(Retour au d\xC3\xA9part) Graham Waters est sur la sc\xC3\xA8ne de crime. La neige annonc\xC3\xA9e sur Los Angeles. Graham apprend d'un de ses coll\xC3\xA8gues qu'ils ont un mort, un gosse. Graham d\xC3\xA9couvre son fr\xC3\xA8re Peter allong\xC3\xA9, une tache de sang au bas du ventre (mais on ne sait pas encore que c'est son fr\xC3\xA8re)."
+  decor_id: 
+- effet: 
+  temps: 5485
+  scale: 5
+  duree: 100
+  lieu: 
+  resume: "Dans la salle d'attente de l'h\xC3\xB4pital m\xC3\xA9dico-l\xC3\xA9gal, Louise accuse son fils Graham d'\xC3\xAAtre le responsable de la mort de Peter. Elle lui avait demand\xC3\xA9 de le retrouver. Graham accuse le coup, sans voix.  La m\xC3\xA8re ajoute qu'il \xC3\xA9tait revenu , son \xE2\x80\x9Cb\xC3\xA9b\xC3\xA9\xE2\x80\x9D, pour lui apporter \xC3\xA0 manger\xE2\x80\xA6 Graham quitte la pi\xC3\xA8ce, an\xC3\xA9anti."
+  decor_id: 
+- effet: 
+  temps: 6015
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Sur la sc\xC3\xA8ne de crime o\xC3\xB9 Peter a \xC3\xA9t\xC3\xA9 retrouv\xC3\xA9, Graham, pensif, retrouve le Saint-Christophe de son fr\xC3\xA8re."
+  decor_id: 
+- effet: 
+  temps: 1915
+  scale: 5
+  duree: 110
+  lieu: 
+  resume: "L'officier Hansen demande \xC3\xA0 son sup\xC3\xA9rieur noir de ne plus faire \xC3\xA9quipe avec Ryan. Mais Hansen n'a qu'une solution, le racisme de Ryan ne pouvant \xC3\xAAtre mentionn\xC3\xA9\xC2\xA0: invoquer des probl\xC3\xA8mes de flatulences\xE2\x80\xA6"
+  decor_id: 
+- effet: 
+  temps: 2300
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "John Ryan est r\xC3\xA9veill\xC3\xA9 au milieu de la nuit par les soupirs de son p\xC3\xA8re, bloqu\xC3\xA9 aux toilettes. Il ne parvient pas \xC3\xA0 uriner. John lui vient en aide, profond\xC3\xA9ment affect\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 2680
+  scale: 5
+  duree: 153
+  lieu: 
+  resume: "L'officier Ryan, \xC3\xA0 la permanence de la clinique o\xC3\xB9 son p\xC3\xA8re est suivi, essaie de convaincre Shaniqua Johnson de faire quelque chose pour son p\xC3\xA8re. On apprend que le p\xC3\xA8re de Ryan s'est battu pour les noirs, et qu'il a tout perdu lorsque le gouvernement a favoris\xC3\xA9 leurs entreprises. Mais Shaniqua Johnson, appelant la s\xC3\xA9curit\xC3\xA9, se montre inflexible, regrette que ce soit le fils plut\xC3\xB4t que le p\xC3\xA8re qui soit venu lui parler."
+  decor_id: 
+- effet: 
+  temps: 2833
+  scale: 5
+  duree: 3
+  lieu: 
+  resume: "Ryan quitte la clinique, passablement \xC3\xA9nerv\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 3285
+  scale: 5
+  duree: 85
+  lieu: 
+  resume: "\xC3\x80 la sortie du bureau de police, Ryan feint de f\xC3\xA9liciter Hansen pour sa mutation. Mais, sombre, il lui assure qu'il croit se connaitre, mais qu'il ignore tout de ce qu'il est vraiment. Et qu'il le d\xC3\xA9couvrira apr\xC3\xA8s avoir boss\xC3\xA9 quelques ann\xC3\xA9es. Hansen, \xC3\xA0 peine mont\xC3\xA9 dans sa voiture, re\xC3\xA7oit un appel du standard\xC2\xA0; on se moque d\xC3\xA9j\xC3\xA0 de ses \xE2\x80\x9Cflatulences\xE2\x80\x9D."
+  decor_id: 
+- effet: 
+  temps: 4960
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Au m\xC3\xAAme moment, dans sa voiture, Ryan roule, pr\xC3\xA9occup\xC3\xA9. Il s'arr\xC3\xAAte \xC3\xA0 un stop o\xC3\xB9 un sapin est illumin\xC3\xA9. Il regarde autour de lui. Il se fait klaxonner et red\xC3\xA9marre, toujours pr\xC3\xA9occup\xC3\xA9."
+  decor_id: 
+- effet: 
+  temps: 5850
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "L'officier Ryan est avec son p\xC3\xA8re, dans les toilettes. Son p\xC3\xA8re n'arrive toujours pas \xC3\xA0 uriner. Le p\xC3\xA8re se met \xC3\xA0 pleurer, son fils appuie sa t\xC3\xAAte contre la sienne."
+  decor_id: 
+- effet: 
+  temps: 835
+  scale: 5
+  duree: 55
+  lieu: 
+  resume: "Dans son salon, Rick r\xC3\xA9fl\xC3\xA9chit avec son staff (dont KAREN, son assistante) \xC3\xA0 la fa\xC3\xA7on de contrecarrer l'incident du vol du 4x4 pour ne pas perdre les votes des blacks et des n\xC3\xA9o-conservateurs. Rick est procureur g\xC3\xA9n\xC3\xA9ral de la ville de Los Angeles, en pleine campagne. Ils ne trouvent pas de solution. Rick attend des informations d'un certain Flanagan."
+  decor_id: 
+- effet: 
+  temps: 2440
+  scale: 5
+  duree: 25
+  lieu: 
+  resume: "Le procureur Rick Cabot interroge son assistante Karen sur le cas Conklin. Rick veut savoir si c'est un acte raciste, et ne semble pas enchant\xC3\xA9 d'apprendre que c'est Graham Waters sur l'affaire. Il demande \xC3\xA0 son assistante de convoquer la presse et de trouver Flanagan."
+  decor_id: 
+- effet: 
+  temps: 2505
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Chez les Cabot, Jean, la femme du procureur, encore en robe de chambre, tout juste lev\xC3\xA9e, s'en prend \xC3\xA0 MARIA, son employ\xC3\xA9e de maison, qui revient tout juste d'avoir conduit les enfants \xC3\xA0 l'\xC3\xA9cole. Jean r\xC3\xA9p\xC3\xA8te qu'elle veut trouver le lave-vaisselle vid\xC3\xA9 quand elle se l\xC3\xA8ve."
+  decor_id: 
+- effet: 
+  temps: 4835
+  scale: 5
+  duree: 95
+  lieu: 
+  resume: "Jean, la femme du procureur, apr\xC3\xA8s s'\xC3\xAAtre plainte \xC3\xA0 son amie Carole de se r\xC3\xA9veiller toujours \xC3\xA9nerv\xC3\xA9e, chute dans les escaliers."
+  decor_id: 
+- effet: 
+  temps: 5710
+  scale: 5
+  duree: 110
+  lieu: 
+  resume: "Jean appelle son mari, qui rentre du tribunal, pour lui dire qu'elle a eu un accident, et que seule Maria a pu la conduire aux urgence. Elle ironise sur ses soi-disant amies. Apr\xC3\xA8s avoir raccroch\xC3\xA9, Jean serre Maria dans ses bras en lui disant que c'est sa seule amie."
+  decor_id: 
+- effet: 
+  temps: 5875
+  scale: 5
+  duree: 10
+  lieu: 
+  resume: Rick Cabot rentre chez lui. Il regarde son reflet dans la vitre.
+  decor_id: 
+- effet: 
+  temps: 4945
+  scale: 5
+  duree: 15
+  lieu: 
+  resume: "Peter fait du stop au bord d'une avenue. "
+  decor_id: 
+- effet: 
+  temps: 4990
+  scale: 5
+  duree: 235
+  lieu: 
+  resume: "Peter est pris en stop par l'officier Hansen. La tension monte, Hansen comprenant que Peter se moque de lui. Quand Hansen veut le d\xC3\xA9poser, croyant \xC3\xA0 un mauvais geste de Peter, il attrape son arme et le descend. Peter voulait juste lui montrer qu'il avait lui aussi un Saint-Christophe qui veillait sur lui. Hansen pousse Peter hors de sa voiture, et reste sans savoir quoi faire."
+  decor_id: 
+- effet: 
+  temps: 5820
+  scale: 5
+  duree: 30
+  lieu: 
+  resume: "Le jeune officier Hansen br\xC3\xBBle son v\xC3\xA9hicule et s'en va."
+  decor_id: 
+:dim: Crash

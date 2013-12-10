@@ -1,0 +1,93 @@
+--- 
+:is_entier: true
+:duree: 6780
+:scale: 5
+:is_brin: true
+:film_id: 140
+:items: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 130
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 180
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 188
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 227
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 1085
+  :commentaire: "Soin des auteurs \xC3\xA0 bien valider ce qu'on a pu penser avant (peut-\xC3\xAAtre trop ici, mais bon\xE2\x80\xA6)"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2470
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 2688
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3314
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3839
+  :commentaire: "Peut-\xC3\xAAtre le jeu d'\xC3\xA9criture est-il trop fin, ici, puisque l'on n'est pas encore s\xC3\xBBr que c'est de l'histoire d'Allie dont il s'agit, on s'en doute, mais on n'en a pas encore eu confirmation"
+- :scale: 5
+  :indice_absolu: 
+  :temps: 3883
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 4200
+  :commentaire: "Cette sc\xC3\xA8ne est d'une cruaut\xC3\xA9 insupportable. Note\xC2\xA0: l'a\xC3\xAEn\xC3\xA9 semble ressembler \xC3\xA0 Lon, Allie devait \xC3\xAAtre enceinte de lui lorsqu'elle est rest\xC3\xA9e avec Noah. Cela grandit encore le personnage\xC2\xA0: il a accept\xC3\xA9 ce fils qui n'\xC3\xA9tait pas de lui. Noter comment les auteurs d\xC3\xA9jouent la v\xC3\xA9rit\xC3\xA9\xC2\xA0: le petit qui se jette dans les bras d'Allie s'appelle Noah (on l'apprend incidemment plus tard \xE2\x80\x94 ~1:43:00). Alors que tous les autres se pr\xC3\xA9sentent, par ce simple geste, Noah n'a pas besoin de se pr\xC3\xA9senter \xE2\x80\x94 ce qui nous aurait imm\xC3\xA9diatement donn\xC3\xA9 la certitude que Duke et Noah \xC3\xA9taient la m\xC3\xAAme personne)."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5828
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 5880
+  :commentaire: "Belle d\xC3\xA9claration. Quand elle regarde la nature, c'est \xC3\xA9videmment Noah qu'Allie voit, lui qui l'incarne."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6050
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6105
+  :commentaire: "Une des sc\xC3\xA8nes de cin\xC3\xA9ma les plus poignantes que j'ai jamais vue. C'est de toute \xC3\xA9vidence le climax du film. C'est ce qu'avait attendu, esp\xC3\xA9r\xC3\xA9 Duke pendant tout ce temps."
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6350
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6405
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6470
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6570
+  :commentaire: 
+- :scale: 5
+  :indice_absolu: 
+  :temps: 6750
+  :commentaire: 
+:titre: "Duke et Allie au temps pr\xC3\xA9sent"
+:film_dim: TheNotebook

@@ -1,0 +1,37 @@
+--- 
+:scale: 2
+:is_entier: true
+:film_dim: DancerInTheDark
+:film_id: 29
+:is_brin: false
+:items: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 1123
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 1916
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 2765
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 3513
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 4860
+  :commentaire: 
+- :scale: 2
+  :indice_absolu: 
+  :temps: 5919
+  :commentaire: 
+:duree: "130"
+:titre: Micro-actantiel

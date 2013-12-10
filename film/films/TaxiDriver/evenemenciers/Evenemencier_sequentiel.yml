@@ -1,0 +1,165 @@
+--- 
+:is_entier: true
+:duree: 6780
+:scale: 4
+:is_brin: false
+:film_id: 120
+:items: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 125
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 290
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 470
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 585
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 600
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 785
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1065
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1575
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1625
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1910
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2225
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2310
+  :commentaire: Le client, c'est Scorsese himself.
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2540
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2865
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2955
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3060
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3080
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3100
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3335
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3380
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3400
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3524
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3790
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3905
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4020
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4115
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4235
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4310
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4880
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5150
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5310
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5400
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5590
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5605
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6100
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6195
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6370
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6510
+  :commentaire: 
+:titre: "\xC3\x89v\xC3\xA8nemencier s\xC3\xA9quentiel"
+:film_dim: TaxiDriver

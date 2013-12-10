@@ -1,0 +1,253 @@
+--- 
+:scale: 4
+:is_entier: true
+:film_dim: Aviator
+:film_id: 14
+:is_brin: false
+:items: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 40
+  :commentaire: C'est cet incident qui plante la graine du TOC du personnage adulte.
+- :scale: 4
+  :indice_absolu: 
+  :temps: 130
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 270
+  :commentaire: "Pr\xC3\xA9sentation du personnage : ambitieux, sans scrupule, maniaque (TOC), s\xC3\xA9ducteur."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 610
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 665
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 755
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 805
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 965
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1055
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1245
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1535
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1605
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1745
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 1880
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2140
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2330
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2420
+  :commentaire: "Joli raccord de la caresse sur le dos de CH\xC3\xA0 la caresse sur la coque."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 2730
+  :commentaire: "CH sepr\xC3\xA9sente comme sa m\xC3\xA8re. Parall\xC3\xA8le \xC3\xA9vident avec la sc\xC3\xA8ne d'introduction. CH parle du fait qu'ils ne sont pas en s\xC3\xA9curit\xC3\xA9."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3030
+  :commentaire: "D\xC3\xA9but de l'intrigue Pan Am contre TWA."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3120
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3330
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3655
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3750
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3925
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3940
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 3985
+  :commentaire: "Le conversation au t\xC3\xA9l\xC3\xA9phone, sur l'alliage \xC3\xA0 utiliser pour l'Hercules, fait le th\xC3\xA8me de la sc\xC3\xA8ne suivante."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4100
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4120
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4175
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4375
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4675
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 4775
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5000
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5100
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5160
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5270
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5335
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5510
+  :commentaire: "1:32:55 : HH commande l'enqu\xC3\xAAte sur Brewster (qui lui permettra de le retourner quand il passera devant la commission)"
+- :scale: 4
+  :indice_absolu: 
+  :temps: 5825
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6200
+  :commentaire: "HH est au fond du trou, il perd tout. (1:46:50) HH sourit, Juan Trippe lui a envoy\xC3\xA9 des fleurs."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6450
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6490
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6570
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6685
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 6745
+  :commentaire: "Int\xC3\xA9ressant comme le tableau (o\xC3\xB9 l'on prend, ici, Howard pour un simplet), se retourne lors du passage devant la commission. Un petit regret ici : que le jeu de DiCaprio s'apparente un peu trop \xC3\xA0 celui de son ami Brad Pitt\xE2\x80\xA6"
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7120
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7130
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7430
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7440
+  :commentaire: "C'est peut-\xC3\xAAtre un des moments o\xC3\xB9 l'on souffre le plus pour le personnage, merveilleusement interpr\xC3\xA9t\xC3\xA9 par Leonardo DiCaprio."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7565
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7880
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7900
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 7950
+  :commentaire: "Sc\xC3\xA8ne \xC3\xA0 nouveau type \xE2\x80\x9Cmaternelle\xE2\x80\x9D mais cette fois, AG a le bon comportement, lui expose des choses cens\xC3\xA9es."
+- :scale: 4
+  :indice_absolu: 
+  :temps: 8160
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 8620
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 8805
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 9035
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 9065
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 9180
+  :commentaire: 
+- :scale: 4
+  :indice_absolu: 
+  :temps: 9410
+  :commentaire: 
+:duree: 9420
+:titre: "S\xC3\xA9quences du film"

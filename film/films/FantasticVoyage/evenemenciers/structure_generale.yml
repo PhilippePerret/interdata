@@ -1,0 +1,57 @@
+--- 
+:is_entier: true
+:duree: 5760
+:scale: 3
+:is_brin: false
+:film_id: 43
+:items: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 0
+  :commentaire: Alors qu'il rentre en avion, Bennes tombe dans un guet-apends et tombe dans le coma
+- :scale: 3
+  :indice_absolu: 
+  :temps: 320
+  :commentaire: "Grant, l'homme qui avait amen\xC3\xA9 Bennes, est rappel\xC3\xA9 pour encadrer la mission. D\xC3\xA9finition tr\xC3\xA8s pr\xC3\xA9cise de cette mission : \xC3\xAAtre miniaturis\xC3\xA9 pour"
+- :scale: 3
+  :indice_absolu: 
+  :temps: 960
+  :commentaire: "L'\xC3\xA9quipe prend ses rep\xC3\xA8res dans le sous-marin, les scientifiques se pr\xC3\xA9parent pour l'exp\xC3\xA9dition."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 1430
+  :commentaire: 
+- :scale: 3
+  :indice_absolu: 
+  :temps: 2190
+  :commentaire: "D\xC3\xA8s le d\xC3\xA9but de la mission, l'\xC3\xA9quipe est conduite \xC3\xA0 changer ses plans : ils ne peuvent pas emprunter l'art\xC3\xA8re pr\xC3\xA9vue. Ils doivent passer par le c\xC5\x93ur qu'il fallait \xC3\xA9viter \xC3\xA0 tout prix."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 2540
+  :commentaire: "Impossible de rejoindre l'art\xC3\xA8re. D\xC3\xA9cision de passer par le c\xC5\x93ur. Ils doivent arr\xC3\xAAter le c\xC5\x93ur de Benes pendant 1 minute pour laisser le temps \xC3\xA0 l'\xC3\xA9quipe de passer.  (48:00) Le c\xC5\x93ur est arr\xC3\xAAt\xC3\xA9. Ils rentrent dans le c\xC5\x93ur. (50:40) Ils ont r\xC3\xA9ussi."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 3060
+  :commentaire: "Ils ont pass\xC3\xA9 le c\xC5\x93ur, ils sont dans l'art\xC3\xA8re pulmonaire. Ils assistent \xC3\xA0 l'oxyg\xC3\xA9nation. D\xC3\xA9couverte du sabotage du fusil laser."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 3840
+  :commentaire: "Poche pleurale. Ils doivent renoncer \xC3\xA0 l'\xC3\xA9metteur-radio pour r\xC3\xA9parer le laser. Interrogations sur les sabotages (laser et filin). (1:09:00) Fibres r\xC3\xA9ticulaires qui les retiennent. Les anti-corps. D\xC3\xA9cision de prendre par l'oreille."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 4270
+  :commentaire: "Pour parvenir \xC3\xA0 rattraper leur retard, ils d\xC3\xA9cident de prendre par l'oreille interne. Surchauffe caus\xC3\xA9e par les r\xC3\xA9ticules : ils doivent sortir pour les retirer. Des ciseaux tombent : secousses qui manquent de tuer Cora. Conflit entre Duval et  sur le test ou non du laser."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 4940
+  :commentaire: "Duval voudrait s'opposer \xC3\xA0 l'intervention (manque de temps). (1:27:30) Ils soignent la tumeur. (1:28:50) Mickaels se r\xC3\xA9v\xC3\xA8le \xC3\xAAtre le traitre. Il tente de tuer Benes mais le laser stoppe le vaisseau. Ils n'ont plus de vaisseau. Des globules blancs arrivent, ils essaient en vain de sauver Michaels. (1:31:50) Fin de Michales, mang\xC3\xA9 par un globule blanc."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 5530
+  :commentaire: "L'\xC3\xA9quipe rentrer \xC3\xA0 la nage, par les yeux. \xC3\x80 l'ext\xC3\xA9rieur, on veut tr\xC3\xA9paner Benes pour sauver l'\xC3\xA9quipe mais le colonnel XXX pense qu'ils vont sortir par les yeux. 1:34:00 : l'autre les r\xC3\xA9cup\xC3\xA8re dans l'\xC5\x93il."
+- :scale: 3
+  :indice_absolu: 
+  :temps: 5760
+  :commentaire: 
+:titre: "Structure g\xC3\xA9n\xC3\xA9rale du film"
+:film_dim: FantasticVoyage
