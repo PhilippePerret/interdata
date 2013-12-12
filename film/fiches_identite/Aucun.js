@@ -1,1 +1,0 @@
-{"titre": "Aucun", "titre_fr": "Aucun", "auteurs": [], "realisateur": [], "producteur": [], "annee": "", "acteurs": [], "duree": 7200, "duree_generique": "00:00", "pays": "fr", "resume": "Juste pour essai", "links": "", "id": "Aucun"}
