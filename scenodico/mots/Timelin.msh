@@ -1,0 +1,8 @@
+{:idI"Timelin:ET:motI"Timeline;T:definitionI"�La <b>Timeline</b> est une boite de dialogue (une fenêtre dans la fenêtre) qui affiche un évènemencier le long d'une bande de temps.
+<center><a href="#" class="to_tl" onclick="EVC.loadInTimeline({'idfilm':'Seabiscuit', 'evc':'scenier.evc', 'visible':true})">Ouvrir la Timeline</a></center>
+Chaque évènement est représenté par une longueur (indiquant sa durée) et par une couleur (pour le distinguer des évènements qui l'entoure (ce code couleur n'a pas d'autre sens).
+
+En déplaçant sa souris le long de la bande de temps, on peut voir s'afficher le contenu des évènements. En cliquant sur un évènement, on affiche son résumé et ses informations de façon complète.
+
+Noter qu'il n'est pas nécessaire de fermer la Timeline pour poursuivre la lecture. En cliquant sur la page, elle repasse au premier plan, en re-cliquant sur la Timeline, elle repasse au premier plan, etc. (c'est aussi valable pour les fiches du [mot:Scenodi|Scénodico] et du [mot:Filmodi|Filmodico].;T:synonymes0:contraires0:relatifs0:
+liens0:type_def0:categorie0

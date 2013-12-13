@@ -1,0 +1,7 @@
+{:motI"Graphique de participation:ET:definitionI"�J’ai baptisé <tt>graphique de participation</tt> un graphe qui présente toutes les [mot:Questio|questions dramatiques] et les [mot:Reponse|réponses dramatiques] que posent ou auxquelles répond une histoire.
+
+La construction de ce graphique est élémentaire : chaque fois qu’une question dramatique est posée, le graphique s’incrémente d’un degré. Chaque fois qu’une réponse est donnée, le graphique se décrémente d’un degré.
+
+Ce graphique présente donc, pour chaque scène, son <tt>intensité de participation</tt>. Elle est calculée, à un moment T, comme <b>la somme de toutes les questions dramatiques qui restent sans réponses</b> (au moment où la scène est jouée).
+
+Voir les exemples dans les analyses de film.;T:synonymes0:contraires0:relatifs[I"Pyramid;T:categorie[I"	DYNA;TI"	STRU;TI"	PROC;T:	lien0:type_defi:idI"Graphiq;T

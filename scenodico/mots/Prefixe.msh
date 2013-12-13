@@ -1,0 +1,16 @@
+{:idI"Prefixe:ET:motI"Préfixe date inversée;T:definitionI"�<js var d=new Date();"" js>Le <b>préfixe de date inversée</b> est une méthode pour préfixer rationnel-lement les noms de ses documents&nbsp; de travail dans son ordinateur.
+
+Ce préfixe du nom du document de travail est constitué par la date du jour, inversée, c'est-à-dire présentant dans l'ordre l'année courante sur 2&nbsp; chifres (aujourd'hui : <js an=d.getFullYear().toString().substr(2);an; js>), le mois courant sur 2&nbsp; chiffres (<js mois=d.getMonth()+1;mois; js>) et enfin le jour courant sur 2 chiffres également (<js d.getDate(); js>).
+
+Un document créé aujourd'hui portera donc le nom :
+
+<div style="text-align:right;"><codeg><js var d=new DOCUMENT("Personnages");d.nom; js></codeg></div>
+
+Bien noter l'inversion : AAMMJJ avec “AA” qui est l'année, “MM” qui est le mois et “JJ” le jour.
+
+Grâce à cette façon de préfixer vos documents de travail, les derniers se retrouveront toujours tout en bas de la liste de vos fichiers dans votre dossier de travail (ou tout en haut suivant le réglage de vos préférences d'affichage).
+
+Bien entendu, on pourrait toujours demander à son ordinateur de classer les documents par date pour placer les derniers documents en haut ou en bas de la liste de ses documents, mais force est de constater que l'on procède rarement de la sorte.
+
+Le préfixe de date inversée permet de remédier à ce comportement. De plus, il offre une lecture rapide de la date de création du document.;T:synonymes0:contraires0:relatifs0:
+liens0:type_def0:categorie0

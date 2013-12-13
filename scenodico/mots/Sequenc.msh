@@ -1,0 +1,8 @@
+{:motI"Séquence:ET:definitionI"HPour le scénariste et l’auteur pur et dur, la <tt>séquence</tt> est une suite de [mot:Scene|scènes] représentant un segment narratif homogène (par exemple, la suite de scènes qui mènent à la réalisation d’un [mot:SousObj|sous-objectif]).
+
+Pour le réalisateur tout aussi pur et tout aussi dur, la <tt>séquence</tt> est une suite de plans représentants une unité de tournage (comprendre : une scène). En d’autres termes : une scène du scénariste (pur et dur) représente une séquence du réalisateur (pur et dur).
+
+Cette distinction explique la confusion qui existe dans l’utilisation de ces deux termes (en réalité, aucun confusion, on se comprend toujours).
+
+La séquence est la troisième subdivision qu’on peut faire de l’histoire complète, après l’[mot:Acte|acte] et la [mot:MacroSe|macro-séquence].;T:synonymes[I"
+Scene;T:contraires0:relatifs[I"	Acte;TI"MacroSe;TI"Structu;T:categorie[I"	STRU;TI"	PREH;TI"	METH;T:	lien0:type_defi:idI"Sequenc;T

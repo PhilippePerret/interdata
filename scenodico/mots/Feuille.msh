@@ -1,0 +1,6 @@
+{:motI"Feuille de styles:ET:definitionI"Fonction des texteurs (traitements de texte sur ordinateur) permettant de conserver dans des variables prédéfinies (p.e. “dialogue”) tous les attributs d’un paragraphe, tels que la police, la taille de caractère, la graisse, l’alignement, les décalages, les marges, les couleurs de police et de fond, etc. (notez que les styles peuvent s’appliquer, suivant les texteurs, à des paragraphes aussi bien qu’à des caractères, des notes de pied de page, des pages, etc.
+
+Grâce à ces feuilles de styles, un simple raccourci-clavier peut appliquer à un paragraphe un ensemble d’attributs de texte. Modifier les attributs du style modifiera automatiquement tous les paragraphes du même style.
+
+L’usage de ces feuilles de style est évident pour le formatage du scénario…;T:synonymes0:contraires0:relatifs[I"Scenari;TI"Continu;T:categorie[I"	PREH;T:
+liensI"	null;T:type_defi:idI"Feuille;T
