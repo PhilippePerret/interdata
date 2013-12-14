@@ -19,12 +19,16 @@ Pour ENREGISTRER DE NOUVELLES DATA D'IDENTITÉ, il suffit d'invoquer :
 require 'fileutils'
 require 'json'
 
-dbase     = File.expand_path(__FILE__).split('/')
-while dbase.shift != 'film'; end 
-BASE            = File.join(dbase, 'film')
-while dbase.shift != 'interdata'; end
-BASE_INTERDATA  = File.join(dbase, 'interdata')
-ROOT            = File.join(dbase)
+dbase     = File.expand_path(__FILE__)
+while dbase && File.basename(File.dirname(dbase)) != "film"
+  dbase = File.dirname(dbase)
+end 
+BASE            = File.dirname(dbase)
+while dbase && File.basename(File.dirname(dbase)) != "interdata"
+  dbase = File.dirname(dbase)
+end 
+BASE_INTERDATA  = File.dirname(dbase)
+ROOT            = File.dirname(BASE_INTERDATA)
 
 require File.join(ROOT, 'lib', 'ruby', 'extension', 'hash')
 require File.join(ROOT, 'lib', 'ruby', 'extension', 'array')

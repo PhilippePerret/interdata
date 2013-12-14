@@ -13,15 +13,21 @@ require 'fileutils'
 # quelle application.
 
 dbase     = File.expand_path(__FILE__)
-while File.basename(File.dirname(dbase)) != "scenodico"
+while dbase && File.basename(File.dirname(dbase)) != "scenodico"
   dbase = File.dirname(dbase)
 end 
 BASE            = File.dirname(dbase)
-while File.basename(File.dirname(dbase)) != "interdata"
+while dbase && File.basename(File.dirname(dbase)) != "interdata"
   dbase = File.dirname(dbase)
 end 
 BASE_INTERDATA  = File.dirname(dbase)
 ROOT            = File.dirname(BASE_INTERDATA)
+
+require File.join(ROOT, 'lib', 'ruby', 'extension', 'hash')
+require File.join(ROOT, 'lib', 'ruby', 'extension', 'array')
+
+# La définition des méthodes d'instance
+require File.join(BASE,'ruby', 'model', 'mot_instance')
 
 # # Debug
 # puts "BASE : #{BASE}"
@@ -30,7 +36,7 @@ ROOT            = File.dirname(BASE_INTERDATA)
 
 # Pour un retour quand c'est une requête Ajax
 RETOUR_AJAX = {} unless defined?(RETOUR_AJAX)
-RETOUR_AJAX[:process_dico] = []
+RETOUR_AJAX[:dico_process] = []
 
 class Mot
   
@@ -39,7 +45,7 @@ class Mot
     
     def log txt
       puts txt
-      RETOUR_AJAX[:process_dico] << txt
+      RETOUR_AJAX[:dico_process] << txt
     end
     def add_categories arr
       @categories ||= []
