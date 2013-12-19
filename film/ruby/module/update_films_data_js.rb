@@ -19,11 +19,11 @@ NOTES
 =end
 dbase     = File.expand_path(__FILE__).split('/')
 while dbase.shift != 'film'; end 
-BASE            = File.join(dbase, 'film')
+BASE_FILMS            = File.join(dbase, 'film')
 while dbase.shift != 'interdata'; end
 BASE_INTERDATA  = File.join(dbase, 'interdata')
 ROOT            = File.join(dbase)
 
-require File.join(BASE, 'ruby', 'model', 'film')
+require File.join(BASE_FILMS, 'ruby', 'model', 'film')
 
 Film::update_listes_js

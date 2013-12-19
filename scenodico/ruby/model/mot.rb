@@ -16,21 +16,22 @@ dbase     = File.expand_path(__FILE__)
 while dbase && File.basename(File.dirname(dbase)) != "scenodico"
   dbase = File.dirname(dbase)
 end 
-BASE            = File.dirname(dbase)
+BASE_DICO            = File.dirname(dbase)
 while dbase && File.basename(File.dirname(dbase)) != "interdata"
   dbase = File.dirname(dbase)
 end 
-BASE_INTERDATA  = File.dirname(dbase)
-ROOT            = File.dirname(BASE_INTERDATA)
+
+BASE_INTERDATA = File.dirname(dbase) unless defined?(BASE_INTERDATA)
+ROOT = File.dirname(BASE_INTERDATA)  unless defined?(ROOT)
 
 require File.join(ROOT, 'lib', 'ruby', 'extension', 'hash')
 require File.join(ROOT, 'lib', 'ruby', 'extension', 'array')
 
 # La définition des méthodes d'instance
-require File.join(BASE,'ruby', 'model', 'mot_instance')
+require File.join(BASE_DICO,'ruby', 'model', 'mot_instance')
 
 # # Debug
-# puts "BASE : #{BASE}"
+# puts "BASE_DICO : #{BASE_DICO}"
 # puts "BASE_INTERDATA : #{BASE_INTERDATA}"
 # puts "ROOT : #{ROOT}"
 
@@ -92,7 +93,7 @@ class Mot
     end
     
     def folder
-      @folder ||= BASE
+      @folder ||= BASE_DICO
     end
     
     # Pour reconstruire tous les dossiers manquant (et seulement

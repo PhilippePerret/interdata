@@ -23,7 +23,7 @@ dbase     = File.expand_path(__FILE__)
 while dbase && File.basename(File.dirname(dbase)) != "film"
   dbase = File.dirname(dbase)
 end 
-BASE            = File.dirname(dbase)
+BASE_FILMS            = File.dirname(dbase)
 while dbase && File.basename(File.dirname(dbase)) != "interdata"
   dbase = File.dirname(dbase)
 end 
