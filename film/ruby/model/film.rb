@@ -158,6 +158,27 @@ class Film
   def titre;    @titre    ||= data[:titre]      end
   def titre_fr; @titre_fr ||= data[:titre_fr]   end
   def annee;    @annee    ||= data[:annee].to_i end
+  def pays;     @pays     ||= data[:pays]       end
+  def resume;   @resume   ||= data[:resume]     end
+  
+  # Prend les deux lettres du pays et renvoie la vraie valeur
+  # française.
+  # 
+  def real_pays
+    return "xx" if pays.nil?
+    {
+      :fr => {
+        'fr' => "France", 'en' => "Angleterre", 'us' => "États-Unis",
+        'da' => "Danemark", 'no' => "Norvège",
+        'de' => "Allemagne"
+      },
+      :en => {
+        'fr' => "France", 'en' => "England", 'us' => "United States",
+        'da' => "Danmark", 'no' => "Norvège",
+        'de' => "Deutchland"
+      }
+    }[:fr][pays] || "Pays introuvable"
+  end
   
   # Dispatch/merge les données +data+ dans l'instance.
   # 
