@@ -43,7 +43,20 @@ class Film
     
     def log txt
       txt = txt.inspect unless txt.class == String
-      RETOUR_AJAX[:film_process] << txt
+      RETOUR_AJAX[:film_process] << txt if defined?(RETOUR_AJAX)
+    end
+    
+    # Retourne la donnée json des data générales des films
+    # 
+    def data_json
+      @data_json ||= begin
+        update_listes_js unless File.exists? path_data_json
+        JSON.load(File.read path_data_json, :symbolize_names => true)
+      end
+    end
+    
+    def path_data_json
+      @path_data_json ||= File.join(folder_data_js, 'json_data.js')
     end
     
     # Actualise la liste JS des films => FILMS et FILM_IDS
@@ -70,7 +83,9 @@ class Film
         )
       end
       # On enregistre la donnée dans le fichier
-      code = "FILMS.DATA = #{data_film.to_json}"
+      json_code = data_film.to_json
+      File.open(path_data_json, 'wb'){|f| f.write json_code}
+      code = "FILMS.DATA = #{json_code}"
       File.open(File.join(folder_data_js, 'films_data.js'), 'wb'){|f| f.write code }
       log "<- Film::update_listes_js (#{(code.length/1000).round} Ko)"
     end
@@ -258,7 +273,11 @@ class Film
   # 
   def do_backup
     return if new?
-    FileUtils.cp path, path_backup
+    begin
+      FileUtils.cp path, path_backup
+    rescue Exception => e
+      self.class.log "Impossible de faire le backup"
+    end
   end
   
   # Data du film (les charge si nécessaire)

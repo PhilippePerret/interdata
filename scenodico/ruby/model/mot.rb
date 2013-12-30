@@ -53,6 +53,14 @@ class Mot
       @categories += arr
     end
     
+    # Retourne les données json seules
+    # 
+    def data_json
+      @data_json ||= begin
+        update_dico_data_js unless File.exists? path_data_json
+        JSON.parse(File.read path_data_json, :symbolize_names => true)
+      end
+    end
     # Update la table JS {Hash} de tous les mots du scénodico
     # 
     def update_dico_data_js
@@ -66,10 +74,17 @@ class Mot
           :mot  => dmot[:mot]
         }
       end
-      code = "DICO.DATA=#{hash.to_json};"
+      json_code = hash.to_json
+      File.unlink path_data_json if File.exists? path_data_json
+      File.open(path_data_json, 'wb'){|f| f.write json_code}
+      code = "DICO.DATA=#{json_code};"
       File.unlink path_dico_data_js if File.exists? path_dico_data_js
       File.open(path_dico_data_js, 'wb'){|f| f.write code }
       log "<- update_dico_data_js"
+    end
+    
+    def path_data_json
+      @path_data_json ||= File.join(folder_data_js, 'data_json.js')
     end
 
     # Chemin d'accès au fichier contenant tous les
