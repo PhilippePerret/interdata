@@ -11,31 +11,27 @@ Note : pour éditer un film (modifier ses données), utiliser "edit_film.rb"
 FORCE_SAVE = true 
 FILM_DATA = <<-YAML
 
-id:           MariasLovers
-titre:        Maria's Lovers
+id:           Her
+titre:        Her
 titre_fr:     null
 pays:         us
-annee:        1984
-producteur:   [
-  {prenom: "Bosko", nom: "Djordjevic"},
-  {prenom: "Lawrence", nom: "Taylor-Mortoff"}
-]
+annee:        2013
+duree:        126 # minutes
 realisateur:  [
-  {prenom: "Andrey", nom: "Konchalovskiy"}
+  {prenom: "Spike", nom: "Jonze"}
 ]
 auteurs:      [
-  {prenom: "Gérard", nom: "Brach", fonction: "Scénario"},
-  {prenom: "Andrey", nom: "Konchalovskiy", fonction: "Scénario"},
-  {prenom: "Paul", nom: "Zindel", fonction: "Scénario"},
-  {prenom: "Marjorie", nom: "David", fonction: "Scénario"}
+  {prenom: "Spike", nom: "Jonze", fonction: "Scénario"}
 ]
-duree:        109 # minutes
-resume:       "Ivan Bibic rentre chez lui de la guerre du Vietnam, et retrouve son amour d'enfance, Maria Bosic."
+producteur:   [
+  {prenom: "Patrick", nom: "Markey"},
+  {prenom: "Robert", nom: "Redford"}
+]
+resume:       "Dans un futur proche, et en pleine procédure de divorce, Theodore tombe amoureux de son tout nouvel OS (système d'exploitation informatique)."
 acteurs: [
-  {prenom: "Nastassja", nom: "Kinski", prenom_perso: "Maria", nom_perso: "Bosic", fct_perso: "Protagoniste"},
-  {prenom: "John", nom: "Savage", prenom_perso: "Ivan", nom_perso: "Bibic", fct_perso: "Co-protagoniste"},
-  {prenom: "Robert", nom: "Mitchum", prenom_perso: "Père", nom_perso: "Bibic", fct_perso: null},
-  {prenom: "Keith", nom: "Carradine", prenom_perso: "Clarence", nom_perso: "Butts", fct_perso: null}
+  {prenom: "Joaquin", nom: "Phoenix", prenom_perso: "Theodore", nom_perso: "", fct_perso: "Protagoniste"},
+  {prenom: "Scarlett", nom: "Johansson", prenom_perso: "Samantha", nom_perso: "", fct_perso: "Objet de la quête"},
+  {prenom: "Amy", nom: "Adams", prenom_perso: "Amy", nom_perso: "", fct_perso: "Amie de Theodore"}
 ]
   YAML
 
