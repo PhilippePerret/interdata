@@ -8,31 +8,35 @@ Note : pour éditer un film (modifier ses données), utiliser "edit_film.rb"
 # Permet de forcer l'enregistrement même si le fichier existe
 # Attention : cela détruira les données enregistrées pour mettre les données ci-dessous
 # Si false (valeur à laisser), produira une erreur si le fichier existe déjà
-FORCE_SAVE = true 
+FORCE_SAVE = false 
 FILM_DATA = <<-YAML
 
-id:           Her
-titre:        Her
-titre_fr:     null
+id:           127Hours2010
+titre:        127 Hours
+titre_fr:     127 Heures
 pays:         us
-annee:        2013
-duree:        126 # minutes
+annee:        2010
+duree:        94 # minutes
+resume:       "L'histoire vraie d'Aron Ralston, coincé 127 heures dans une crevasse par un rocher."
 realisateur:  [
-  {prenom: "Spike", nom: "Jonze"}
+  {prenom: "Danny", nom: "Boyle"}
 ]
 auteurs:      [
-  {prenom: "Spike", nom: "Jonze", fonction: "Scénario"}
+  {prenom: "Aron", nom: "Ralston", fonction: "Livre"},
+  {prenom: "Danny", nom: "Boyle", fonction: "Scénario"},
+  {prenom: "Simon", nom: "Beaufoy", fonction: "Scénario"}
+]
+acteurs: [
+  {prenom: "James", nom: "Franco", prenom_perso: "Aron", nom_perso: "Ralston", fct_perso: "Protagoniste"},
+  {prenom: "Kate", nom: "Mara", prenom_perso: "Kristi", nom_perso: "", fct_perso: ""},
+  {prenom: "Amber", nom: "Tamblyn", prenom_perso: "Megan", nom_perso: "", fct_perso: ""}
 ]
 producteur:   [
-  {prenom: "Patrick", nom: "Markey"},
-  {prenom: "Robert", nom: "Redford"}
+  {prenom: "Danny", nom: "Boyle"},
+  {prenom: "Christian", nom: "Colson"},
+  {prenom: "John", nom: "Smithson"}
 ]
-resume:       "Dans un futur proche, et en pleine procédure de divorce, Theodore tombe amoureux de son tout nouvel OS (système d'exploitation informatique)."
-acteurs: [
-  {prenom: "Joaquin", nom: "Phoenix", prenom_perso: "Theodore", nom_perso: "", fct_perso: "Protagoniste"},
-  {prenom: "Scarlett", nom: "Johansson", prenom_perso: "Samantha", nom_perso: "", fct_perso: "Objet de la quête"},
-  {prenom: "Amy", nom: "Adams", prenom_perso: "Amy", nom_perso: "", fct_perso: "Amie de Theodore"}
-]
+
   YAML
 
 FOLDER_INTERDATA = File.expand_path('.')
